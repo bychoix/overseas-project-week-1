@@ -1,0 +1,959 @@
+Q1 2017 Earnings Call
+
+Operator
+Good morning and good afternoon, and welcome to the Novartis Q1 2017 Results Release
+Conference Call and Live Audio Webcast.
+Please note that during the presentation, all participants will be in listen-only mode and the
+conference is being recorded. After the presentation, there will be an opportunity to ask
+questions
+A recording of the conference call will be available on our website shortly after the call ends.
+With that, I would like to hand over to Mr. Joe Jimenez, CEO of Novartis. Please go ahead, sir.
+`Joseph Jimenez, Chief Executive Officer `
+Thank you and I'd like to welcome everybody to our first quarter earnings call. Joining me here on
+the Novartis end are `Harry Kirsch, Chief Financial Officer, our CFO; Vas Narasimhan, our Head of Global Drug
+Development; and we have the four business leaders `Paul Hudson, CEO, Novartis Pharmaceuticals, Head of Pharma; Bruno
+Strigini, Head of Oncology; `Richard Francis, CEO-Sandoz; Member-Executive Committee, Head of Sandoz, and Mike Ball, Head of the Alcon.
+So, before we start, I'd like Samir to read the Safe Harbor statement. Samir?`Samir Shah, Global Head-Investor Relations `
+Thank you, Joe. The information presented today contains forward-looking statements that
+involve known and unknown risks, uncertainties and other factors. These may cause actual results
+to be materially different from any future results, performance or achievements expressed or
+implied by such statements.
+Please refer to the company's Form 20-F on file with the U.S. Securities and Exchange
+Commission for a description of some of these factors.
+`Joseph Jimenez, Chief Executive Officer `
+Thanks, Samir. Okay, starting on slide number 4. Novartis had a solid first quarter. Our sales were
+up 2% in constant currencies as Cosentyx and Entresto offset the Gleevec patent expiration. Our
+core operating income was down 5% due to investments that we've made behind the new
+product launches as well as the Gleevec patent loss, and our innovation momentum continues,
+especially in oncology, which we'll talk about in a minute.
+On slide 5, all the divisions contributed to our net sales growth in the first quarter, so Innovative
+Medicines up 2%, this was driven by the pharma BU, which rose 6% behind Entresto and
+Cosentyx. Sandoz was up a 1%, driven by Biopharmaceuticals, which grew 30%, and this is mainly
+due to Zarxio and Glatopa 20 milligram in the U.S.; and Alcon grew 1%, driven by the Vision Care
+side of the business, which was up 4 points.
+On slide 6, we made good progress on innovation in the first quarter; Vas is going to go through
+some of these programs in detail, but I did want to call out CTL019 in particular because this is
+our first filing in immuno-oncology. We filed in pediatric ALL in the U.S., with a priority review. And
+we also received Breakthrough Therapy designation in DLBCL, which we plan to file later this year
+in the U.S. This is significant because I think people questioned our commitment to this program,
+when we integrated the cell therapy unit back into oncology, but you can see that we're
+committed to this, and we think we can make this a big business for us.
+Now with all the good news, I do have to bring up the two setbacks we had in the quarter, one
+was serelaxin, the Phase III study, as you know did not meet its primary endpoint, and also
+Glatopa 40 milligram launch was delayed due to a warning letter on a third-party manufacturing
+site, but clearly there is good momentum overall in the pipeline.
+On slide 7, I wanted to point out that we are aggressively strengthening our internal pipeline with
+early-stage acquisitions in in-licensing, and I think the market hasn't quite really recognized the
+degree to which we are strengthening. I think we talked about this in the fourth quarter, as you
+can see on the slide the four that we brought in, but we're continuing that activity in 2017. So we
+expanded our development program in NASH, as you heard a couple of weeks ago with our
+collaboration with Allergan, and also we added U.S. co-commercialization rights just yesterday
+with Amgen on AMG 334 in migraine.
+So on the next slide, turning to commercial execution; we drove the key launches well in the first
+quarter. Entresto was progressing nicely, sales of $84 million in the first quarter. Two-thirds of
+these sales are coming from the U.S., and you can see that we're starting to see a bit of an
+acceleration in new-to-brand scripts. We were getting about 1,800 per week at the end of the
+fourth quarter, we're now at over 2,000, and we expect this to continue to translate to increasing
+total scripts as we move throughout the year.On slide 9, you can see that Entresto is now approved in 78 countries around the world and we're
+continuing to make progress with pricing and reimbursement. Specifically, we had reimbursed
+launches in Italy, in Canada in the first quarter. We also secured our final reimbursement price in
+Germany with a good price that reflects the real value of this medicine. So we expect this
+progress to continue and it's going to contribute to growth throughout the year.
+On slide 10, moving on to Cosentyx; sales were up quarter-on-quarter despite the increased
+rebates that we had mentioned at the end of last year that were necessary to defend our
+formulary position. So this is due, I think, to the best-in-class profile of this product. Remember
+that Cosentyx remains the only anti IL-17 approved in psoriasis, psoriatic arthritis, and ankylosing
+spondylitis. It's the only fully human anti IL-17 with close to zero immunogenicity, and we have a
+unique long-term efficacy profile with Phase III data beyond four years. So, we're going to
+continue to build the profile of this drug as momentum continues.
+And on slide 11, I want to step back just for a minute and remind everybody of the potential of this
+new drug, starting with psoriasis. There are over 3 million patients in the U.S. and the five big EU
+countries, and of course this is the most competitive of the three indications, but I think it's worth
+noting that the IL-17s have really helped expand the total market since launching in 2015. So, it's
+not necessarily a zero-sum game.
+Psoriatic arthritis and ankylosing spondylitis together are an even greater opportunity with 4.2
+million patients between them. And the unmet medical need is high in these indications.
+Remember, Cosentyx is the only IL-17 approved to treat in these indications, and it will be for
+some time. So, we're taking advantage of this, and we're going to continue to drive Cosentyx.
+On the next slide, you'll see the launch of Kisqali. This is our anti-CDK4. The oncology group
+received approval on March 13, and launched this thing in 24 hours. We're confident in the launch.
+It's got a very strong efficacy profile that's visible at eight weeks due to the rapid response.
+We're hearing qualitatively that the safety profile is manageable and that there are some pretty
+significant convenience advantages over the competition. So launch preparations are ongoing in
+Europe, and we expect to get a positive opinion in the second half of the year.
+Next slide, slide number 13. Sandoz, you can see the Biopharmaceuticals business continues to
+power ahead. It's up 30% year-on-year and we're expecting the growth rates to taper a bit
+towards the end of this year as we lap strong performance on Zarxio and Glatopa 20 milligram.
+However, there is good momentum in the pipeline overall, for example, you know that we
+received very recently the positive CHMP opinion on etanercept and rituximab. These are going
+to be big important launches in our biosimilars business and we've got five submissions planned
+for the U.S. and the EU in 2017.
+Now on to slide 14, I want to go a little bit deeper on Alcon. Vision Care was up 4%, led by contact
+lenses. Dailies Total1 continues to stand out and it's driving 7% growth on that total contact lens
+business. Surgical, still in a turnaround mode, although down only slightly in the first quarter.
+Cataract consumables and vit-ret continue to grow nicely, but IOLs were down. There are,
+though, positive signs on the surgical business that give me confidence that we're headed for a
+turn on that piece. For example, our customer service levels have improved, we're increasing
+investment in training and education of our customers, and more importantly you'll see on the
+next slide, we're investing in launches on the intraocular lens side.
+On slide 15, you can see that each of our core geographies now have some innovative intraocular
+lens that they can leverage. So in the U.S., in the first quarter, we achieved FDA approval on
+ReSTOR +2.5 Toric, this is an advanced technology IOL with a premium price. This is a lens thathas a unique design with sharper distance vision and best-in-class stability, which is very important
+in a toric lens. In Europe, we're continuing to drive PanOptix and we also are about to submit
+Clareon, which is our new intraocular lens platform. And then in Japan, we've also got a couple of
+launches, UltraSert, which is very important, because 60% of the Japanese market is a preloaded
+use. Now in the background, our review of the Alcon business is ongoing. And as we said in
+January, we're going to give you an update on that review by the end of the year.
+So with that, I'm going to turn over to Harry to take us through the financials. Harry?
+`Harry Kirsch, Chief Financial Officer `
+Yeah. Thank you, Joe. Good morning, good afternoon, everyone. A quick reminder, the numbers
+in my presentation will focus on growth rates in constant currencies unless otherwise noted. Slide
+17 shows a summary of our performance. Overall, sales grew 2% to $11.5 billion in quarter one.
+This is the first quarter with Gleevec generics in both Europe and the U.S. However, our growth
+drivers including Cosentyx and Entresto more than offset the impact of generic erosion.
+In quarter one, core operating income was $3 billion, down 5% from the prior year quarter, due to
+a generic erosion and launch investments. This was slightly better than expected, mainly due to
+productivity efforts. Net income was $1.7 billion for the first quarter, down 15%, mainly due to a net
+charge related to the discontinuation of serelaxin. Core EPS was $1.13, broadly in line with the prior
+year core operating income, as decline of core operating income was offset by higher income
+from associated (11:39) companies.
+Free cash flow in quarter one was strong with $1.7 billion, up $0.3 billion versus last year, mainly
+due to stronger cash flow from operations.
+On slide 18, just a quick reminder of currency impacts. If mid-April rates would prevail, we expect
+full year impact to be negative 2% on the top-line, with negative 3% in quarter two. On core
+operating income, we would expect the full year impact to be negative 3%, with negative 4% in
+quarter two.
+On slide 19, you can see the growth drivers from the Innovative Medicines Division. Joe already
+talked about Cosentyx and Entresto, but I also would like to highlight some of our oncology
+growth drivers, especially Revolade/Promacta growing 35%, Jakavi 34% and Tafinlar + Mekinist
+growing 27%.
+Additionally, our largest brand Gilenya exhibited continued volume growth. In total, our key
+Innovative Medicines growth drivers increased plus 27% in quarter one, which more than offset
+generic erosion and resulted in the Innovative Medicines Division growing plus 2%.
+Now let's turn to margins by division on slide 20. Quarter one, group core ROS was 26.1% of
+sales, down 1.8 percentage points, as we made investments behind our growth drivers in each
+division. This includes Cosentyx, Entresto, the Kisqali launch in quarter one, Sandoz biosimilars
+and the Alcon growth plan. Additionally, margin was impacted by continued generic erosion,
+mainly from Gleevec. The Alcon core margin was 13.2% of net sales and as I mentioned in
+January, we expect 2017 to be the trough year for Alcon margins, before improving over time to
+be in line with industry peers.
+On slide 21, you see our free cash flow reach $1.7 billion in the quarter, up $0.3 billion, mainly
+driven by lower use of working capital from the timing of collections and payments and prior-year
+legal settlement payments, which more than offset the lower operating income.Slide 22 reflects the change in net debt during the quarter. The net debt increase is mainly driven
+by our annual dividend payment of $6.5 billion. Cash outflow from share repurchases, net of
+option proceeds of $0.2 billion amounted to $1.1 billion. 16.2 million shares were repurchased
+under the up to $5 (14:35) billion share buyback program announced in January. 2.7 million shares
+were repurchased to mitigate dilution related to equity-based participation plans.
+Now let's turn to the key drivers for 2017 shown on slide 23. On the top line, we expect growth
+from Cosentyx, Entresto, and the new oncology assets to continue throughout the year. We
+launched Kisqali in March and are continuing to invest behind the launch. Sales of Kisqali are
+expected to be modest in half-one, then we expect to see a ramp up in half-two. Additionally, the
+Gleevec generic impact is expected to be stronger in the balance of the year, as we expect more
+entrants in the U.S. and Europe in the remainder of the 2017.
+Now, turning to core operating income. In half-one, we expect core operating income to be
+impacted by the investments we are making in Innovative Medicines Division launches and the
+Alcon growth plan. This impact is expected to be lower in half-two, as we lap investment
+increases in the prior year base. With these investments and the full quarter impact of Gleevec's
+generics in U.S. and Europe, quarter two core operating income could decline in the range of mid-
+single digits in constant currencies versus prior year. There is some variability around this range
+depending on the Gleevec erosion and the launch uptake curves.
+On slide 24, I want to confirm our full year group guidance. For the group, we expect net sales to
+be broadly in line with the prior year in constant currencies. On the divisional level, we are slightly
+increasing our outlook for the Innovative Medicines Division due to continued good sales
+momentum. We are revising our Sandoz sales guidance to broadly in line with prior year. To be
+conservative, we have removed Glatopa 40 milligram from the 2017 forecast assumptions. We
+confirm our group core operating income guidance of broadly in line with prior year to a low-
+single digit decline.
+And with that, I'll turn it over to Vas.
+`Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+Thank you, Harry. Starting with slide 26, we had a very solid quarter in terms of advancing our
+innovative and deep pipeline across Innovative Medicines and Sandoz biosimilars. In particular, we
+were pleased with the progress we've made on our potential blockbusters, overcoming some of
+the setbacks that Joe mentioned. What I'd like to do is walk you through some of the key
+updates we have on these programs as well as other important pipeline events that have
+happened in the quarter.
+Turning to slide 27, as Joe mentioned, Kisqali was approved and launched in the U.S. with some
+important features that we believe gives us confidence in Kisqali's outlook. First in terms of
+efficacy along with the 44% reduction in risk, we have a median PFS of 25.3 months, along with
+PFS benefit that's seen as early as eight weeks that is not only evident in PFS curves, but also in
+tumor burden.
+In addition, overall the safety profiles of Kisqali based on the label is manageable and
+predictable. And as guided in January, we do see that the final ECG monitoring required with
+Kisqali is in line with the requirements for visits that are already in place with the existing CDK4/6
+inhibitor.
+And finally, in terms of the convenience, we have a single dose strength with 800 milligrams, as
+well as a second-dose strength at 400 milligrams that allows us easy dose adjustments withoutneed for new Rx. In addition, Kisqali can be taken with or without food, which provides, I think,
+convenience to patients. And so we have a nice profile overall with the Kisqali.
+Moving to slide 28, when you look overall at our program for Kisqali, we continue to advance
+MONALEESA-3 and MONALEESA-7 with readouts expected in the back half of 2017, as well as
+now we're now moving forward with our adjuvant trials both in high risk and medium-risk patients.
+In addition, we're continuing to explore Kisqali and other tumor types through IITs and
+collaborations, and we'll keep the markets updated as and when we move Kisqali into other new
+indications.
+Now, moving to our immuno-oncology strategy on slide 29. There are three key elements of our
+strategy. As Joe mentioned, we continue to advance our CAR-T programs across multiple tumor
+types, and I'll provide you a deeper update in the subsequent slides. As well we want to build a
+strong platform with our PD-1 inhibitor PDR001. And to that end, we are now bringing forward five
+studies over the course of Q1 and Q2 of this year.
+Notably, we have already started pivotal studies for melanoma in combination with Mekinist and
+Tafinlar, as well as the neuroendocrine tumors. So we'll continue to see solid progress with
+PDR001 over the course of this year.
+In addition, we continue to progress our portfolio of 15 second-generation agents in mono or
+combo studies and we continue to expect the readouts of this programs to come in the back half
+of 2017.
+Moving to slide 30 and going a little bit deeper into CAR-T. As Joe mentioned, CTL019 received
+priority review for FDA in pediatric ALL, where we're on track overall with our registration program
+with the FDA in terms of inspections in manufacturing as well as in the clinical sites.
+We are also on track towards the filing in Europe in the back half of 2017. You also saw that we
+received Breakthrough Therapy designation for CART-19 in DLBCL. Based on the interim data
+from the ELIANA study, we plan to present the results of this study in June in Lugano at the
+International Conference for Malignant Lymphoma. And we also are on track for filing those in the
+U.S. and Europe in the back half of 2017.
+Moving to slide 31, when you look at future directions in CAR-T therapy, we are continuing to
+invest in manufacturing improvements, optimizing the current platform as well as investing in
+automation that will allow us to ensure adequate supply for both ALL and DLBCL, as well as to
+support future indications in CAR-T.
+Importantly, we're also progressing programs now in hematologic malignancies, including BCMA
+in multiple myeloma, as well as a humanized CAR-T CTL119 in combination with ibrutinib in chronic
+lymphocytic leukemia. We continue to evaluate also moving into earlier lines of therapy in DLBCL
+as well as other B-cell malignancies.
+On the solid tumor side, we are advancing two programs right now, a CAR-T against EGFR, which
+is targeted in glioblastoma multiforme and we'll continue to provide updates as data becomes
+available on this program, as well as the CAR-T against Mesothelin, which is currently progressing
+in both ovarian cancer as well as mesothelioma. So, taken together, we've built a robust platform
+with our CAR-T therapy technology. We've invested in the manufacturing capability, and we'll
+continue to progress this portfolio of medicines, and learn as we actually progress these
+medicines through the clinic.Now moving to slide 32. You'll remember in the late last year, we acquired SEG101 from a
+company formerly known as Selexys. And what we've done now is clarified our filing strategy in
+the U.S. to the filing in 2018.
+Now importantly with sickle cell disease, this is disease that impacts over a 100,000 patients in
+the U.S. and the EU. And it's an important cause of hospital utilization and overall healthcare
+utilization with over 200,000 visits in the U.S. annually alone. In the Phase II study, we
+demonstrated consistent efficacy benefits across the primary and secondary endpoints, and
+demonstrated robust safety profile.
+It was on this basis that our discussions with FDA indicate that we can move forward with a filing
+on this Phase IIb study. However, given that this program was – is being rapidly accelerated, we
+do need to bridge our manufacturing platform from the manufacturing platform used in Phase I
+and Phase II studies to the final manufacturing platform, which will require us to do an additional
+PK study. Based on that study result, we're confident that we'll be able to then file in the back half
+of 2018.
+Moving to cardiovascular disease, we had important progress in our cardiovascular pipeline,
+including completing the PARAGON enrollment and preserved ejection fraction heart failure, as
+well as achieving protocol specified number of events in the CANTOS study. However, we did
+have an important setback with respect to serelaxin, which did not meet either of its primary
+endpoints.
+But just as a reminder, based on high unmet need and the fact that in two separate studies
+previously, at an post-hoc analyses, we had seen a mortality benefit. And based on the guidance
+of regulators and experts, we had taken forward this program to try to address this important
+unmet need, this important business opportunity, and to meet our ethical obligation to patients.
+However, the study did not go our way, we plan to continue to fully mine the data as well as
+presented at an upcoming Medical Congress. And we look forward to continuing to learn from
+this experience as we move to future cardiovascular outcome studies.
+Moving to neuroscience on slide 34, with BAF312 based on conversations with the FDA, we're
+now able to clarify that we will file in the first half of 2018 in relapsing MS, with the final labeling of
+the unique population we studied to be a review issue.
+Now in this EXPAND study, we studied a population that was unlike any population previously
+studied. This SPMS trial was the first trial to show a benefit for this – these patients. And when you
+look at the diagram here, you can clearly see whether it was from an age range, time of onset,
+overall disease severity. We studied a unique population in this trial and we plan to continue to
+have discussions with FDA to ensure that we have this properly reflected, which is also the
+agency's ultimate goal.
+Now, we will need to file this in the first part of 2018 for two primary reasons. One, we will collect
+additional safety data and an extension study that's to the EXPAND study in an extension trial.
+And in addition, we need to finalize the manufacturing platform on the CMC side, given the
+complexity of the BAF manufacturing process.
+Now in terms of Europe, we have completed four interactions with EU Health Authorities, and
+we'll be working towards the scientific advice in the coming months to formalize our approach in
+Europe. And we'll provide you an update once we have that final advice from the European
+Health Authorities.
+Moving to slide 35, we also have expanded our collaboration with Amgen on AMG 334.Now just as a reminder, migraine is one of the top 10 leading causes of disability in the world,
+primarily affecting working age women, which is an important patient population, when you think
+about productivity for economies, as well as the population that payers will want to support
+reimbursement of a medicine for.
+We have a unique medicine here, which is a fully human, potent, selective CGRP receptor
+antagonist, we're the only drug on – that's moving forward that targets the receptor. And we're
+the only medicine thus far that actually read out late-stage studies with consistent data in Phase II
+and Phase III studies.
+Now based on this and our excitement about the overall profile, we have expanded our
+partnership with Amgen. We will continue to have exclusive rights to the ex-U.S., ex-Japan market.
+And we'll co-commercialize AMG to leverage in the U.S., to leverage our multiple sclerosis
+capability and our multiple sclerosis sales force with Gilenya.
+Moving to slide 36, we also announced in the immunology and dermatology unit, a new
+collaboration with Allergan, that strengthens our portfolio in NASH. As you know, we have a FXR
+agonist progressing in Phase 2B studies with a really unique profile versus the other FXR agonist
+out there in the industry. And to complement that, we will now collaborate with Allergan on a
+combination study with their CCR2/5 inhibitor.
+Now this builds on a portfolio we've been working on for some time, which includes an option
+agreement for Emricasan, a pan-caspase inhibitor in the later stages of liver disease, as well as
+LIK066, which is our SGLT-1/2 inhibitor and has shown significant impact on obesity.
+We also have multiple earlier stage assets that are advancing in the clinics. So, overall we're
+pleased with not only our portfolio in NASH, but also in chronic liver diseases overall.
+Moving to slide 37, in ophthalmology. I wanted to provide an update on RTH258, given the
+interest in the overall design of this study. In our pivotal RTH study we have two main Phase III
+studies, HAWK and HARRIER. Both of these studies have near equivalent designs, the only
+difference is in HAWK we also test a 3 milligram dose. In both of these studies, patients are
+randomized either aflibercept or to RTH. And after an induction period, patients in the RTH arm
+receive RTH every 12 weeks on quarterly dosing. Then based on protocol-specified criteria, either
+best corrected visual acuity or retinal thickness, physicians after consulting with the reading center
+can up the frequency of injections to eight weeks.
+Now, overall, we have agreed with FDA with an analysis plan that will allow us then to pursue an
+indication for 12-week dosing or with 8-week dosing or a mix depending on the final data that we
+read out. So overall, we look forward to finalizing this study, and we continue to expect to read
+out mid this year.
+Moving to slide 38, we've also recently in-licensed ECF843, which is an analog of human Lubricin,
+a naturally occurring protein in the tears that allows us to have really the first compound in the
+industry that has shown the ability to improve signs and symptoms in a single study. Along with
+the recent acquisition of UNR844 in presbyopia, this expands our Front of the Eye pipeline and
+allows us to continue to build out our ophthalmology portfolio along with senses and with RTH.
+Moving to slide 39. As Joe already mentioned, we also received two CHMP positive opinions in
+April for our biosimilar etanercept and our biosimilar rituximab, and we remain on track for five
+additional filings including filings for biosimilar adalimumab in both the U.S. and in Europe.So, overall, when you go to slide 40, we had strong progress on our 2017 milestones, we're very
+pleased with the progress and we look forward to keeping you up-to-speed as events occur.
+So with that, I'll hand it back to Joe.
+`Joseph Jimenez, Chief Executive Officer `
+Thanks, Vas. So to conclude, we had a solid quarter. Our innovation momentum continues and we
+made significant progress on turning Alcon.
+So with that, I'd like to open the call to questions.
+Q&A
+Operator
+Our first question comes from the line of Jeff Holford from Jefferies. Please go ahead. You're
+now un-muted.
+Q - `Jeffrey Holford, Analyst, Jefferies LLC `
+Hi. Thanks very much for taking my questions. Just first for Vas, I wonder if you can just give us a
+little bit more color on BAF312? Are there any specific safety concerns that have come up from
+the FDA that they're asking you to address within the EXPAND study?
+And then just on the population, I just wonder how precise maybe your conversations with the
+FDA went in terms of how you might word (30:50) that population, if you can help us a little bit at
+all to help us model peak sales there?
+And then just on potentially from Harry, in the past you've given us some very helpful guidance
+around the quarters in terms of core operating income growth or declines, I wonder if you might
+help us a little bit with the second quarter just so we can get our phasing of operating income
+right for the year? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Vas?
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So on BAF, in terms of the safety profile, we saw a profile that's similar to other S1P modulators
+with one notable difference that we are going to continue to explore the potential to avoid first
+dose cardiac monitoring, so that's really a potential upside, but we'll need to fully analyze the
+data to see if that's going to be defensible.
+In terms of the precision of the discussion, we explored with FDA in detail how best to pursue a
+secondary progressive MS indication and labeling, and I think our agreement with the agency, the
+best path forward is to pursue RMS, and then try to clearly describe the unique population
+studied in the indication statement, and in the clinical trials section.
+A - `Joseph Jimenez, Chief Executive Officer `
+Harry?
+A - `Harry Kirsch, Chief Financial Officer `Yeah, Jeff. On the quarter two co op (31:58) income, I mentioned in my speech that we would
+expect a mid-single-digit decline in constant currencies, basically two effects. Number one,
+continued investment in the launches and to the growth plans; and number two, we expect more
+entrants on also Gleevec in U.S. and Europe.
+Q - `Jeffrey Holford, Analyst, Jefferies LLC `
+Thanks very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Next question, please.
+Operator
+The next question comes from the line of `Matthew Weston, Analyst, Credit Suisse Securities (Europe) Ltd. from Credit Suisse. Please go ahead,
+Matthew.
+Q - `Matthew Weston, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Thank you very much. Excuse me. Three questions, if I can please. Joe, in your introductory
+comments, you described CAR-T is going to be big business in oncology. Clearly, the peak sales
+and number of patients to deal with is significant, but I'd be very interested how you see the
+launch ramp for the product. Should we expect a very cautious roll-out within hospitals and
+treatment centers, with you restricting it to a small number of very capable specialist centers or
+can we imagine this as having a more normal high impact oncology launch?
+Secondly, on Gilenya. Still a very important product for Novartis, one that wasn't really mentioned
+in the slides, but where trends seem to have taken a significant move negative. Can you explain
+what you think is happening within the MS market in terms of volume declines, and how payers
+are acting in MS around rebating and price in the U.S.?
+And then, Vas, you mentioned that you have the CANTOS data in-house. Can you just remind us
+in terms of timing of release when we should anticipate the results of that study? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Thanks, Matthew. Starting with CAR-T, remember that our first indication is pediatric acute
+lymphoblastic leukemia; this is a quite small patient population. So, let's say, we achieve approval
+and start selling in the back half of 2017. You should expect a relatively slow ramp. Then with
+DLBCL, we said we intend to file this year, let's say, it's later this year. Then you would expect us
+to be starting to sell in 2018. I think that while the patient population is large and we do think that
+this will be obviously a blockbuster potential, you would expect a slower ramp than you would
+ordinarily.
+Bruno, do you want to add anything to that?
+A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+Yeah. The very reason – yes, and the very reason, Joe, is that essentially those products would be
+administered in transplant centers. So, obviously, there will be a limitation to the ramp-up.
+A - `Joseph Jimenez, Chief Executive Officer `A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+So, thank you, Matthew. So, you're correct, Gilenya remains a very important medicine for us and
+to the patients who benefit from it. You probably also know that we grew overall versus previous
+year globally more than 5% and we're pleased with that, and that was almost entirely volume. In
+U.S., well, modest growth of course and – but we held our share.
+And I think the important thing there is, as you point out, the market has definitely slowed down
+both in volume and value, and it's slowed down in some of the more established or older
+treatments, if you like, the injectables. We feel good about our position in the market. As recently
+as yesterday, we presented or this last few days we presented data at the American Academy of
+Neurology, reconfirming the long-term benefits of Gilenya on the four key measures of disease
+activity, in relapsing MS. So, we feel well-placed to continue to perform in this space. As an early
+indicator, we're pleased also with the new patient starts over the last quarter. We'll see how they
+materialize into patients and revenue, but we're very encouraged by our position, albeit the
+market has slowed down.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Vas, on CANTOS?
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So, on CANTOS, we have the protocol specified number of endpoints in-house, but with a
+10,000 patient study that was conducted over six years, there's a substantial amount of
+database cleaning that has to happen to fully lock the database. So, we remain on track for a mid-
+2017 readout, meaning in the June-July timeframe.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Next question, please.
+Operator
+The next question comes from the line of Andrew Baum from Citi. Please go ahead, Andrew.
+Q - `Andrew S. Baum, Analyst, Citigroup Global Markets Ltd. `
+Yeah. Good afternoon. Three questions, please. Firstly, Vas, could you talk to Kisqali formulary
+access? Obviously, it's early days, but interested in what you're having to give up on price given
+the monitoring and safety, the unique issues associated with the drug?
+Second for Richard on Humira, I think this was the first time you have disclosed the timing of your
+filing strategy. I note that it's after the IPR on the 135 scheduling patent. If 135 is upheld at the
+PTAB, would you pursue a skinny label in terms of the filing strategy for the product?
+And then finally a question for Joe and Bruno on CAR-T and also ABL001. Where are you about to
+launch potentially curative therapies with a very, very high price tag? How are you thinking about
+the pricing structure within the U.S. given the cost of these therapies? And in particular more
+broadly, value-based pricing despite a couple of your initial efforts in Entresto and despite I see
+Joe's commentary following the meeting with the U.S. President, the barrier seems to be
+significant and the movement seems to be slow. So more broadly on value-based pricing, what is
+actually moving here and how quickly can it move? Thank you.A - `Joseph Jimenez, Chief Executive Officer `
+Hey, Bruno, on Kisqali formulary access.
+A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+So, Andrew, as you can imagine, we're working on getting formulary access at the moment,
+we're working very hard on this. We've had a lot of meetings with the different plans. We don't
+anticipate any issue there. We believe that, in fact, the fact that there is an alternative to the one
+product that is in that class today will be accepted and welcome by the different plans.
+A - `Joseph Jimenez, Chief Executive Officer `
+Richard, on Humira?
+A - `Richard Francis, CEO-Sandoz; Member-Executive Committee `
+Hi, Andrew, thank you for the question. Yeah, we're very excited about the filing of adalimumab
+along with Rituxan and the recent news, and also then of infliximab in EU. We've got a real
+portfolio coming through here now. With regard to the legal strategy around many of these
+molecules, obviously, it's probably no surprise that we're not going to divulge that and talk about
+that, but the fact that we filed and we're moving forward, this shows we're very confident about
+bringing this to market.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Andrew, on pricing, in general, you're right in that outcomes-based pricing is taking us kind
+of a slow start, just because there are data barriers, there are organizational barriers, there are
+regulatory barriers, but we are making some progress with these contracts. So we've seen the
+number of contracts increase. They're relatively crude at this point, but if you applied it to CAR-T,
+it's too early for us to talk about pricing, because we – this is a critical decision that we're going to
+make. You've probably seen the NHS evaluation of cell therapy coming out above $750,000. So
+we're taking a very hard look at the value that this medicine delivers, the potential curative effect
+or at least durable response effect. And you can imagine that we are trying to include some level
+of outcome, ability on this kind of a pricing structure given that these are going to be expensive
+therapies.
+Bruno, do you have anything to add on that?
+A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+I think we are assessing, as you said, Joe, multiple health economics models and outcome. And
+we'll be in a position to communicate at the time when we launch, which, given the status of
+where we are, it should be imminent.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Thanks.
+A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+In the latter part of the year.
+A - `Joseph Jimenez, Chief Executive Officer `Thanks, Andrew. Next question, please,
+Operator
+The next question comes from the line of `Graham Parry, Analyst, Bank of America Merrill Lynch from the Bank of America Merrill Lynch.
+Please go ahead.
+Q - `Graham Parry, Analyst, Bank of America Merrill Lynch `
+Great. Thanks for taking my questions. So, a few on BAF actually. Can you just give us your
+confidence in obtaining an approval in relapsing MS given that, in that indication specifically,
+you've only got the Phase II BOLT study, and I think of the dose which was in the EXPAND study,
+there's only 50 patients there. Or is the FDA looking at redefining your SPMS population as some
+sort of advance relapsing population that would actually support your relapsing indication?
+Secondly, with the EXPAND data on the label, what sort of communication do you think you could
+then have with physicians on SPMS? Again, would these be redefined as some sort of relapsing
+type patient?
+And then thirdly on AFINITOR, could you just comment on the patent protection and your best
+guess on expected generic launches now following the invalidation of the 772 patent that expired
+in March 2020 on the Certican litigation? Do you expect any extra protection from the orphan
+drug exclusivities that you have on that product for example?
+And then finally on RTH258, what do you actually need to see from the data in order to back the
+cost of a full U.S. launch of that product, and also to try and drive a switch from Lucentis in
+Europe? Essentially, do you need to see quarterly dosing with non-inferior efficacy or would you
+be happy to back a launch with just the every two month dosing? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay, Vas, on BAF?
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So, just to take a step back on relapsing MS and secondary progressive MS, this is a continuum,
+and when you talk to most experts in the field, they'll tell you that as patients progress in
+relapsing MS, they'll eventually get to a stage where they'll be in secondary progressive MS,
+where they have fewer relapses or the relapses are much further apart, they have a higher EDSS
+score, they're typically older because they've had MS for longer periods of time. So this is a
+continuum that we're talking about.
+So in our discussions with FDA, what was clear is that our EXPAND study is a study of SPMS, which
+is a subset of patients who have relapsing MS, they're the ones who are progressed. So, our
+agreement that in the discussions we've had is to take our Phase II RMS study along with our
+EXPAND study as a package that then we would take forward. Now how we'll finally characterize
+the unique population that we studied and expand as I said will be a discussion we'll have with the
+FDA. And we will propose labeling in the clinical section as well as in the indications section to
+reflect that.
+A - `Joseph Jimenez, Chief Executive Officer `
+On AFINITOR, Bruno?A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+So, we've taken note of the recent court decision regarding the compound patent for AFINITOR
+in the U.S. and we will appeal that decision. It's worth noting, though, there are four additional
+later expiring methods of treatment patents for AFINITOR, which have expiration dates from the
+earliest in August 2022 and the latest in 2028. Currently, a generic version of AFINITOR assuming
+approval cannot enter the market even at risk until expiration of the 30-month stay and this stay
+of course varies for each of the ANDA filers. In that context, we do not currently see a need to
+change our previous assessments.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Paul, on RTH?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+Just a couple things actually, Joe, maybe I'll just make a comment on the SPMS that was asked
+about...
+A - `Joseph Jimenez, Chief Executive Officer `
+Yeah.
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+...I think it's a short answer, but we will look very specifically at the language once we have it from
+the regulator. It's clear, there is a group of patients that are moving along the continuum and
+depending on that language and depending on the conversation with the regulator, we'll play our
+part in making sure they get the right treatment.
+As for RTH, I'd rather not go into strategy yet on where we stand, but I think it's fair to say that
+we're set up for to look clearly at interval, and if we demonstrate the efficacy, we expect then we
+could be well placed in the market.
+A - `Joseph Jimenez, Chief Executive Officer `
+Thanks, Graham. Next question, please.
+Operator
+The next question comes from the line of Tim Anderson from Bernstein. Please go ahead.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Thank you. A couple of questions, please. If you were to dispose of Alcon, it would seem dilutive
+to earnings under many scenarios and I'm wondering how you would likely offset or eliminate that
+dilution? It would seem that M&A would be the most likely option and related to this topic, a lot of
+investors continue to think you might end up doing a large transaction. I generally hear you seem
+to say you're really looking at bolt-ons. Can you update us on whether there is an upper limit to
+the size of the transactions you're potentially considering?
+And second question is on Entresto, we held a conference a couple of months back primarily
+looking at payer issues, Express Scripts was one of their presenters when we asked them their
+opinion about Entresto. They said they thought you priced it at too low, which very much caughtme by surprise. With the guidelines in place as of first half of last year, which you didn't have at
+the time of launch, I'm wondering if you feel you have significant upward pricing flexibility on this
+product in the U.S. and can you remind us how the pricing in the U.S. compares to European
+pricing?
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Thanks, Tim. Starting with the Alcon situation. As we said earlier, that review is underway.
+Let's assume that we did exit and we had talked about potentially a capital markets exit. So, I'm
+not as worried from a dilution standpoint, were we to spin this business off to our shareholders.
+Now from a total shareholder standpoint, you'd own a chunk of Novartis, you'd own a chunk of
+Alcon and presumably that would be a very nice couple of assets to own. So, that's really, at least,
+the way that I'm thinking about it at this point. We did say that, from an M&A standpoint, our
+sweet spot is bolt-ons for the four units anywhere from $2 billion to $5 billion. We're having a hard
+time finding value-generating acquisitions even in that range just because prices have moved up
+quite a bit and we're holding quite a disciplined financial hurdle to overcome before we're going
+to make even a move at the $5 billion level. And so what you've seen us do is you've seen us
+move upstream a bit in the fourth quarter. These are nice assets that are supplementing our
+pipeline, we're structuring them in a way that somewhat share the risk given that they are earlier-
+stage assets, but we're finding that we can create a significant amount of additional value that
+way. Paul, on Entresto?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+So, an interesting question indeed on price. I think we should just look at some of the dynamics in
+the market. We have a strong ISO (47:28) support for the value for Entresto in the U.S. and the
+value that it brings to patients and the good use of the healthcare dollar. Whilst we'll be vigilant
+on what that price and how it evolves over the coming year or two years, I think we've been seen
+by prescribers and payers and providers as behaving responsibly. And really there was no pricing
+limitation to the uptake in volume.
+I think most importantly at this stage in the medicines launch is trying to make sure that the clinical
+choice is the first choice, and we're creating the right environment for that to happen. So we're
+pleased with the value we bring to healthcare system. And just for information on your last
+question, I think we're roughly 2 to :1 in price U.S. versus Europe.
+A - `Joseph Jimenez, Chief Executive Officer `
+Next question, please.
+Operator
+The next question comes from the line of `Florent Cespedes, Analyst, Société Générale SA (France) from Société Générale. Please go
+ahead.
+Q - `Florent Cespedes, Analyst, Société Générale SA (France) `
+Good afternoon, gentlemen. Thank you very much for taking my questions. Three quick ones.
+First for Paul, a follow-up on Entresto. Could we have an update on the market access in the U.S.
+and actually the proportion of the patients without prior authorization in commercial and
+Medicare, like, what you provided during your Investor Day?
+Second question for Bruno. Could you share with us the first feedback from doctors in the U.S.consensus in 2021, it looks a bit conservative given the size of the market. So what the consensus
+is missing?
+And the last question is for Richard on rituximab in Europe following the positive
+recommendation. Could you elaborate a bit on how do you see the product and the adoption of
+this product in different countries? And regarding a follow-up on Sandoz, operating profit margin
+following this Q1 is the first assumption to believe that this year, without Glatopa 40-milligrams,
+the operating profit margin of the division will be lower versus last year? Thank you very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Paul, on Entresto?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+So, on Entresto in Medicare, we've definitely made progress. We've moved from I think 25% with
+no prior auth to 33% over the quarter. We do expect that to continue over the year. I repeat, I
+think we have enough access already to deliver on the commitment of approximately $500
+million this year. So, full (50:16) commercial access has improved again I think mid- to high-single-
+digit, since what I reported at Q4.
+A - `Joseph Jimenez, Chief Executive Officer `
+Yeah. Approaching 50%, no prior authorization. Bruno, on Kisqali?
+A - `Bruno Strigini, Chief Executive Officer, Novartis Oncology, Inc. `
+So, Florent, on the initial feedback that we are receiving from the medical communities is very
+positive actually, particularly on the efficacy. The physicians appreciate the fact that we reached
+primary endpoint at the interim analysis and the over 25 months PFS. The rapid response that Vas
+mentioned during his presentation is also a factor which is very important and the fact that three
+out of four patients see a tumor reduction at eight weeks is perceived as being a very important
+factor. Convenient dosing and the support programs that we've put in place are also seen as a
+differentiating factor versus the competition. And as Vas mentioned, the side effect profiles are
+very manageable and are not considered to be an issue.
+With regards to the forecast for the future, I mean by all accounts, all analysts predict that this
+market is going to be in the range of $10 billion and perhaps even more. And we believe that we
+have a strong asset, we believe that with the legacy that we have in this field but also the
+programs that we have for the future, we have a very strong presence and that we will have a
+very competitive asset and certainly that it will be a blockbuster.
+A - `Joseph Jimenez, Chief Executive Officer `
+And the only thing I'd add to that is, I think one of the reasons why consensus is where it is in 2021
+is that there is a lot of attention by market to the safety profile of the drug, and so that's really
+going to be the key. We believe and the early feedback is that the safety profile is manageable. If
+it is, it's going to be a big drug. If it's not, then consensus might be closer to right.
+So, Richard, on rituximab?
+A - `Richard Francis, CEO-Sandoz; Member-Executive Committee `Yeah, on rituximab. So, obviously, looking forward to launch of this, and I know your question was
+around the adoption of this product. Now, as you've probably seen across the different
+biosimilars that have been launched, penetration is improving and it's becoming quite rapid.
+That said, when it comes to introducing a new biosimilar like rituximab, the market is often a
+different archetype, and so whether this is a tender market or physician-led market, you have to
+consider that. And obviously we're going to have get on to formularies if it's a physician-led
+market and speak to physicians, and if it's a tender, it's the timing of those tenders. So I'd say,
+excited by it, but obviously with those things ahead of us, we have to get through those in the
+first six months to start the trajectory after that.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Richard, on profit margin?
+A - `Richard Francis, CEO-Sandoz; Member-Executive Committee `
+And on profit margin, you talked about the 40-milligrams. The 40-milligrams is obviously was built
+into our forecast, and as Harry mentioned, we have taken that out of our forecast. So in recent
+years, you've seen some very good margin growth from Sandoz. We don't give forecast on
+margin moving forward, I just say take into account that we're investing in our biosimilars both in
+Europe, which we've just discussed, and looking forward to some launches in the U.S. So, I take
+that into account, when modeling going forward.
+Q - `Florent Cespedes, Analyst, Société Générale SA (France) `
+Thank you very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Next question, please.
+Operator
+The next question comes from the line of `Michael Leuchten, Analyst, UBS Ltd. from UBS. Please go ahead, Michael.
+Q - `Michael Leuchten, Analyst, UBS Ltd. `
+Thank you. A couple of questions on innovation – Innovative Medicines please. SEG101 and BAF. I
+guess for Vas, the comments about the PK/PD data that is required for submission. The timing of
+that is a little bit unusual. So, I was wondering if I could press you on that, and similarly on BAF to
+manufacturing comments, again unusual to have that as an open question after Phase III trial is
+finished. So, I was just wondering whether you could add a bit of color on those two.
+And then just going back to the question earlier on Gilenya in terms of your response value and
+volume declines. I guess it is very relevant given your filing strategy for BAF312. So, what exactly
+has changed in the market dynamics that's taken the volume trends down as well as the pricing
+levels because it's not only you, I think the Tecfidera Q1 revenues were also below expectations
+relative to market? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Vas?A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So, when you look at SEG101, we acquired this asset in December and then we had to go through
+the process of transferring the manufacturing and then upscaling to a final manufacturing
+process. You have to remember this was a small biotech that was developing this product.
+So based on that as soon as we have material available, we will then do a standard PK bridging
+study, which FDA often requires when you move into final manufacturing for a biologic, and then
+based on the timeline for the readout out of that study, we will file. So, I think there is nothing
+abnormal about the SEG101. I mean, what's the interesting thing is that we've been able to
+accelerate the filing from 2020 to 2018 based on the single Phase IIb study, which tells you, given
+the New England Journal of Medicine publication and the confidence of FDA, that this is an
+important medicine for an important unmet need with a strong profile.
+And with respect to BAF, I think we were, of course, waiting for the final results of the EXPAND
+study before significantly investing in manufacturing and getting the additional stability work done
+on the final manufacturing process. Now that we've got the results in hand, this is a more
+complex manufacturing process than you typically see in a small molecule, so this isn't your
+traditional. There are few steps in the chemical synthesis that are unique, and so we just have to
+get those finalized and get the batches and stability in place, and then we'll be able to follow the
+first part of the next year.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Paul, on Gilenya?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+Well, not much to add other than what we said earlier. Again, our share is held, overall we're up.
+This decline in the market in both volume and value's been over the last sort of three quarters,
+four quarters is not a recent phenomenon, I think that's important also. And I think there is this
+decline in the older injectables that has taken some of the volume and perhaps has increased
+rebates. And we're, of course, as you would expect, doing our own diligence just to confirm, but,
+again, we're reasonably well placed with BAF to follow-on and with the recent deal with Amgen,
+we feel very good about our commitment to neurology and the team that's in play.
+A - `Joseph Jimenez, Chief Executive Officer `
+Thanks, Paul. Next question, please.
+Operator
+The next question comes from the line of `Vincent Meunier, Analyst, Morgan Stanley & Co. International Plc from Morgan Stanley. Please go
+ahead.
+Q - `Vincent Meunier, Analyst, Morgan Stanley & Co. International Plc `
+Good afternoon, and thank you for taking my questions. The first one is on Cosentyx, how do you
+think you can accelerate in PSA and do you think that the three-years efficacy data is enough or
+do you think you need to get the results of the head-to-head study versus Humira?
+The second question is on NASH. What is your approach regarding the patient selection and do
+you have noninvasive biomarkers for the different parameters you are studying? Also, I have aquestion on Alcon. When should we expect the IOLs to be back to growth? And also what kind of
+margin pattern should we expect for Alcon after the 2017 trough?
+And the last question is on Entresto. Can you confirm the target of $500 million sales this year?
+And would it make sense for you to reconsider the size of the sales force in case you are unable
+to reach that target? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Paul, first and the last question.
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+Okay. So, last question first. I think on Entresto, our trend is good. We're pleased with the quarter.
+We can see how that connects to the rest of the year. Just to remind everybody that the global
+number of $500 million is definitely achievable. Two things to bear in mind. One is, the full
+deployment of the sales force in the U.S. happened at the beginning of the year, and the true
+operational impact will come late summer – autumn. So, we feel good about that progression. I
+think it's also worth adding, we've recently just come online in Italy and Canada, reimbursed. We'll
+get Entresto in France hopefully on the back-end of this summer, and you may have missed the
+AMNOG approval for Entresto in Germany. And what's important beyond just the approval by the
+way is that it was considered to have no additional budgetary impact for prescribers. So, it's a
+complete clinical freedom to prescribe Entresto in Germany and supported by AMNOG. So,
+there's a lot of reasons to believe the second half of the year acceleration and we're
+comfortable with that. In terms of resourcing choices, we'll see how we play out through the
+remainder of the year, look at what our trend is, and then reflect on that as we exit 2017.
+Cosentyx, maybe Vas can kick-off.
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So on Cosentyx, on PsA and AS, I mean one of the most – one of the important things to
+remember is the data we already have in hand, which is really one of the first drugs that shows
+such high levels of stopping radiographic progression, which is what you want in these patients.
+We also have long-term follow up data in PsA out to three years, in AS out to two years again with
+radiographic data, which is very unique, I think, relative to other marketed agents. So that's
+allowing, I think, as Paul can comment on, very strong performance in the spondyloarthropathies.
+Now we are moving forward in the head-to-head studies both in PsA and AS and we're continuing
+to do a number of profiling studies to look at the impact of the IL-17A pathway. In ankylosing
+spondylitis, specifically IL-17A is viewed as really the lynchpin pathway of the disease.
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+And...
+A - `Joseph Jimenez, Chief Executive Officer `
+Go ahead.
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+Sorry, Joe. So just to add on to that, performance ex-U.S. including psoriatic arthritis and
+spondyloarthropathies and psoriasis has us the number one biologic in this space on new
+patients in no less than Germany, France, and Spain. In the U.S., depending on the weeklies, whichcan be a bit volatile, we have been market leader against Humira and Enbrel in
+spondyloarthropathy, so in the rheumatology community for AS and PsA. We have a tremendously
+effective product and a very good side effect profile based on low to no immunogenicity. So
+we're seeing, frankly, extraordinary adoption in these patient populations.
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So on NASH, we continue to explore all manner of speeding up the clinical trials, because as you
+rightly point out, you do require a biopsy and confirmation of the NASH diagnosis and then to-
+date the FDA has required in pivotal studies, serial biopsies to ultimately confirm that you are
+impacting fibrosis or impacting the progression. Our overall strategy is to focus on later stages of
+the diseases, whether that's patients who are cirrhotics that are compensated or
+decompensated that are close to the transplant list or patients who are in the F2, F3, but it's clear
+in these patients and all of the data suggests that if a patient reaches F3 with fibrosis in all
+likelihood, they will progress to the transplant list. So that's our key area of focus in NASH and
+that's where we're taking these portfolio of medicines. We don't believe moving upstream into
+patients who are much further away from the ultimate consequences of the disease will be a
+compelling case.
+A - `Joseph Jimenez, Chief Executive Officer `
+Mike?
+A - `F. Michael Ball, Chief Executive Officer, Alcon; Member-Executive Committee `
+And with respect to IOLs, you'll recall, that what I had said previously, is a necessary condition to
+get them back to growth is to fix the supply and service issues. So I think we've done a really
+good job in addressing those issues and as I look at the end of the first quarter then I see the
+best conditions we've had than in the last two years. So we seem to be getting very well
+stabilized on that. That is allowing our sales representatives to get back to selling and this again is
+extremely important because not only are they selling to current accounts, which were
+experiencing competitive invasion, but also to new accounts where they hadn't been going for
+some period of time, because, candidly, they're too busy servicing existing accounts.
+So, as I look forward then, there's new technology, as Joe outlined, coming into each of the
+marketplaces, each of the regions will have something new to talk about. So in the United States,
+it'll be the new ReSTOR +2.5 Toric lens and also the +3.0 lens. And I think this is a really important
+addition to our portfolio, because when you look at our ReSTOR lenses, we've been taking some
+serious market share erosion there. And one of the reasons has been because we have not had
+a toric offering, while our competitors have. So, this will make it more of a competitive lens in the
+marketplace so our sales reps are getting out there and selling it now.
+I would also say that, in the United States, there's opportunities to also expand the toric
+marketplace. So, we've taken steps then to move forward with patient education initiatives,
+because as the baby boomers hit into their 70s, which is prime cataract place, then you look at
+opportunities where they are going to not accept what their parents had. They're going to be
+looking for something new and better.
+As we look internationally then, PanOptix in Europe and PanOptix Toric has just been approved,
+as Joe mentioned, UltraSert across the world right now and other opportunities in Canada and
+Japan with PanOptix. So, I feel very good about how we're moving forward here and we will look
+to see the IOLs start to turn at some place in the future.With respect to margin, 2017 we said was going to be the trough year. What we also said as you
+look out that we should be starting to move back into line with the industry and the industry we
+described as being in the low- to mid-20s in terms of margin.
+A - `Joseph Jimenez, Chief Executive Officer `
+Thanks. Next question, please.
+Operator
+The next question comes from the line of `Richard Vosser, Analyst, JPMorgan Securities Plc from JPMorgan. Please go ahead,
+Richard.
+Q - `Richard Vosser, Analyst, JPMorgan Securities Plc `
+Hi. Thanks for taking my questions. Just a couple, please. Just firstly on Cosentyx, and thinking
+about potential future competition from J&J with guselkumab, how do you see that playing out in
+terms of potentially expanding the market or being a threat to the IL-17s? Also would it be
+possible to quantify the rebate pressure you've seen for Cosentyx in the first quarter in the U.S.?
+And then just finally just a follow-up on the Alcon questions. Just thinking about the investment
+levels that we've seen in Q1 for Alcon, is that now a sort of peak level ahead of a Q4 bolus or
+should we still see a little bit more investment in the coming quarters? Thanks very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Paul?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+Thank you, Richard. Firstly on Cosentyx. Cosentyx sets a very high bar on efficacy and safety. I was
+at the EADV last year when the guselkumab data broke and there was a lot of dermatologists
+saying to me that they thought it didn't raise it further. We will see because it's good news for
+patients that we're all in that market and we're trying to raise awareness and bring new
+treatments forward. But I think we're well placed frankly, particularly as has been mentioned I think
+by Joe upfront, the new data from us around disease modification and retaining efficacy over the
+long-term.
+The other part, of course, which again will get sort of bunched together, but don't forget that it
+will be probably 2020-2021 before the new entrants have PsA and AS, and I think, and maybe not
+at all frankly, I don't know. But Joe highlighted the scale of the opportunity in both those
+indications, and I think they're going to be absolutely critical. And to remind you, even on the anti-
+IL-17As, we are unique to have both of them at the moment, and probably will have AS perhaps
+even to the back-end of next year.
+As for rebates, I did say at the Q4 results that we'd be thoughtful about our rebating. I think that's
+reflected in our position as we go through Q1. I also reminded everybody that we would be
+thoughtful in Q1 and then continue to grow our volume to compensate and accelerate beyond
+that throughout the remainder of the year and I think, again, we're well placed for that.
+A - `Joseph Jimenez, Chief Executive Officer `
+And, Mike, on investment levels?A - `F. Michael Ball, Chief Executive Officer, Alcon; Member-Executive Committee `
+Yeah. So with respect to investment levels then, we are going to continue to invest in 2017 to get
+the top line moving again. We're going to be investing in things like DTC. I think if you've looked
+at our lenses, you've seen they've reacted very nicely to DTC. The objective, of course, is to get
+consistent top-line growth. I think where we are right now is in a stabilization phase and so you'll
+see some volatility on the top line, but from my standpoint, we need to continue this investment
+through 2017 to drive that top line forward.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay, next question, please.
+Operator
+The next question comes from the line of `Michael Leacock, Analyst, MainFirst Bank AG (UK) from MainFirst. Please go ahead.
+Q - `Michael Leacock, Analyst, MainFirst Bank AG (UK) `
+Hi, there. Thank you very much for taking my questions. Three quick ones, if I may. Firstly, in
+pharma, I notice the gross margin was up 0.8 percentage points. I wonder if you could talk about
+the drivers for that, especially given the high levels of price and generic erosion that we saw in
+the quarter. On the Sandoz, the emerging markets China seems to be slowing down. Can you
+give us more color on that, particularly, as I notice in Innovative Medicines, the EM markets were
+up strongly? And finally, on Alcon, it's a rough question. Can you comment at all on the margin
+trends between the Surgical and the Vision Care? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Paul?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+So just put simply, a significant part of our growth is coming from Cosentyx and Entresto, where
+our margin is much more impressive. Harry, do you want to add anything?
+A - `Harry Kirsch, Chief Financial Officer `
+I think cost of goods or the quarterly gross margins are a bit volatile overall, but we see that the
+new products which have also very high gross margins and our productivity programs, don't
+forget we have centralized manufacturing a year ago and we start to see some fruits of that, of
+course, are contributing to offset basically the Gleevec part.
+A - `Joseph Jimenez, Chief Executive Officer `
+Richard, on China?
+A - `Richard Francis, CEO-Sandoz; Member-Executive Committee `
+Yeah, thanks for question, Michael. So, on China, yeah, you're quite right. We have seen a
+slowdown in the business there, it's a fairly simple business really driven by a couple of
+molecules. We've seen a bit of pricing pressure as the Chinese healthcare system looks to curtail
+some of the expenditure. I don't see that being long-term, I think we can get through that
+through this year and then drive that business back to growth.I think if we talk about emerging markets, it's important to point out we got some very good
+growth, above 20% in Japan, we're driving good growth in Australia, in the Middle East, and
+Central Eastern Europe as well as Africa. These are markets we focused on, because we see
+them as markets which can drive profitability over the long-term. So, we're pleased to see the
+performance we're getting from those markets.
+A - `Joseph Jimenez, Chief Executive Officer `
+And on Alcon, we don't break out the margin between Vision Care and Surgical, so that's
+something that we don't disclose. Next question, please?
+Operator
+The next question comes from the line of Marietta Miemietz. Please go ahead.
+Q - `Marietta E. Miemietz, Analyst, equinet Bank AG `
+Yes, thank you. I have one tax rate question for Harry. Can you just give us a very rough feel for
+how material the impact of the U.S. Corporation tax regime that may be enforced at any moment
+in time actually is on Novartis' structurally low group tax rate? Because Joe, you told President
+Trump that lower taxes would help you and I wasn't quite sure if you were just speaking on behalf
+of the industry in that meeting or if Novartis itself would actually benefit, so any feel for the
+proportion of your U.S. profits that is actually taxed in the U.S. or any kind of sensitivity of your
+group tax rate to the average U.S. Corporation tax rate would do really helpful?
+And then one question for Richard please, just following on from Florent's question, can I refer
+from your answer that the reason you're expecting growth to taper for biosimilars later this year,
+despite the big launches coming up is really entirely due to your ramp expectations and you've
+not baked any deterioration in the overall pricing environment into your guidance?
+And maybe if you just could give us a very brief update on the market dynamics in particular,
+whether sort of a 50% to 70% price discount in the U.S. to the originator and the 30% to 50%
+discount in Europe is really so how we should think about most of the assets in your pipeline and
+whether you feel that the development risk has increased in the last 6 months to 12 months, or
+maybe asked a different way, when you see a competitor divesting a business in the biosimilar
+space for an upfront payment that is actually below the cash they flowed into it. Is that in your
+opinion consistent with changes in the commercial opportunity or are you puzzled or would you
+say that, that sort of thing is really just down to fluke, be really helpful? Thank you very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yeah. Thank you for your question on the U.S. tax reforms. Of course, as we all know, none of
+these details are even completely mentioned or they start to be maybe debated, so I think
+tomorrow some further things will be disclosed, but until things will be finalized and this probably
+will take some time. Now we are significant tax payer in U.S. so the corporate tax rate reductions
+certainly would be a nice positive for us. At this moment, we don't model any positive going
+forward, because we don't know all elements of it. Now, we have a lot of substance in the U.S.,
+more than 22,000 people, 30 manufacturing sites, a lot – more than 7,000 people in R&D and
+more than 7,000 manufacturing, but what are the other elements, be it border adjustment taxSo, I think we just have to continue to monitor this and once things become clear, then of course
+we would comment on it in a more quantitative way.
+A - `Joseph Jimenez, Chief Executive Officer `
+And Marietta, it was a Novartis specific comment, because we are big tax payers in the U.S. So,
+Richard on biosimilars?
+A - `Richard Francis, CEO-Sandoz; Member-Executive Committee `
+Yes, if I understood the question correctly, it was the slowdown in growth that Joe mentioned this
+year – excuse me, the last half of this year and that basically comes down to the fact that a
+significant amount of our growth was delivered last year by the good acceleration uptake of
+Zarxio in the U.S. and Glatopa 20 milligrams. Although we see good growth in our business
+outside the U.S. across all of our portfolio, obviously that growth was significant last year as you
+know and as those launches start to mature, that's going to slow down towards the end of this
+year. But obviously, we're hoping that as we see those files mature into launches in our portfolio,
+then that growth will obviously come back.
+With regard to the pricing, I think you were saying is there anything that changed within the pricing
+environment with regard to how we look at it going forward to what we said in the past, not really.
+Obviously, it depends sometimes on the archetype of the market, whether it's a pure tender
+market or it's a market that's driven by the physician, but I think what we've quoted in the past
+between 20% and 30% at the start still holds true and that can obviously progress depending on
+the maturity of the market and the molecule.
+With regard to the development risk and the change with regard to people coming out of this
+business. It's very hard for me to comment on that and I probably won't. What I'll say is (01:14:51)
+and we've got a pipeline is we believe as Joe's mentioned on a number of occasions that the
+healthcare system needs biosimilars. There is a very big value proposition. We think we have a
+great portfolio, a very good commercial and efficient commercial model. So, we can see good
+returns on this for the considerable future.
+A - `Joseph Jimenez, Chief Executive Officer `
+Yes, I think one of the things that you're seeing in terms of people pulling out is, this isn't an easy
+stuff. This is a difficult thing to do. It's also – you've got to have scale. So, I think what you're
+seeing is at the end of the day there's going to be a few big manufacturers of biosimilars. I would
+also just comment on your pricing expectations. I think the European assumption that you said
+was right, but the market dynamics in the U.S. is probably a bit too aggressive. I think you said
+50% to 70%. Remember, we're not assuming a high level of automatic switch and actually that's
+better for us because we're able to build a franchise over time, selling on the similarity of this
+molecule relative to a more expensive molecule and the way that we're building our U.S. business
+is highly profitable because of that. So, we'll just leave it at that.
+Q - `Marietta E. Miemietz, Analyst, equinet Bank AG `
+Yeah. It's very helpful. Thank you very much.
+A - `Joseph Jimenez, Chief Executive Officer `
+Next question please?The next question comes from the line of `Kerry Holford, Analyst, Exane BNP Paribas from BNP Paribas. Please go ahead.
+Q - `Kerry Holford, Analyst, Exane BNP Paribas `
+Thank you. Three questions, please. The first for Harry, just looking at the guidance for the year,
+the Innovative Medicines sales outlook has been raised marginally. I guess it's unusual to revise
+guidance at this stage of the year. So, I'm wondering if you can highlight specifically what's driving
+that more optimistic sales outlook for that division.
+Secondly, on AMG 334, you're now co-promoting in the U.S. Do you envisage recruiting additional
+sales reps to promote that drug or can you leverage your existing MS sales force to promote that
+product? I'm just trying to understand the likely incremental cost of launching that drug next year,
+potentially. And then last on biosimilars, just checking in on the U.S. filings for biosimilar Humira
+and Epogen. They were delayed last year owing to manufacturing inspections. I don't think they
+have yet been filed. If I'm correct, why not? And what's the continued delay here? Thank you.
+A - `Joseph Jimenez, Chief Executive Officer `
+Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yeah. Thank you, Kerry. Yeah, as you mentioned, there is a slight increase in the guidance of
+Innovative Medicines. I think it indicates you're probably at the upper end of the range of broadly
+in line to a slight increase and the Innovative Medicines Division has made a very solid start to the
+year with a quarter one plus 2% growth, driven by the Pharmaceutical business unit with plus 6%.
+So we simply see a stronger sales momentum and reduced downside risks in the Innovative
+Medicines Division and therefore we made this small upgrade to the sales guidance.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Paul on Amgen?
+A - `Paul Hudson, CEO, Novartis Pharmaceuticals `
+So, it's a little bit early to call exactly what will happen in terms of resourcing in the U.S. We're
+delighted to announce yesterday as Vas mentioned, it's a significant unmet need I think over 5
+million migraine sufferers in the U.S. We are now working through what it takes to deploy. It was
+already mentioned earlier that we have a very impressive neurology sales force and they'll get a
+sense of what we do. So, clearly there's some opportunity there and then we'll resource
+accordingly to winning the market as the first entrant.
+A - `Joseph Jimenez, Chief Executive Officer `
+And Vas?
+A - `Vasant Narasimhan, Global Head of Drug Development and Chief Medical Officer, Member- `
+So, in terms of the U.S. biosimilars filings, we're on track across our filings with our monoclonal
+antibodies. So, with Humira we plan to file soon and we'll provide an update as soon as that file is
+accepted, and we continue to be on track as well with our pegfilgrastim filing, which we expect to
+happen in the first part of 2018. With respect to Epo, we're continuing to evaluate some
+additional data that has come in, and then once we fully evaluate that data, we'll clarify our filing
+strategy on Epo.A - `Joseph Jimenez, Chief Executive Officer `
+Okay. I think we have time for one final question. Oh! Yeah, that's it. One final question.
+Operator
+There are no further questions in the queue.
+A - `Joseph Jimenez, Chief Executive Officer `
+Okay. Listen, I want to thank everybody for tuning in and we look forward to give you an update at
+the half year. Thank you.
+Operator
+Ladies and gentlemen, thank you for joining today's call. You may now disconnect your handsets.

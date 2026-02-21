@@ -1,0 +1,635 @@
+Q2 2020 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Tesla Q2 2020 Financial
+Results Q&A and webcast. At this time, all participants are in a listen-only mode. After the
+speaker presentation, there will be a question-and-answer session. (Operator Instructions) Please
+be advised that today's conference is being recorded. (Operator Instructions)
+I would now like to hand the conference over to your speaker, Mr. `Martin Viecha, Senior Director of Investor Relations, Senior Director
+of Investor Relations. Please go ahead, sir.
+`Martin Viecha, Senior Director of Investor Relations `
+Thank you, Sherry, and good afternoon everyone and welcome to Tesla's second quarter 2020
+Q&A webcast. I'm joined today by `Elon Musk, Founder, Chief Executive Officer and Director, `Zachary Kirkhorn, Chief Financial Officer and a number of other executives.
+Our Q2 results were announced at about 1.15 PM Pacific Time in the update deck we published at
+the same link of this webcast.
+During this call we will discuss our business outlook and make forward-looking statements. These
+comments are based on our predictions and expectations as of today. Actual events and results
+could differ materially due to a number of risks and uncertainties, including those mentioned in
+our most recent filings with the SEC. During the question-and-answer portion of today's call,
+please limit yourselves to one question and one follow-up. (Operator Instructions) But before we
+jump into Q&A, Elon has some opening remarks. Elon?
+`Elon Musk, Founder, Chief Executive Officer and Director `
+Thank you. First of all, I'd like to thank the Tesla team for exceptional execution in the second
+quarter despite tremendous difficulties. They've done an incredible job and it's an honor to work
+with such a great team. I mean there were so many challenges, too numerous to name, but they
+got it done and just what a great group to work with, like I say, it's an honor to work with such a
+great team.
+So, and as a result, we were able to achieve our fourth consecutive profitable quarter and
+although the automotive industry was down about 30% year-over-year in the first half of the year,
+we managed to grow deliveries in the first half of the year. So despite massive industry decline,we actually went up. We're also very excited to announce that we're going to be building our next
+that Gigafactory in Texas, it's going to be right near Austin, it will be about -- I'll just go into a bit
+of detail on this and then I'm sure that you have lots of questions. But the location is 5 minutes
+from Austin International Airport and 15 minutes from Downtown Austin and it's about 2000 acres
+and we're going to make it a factory that is going to stunning, it's right on the Colorado River.
+So we're actually going to have going have a boardwalk, where there will be hiking, biking trail. It's
+going to basically be an ecological paradise. Birds in the trees, butterflies, fish in the stream and
+we're open to the public as well, so not close into and only Tesla. So, if anyone is interested in
+working at Giga Texas with -- engineering production whatever the case may be, please let us
+know. This is we're going to be doing a major factory there and it's also where we will be doing
+what we're doing Cybertruck there, that Tesla Semi and we will be doing Model 3 and Y for the
+Eastern half of North America.
+Now, at the same time, I want to say, we will continue to grow in California. So -- but we expect
+California to do Model S and X for worldwide consumption and 3 and Y for the Western half of
+North America. And we think probably also the Tesla Roadster, the future program, would also
+makes sense in California. So I think this is a nice split between Texas and California and that stem
+size will continue to grow in California, but we will be creating a massive factory and Cybertruck
+and Semi programs in Texas. So, and I also want to just say shot up to Tulsa and just say thank you
+very much to the Tulsa team, the economic development team and the governor, really I was
+super impressed, the whole Tesla team was super impressed and we will for sure strongly
+consider Tulsa for future expansion to Tesla down the road.
+Let's see if anything more you want to say about -- those are the lot of information. Anything else
+guys? Right. Well, I'm sure there were lots of questions. We've already started work on the facility
+so some initial construction work so it's already underway, started this weekend. Let's see,
+moving on to other subjects, solar, we recently adjusted the pricing of our retrofit solar. So Tesla
+Solar is the lowest-cost solar in the United States and we added the lowest cost guarantee and a
+money back guarantee. So we're very confident that we'll have our solar product, whether it's the
+solar retrofit or solar roof.
+Our solar is now 30% cheaper than the US average. After the federal tax credit, Tesla Solar now
+cost $1.49 per watt. And it's a very simple, highly automated, single click experience. So definitely
+think about Tesla whether you want to a new roof or Tesla Solar Roof or you want solar on your
+existing roof, either way, we are the company to go to. And then you also get a Powerwall and
+have energy independence and be your own utility. So I think that product is really coming
+together and it's only going to get better later this year. So it gets us very excited about that
+business potential.
+On the -- additional technology stuff, we introduced the first production car with more than 400
+miles range. So the current Tesla Model S now has an EPA certified range of 402 miles. I mean,
+basically you can drive from LA to San Francisco non-stop and still have some miles left over when
+you arrive. And this is at highway speeds. So, you don't have to do anything, you drive slowly or
+anything, you should drive it, you just drive normally and go very long distances. And then for full
+self-driving, we launched traffic lights and stop signs and we continue to prove that and make
+more robust and we're currently testing full self-driving software for intersections and city streets,
+narrow streets. So I personally tested the latest Alpha build of full self-driving software. When I
+drive my car and it is really I think profoundly better than people realize. Yes, really profoundly
+better. It's like amazing. So it's almost getting to the point where I can go from my house to work
+with no interventions despite going through construction and widely varying situations.So this is why I'm very confident about full self-driving functionality have been completed by the
+end of this year, because I'm literally driving it. Exclusion, I'd like to again say thanks for all the hard
+work of the Tesla team, achieving our first full year of profitability in the company history. It was
+incredibly difficult. And just as a result of the hard work of a lot of people from Tesla worldwide.
+And yes, think about the next 12 months to 18 months, we'll have three new factories in place,
+things are looking great with Giga Berlin. And we'll have Cybertruck, Semi, Roadster, Full Self
+Driving. There's so much to be excited about. It's really hard to kind of fit into this call but the
+sheer amount of hardcore engineering, especially on the autonomy and the manufacturing
+engineering front is mind-blowing. And then of course there's Battery Day which is coming up
+pretty soon, and I think that's really go to surprise people by just how much there is to see.
+So with that, thanks again for your support in our long-term mission and we're looking forward to
+having a great journey with you to create amazing products and continue scaling it. And yes, this
+is I think, I've never been more optimistic. We're excited about the future of Tesla and then the
+history of the company. Thank you.
+`Martin Viecha, Senior Director of Investor Relations `
+Thank you very much. And I think our CFO, `Zachary Kirkhorn, Chief Financial Officer has some remarks as well.
+`Zachary Kirkhorn, Chief Financial Officer `
+Yes, thanks, Martin. I want to start by thanking our employees, customers and suppliers for your
+support over the last quarter. In particular to the Tesla team, I couldn't be more impressed with
+the hard work and the resiliency that you all have shown. On net income, overall, as Elon
+mentioned, we achieved our fourth sequential quarter of profitability. This is despite a significant
+impact to our financials as a result of suspended operations of our US factories and field
+operations around the world. To ensure the business remains healthy, we took temporary action
+to reduce costs, including expenses related to personnel and non-critical path projects. The direct
+cost savings that the direct cost impact of the temporary shutdown was largely offset by these
+cost savings actions, although the costs were concentrated in COGS and the cost reductions
+were in both COGS and operating expenses.
+On automotive gross margin excluding regulatory credits, this reduced sequentially from 20% to
+18.7%. This sequential reduction is fully attributed to idle capacity charges and lower operational
+efficiency due to the various shutdowns. Despite these charges, we continue to make progress
+reducing our costs, particularly on Model Y in Fremont and Model 3 in Shanghai. Given the global
+macroeconomic context, we made the decision in Q2 to pass-through savings to customers
+around the world on some of our products. With the release of Stop Light and Stop Sign
+recognition and response, we recognized $48 million of deferred revenue in the period.
+The full profit impact on our P&L is less than half of this due to cost associated with FSD computer
+retrofits in the field. Regulatory credit revenue increased sequentially to $428 million. While
+difficult to forecast precisely, our best estimate of 2020 credit revenue is roughly double that of
+2019. Services and other margin improved yet again, marking the 5th sequential quarter of
+improvement. In the Energy business, our Megapack product achieved its first quarterly profit. We
+remain production constrained in this business and are continuing to work towards building
+additional capacity. And our solar installation business was impacted by permit office closures
+limiting installation volume.
+Stock-based comp increased from Q1 to Q2. This is driven almost entirely by an expense related
+to the next tranche of the CEO grant as well as early vesting of the first tranche, which ishighest level yet of $8.6 billion, which included free cash flows of over $400 million. This is a
+strong result on its own, despite an increase in capital expenses associated with Shanghai and
+Berlin, as well as movements in working capital. A few things to note on working capital,
+particularly accounts receivables. While our AR balance is usually about 20% of revenue, it can
+fluctuate depending upon a number of factors.
+First, overall, less than 30% of our receivables is associated with new car sales. Second, due to
+payment terms associated with financing and enterprise customers, settlement timelines for
+certain methods of cash payments and geographic mix of our deliveries, our cash balance and
+associated receivables are impacted significantly by how many cars are delivered in the final
+weeks and days of the quarter. Third, roughly 40% of the balance is attributed to payment terms
+on regulatory credits sales and statutory easy incentive programs, both of which have been
+increasing. Customer deposits reduced slightly as well. Note that as we transition to lower order
+fees across the world, the average deposit per order will continue to reduce, driving down this
+balance.
+As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+We will continue to appropriately manage our cash flows to cost optimization and close working
+capital management. This is key as we remain focus on expanding production, scaling our
+operations and preparing for the launch of three new factories over the next year and a half.
+Questions And Answers
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you very much. Let's go to questions from institutional investors first. The question number
+one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per
+year, what are the most important vehicle programs that will drive volume growth over the next
+three years to five years beyond Model 3, Y and the Cybertruck. Cheaper smaller versions of 3
+and Y, are region specific vehicles or anything else?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Well, I think we can comment on our detailed roadmap beyond what's announced because I
+agree everyone knows about full product launches. But it would be reasonable to assume that we
+would make a compact vehicle of some kind and probably a higher capacity faster vehicle, some
+kind -- it's -- these are likely things at some point. But I do think there's a long way to go with 3
+and Y and with Cybertruck and Semi, it's a long way to go with those. I think we'll do the obvious
+things.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Okay. The second question from institutional is what is your vision for software at Tesla? What
+opportunities do you see for monetizing the installed base? Are they done by FSD?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Right now, by far, FSD it's just overwhelmingly the most important thing. I think the upgrading of
+the fleet to full self-driving essentially with an over there a software update, I mean, we go down
+is the biggest asset value increase in history as a step change. Maybe there's something bigger,
+but it's certainly would be one of the biggest. I can't think of anything bigger. So overnight, 1
+million exactly when it happens and when it's allowed in various regulatory jurisdictions, you wouldhave like at least few million cars suddenly becoming 5 times more valuable or something like
+that.
+It's only 5 times higher utility. They go from 12 hours a week of utility, something like that or
+above. It doesn't mean, hours are used to 60, something like that. So everything else is pretty
+small by comparison. Now when things do become full self-driving, so what if we were going to
+do in the car. Well, I guess we probably going to do productivity and entertainment as we guide,
+what maybe is play games and do work, well, that's from the future. We're already putting some
+games and stuff on the car just for fun.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yes, we have been experimenting on that. So FSD remains by far and away the biggest
+opportunity in the near term, but we're putting the plumbing in place to be ready to scale other
+areas when the time is right. So premium connectivity subscription is something that we put in
+place. And the ability to upgrade your vehicles through the app for example an acceleration test,
+or upgrading a Standard Range Model 3 to a Standard Plus, I think we are heated seats. So these
+are things that we have and we're continuing to get feedback from the field and other things that
+we can launch and will trickle those and with time.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes, but they're all very tiny compared with like the step change through full self-driving
+depending upon how you calculate it is probably with at least $100,000 per car. So it's the less
+offer you have to sell in the App Store or whatever.
+A - `Martin Viecha, Senior Director of Investor Relations `
+And thank you. The third question is also about Autopilot. What are the most important upcoming
+self-driving milestones, and how do you think about timing?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Well the actual major milestone that's happening right now is really a transition of the autonomy
+system of the cars like AI if you will from thinking about things in like 2.5 feet, it's like things like
+isolated pictures and doing image recognition on pictures that are partially correlated in time, but
+not very well and transitioning to kind of a 4D where it's like -- which is video essentially. You're
+thinking about the worlds in 3 dimensions and for the 4th mentioned being time. So that
+architectural change which has been underway for some time that is not really been rolled out to
+anyone in the production fleet is what really matters for self-driving.
+So what we've been doing thus far is really just been looks like 2D, mostly 2D and like I said, not
+well correlated in time. So just -- it's just hard to convey just how much better a fully 4D system
+would work -- does work. It's capable of things that if you just looking at things as individual
+pictures as opposed to video, basically like you could go from like individual pictures to surround
+video. This is fundamental. So the car will seem to have just like a giant improvement. I know we'll
+probably roll it out later this year. But be able to do traffic lights, stop turns, stops everything,
+pretty much. And then it will be a long march of 9s, essentially how many 9s of reliability are okay.
+So it definitely way better than human, but how much better than human, just need to be. So
+that's actually going to be the real work is just a massive amount of work with each kind of order
+of magnitude of reliability. But you'll see it happen and if you plot the points on the curve, it will be
+kind of office where it's ended. AI in general I think is something I've been saying this famous AIdrum for a decade, we should be concerned about where AI is going. And to people I see being
+the most strong about AI are the ones who are very smart because they can't imagine that a
+computer could be way smarter than them. That's the floor and the logic. They are just way down
+than they think they are.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you. And the next question from institutional investor is, please may you update us on Alien
+Dreadnought, how has your thinking evolved and what is needed in order to get closer to
+fundamental physical limits?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+We're putting a massive amount of effort into the factoring engineering, the machine that makes
+the machine. There's probably 1,000%, maybe 10,000% more engineering required for the
+factory, than for the product itself. So we're certainly making progress. I mean, Battery and
+Powertrain Factory, Gigafactory Nevada is an Alien Dreadnought Version 0.5, something like that.
+So starting to approach Version 1. We're getting way better at making cars, you can see that in
+Giga Shanghai. You'll see that even more with the -- with Berlin and we're really changing the
+design of the car in order to make it more manufacturable. The fundamental architecture of
+Model Y will be different in Berlin. It may look the same, but the internals would be quite different
+and fundamentally more efficient architecturally than what we've done to date.
+Drew, would you like to add to that?
+A - `Drew Baglino, Senior VP, Powertrain & Energy Engineering `
+Yes, I was going to extend on that thought. I think part of the Alien Dreadnought concept is not
+just automation but minimizing the number of process steps and complexity involved in the
+manufacturing system, which involves really integrating design and manufacturing across
+something like when the raw materials, into the factory to the finished goods and we're learning
+so much through doing that.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Vertical integration is extremely important for this, but the supply chain -- if you put like a GPS
+Tracker on a molecule from when it got mined to when it was going to a usable product, we're
+looking the same, it would be like, well, went around the world like six times. So with vertical
+integration, maybe you can, I think around the world once, there is huge improvement or not
+even like half of, I think we're half of value we're getting vertical integration like will I get an order
+of magnitude improvement. So yeah and you draw me right.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+I think the focus for us is increasing CapEx efficiency, this is something that we've been working
+very hard for the past three years and you can see that we can build new factories for less
+amount of money and much faster.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yeah.
+A - `Zachary Kirkhorn, Chief Financial Officer `These things were together.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+So better factory for less money in less time.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yeah, less money means less time. So that's a great advantage and we're also reducing this and
+there is still is a lot the amount of inefficiencies. We want every operation to add value to the
+vehicle, value meaning moving the atoms closer to their final state. So we do not want any robot
+that just moves things.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+(multiple speakers) in fact, that's like, we're going to be super respectful of people's labor and if
+we're asking somebody to do something, we sure it's useful, we exponentially spend their timing
+in a way that is respectful of their time, but it's like while the potential for improvement is
+tremendous and like that's why I want to be clear, here at Tesla we love manufacturing it's
+awesome. And I really think more smart people to be working or manufacturing.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+That's more and more people (multiple speakers) if people are interested in designing new lines
+and trying to do the things different, Tesla has got a job for you. And now we've got job
+everywhere, it's not only in California, so we've got jobs in China, in Berlin, in Austin, Texas and in
+California. So, there's plenty of exciting places and all these places will do original work and
+challenging meaningful work, yeah.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Absolutely. It's actually extremely for info point to design new production systems. And I think that
+some reason I kind of got a bad rap especially in the US for a long time and I think if he wasn't
+think that manufacturer sort of the manufacturing is like I'd just pour some borrowings, making
+copies whatever, but actually this far more opportunity for innovation and manufacturing then in
+the product itself order of magnitude. So, but like if there's one thing that comes out of this call,
+it's like, hey, if you want to help us invent amazing, manufacturing techniques and having put into
+the product itself, it's not like you just get touch the product and say hey make this -- this product
+and it's a kind of allows you design, you get -- if you're manufacturing, you get to change the
+product design and say, hey, this product you're asking, the manufacturing is done, then like
+great, you must fix it. So, at Tesla, if you are manufacturing, engineering, you are not just getting
+post better to a sandwich, you get to change the product design. So, it's super exciting and
+revolve the lines even after their book, this rapid evolution of the production system. So --
+A - `Zachary Kirkhorn, Chief Financial Officer `
+And there's nothing more rewarding than going from zero cars now to 5000 cars a week or
+1000 cars a day.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+So, you know like that long-term sustainable advantage of Tesla I think will be manufacturing.
+A - `Martin Viecha, Senior Director of Investor Relations `Thank you very much. And the last question from institutional investor is how many vehicles can
+Tesla produce in Texas?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Well, right now, zero, but long-term a lot.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Our biggest property.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes, biggest property in term.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Okay. And now we can shift to retail investor questions on say.com. The first one is, Tesla Energy
+seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding
+automotive. Could Tesla share more detail on calendar planned projects to help investors better
+understand the business outlook. How disruptive is Tesla's Autobidder technology.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yeah, I kind of -- I think long-term Tesla Energy will be roughly the same size as Tesla Automotive.
+So I mean the energy business collectively is bigger than the Automotive business. So, you say
+like how big is the energy sector, bigger than automotive. So, and in order to achieve a
+sustainable energy future, we have to have sustainable energy generation, which I think is going
+to be primarily solar, followed by wind and those are inter median, so you need to have a lot of
+batteries to store the -- store the energy because wind doesn't always blow and sun doesn't
+always shine.
+So -- so there's like three elements of the sustainable energy future wind and solar sustainable
+energy generation, battery storage and electric transport, those three things. And the mission of
+Tesla is to accelerate sustainable energy. So I kind of say it's not the -- like, yeah, battery and
+solar will both be enormous and that kind of have to be in a first have a sustainable future and
+we've got a great product roadmap on that front as well. So we've been shipping the Megapack,
+is very well received, yeah, go ahead and talk about that.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yeah, I think the -- the Megapack is -- has represented itself and is an integrated rapidly
+deployable grid tied storage battery of megawatt hour scale. We're working with utilities, large
+and small, not just utilities, but also just like microgrid and project developers of all type and
+building our own projects where it makes sense. And there's a lot of demand for the product and
+we're growing the production rates as fast as we can for that product. And then on autobidder is
+basically autopilot for grid tied batteries. It's an autonomous energy market participation system
+that does high-frequency trading and ensure --
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+That's a bad word. (47:09) we call it front running, we're not doing that.
+A - `Zachary Kirkhorn, Chief Financial Officer `Not doing anything like that, no it's ensuring that the battery is doing everything it can to manage
+the indemnity of the renewables and just grid intermittency of all kinds, I mean people turn their
+lights on and off, power plants turn on and off, factories ramp up and down and batteries are
+great to solve those problems.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yeah, it is grid stabilization at the millisecond level. So it just ensures that things are serviced from
+a -- it's like a UPS uninterruptible power supply of a normal size, but just ensures that there is the
+grid has smooth sailing and then that the batteries the computers like all interact with each other
+and make sure that they are working together to make the grid as smooth and this can be done
+with the Powerwalls and the Megapacks and the Powerpacks all working together and interacting
+with third party systems as well.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yeah, essentially are distributed, it does both. Yeah, I mean we've --
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+I mean this is necessary in order to solve the sustainable energy from --
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yeah, you can't plan power plants on the hourly scale in a renewable world, you need to plan --
+you need to optimize them on a minute-by-minute ago and that's what we're doing.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yeah, all right, the real limitation on Tesla growth is cell production at affordable price, that's a --
+that's real limit. So that's where we're going to talk a lot more about this on Battery Day because
+this is a fundamental scaling constraint. And any part of that supply chain or pressing at the cell
+level will be limiting factor. So whatever it may be anywhere from mining to refining and as many
+steps on our refining to cathode and anode formation, self formation, whatever the toe point is
+that will set the growth rate. And so we expect to expand our business with Panasonic with CATO,
+with LG possibly with others and there is a lot more to say on that front on Battery Day.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you. The second question is not at this time to bring the Tesla Semi to volume production.
+Can you share more detail on production plans, about weekly production rate is considered
+volume production and when dose this like expect to reach that rate.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Okay. (inaudible) production next year as we announced before, I'm personally very care about
+the project. I can't wait. We do have a few trucks that keep driving round then that can deliver in
+cars, but we're going to accelerate that. I want to be clear that the first few units we will use
+ourselves Tesla to carry our own freight, probably must be between Fremont and Reno, which is
+a fantastic test route. We're going to prove that we have very good reliability. I mean, so far, the
+early units do have it, but we'll do that at the larger scale. And we have also promised some early
+units to some long-term, very patient and supportive customers and we'll do that and now we
+have more sales coming up in next year as Elon just pointed out. So we can increase the diversity
+of the portfolio. It didn't make sense up to now to do it, but we'll be ready, and that's maybe alittle bias, I'm very excited about this. And we have a lot of very unique technology that we've
+always dreaming about that we will be putting into the Semi, it will be just awesome.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. And just, there's like two general classes of cell, there's like iron phosphate and then the
+nickel based. The nickel based cells have higher energy density so longer range, obviously, those
+are needed for something like a Semi where every unit of mass that you add in battery pack, you
+have to subtract in cargo, so it's very important to have a mass efficient and long range pack for
+batteries. Cargo, what we're seeing with our passenger vehicles is that our Powertrain efficiency,
+and the supplier efficiency, drag coefficient like basically all of the things that like our HVAC going
+to a heat pump. Basically, our total vehicle efficiency has gotten good enough with Model 3 for
+example that we actually are comfortable having an iron phosphate battery pack in Model 3 in
+China, that will be in volume production later this year.
+So we think that getting a range that is in the high 200s basically, but we think probably get a
+range of almost 300 miles with an iron phosphate pack, taking into account a whole bunch of
+Powertrain and other vehicle efficiencies. And that frees up a lot of capacity for things like the
+Tesla Semi and other projects that require high energy density. So yes, it sounds like two supply
+chains that you can tap into iron phosphate or nickel. We use very little cobalt in our system
+already and that's that may trend to zero long, so especially about nickel.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you. The next question is Tesla recently decided not to produce Standard Range version of
+Model Y, no longer offers the Standard Range Model S or X, and has announced ramping of the
+Semi. Does this shift from smaller pack vehicle suggest that Tesla is not battery constrained as in
+the past, what are the biggest constraints now?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Well, I'd just like to re-emphasize any mining companies out there, please mine more nickel, okay.
+Wherever you are in the world, please mine more nickel and don't wait for nickel to go back to
+some long -- some high point that you experienced some five years ago, whatever. Go for
+efficient as environmentally friendly nickel mining at high volume. If -- Tesla will give you a giant
+contract for a long period of time if you mine nickel efficiently and in an environmentally sensitive
+way. So hopefully this message goes out to all mining companies, please get nickel.
+With regard to passenger vehicles, I think the new normal for range is going to be just in US EPA
+terms, approximately 300 miles. So I think people will really come to expect that as some
+number close to 300 miles as normal, that's a standard expectation. Because you do need to
+take into account like, is it very hot outside or very cold or are you driving up into a mountain with
+a full load. And it's -- people don't want to travel, get to the destination with like 10 miles range,
+they want some regional reasonable margin. So I think 300 is going to be really or close to 300 is
+going to be a new normal, close to 500 kilometers basically, roughly.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you. The next question on insurance. What is the hold up for Tesla Insurance outside of
+California? Will you release numbers from that part of the business? Will Tesla Insurance be
+required to participate in the Tesla ride-hailing network as a driver?
+A - `Zachary Kirkhorn, Chief Financial Officer `Sure. And yes, we're joking before the call that we get the quarterly insurance question that
+something [ph] I come here. We are working super hard on insurance. I'll go into a little bit more
+detail here than I have on the past. Currently we have a product in California, as I've described
+before, it's been quite well received and I would largely describe it as a fairly standard insurance
+product with elements of it that are unique to our cars. So you can think of it is a Version 1 of Tesla
+Insurance.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes, Version 0.9, is it getting at least.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+0.9. What we're working on now is we can call it Version 2 or we can call it the first Version of our
+Telematics product. And so really ultimately we want to get you with Tesla Insurance is to be able
+to use the data that's captured in the car and the driving profile of the person in the car to be
+able to assess correlations and probabilities of crash and be able then assess a premium on a
+monthly basis for that customer. And what makes this very exciting for us is the amount of data
+that is available with the customers' permission to use is it's not available in any other product or
+any other vehicle in the world. So this gives us a unique advantage in terms of information. And
+we have a decision point here where we could take the California product and replicate that into
+other states or we could delay going into additional states and instead put more effort into the
+Telematics side of this. And we chose the latter. And where we are now is nearly complete with
+the risk and cost analysis associated with the first version of the Telematics product.
+We hope to be filing that in a handful of states with regulators very shortly. And assuming that
+regulatory approvals go smoothly, we hope to have this in a handful of states by the end of the
+year. And then we'll continue to file for approval in additional states with regulatory approval
+there, we'll continue to roll this out nationwide as quickly as we can. And then that product as we
+continue to collect more data and reiterate on it, will be Version 2, Version 3 et cetera as we
+continue to refine that.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. I mean, at the heart of being competitive with insurance is what is the accuracy of your
+information like are you dealing with -- are you forced to assess people statistically, you're looking
+in the rearview mirror or can you assess people individually looking ahead with smart projections
+and inform the driver that of -- how they may reduce their -- what actions they can take to reduce
+their insurance as Zach was alluding to. It's like, okay, you're driving too fast, you're -- and this lot
+of the other thing, it's like, if you want to pay more for insurance, you can, but if you want to pay
+less, then please don't drive so crazy.
+Then, people can make a choice, like okay, they want to drive aggressively, in the case, it'll will be
+higher insurance or they want more capital, enter the driving and it would be pay less. It's also
+actually very helpful for us to have a feedback, we have to see what is driving insurance expense.
+A lot of it is just -- it's like little fender bender and the net fender bender because of the way that
+the body collision repair was being done, it cost like $15,000 or something, crazy and like we'll
+have -- and I mean we can actually adjust the design of the car, and adjust how the repair is done
+to actually have the fundamental cost of solving that problem be less. So this has helped us under
+a whole bunch of silly things that we're doing basically without realizing it.
+This is a problem in general with insurance, it's like, if the insurance is like, or you can eat, then the
+feedback loop for improvement is sweet. So this gives us a great feedback for improvement,because it's basically a fundamentally better insurance product. I'd also like say in spirit of
+recruiting because if there's one thing I'd like to come out of this call, it's that a lot of great
+people want to join Tesla. That's no one thing I'd like on this call. And on the insurance front, I
+wanted to clear we're building a great like a major insurance company. If you're interested in
+revolutionary insurance, please join Tesla. I would love to have some high energy actuaries
+especially. I have great respect for the actuarial profession, your guys are great at math, please
+join Tesla, especially if you want to change things and you're annoyed by how slow the industry is.
+This is the place to be. We want revolutionary actuaries.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Okay, thank you very much. And in the interest of --
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Sorry, there was a second part of this question, will Tesla Insurance be required to participate in
+the Tesla ride-hailing network? And so I think I've answered this before in prior calls, but by the
+time the ride-hailing network is available, we will -- Tesla Insurance coverage will be provided to
+folks who are in this network. It's a different type of insurance because of the use of the car. It's
+not decided whether third party insurance versus Tesla Insurance will be required, there might be
+some things we need to think through there. But Tesla Insurance at least, we'll be working --
+working for the ride-hailing network.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you very much. And In the interest of time, let's go to the Q&A of analysts on the line.
+Operator
+Thank you. Our first question will come from `Dan Levy, Analyst, Credit Suisse with Credit Suisse. Please go ahead.
+Q - `Dan Levy, Analyst, Credit Suisse `
+Hi, good afternoon. Thank you. I'll ask a question on the quarter and the question more broadly
+on strategy. Just on the quarter, if you could give us an update on gross margin, was China
+accretive to gross margin in the second quarter and give us an idea of how far off Model Y, gross
+margin was versus Fremont Model 3? And then just more broadly on strategy, it seems like your
+approach to in-sourcing is varying by region, you're in sourcing a lot more in Fremont, but you're
+relying a lot more of the supply chain in Shanghai. What do you expect your approach to be on in-
+sourcing when you eventually open up Berlin and what your Texas factory is going to be? Thank
+you.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yes. And just to start with the gross margin questions, we did see progress on gross margins in
+China, and that was despite pricing action that was taken. The factory is still not running at full
+capacity yet as it continues to ramp. So we think there is continued opportunity to optimize the
+cost structure there. Model Y, as we mentioned last quarter, it was profitable in its first quarter of
+production. And despite the inefficiencies that we had due to the shutdown, we did see a pretty
+substantial improvement in the Model Y margin. And as we said before, the Model Y cost
+structure and Model 3 cost structure will converge. They're not quite there, Model Y is still slightly
+more expensive than Model 3 and it's not yet at full production. And with Model Y carrying a
+slightly higher price point, you can kind of back into the math there on the relative gross margins.A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. The Shanghai factory is pretty big factory. But -- and there is -- it's continuing to do more and
+more internally. But it's also -- the thing that's really helping us is like they were previously a ton of
+parts that were made in other parts of the world that were being shipped to Shanghai from every
+part of the world. And just locally sourcing both those components, it makes a massive difference
+to the cost of vehicle. And, I mean, the proportion of local sourcing is literally been pricing it like
+5% to 10% a month, from 40 -- it was like 40% at the beginning of this year, something like that. It
+will be like 80% by the end of this year, maybe more.
+A - `Drew Baglino, Senior VP, Powertrain & Energy Engineering `
+There is also a large, very strong, very competent and very eager suppliers are on the factory in
+Shanghai.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yeah. I would say like this, suppliers in China have been extremely competitive, possibly the most
+competitive in the world.
+A - `Drew Baglino, Senior VP, Powertrain & Energy Engineering `
+And so far, we're in negotiations with -- for Berlin and we've awarded a lot of business, also, a lot
+of suppliers in Germany or the rest of Europe, they are eager to support the factory in Berlin.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. Well, obviously, Germany has a great automotive industry and supply chain, so actually a ton
+of our suppliers are in Germany within like a few hundred kilometers to factory.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you very much. Let's go to the next question please.
+Operator
+Our next question will come from `Toni Sacconaghi, Analyst, Bernstein with Bernstein. Please go ahead.
+Q - `Toni Sacconaghi, Analyst, Bernstein `
+Yes, thank you. You mentioned in the slide deck, a couple of times that you were pleased with
+gross margin with PTI margin progress and you expect it to achieve industry-leading operating
+margins over time. Maybe you could shed a little light on that, industry leading for luxury vendors
+is 8% to 10% PTI, for Porsche it's smaller at 17%, for mass market vendors, it's 5% to 8%. What do
+we think about and how much ultimately do you believe that EV credits will contribute to that
+margin? Because I know your margin has been 5% over the last 12 months, but it's actually less
+than 1% excluding EV credits. So it's a 4 point contribution right now. How do we think about
+ultimately what industry leading margins are and how much of that you think is coming from EV
+credits, regulatory credits? And I have a follow-up, please.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Sure. I've mentioned this before in terms of regulatory credit, we manage the business so
+differently. We don't manage the business with the assumption that regulatory credits willcontribute in a significant way to the future. Yeah, I do expect regulatory credit revenues to
+double in 2020 relative to 2019, and it will continue for some period of time, but eventually this
+stream of regulatory credits will reduce.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. I mean it's worth noting that we are -- buyers of our car in the US received zero federal tax
+credit, whereas, many of our competitors are like they get a $7,500 pack tax credit. And yet our
+sales have continued to do well.
+A - `Zachary Kirkhorn, Chief Financial Officer `
+Yes. And so what we see is continued decline in the cost to produce manufacture and distribute
+our cars. That cost curve even for mature products like the S and X continues to come down as
+we work on that Model 3, which is our second most mature product, that continues to come
+down. You then layer on top of that, as Elon was discussing earlier, the potential for software-
+based revenue particularly full self-driving. And then there is the revenue recognition portion of
+that, that we have today, that will expand as we release more features. And then you can layer on
+top of that in the future revenue from a ride-hailing network. Operating expenses continue to
+come down and become more efficient as a percentage of revenue. There's still incredible
+opportunity there that we're working on particularly on how customers interact with the company
+from sales and service and what their flow is and how we get cars to them. So we continue to see
+efficiencies there. So in the medium term here, what our modeling shows is in the low teens
+operating margin level. And I think there continues to drive the opportunity to drive that up. So --
+and here your point on the 5% and the 1%, we're on a bit of a journey here and we're continuing
+to be partners.
+Q - `Toni Sacconaghi, Analyst, Bernstein `
+Thank you. And if I could just follow-up, Elon, you've talked a lot about the mission of the
+company -- and really trying to drive EV adoption globally. So how do you think about that trade-
+off between driving towards industry-leading profitability, yet trying to make your cars more
+affordable and broader? It feels like, historically, you've always picked the path of, I'd rather drive
+more growth and more adoption because ultimately, that's the mission of the company, and we
+even saw it a little bit this quarter with price reductions, you could have probably kept price where
+it is, sold some units and had better profits. But that's been an ongoing choice that Tesla, as a
+company has made. So how do you personally think about that trade-off between, even if you
+were to get to industry-leading margins, wouldn't you be inclined to give more of that back to
+drive a greater adoption more quickly?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Well, I think we actually achieved both when you factor in autonomy. I think we can go way beyond
+industry margins and have the car be affordable to more and more people and potentially almost
+everyone when factoring in autonomy. But that was really a mega game changer, giga game
+changer. Yes. But I mean, it is important for people to distinguish between two things. There's
+value for money that our product has, and then there's affordability. And even if you rail value for
+money and have value for money, like infinite, if people do not have enough -- if people do not
+have enough money in their bank accounts to buy the car, they simply cannot. So then you used
+to have this cycle or something that nobody can buy. So it is important to make the car affordable,
+I think we will not succeed in our mission if we do not make cars affordable.Like the thing that bugs me the most about where we are right now is that our cars are not
+affordable enough. We need to fix that. So we're all making progress in that regard, just sort of
+steadily gaining progress. So yes, we need to not go bankrupt. Obviously, that's important
+because that will fail in our mission. But we're not trying to be super profitable either, obviously,
+profitability is like 1% or something, 1% or 2%. It's not crazy. Last quarter, it was something like
+0.1%. So we want to be profitable. Like I think just we want to be like slightly profitable and
+maximize growth and make the cars as affordable as possible, and that's what we're trying to
+achieve.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you. Let's go to the next question please.
+Operator
+Our next question will come from `Emmanuel Rosner, Analyst, Deutsche Bank with Deutsche Bank. Please go ahead.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank `
+Hi, good afternoon. Could you please characterize the current near-term demand environment
+for your vehicles? These are obviously unusual times. I think back in Q1, you had indicated record
+backlog, I guess, at the beginning of this past quarter. I haven't seen any specific comments
+about new orders or backlog in the release today. So, can you give us some color?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Demand is not a problem. Definitely not. We do have some production supply chain challenges
+we're trying to solve right now. For example, the Model Y, rear body casting, obviously, because
+it's new technology, it's been tricky to maintain rates and keep growing the rate for Model Y
+casting, which is -- it's a two-piece casting with a bunch -- and there's about half dozen other
+parts that are added on, that will transition to a one-piece casting. In fact, I'm super excited about
+this. We're going to have a -- the world's biggest casting press is getting assembled right now
+actually in Fremont for the Model Y rear body casting. It's enormous and looks awesome. So, it's -
+- look, the things that are troubling us right now are not demand, that they are just a bunch of
+firefighting on supply chain and production issues.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank `
+Okay. So --
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Sorry. Yes. Don't worry about demand. That's not the issue.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank `
+Okay. So, when you're saying you're achieving 500,000 deliveries has become more difficult,
+was it really just a function of the recent shutdowns and some of these supply dynamics?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. It's not true at demand. It's really just a production issue. It's been pretty hard when you've
+got like a global supply chain, and it's kind of whatever the most effective part of that global
+supply chain is that sets your rate. I mean, the number of rabbits do know how to pull out of a hatfor supply chain is insane, team has done an amazing job. So, I think also some of our costs were
+related to having to use a lot of airplanes to get parts around because of part shortages. So, we'll
+hopefully use fewer airplanes. That will improve our costs, but demand exceeds supply right now.
+That's where we are at right now.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Thank you very much. And the last question, please.
+Operator
+Our last question today will come from `Philippe Houchois, Analyst, Jefferies with Jefferies. Please go ahead.
+Q - `Philippe Houchois, Analyst, Jefferies `
+Yes. Good afternoon. Thank you. You mentioned a few times the constraint to growth is battery
+capacity still. And I was hoping you could clarify the scope of the Berlin plans for building right
+now. Will there be the battery capacity consistence with the amount of assembly volume you
+expect to come out of Berlin? And if not, would you be able to source, your battery
+requirements, out of Europe? Or would you have to import batteries from outside Europe to
+ensure production in Berlin?
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Okay. We can't say too much about this. Except that, where there will be local cell production and
+-- that will serve the needs of the Berlin factory. Drew, is there anything?
+A - `Drew Baglino, Senior VP, Powertrain & Energy Engineering `
+I mean, no, that's straightforward enough. I think just adding to what you said earlier about talent
+and people, like the same goes in all areas of cell, supply chain, manufacturing materials, design,
+we are solving this problem. And we -- we're treating it like any other problem that we have
+solved. We will solve this problem, and we'll have talented people to join us as we solve this
+problem.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes. And like, so my biggest concern for getting our talented people is just probably Berlin,
+because the labor mobility in Europe is not as low. I would recommend changing this. Like
+somebody wants to leave and join another company, sometimes they have to spend six months
+on Garden Leave. It's called garden, hanging out in the garden, basically. And like this is not a
+good use of people's time. I mean, if they want us to hang out on the garden, that's fine, but
+they shouldn't have to.
+Q - `Philippe Houchois, Analyst, Jefferies `
+Understood, Elon. Thank you.
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+I mean, those are not Europe. We know what we're talking about.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Philippe, do we have a follow-up question?Q - `Philippe Houchois, Analyst, Jefferies `
+No. That's fine. Thank you very much.
+A - `Martin Viecha, Senior Director of Investor Relations `
+Okay. Thank you very much, everyone, for joining this call, and thank you for all your good
+questions. And we'll speak to you again in about three months
+A - `Elon Musk, Founder, Chief Executive Officer and Director `
+Yes, maybe sooner with battery. Okay, thanks.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation.
+You may now disconnect.

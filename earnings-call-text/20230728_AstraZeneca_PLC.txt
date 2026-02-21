@@ -1,0 +1,1145 @@
+S1 2023 Earnings Call
+
+Presentation
+Operator
+Good morning to those joining from the U.K. and the U.S., good afternoon to those in Central
+Europe, and good evening to those listening in Asia.
+Welcome, ladies and gentlemen, to AstraZeneca's Half-Year and Q2 Results 2023 webinar for
+investors and analysts. Before I hand the call over to AstraZeneca, I'd like to read the safe harbor
+statement. The company intends to utilize the safe harbor provisions of the United States Private
+Securities Litigation Reform Act of 1995. Participants on this call may make forward-looking
+statements with respect to the operations and financial performance of AstraZeneca.
+Although we believe our expectations are based on reasonable assumptions, by their very
+nature, forward-looking statements involve risks and uncertainties, and may be influenced by
+factors that could cause actual results to differ materially from those expressed or implied by
+these forward-looking statements. Any forward-looking statements made on this call reflect the
+knowledge and information available at the time of this call. The company undertakes noobligation to update forward-looking statements. Please also carefully review the forward-looking
+statements disclaimer in the slide deck that accompanies this presentation and webinar.
+There will be an opportunity to ask questions after today's presentations, please use the raise
+hand feature at any time to indicate you wish to ask a question, and please remember to unmute
+your line when invited to speak. And with that, I'll now hand you over to the company.
+`Andy Barnett, Head of Investor Relations `
+Thank you, operator, and welcome everybody, I'm `Andy Barnett, Head of Investor Relations, Head of Investor Relations at
+AstraZeneca, and I'm very pleased to welcome you to AstraZeneca's First Half and Second
+Quarter of 2023 Conference Call. As usual, all materials presented are on our website. This slide
+contains our usual safe-harbor statement. We will be making comments on our performance
+using constant exchange rates or CER, core financial numbers and other non-GAAP measures. A
+non-GAAP to GAAP reconciliation is contained within the results announcement. Numbers used
+are in millions of US dollars, unless otherwise stated.
+This slide shows our agenda for today's call, following our prepared remarks we will open the line
+for questions. We will try and address as many questions as we can during the allotted time,
+although I'd ask participants to limit the number of questions you ask to allow others a fair chance
+to participate in the Q&A.
+As a reminder, to ask a question, please use the raise hand function in zoom or, alternatively, you
+can click the Q&A button and write your questions.
+With that, Pascal, I'll hand the call over to you.
+`Pascal Soriot, Chief Executive Officer `
+Thank you. Hello, everyone, and welcome.
+Please move on to the next slide. Total revenue in the first half of the year increased 4% to $22.3
+billion, with 16% growth in our non-COVID medicines offsetting a $2.2 billion decline in our COVID-
+19 medicines revenue. Core earnings per share increased 21% to $4.04, this increase reflects
+both our robust business performance as well as a gain following an update to our contractual
+relationships for Beyfortus in the US. We continue to benefit from our diverse commercial
+portfolio and our global footprint. Given our strong execution in the first half, we remain confident
+in our outlook for the remainder of the year, and we have reiterated our 2023 guidance.
+Next slide please. Taking a closer look at the performance of our non-COVID business across our
+regions and disease areas. Growth in the emerging markets continue to be strong, in particular
+outside of China. Emerging mass -- markets outside of China collectively grow by 38% in the first
+half. This growth underscores our confidence that these markets will become increasingly
+important to our business. We also saw double-digit growth across the EU, and Europe in the
+period. On the right-hand side, you will see that we delivered a robust double-digit growth across
+Oncology, CVRM, R&I and Rare Disease, and as expected, we saw declines in V&I. This growth
+reflects strong medicines performance across these areas.
+Please advance to the next slide. When we look at performance across our portfolio in the first
+half, we had eight medicines deliver over $1 billion each in product sales. A broad range of these
+products are driving our growth, as you can see from this slide. Through effective lifecycle
+management, we've seen an acceleration in the rate of growth for several medicines, such as
+Imfinzi and Farxiga, with new indications making important contributions to revenues. Ultomirisgrowth in patient numbers. We've also seen promising global growth from some of our more
+recently launched medicines, including Enhertu, Calquence, Breztri, Tezspire and Saphnelo, all of
+which are helping to change the course of their respective diseases.
+Next slide please, confidence in our long-term outlook is supported by our robust late-stage
+pipeline, which now has well over 120 active projects.
+Importantly, we maintain a rigorous approach to R&D development, setting a high bar for late-
+stage trial initiations, and advancing only the most promising projects. We strive to stay at the
+front of the innovation curve, and we have already progressed 14 unique new molecular entities
+into late-stage development. We're making good progress towards initiating 30 new pivotal trials
+this year, adding those nine in the year-to-date, with the recent additions including the LITHOS
+trial for Breztri in asthma, and two next-generation PROpel trials, which will support expansion of
+our pMDI portfolio. As we indicated last quarter, most of the new pivotal trials are expected to
+dose in the second half of this year. Our pipeline continues to make exciting progress with eight
+positive pivotal oncology trials already this year. These are shown on the right-hand side of this
+slide. In particular, we are encouraged by the positive results from the TROPION-Lung01 trial of
+Dato-DXd and are excited to unlock the full potential of this promising medicine.
+On the next slide Aradhana can take you through our financial highlights in the first half as well as
+provide some further insights into how we are embracing the power of artificial intelligence
+across our manufacturing and supply chains. Over to you, Aradhana.
+`Aradhana Sarin, Chief Financial Officer `
+Thank you, Pascal, and good afternoon, everyone.
+As usual, I will start with our reported P&L. Please advance to the next slide. As Pascal mentioned,
+total revenue increased by 4% to 20 -- $2.3 billion in the first half. Total revenue excluding COVID-
+19 medicines increased 16%. Alliance Revenue of $627 million includes $475 million of Enhertu
+profit-sharing from geographies where Daiichi Sankyo books product sales. Collaboration
+revenue of $220 million includes $180 million license fee from the Serum Institute of India booked
+in the second quarter relating to our COVID-19 antibodies license agreement.
+Please advance to the next slide, which shows our core P&L. The core product sales, gross
+margin in the first half was 82.9%, benefiting from lower production cost in prior quarters and
+certain nonrecurring items in the first quarter. As previously communicated, we expect the
+product sales gross margin in the second half to be negatively impacted, similar to in prior years,
+by seasonality for FluMist and certain other medicines, the mandatory price reduction for Tagrisso
+in Japan as well as the full impact of inflation. We still expect the product sales gross margin on a
+full-year basis to be slightly higher than pre COVID-19 levels.
+Looking ahead beyond 2023, we expect product sales gross margin percentage will be
+negatively impacted by profit-sharing arrangements. While we already see this dynamic with
+Lynparza, we anticipate the impact to increase as we start seeing higher sales from medicines
+such as Enhertu and Tezspire in regions where we book product sales and then the payout, a
+portion of the profits, to our partners through cost-of-sales. Over the long-term, we're focusing
+on driving productivity improvements to counter the impact on our gross margins from inflation,
+continued growth in emerging markets and more complex and expensive manufacturing of new
+modalities we are investing in. Core operating expenses in the half increased by 8%. R&D costs
+increased by 9% driven by continued investments in our pipeline. The increase in SG&A cost
+partly reflects spend behind new launches, such as TOPAZ and HIMALAYA which are driving thestrong growth of Imfinzi and Imjudo, for example, as well as existing brands like Farxiga and
+Breztri, and geographic expansion of the Rare Disease medicines portfolio.
+We previously guided for total core operating expenses to increase by low- to mid-single-digit
+percentage in 2023 and we now expect to finish the year towards the upper end of this range.
+Similar to the phasing we observed in 2022, we expect R&D and SG&A spend to be weighted
+towards the second half. Other operating income of $1.1 billion includes $712 million related to the
+previously announced updated agreements on Beyfortus which was booked in the second
+quarter. The increase in other operating income is in line with the guidance set out at the start of
+the year where we said that other operating income would be higher versus last year.
+The tax rate in the second quarter was lower than our full year guidance due to certain tax
+incentives and a mix of profits and lower taxed legal entities. For the full-year, we continue to
+expect the core tax-rate will be between 8% and 22%. Core EPS of $4.07 in the first half,
+represents an increase of 21% at constant exchange rates.
+Next slide please, Our net cash inflow from operating activities increased by $400 million to $4.9
+billion and we continue to see improvement in our cash conversion. Net debt increased by $1
+billion to $24 billion, driven by the payment of the second interim dividend in March and $2.4
+billion in deal payments, which include the second payment to Acerta made in the first quarter. As
+a reminder, we will pay the third and final payment in 2024. For the full year, we continue to
+anticipate deal payments relating to prior business transactions to be in line with last year, around
+$2 billion, excluding Acerta. We've paid just under $1 billion in the first half. Our net-debt to
+EBITDA ratio continues to decrease and is now at 1.9x, or 1.7x if excluding the non-cash
+adjustment for the Alexion inventory fair value uplift, which will soon disappear as we have now
+minimal inventory remaining from the time of the acquisition.
+Today, we are reiterating our 2023 Total Revenue and Core EPS guidance. Total revenues are
+expected to increase by low- to mid-single-digit percentage. Excluding COVID-19 total revenue
+are expected to increase by low-double-digit percentage. Growth in the second half will be
+hampered by patent expiries including Symbicort in the US and Nexium in Japan, where we saw
+first generics at end of last year. We now anticipate revenue in China to increase by low- to mid-
+single-digit percentage. And as I mentioned earlier, we now anticipate total operating expenses
+on the upper end of the range with phasing of SG&A cost towards the second half of the year
+similar to prior years. In addition, given that we anticipate starting several new Phase III trials in the
+second half of the year, R&D and associated clinical and new product costs will be higher in the
+second half. Based on June average FX rates, we now anticipate a low single digit adverse FX
+impact on total revenue, and a low- to mid-single adverse impact on core EPS.
+Please advance to the next slide. Continuing with the artificial intelligence theme, today I want to
+highlight global operations and how we are leveraging AI to accelerate drug development,
+manufacturing processes and drive supply-chain efficiencies. To share three specific examples
+here, First-in, drug development, with our in-house AI enable tool, Route Manager, we have
+reduced in route synthesis lead times from 9 to 12 months to 5 to 6 months, and we're striving to
+further reduce lead times to less than 3 months. Additionally, with this tool, we have been able to
+reduce the number of experimental trials, cutting lead times and driving efficiencies in cause
+while also providing sustainability benefits through fewer synthetic steps.
+Next, with Al-powered visualization of data, our operators are able to improve process
+performance for synthetic and biologic medicine by identifying critical variables that will affect
+yield and make real-time optimization adjustments. In the future, advanced continuous process
+verification will drive further robustness and yield increases.Third example, we've implemented Al-enabled enhancements across our supply chain. For
+example, Sweden is one of our largest global sites, manufacturing over 12 billion tablets and
+capsules every year. Here, we use AI-powered digital twins that can leverage multiple data
+sources simultaneously, such as production orders, dispensing stations and cleaning status to
+optimize production schedules. This technology has already delivered a 90% improvement in
+scheduling time, meaning we can now develop a dispensing plan in only 4 to 5 minutes where it
+used to take 8 hours. Our ambition is to leverage many of these tools and roll them throughout
+our manufacturing and supply network. This is, of course, a journey, but the work is already
+underway to use technology to drive efficiencies while our operations team continues to deliver
+on seamless supply and new product launch delivery.
+With that, please advance to the next slide, and I will hand over to Dave to walk through our
+oncology business performance.
+`Dave Fredrickson, Executive Vice President, Oncology Business `
+Thank you, Aradhana. Next slide, please.
+We're pleased to report our oncology medicines delivered total revenues in the first half of $8.8
+billion, an increase of 22% versus the prior year. We delivered double-digit product sales growth
+across all regions.
+Turning to individual medicine performance in the second quarter, Tagrisso global revenues grew
+10%, reflecting strong underlying demand for ADAURA and FLAURA across all regions. As
+expected, effective this June, we realized a mandatory price reduction in Japan. And in China,
+second quarter revenues reflect the first full quarter of NRDL renewal pricing following
+reenlistment this March. Following the ASCO Plenary presentation of ADAURA overall survival
+data last month, we expect expanded use of Tagrisso in the adjuvant setting as well as potential
+for new reimbursements in certain geographies.
+Lastly, as we consider the future impact from IRA, our current interpretation of CMS final guidance
+supports the potential exclusion for Tagrisso under orphan drug protections. Lynparza remains
+the leading PARP inhibitor globally and delivered second quarter product sales growth of 9%. In
+the U.S., We saw sequential demand decline across the PARP inhibitor class following competitor
+label restrictions in second-line ovarian cancer. We continue to work on opportunities for U.S.
+Demand expansion in ovarian and HR-positive breast cancer, but still expect this to be more
+challenging.
+Outside of the U.S., we saw double-digit product sales growth across the EU, established rest of
+world and emerging markets. In Q2, Imfinzi total revenues, inclusive of Imjudo surpassed $1 billion
+in a quarter for the first time, up 58% and largely driven by new launches of TOPAZ, HIMALAYA
+and POSEIDON. I'll touch on specific Imfinzi growth drivers a bit later, but needless to say, we're
+excited by what the team has accomplished within a competitive IO class.
+Calquence total revenues increased 34% year-on-year, supported by ex U.S. demand growth,
+particularly in Europe. And in the U.S., Calquence continues to maintain leadership in frontline CLL
+with the majority of new patient starts in this setting. However, we continue to see some new
+patient share loss in the relapsed/refractory segment.
+Enhertu total revenues of $322 million in the second quarter increased 176% year-on-year. In the
+U.S. Enhertu new patient share in the HER2 positive metastatic breast cancer setting remains at
+50%. And in the hormone receptor positive HER2 low post-chemometastatic breast cancer share
+has now grown to above 50%. Importantly, we're seeing strong continued demand across theglobe, particularly in European markets. Following the exciting approval for DESTINY-Breast03 in
+China last quarter, we received approval for Enhertu in HER2 low metastatic breast cancer. Also
+during the period, we received approval for PROpel in the U.S. and anticipate a potential
+regulatory milestone to be paid in the second half of the year. And finally, we were granted
+priority review in the U.S. for CAPItello291.
+Next slide, please. We've seen remarkable Imfinzi and Imjudo growth, driven by the recent
+launches of TOPAZ, HIMALAYA and POSEIDON. We're excited about the current trajectory of
+these launches and the broader potential of Imfinzi as supported by the suite of ongoing life
+cycle management programs. First, HIMALAYA in unresectable hepatocellular carcinoma has
+established a clear foothold for Imfinzi in GI cancers. Last month at ESMO World GI, we presented
+unprecedented 4-year overall survival data, the longest follow-up to date in unresectable HCC.
+This sustained benefit, coupled with strong safety, will continue to support rapid adoption and the
+establishment of a new standard of care. The launch of TOPAZ represents a step change
+innovation in biliary tract cancer, and the strength of this data demonstrates the transformative
+benefit of IO in this setting. In the U.S., TOPAZ has become the undisputed standard of care
+within months, and the EU and Japan launches are already outpacing the U.S. trajectory. We're
+making progress with POSEIDON in the U.S. and in Europe with a crowded and competitive
+setting. This launch together with our efforts with PACIFIC and CASPIAN continue to solidify a
+strong leadership position within lung cancer.
+In the first half of this year, we delivered 4 positive Phase III trials of novel Imfinzi combinations
+across lung, GI and GYN settings. MATTERHORN in gastric and gastroesophageal junction cancer
+was the first global Phase III trial of IO plus lot that demonstrates statistically-significant,
+pathologic complete response.
+In endometrial cancer, we are excited to report that DUO-E showed Imfinzi plus Lynparza and
+Imfinzi alone significantly improved progression-free survival, and Susan will cover these trials in
+more detail shortly.
+Over the balance of the year, we look forward to additional Phase III readouts with PACIFIC 2 in
+lung cancer and Emerald-1 in GI. Building on HIMALAYA, EMERALD-1, EMERALD-2 will enable our
+leadership in HCC.
+Finally, we'll continue to advance our next wave of IO with our novel bispecifics, volrustomig and
+rilvegostomig and sabestomig.
+With that, please advance to the next slide, and I'll hand over to Susan to cover key R&D
+highlights in the quarter.
+`Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Thank you, Dave. Next slide, please. It's been an exciting first half of the year with 8 positive
+pivotal trial readouts. We had a large presence at ASCO, with more than 130 abstracts featuring
+22 approved and potential medicines, highlighting the momentum of our pipeline.
+ASCO highlights included the final overall survival data from the Tagrisso ADAURA trial,
+demonstrating unprecedented survival in early-stage EGFRm mutated lung cancer as well as the
+first data from the DUO-O trial, highlighting the potential of PARP inhibition plus immunotherapy
+in advanced ovarian cancer. Additionally, interim data from the DESTINY-PanTumor02 trial and in
+Enhertu to be the first therapy to show broad activity across a range of HER2-expressing
+advanced solid tumors.Since ASCO, updated data showed Enhertu resulted in clinically meaningful progression free
+survival and overall survival. And I'm pleased to share that our initial interactions with the FDA
+have been encouraging. As mentioned previously, we reported high-level results for 8 pivotal
+trials this quarter. I'll touch on three of those readouts now.
+First, FLAURA II demonstrated a strong clinically meaningful improvement in progression free
+survival for patients with EGFR-mutated non-small cell lung cancer. Considering the EGFR mutated
+lung cancer landscape as a whole, we believe Tagrisso monotherapy will remain standard of care
+in first line, but we see the opportunity for FLAURA II become a valuable regimen for patients with
+higher tumor burden. We're delighted that these data have been selected for a presidential
+plenary presentation at the World Conference on Lung Cancer in September.
+DUO-E is the first Phase III trial of immunotherapy plus PARP inhibition to demonstrate clinical
+benefits in advanced endometrial cancer. More than 400,000 patients are diagnosed with
+endometrial cancer each year and in advanced disease, survival remains poor, with only 1 in 5
+patients living beyond 5 years.
+In DUO-E, both Imfinzi and Lynparza and Imfinzi alone significantly improves progression free
+survival when added to chemotherapy, with the greatest clinically meaningful benefit observed
+with the combination of Imfinzi and Lynparza as maintenance treatment.
+Finally, over 1 million patients are diagnosed with gastric cancer each year, 45% whom are eligible
+for perioperative chemotherapy. An early read from Matterhorn demonstrated a statistically
+significant and clinically meaningful improvement with Imfinzi plus FLOT versus FLOT
+chemotherapy alone in the key secondary endpoint of pathologic complete response, which we
+hope to see translate into an improvement in event-free survival over time.
+Please advance to the next slide. We recently announced positive high-level results from the first
+Phase III trial for Dato-DXd, the TROPION-Lung01 trial. This trial investigated Dato-DXd versus
+docetaxel in second and third-line non-small cell lung cancer and demonstrated a statistically
+significant improvement in progression-free survival and an early trend in overall survival. The
+adverse event profile of Dato-DXd was overall consistent with previous trials, including rates of
+all-grade ILD.
+Whilst there were some cases of Grade 5 ILD observed in the trial, we are confident in the
+positive benefit risk profile for Dato-DXd. These data reinforce our view that Dato-DXd will be an
+important potential medicine in multiple cancers, including lung cancer. Initial interactions with the
+FDA have been encouraging, and we are proceeding to file TROPION-Lung01.
+In addition to TROPION-Lung01 we have three active Phase III trials in the frontline setting,
+investigating Dato-DXd in combination with immune checkpoint inhibitors, TROPION-Lung07, 08
+and AVANZAR. Outcomes in these setting remain poor, less than half of patients treated with
+initial IO plus chemotherapy living past 2 years. Combination Dato-DXd plus IO has already
+demonstrated encouraging clinical efficacy in the TROPION-Lung02 trial with durable objective
+response rates of 50% for Dato-DXd plus pembrolizumab and 57% for the Dato-DXd plus
+pembrolizumab and platinum-based chemotherapy across first-line patients.
+We'll have further data to support the combination in lung cancer from TROPION-Lung04 which is
+a late-breaking abstract at the World Conference on Lung Cancer. The combination has also
+shown benefit in breast cancer with BEGONIA, but we saw a 91% disease control rate with
+durable responses in first-line triple-negative breast cancer. These results support stronger
+benefit of the combination of Dato-DXd and immune checkpoint inhibition.Moving now on to breast cancer. Our first Phase III trial is due to read out later this year.
+TROPION-Breast01 investigates DXD versus chemotherapy in patients with hormone receptor
+positive HER2-negative metastatic breast cancer, that have received at least one prior line of
+chemotherapy. Our confidence in this trial is two-fold.
+First, we saw encouraging signals from the HR-positive cohort of TROPION-PanTumor01, with a
+disease control rate of 85% and a median PFS of 8.3 months in a more heavily pretreated
+population compared with TPO-1. Second, we already have proof of concept for TROP to direct
+the treatment in this space. Phase III data for another compound demonstrating efficacy in a late-
+line HR-positive population. We also have 2 Phase IIIs focused on triple-negative breast cancer.
+TROPION-Breast02 investigates whether Dato-DXd can replace chemotherapy in first-line
+patients not eligible to PD-1 or PD-L1 inhibition. And TROPION-Breast03 investigates the role of
+adjuvant Dato-DXd with or without Imfinzi in early triple-negative disease. We are on track to
+deliver on the promise of Dato-DXd in lung and breast cancer and TROPION-PanTumour01 and
+03 are generating the data needed to support further investments in the future.
+And with that, please advance to the next slide, and I'll pass over to Ruud to cover
+Biopharmaceuticals performance.
+`Ruud Dobber, Executive Vice President and President, BioPharmaceuticals `
+Thank you, Susan. Next slide, please. Biopharmaceuticals delivered total revenue of $9.1 billion in
+the first half with both CVRM and R&I posting double-digit growth. Within global CVRM, Farxiga
+total revenue grew 41% to $1.5 billion in the quarter, driven by continued uptake in CKD and heart
+failure. Farxiga is now approved in 62 countries for patients with heart failure with preserved
+ejection fraction. And this quarter, we were pleased to gain approval in the United States for the
+liver, which means heart failure patients can now benefit from Farxiga regardless of the left
+ventricular eject infection status.
+Fasenra, Breztri, Tezspire and Saphnelo continued their strong momentum, delivering combined
+growth of 48% in the first half. These brands are becoming a larger driver of our overall
+performance. In the second quarter, these brands made up 46% of our R&I total revenue, up
+from 36% in the first quarter. Next year, we will add another innovative medicine to our portfolio
+with the launch of Airsupra in 2024.
+In the second quarter, Fasenra grew 16% to $406 million, driven by strong demand in the U.S. and
+Europe as well as some favorable inventory movements in the quarter. We recently filed for
+Fasenra for its first approval in China following positive high-level results from the MIRACLE trial.
+Tezspire delivered $81 million in total revenue in the second quarter, up from just $13 million last
+year. When we look at the combined global sales by AstraZeneca and our partner, Amgen,
+Tezspire brings $257 million in the half, an impressive achievement in only one year since launch.
+Tezspire is now available in 11 markets and has enjoyed notable early success in the U.S., Japan
+and Germany, with more European launches to come later this year.
+Symbicort total revenue in the second quarter remained stable. However, we still anticipate the
+entry of generic competition in the United States in the back half of the year. In V&I, we saw the
+first product sales for Beyfortus, which is now approved in the United States following a
+unanimous vote by the FDA Antimicrobial Drugs Advisory Committee supporting Beyfortus
+benefit/risk profile. AstraZeneca manufactures Beyfortus and then supplies product to Sanofi for
+distribution, and we record our sales to Sanofi as product sales. We also booked alliance revenue
+on Sanofi's Beyfortus sales outside the U.S., where we share profits with Sanofi. We're looking toNext, slide please. The continued growth of Farxiga is the result of a decade long development
+plan to broaden its use from diabetes to chronic kidney disease and heart failure patients. Our
+pioneering research has led to Farxiga becoming the leading medicine in its class, bringing its
+mortality benefits to millions of patients globally. We see further opportunities to come for the
+Dato molecule in other combination therapies, giving us the potential to address additional
+unmet needs among cardiorenal patients and other indications.
+Our Farxiga combinations remain on track, with plans for Phase III decisions later this year.
+With that, please advance to the next slide, and I wind over to Mene.
+`Menelas Pangalos, Executive Vice-President, BioPharmaceuticals R&D `
+Thanks, Ruud. This slide and yes, we are on the right slide -- this slide outlines our participation at
+recent medical congresses where we showcased data for tozorakimab, our anti-IL33 monoclonal
+antibody. We also highlighted the importance of real-world data and patient outcomes across R&I
+and CVRM. Firstly, to the American Thoracic Society Congress, lung tissue samples taken from
+patients with COVID-19 were stained and analyzed. And the images I'm showing you here show
+localization of higher levels of IL-33 in the airway tissues providing further scientific rationale for
+targeting IL-33 in severe viral infections in our Phase III TILIA trial. Also at ATS, real-world data
+highlighted the importance of prompt intervention with Breztri, initiating treatment within 30 days
+following a moderate or severe COPD exacerbation decreased the risk of future exacerbations
+by 24% versus delaying treatment by 6 months and by 34% versus delaying treatment 6 months
+to 1 year.
+At the European Renal Association, we presented real-world evidence underscoring the
+importance of early diagnosis of CKD. Multinational study, REVEAL-CKD, demonstrated that 85%
+to 95% of Stage 3 CKD remains undiagnosed. Data also showed that delaying diagnosis by just
+one year, resulted in an increased risk of deterioration, kidney transplant or long-term dialysis
+treatment.
+The ZORA study supported continued concomitant use of potassium binders in RAASI patients
+who experience hyperkalemia. In response, we've already seen updates to a number of CKD and
+heart failure treatment guidelines.
+Please advance to the next slide. I wanted to also take the opportunity to highlight the broad
+modalities and technologies we now have in our armory. Over the past decade, we have built
+these capabilities to provide our scientists with access to the most relevant biological pathways
+and targets. And as you can see, these are starting to mature and gain momentum. We have a
+portfolio of absence of oligonucleotides across amyloidosis, NASH and CKD in clinical
+development. These are precision medicine approaches that target the underlying biology of the
+disease in specific patient subpopulations.
+For example, our PNPLA3 ASO AZD2693 dosed in Phase IIb in NASH this quarter, following
+promising Phase I data, which showed a steatosis reduction and positive gene knockdown at 12
+weeks. In advanced biologics, AZD8630 is a human anti-TSLP fragment antibody formulated for
+inhaled dry powder delivery. AZD836 -- 8630 is currently in Phase I in patients with poorly-
+controlled asthma with data expected later this year. Also later this year, we're expecting dates
+from our NGF/TNF bispecific monoclonal antibody currently in Phase II for the treatment of OA
+pain and neuropathic pain.
+In autoimmune disease, we recently announced a collaboration with Quell Therapeutics to
+develop engineered Treg-based cell therapies for autoimmune. Combined with our ownexpertise in this space, we can accelerate the development of this novel therapeutic approach
+with the potential to be curative in Type-1 diabetes and in inflammatory bowel disease.
+With the acquisition of Alexion, our gene therapy ambitions have also accelerated significantly,
+utilizing our proprietary CRISPR gene-editing platform to address challenging rare diseases we
+are together building an approach, we hope will offer better safety margins. We're also working
+with Alexion teams to optimize the therapeutic window through the use of novel tissue-directed
+capsids and tissue-specific promoters. The possibility of curative treatment for rare genetic
+disease becomes achievable when combined with the Alexion rare disease expertise.
+With that, I'll now hand over to Marc, who will cover the rare disease genome strategy in more
+detail, along with rare disease highlights in the period. Please advance to the next slide.
+`Marc Dunoyer, Chief Executive Officer, Alexion and Chief Strategy Officer, AstraZeneca `
+Thank you, Mene. Can I see the next slide.
+In the first half, Rare Disease total revenue grew 12%, contributing $3.8 billion. Growth in the
+period was driven by increased demand and benefited from timing of tender market orders,
+slightly offset at the onetime pricing adjustment in the international region recognized in the
+second quarter of last year.
+Across the portfolio, our global patient numbers continue to grow. And notably, this is the first
+quarter Ultomiris patients exceeded those of Soliris. Ultomiris grew 60% in the second quarter
+driven by continued naive patient growth in myasthenia gravis, new market launches and
+successful conversion from Soliris across the shared indications. As a consequence of this
+dynamic, Soliris declined 19%.
+Though I am excited by our performance, as I mentioned in the first quarter, we expect some
+headwinds in the second half of the year. These include pricing pressure related to
+renegotiations as Ultomiris launches in larger neurological indications and potential for Soliris
+biosimilar entry in Europe.
+Also, as a reminder, we benefited from tender market order timing in the second half of last year.
+Timing of these orders are variable throughout the course of the year, impacting growth versus
+prior periods. Beyond the five, both Strensiq and Koselugo grew 25% and 30%, respectively,
+reflecting underlying patient demand and expansion into new markets.
+Please advance to the next slide. During the quarter, ALXN2220 Phase I data were presented at
+the European Society of Cardiology in patients with transthyretin amyloid cardiomyopathy. As a
+reminder, ATTR-CM is a progressive and fatal disease caused by misfolding transthyretin
+depositing in heart tissue. The safety and pharmacokinetic profiles of ALXN2220 were assessed
+and cardiac imaging studies were performed. As shown, the images detailed remarkable
+reduction in cardiac amyloid deposition over 4 and 12 months. These observations were
+supported by change in level of cardiac biomarkers as well as functional measures. ALXN2220 is
+the first and only medicine to clear amyloid deposition, and it has the potential to reverse the
+course of disease both as a complementary therapy with other modalities, but also as a
+monotherapy.
+We are excited by this Phase Ib data, and as previously shared, we plan to initiate a Phase III trial
+later this year. Across AstraZeneca and Alexion, we are looking to transform the care of prostrate
+amyloidosis through multiple therapy modalities. Our broader amyloisis portfolio includes silencer
+eplontersen and stabilizer acromidis, for which we have rights in Japan. Recently, we saw positive30 months Phase III data for acromidis. We've demonstrated a 50% relative risk reduction in
+cardiovascular-related hospitalization, building confidence in the meeting ability to stabilize
+disease progression. Eplontersen met its primary endpoint in hereditary transthyretin-mediated
+amyloid polyneuropathy, and we have ongoing phase III trials in ATTRv-PN. We believe this
+portfolio of medicine with differentiating mechanism of action, will address the full spectrum of
+disease severity.
+Next slide, please. As you may have seen, we have done a series of small to medium-sized
+business development deals, expanding our technologies and platform in research. I wanted to
+take the opportunity to highlight some of these and affirm our long-term ambition to be an
+industry leader in genomic medicines. Approximately 80% of rare diseases are genetic, driven by
+inherited or acquired gene mutations. By leveraging AstraZeneca technologies in non-viral
+delivery systems and nucleases, such as CRISPR, LogicBio, GeneRide and SAAVY platforms, JCR,
+the brain cargo for delivery to the central system of CNS as well as our own operative platforms,
+we aim to address a number of genetic diseases across liver, kidney, heart and muscle and CNS.
+The agreement announced this morning to acquire a portfolio of gene therapy programs for rare
+disease from Pfizer accelerates our time frame to bring this potentially transformative and
+curative treatment to patients. We look forward to welcoming Pfizer employees who have been
+driving this program forward increasing our gene therapy team to over 80 specialists.
+Together with all my colleagues at Alexion, we are excited to continue our work, developing
+enhanced platform and technologies, leveraging the expertise across a larger group to deliver
+life-changing medicines to patients where there are limited or no long-term treatment option.
+And with that, please advance to the next slide, and I will hand over the call to Pascal for closing
+remarks.
+`Pascal Soriot, Chief Executive Officer `
+Thank you, Mark. Next slide, please.
+Before I make my concluding remarks, I would like to take a minute to recognize the important
+steps we are taking to tackle the climate crisis. In particular, our Ambition Zero Carbon program is
+on track, and we have made significant steps towards achieving our science-based targets.
+Firstly, we announced our partnership with Vanguard Renewables, allowing us to deliver
+renewable natural gas, a source of clean heat to all our U.S. sites -- manufacturing and R&D sites
+by the end of 2026. We also significantly expanded our AZ Forest program with a commitment of
+$400 million to plant and maintain 200 million trees across 6 continents by 2030. The expanded
+program will sequester carbon, support biodiversity and deliver benefits to local communities
+positively impacting an estimated 80,000 livelihoods. Lastly, our transition plan is verified by the
+science-based target initiative, which focuses on deep decarbonization, allowing for only 10%
+residual emissions removals by 2045.
+Scope 3 remains to be our largest challenge, and we are committed to partnering with our
+suppliers. Last week, private sector members of the SMI Health System task force, which I
+convened sent an open letter calling on suppliers to commit to joint minimal climate and
+sustainability targets that contribute to decarbonizing the health care value chain.
+We're playing a leading role in this space, doing our part to limit the impacts on climate change
+while unlocking opportunities to deliver more sustainable health care system.Please move to the next slide. We have an exciting second half of the year ahead with a number
+of important pivotal trial readouts, including 2 trials in breast cancer, TROPION-Breast01, and
+CAPItello-290. We also have 2 trials of Imfinzi and non-small cell lung cancer in HCC. We have a
+trial with Fasenra and EGPA as well as the first results of our next-generation COVID-19 antibody
+AZD3152. We also have a rich catalyst path in 2024 and which given current even production rates
+will now include DESTINY-Breast06 and FLAURA results from both of which we are now -- which
+both of which are now expected in the first half of 2024.
+The progress that we are making in our pipeline overall is inspiring, and I'm excited for when we
+have the opportunity to share data to share the full data from the many studies we have
+showcased during this call at upcoming medical congresses.
+Now please advance to the next slide. Finally, before we turn to Q&A. Earlier today, we
+announced that Mene Pangalos will retire after almost 14 years with the company and a great 35-
+year career. Mene would be succeeded by Sharon Barr, currently Head of Research and Product
+Development at Alexion. When Alexion joined AstraZeneca 2 years ago, a key priority was
+ensuring that our shared organization would benefit from the world-class talent that Alexion
+brings. From day one Sharon stood out as an exceptional scientific leader. Sharon brings
+tremendous experience that will prove essential to advancing our pharmaceuticals pipeline, along
+with a strong track record for driving productivity and fostering innovation. This experience
+coupled with our leadership style and passion for developing people, places her perfectly to take
+over the reins from Mene and help us to write the next chapter of success. Over the coming
+months, Mene and Sharon will complete an extensive handover, supporting a smooth transition of
+responsibility and ensuring there are no delays to the advancements of projects.
+Which brings me to Mene, someone who's always quick to praise others but must take credit
+himself for all he has done to transform how we approach R&D delivering a greater than fivefold
+improvement in productivity, driving deeper collaborations with academic, biotech and PR
+organizations, pioneering programs to promote open innovation and championing the use of
+new technologies and modality. And last but not least, leading our contribution to the U.K. life
+sciences sector, and in particular, building a very important presence in Cambridge in the U.K.
+Mene, thank you for your contribution to our company, and I wish you only the best in your
+retirement. Personally, I will miss your wonderful sense of humor and your intellectual wit. But the
+quality of the medicines you brought to patients and the pipeline and capabilities you've built will
+be your legacy for many years to come.
+With that, I will hand the call back to Andy for our Q&A session.
+Questions And Answers
+A - `Andy Barnett, Head of Investor Relations `
+We will now go to the Q&A with all of our executive members participating as shown here. As a
+reminder, you can raise your hand-on Zoom or type your questions in via the Q&A button. We'll
+try and-answer as many questions as we can during the call, but please do limit the number of
+questions you ask to allow others a fair chance to participate in the Q&A. And with that, we'll
+move to the first question.
+A - `Pascal Soriot, Chief Executive Officer `
+`Sachin Jain, Analyst, Bank of America, Bank of America. Over to you, Sachin.Q - `Sachin Jain, Analyst, Bank of America `
+Thanks for taking the questions. `Sachin Jain, Analyst, Bank of America from Bank of America. Two topics. Firstly, Dato in first-
+line lung, if I may. So part of the reaction to TROPION-Lung01 was investor fading confidence in
+first line, on both efficacy and safety. So I wonder if you could touch on that? Could you remind us
+how you interpret the 8 months of PFS we saw from TLO2 at ASCO. Just with a compare to --
+keynote on in 9 months. And Susan, if you could frame expectations of what our focus should be
+into TL04 that you flagged at World Lung?
+And then the second question is on breast cancer. A lot of news flow in breast cancer in the next
+12 months. We've been particularly vocal. I wonder if you could just touch on 2 reads. Firstly, TB01,
+which you talked about, but the potential for that to be better than TROPICS 02 you noted in the
+8-month PFS. Are you confident that can repeat and better the trade by 5.5 months? And then
+secondly, you didn't mention DB09, but you've pulled that forward into '24. So again, just talk to
+the confidence you've got there? Prior data suggests potential for double the PFS comparator
+receptive data.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks, Sachin. So this is a question for you, Susan.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Thanks for the questions, Sachin. So let's start with Dato in first-line lung. First of all. I would just
+say that. Given the TL01 is a positive study, there were things that we can learn from that. The
+first-line lung studies are ongoing. We've obviously got open TROPION-Lung07,08 and
+AVANZAR, which are complementary trials in first line, predominantly in patients without genomic
+alterations versus the respective standard of care. And AVANZAR is investigating patients
+regardless of PD-L1 status of gene histology. So they're complementary segments of first-line
+lung. What I would say is that we've now treated, across all of these studies, together with TL02
+and TL04 over 200 patients on the Dato-DXd plus immune checkpoints inhibitor combination.
+And we're comfortable with the safety profile that we've seen across that patient population. So I
+think it's important to just remember that from an ILD perspective, we know that some tumor
+types have a higher risk of ILD than others and that, later line patients, you've had multiple prior
+lines of chemotherapy are at high risk of ILD. And so I think it's important that, that ongoing safety
+profile that in first-line lung is underpinning our confidence there.
+When you look at TROPION-Lung02 data that you highlighted, we're encouraged both by the
+response rate and the durability of response that we've seen from TROPION-Lung02 for both
+the combination with the double of Dato-DXd plus pembro, and also the triplet when platinum-
+based chemotherapy is added. What you'll see in TROPION-Lung04, that's a Phase Ib study that
+also looks at the combination of Dato plus immune checkpoint inhibition in lung cancer. So it's an
+additional data set to TROPION-Lung02. And again, we're happy to talk to you after the data is
+presented at World Congress of Lung Cancer.
+For breast cancer, you asked 2 questions. One is about TROPION-Breast01. Again, the confidence
+in TROPION-Breast01 is based on the data that we've seen that you've already highlighted, and
+that you've already mentioned. I mean I'll just say that for the design of Dato-DXd, we think is a
+best-in-class ADC. It's got an excellent stable linker and a proven warhead already. And so, when
+we look across cross-trial comparisons with all the caveats that those have, we've seen
+numerically higher response rates across a number of different settings. And that really underpinsour potential to have better efficacy and have a best-in-class profile in that setting. But obviously,
+we have to wait for the actual readout of the trial.
+And for DESTINY-Breast09, I think actually, the read time is not -- it's hugely shifted here.
+Obviously, all of Enhertu trials are accruing rapidly, and that helps with the timelines, but these are
+also event-driven trials that we look for the outcome. So I don't think there's anything more than
+that to interpret in the shift in the timelines. I hope that addresses all your questions.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks, Susan. `Tim Anderson, Analyst, Wolfe Research LLC. Go ahead, Tim.
+Q - `Tim Anderson, Analyst, Wolfe Research LLC `
+Great, thank you. So just staying on the topic of Dato-DXd, in the light of what TROPION-Lung01
+has shown. I know you guys say you're enthusiastic about the program. Is your enthusiasm less or
+tempered at all by how TL01 read out? Because the benefit, I mean you guys pretty much said it,
+it's modest. So I'm wondering if that does kind of temper your expectations for that program,
+overall. What that can deliver inn other tumor types or even in other settings for lung cancer?
+And then the second question, where are you with the retrospective biomarker analysis of TL01?
+Is there anything you can say yet looking at results by TROP2 expression levels.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Okay, thank you, Tim. So let me just reiterate that we're confident in the data that we've seen for
+TROPION-Lung01, and as we've shared already, we've had initial conversations with the FDA,
+which have been encouraging, and we are moving to file. So we're looking-forward to sharing the
+full data, which I think will be helpful for everybody, at an upcoming conference, and that will
+obviously provide a more complete picture. But we are confident that the data that we've seen
+really, really reinforces that Dato-DXd is going to be an important potential medicine in multiple
+cancer types, but also including in lung cancer. In terms of the biomarker analysis. Work is, as you
+say, ongoing, and obviously, and one important source of data is going to be the TROPION-
+Lung01 dataset. So, we look-forward to updating you with data once we've had the chance to
+complete that analysis.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks, Susan. And the next question is from `Andrew Baum, Analyst, Citi at Citi.
+Q - `Andrew Baum, Analyst, Citi `
+Thank you. So couple of questions. One for Susan and one for Marc. So you filed, or you plan to
+file the TROPION-Lung01 data with the FDA. Can I ask which population -- presumably, given
+you've got modest PFS, the OF is a mature, one would imagine that a subgroup in the second
+line that is persuadable to third line for the FDA. So could you just comment on which indication
+you are picking? Which population is at third line, second line histology? I ask knowing the likely
+response, but I'm interested anyway.
+And then second to Marc in relation your amyloid monoclonal where we share your enthusiasm.
+When we think about the outcome trial, are you going to mirror that conducted by BridgeBio with
+a sort of embedded 6-minute walk as well as an outcome for mortality or would be mortality? Or
+do you think you can get it approved solely on 6-minute walk in order to expedite the time to
+market?A - `Pascal Soriot, Chief Executive Officer `
+Susan, you want to start?
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Yes, sure. Thanks for the question, Andrew. So obviously, in the top line results, we've not
+specified performance by patient subsets, that's entirely in line with our normal practice. TL01 was
+stratified by the most immediate prior therapy, including anti-PD-L1 -- PD-1 immunotherapy,
+geographical region and histology, squamous versus non-squamous. It includes patients with
+actionable genomic alterations, but that was a later protocol amendment, and it's a minority of
+the patients that are included. I can't really comment on ongoing dialogue with the FDA at this
+point.
+A - `Pascal Soriot, Chief Executive Officer `
+Maybe the one thing that we could add here is that -- and all from what we've seen. We think this
+agent is going to be useful in their large population of lung cancer patients. Marc, do you want to
+cover the second question?
+A - `Marc Dunoyer, Chief Executive Officer, Alexion and Chief Strategy Officer, AstraZeneca `
+Thank you, Andrew, for your interest in 222020. So we are planning this Phase III and we are in
+ongoing discussion with the FDA to confirm the protocol. You asked a very precise question on
+whether we were going to include the six-minute walking test in our endpoints, and the answer is,
+no. We are probably going to go to finalize the endpoints on mortality and cardiovascular
+morbidity. Possibly with the addition of a third tier endpoint. But it won't include six-minute walking
+distance.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Marc. Mark Purcell, Morgan Stanley. Please go ahead.
+Q - `Mark Douglas Purcell, Analyst, Morgan Stanley `
+Thanks very much, Pascal. A couple of questions. Firstly, on Calquence, and one for Dave. Dave,
+could you help us understand the sales split for Calquence and for the BTK market in CLL
+between first line and second line to refractory patients? And if you can help us on the second
+line side to understand the sort of shared dynamics there? That could be really useful.
+Secondly, on the TROPION-Breast01 market opportunity. Obviously, a large number of patients, I
+guess, in the -- just the third line setting alone, 85,000 patients in the G8. Could you help us
+understand how this fits with Enhertu and the HER2 low setting as well. So trying to think about
+the market opportunity before you get the data themselves.
+And then lastly, for Susan, just to follow on towards TROP2 testing questions. Can you help us
+understand going forward, the importance of TROP2 testing for TROP2 ADCS. And from a
+regulatory standpoint, the acceptance of retrospective data on TROP2 expression and the
+potential to incorporate TROP2 testing into trials which have recently started such as TL07 and
+TL08? Thank you very much.
+A - `Pascal Soriot, Chief Executive Officer `
+Dave, would you like...A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+Thank you, Mark, for the question. So, starting first with your Calquence question. In terms of just
+the overall new patient starts within the BTKi class, we see about half of new patient starts of
+total BTKi starts are happening in CLO in the frontline, and then you have about half of those
+starts that are happening in the relapsed-refractory setting. And then you can split that half and
+the relapsed-refractory setting into about half of those, so 25% are in patients who are naive and
+the other -- balance of that is in patients that have been pre-treated with BTKis. So that gives you
+a general sense for how the class splits out.
+In terms of our share of those classes, I've been very pleased with the US performance in the
+second quarter. As we've seen in the frontline setting, our share position has held strong, as
+we've seen the entrance of new competition within the class. In the second line setting, as I
+mentioned in my prepared remarks, we have seen erosion of our share in that
+relapsed/refractory setting, particularly within the naive. We remain, as we see it, still the leaders
+within this space. That said, it is a pretty tight share split among the three players, as we see it
+within that space.
+In terms of -- now, switching to the commercial opportunity for TROPION-Breast01, I think that
+maybe the primary thing that I'd lay out here is that -- and I think what we're really seeking on this
+is, is category leadership within breast cancer. I think that as you quite rightly point out, across the
+G7 countries, there are a large number, over 35,000, fourth line and beyond patients treated
+across the G7. In hormone receptor positive and HER2 negative disease. And I think that what
+we'll really be looking to do is understanding how patient selection and sequencing can create
+opportunities both for Enhertu as well as for Dato-DXd. And I think that an important part of the
+approach that we're taking is to try to have an AstraZeneca medicine that is appropriate for
+patients with various different subtypes, and also in various different sequence over-time, and I
+think that I would look at the opportunity to replace chemotherapy across late-line breast cancer
+as a category, is how we're thinking about the portfolio of medicines.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+And so to answer the question about biomarker development for Dato-DXd. So in principle,
+antibody drug conjugates are targeted medicines. And I think as a general principle, we want
+biomarkers to identify the right patients for targeted medicines across that class. And so, as
+we've indicated, we are working on a biomarker for the TROP2 program, and we will use the data
+that we've got from TL01 and to help with that effort. And we can update you on that once those
+analyses are completed.
+I think your comment about retrospective versus prospective. Obviously, in an ideal world, you
+want prospective selection in order to make sure that you've got a balance, and you often
+stratified for that presence in such trials, but there are multiple examples of retrospective analysis
+based on the prospect of definition of that have enabled an approval in that setting.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Susan. The next question is from Gonzalo Artiach at ABG. Go ahead now, Gonzalo.
+Q - `Gonzalo Artiach Castanon, Analyst, ABG Sundal Collier `
+Is that okay?
+A - `Pascal Soriot, Chief Executive Officer `Yeah, we can hear you go-ahead. We can't hear you. So let's move to the next.
+Q - `Gonzalo Artiach Castanon, Analyst, ABG Sundal Collier `
+Yes. Now can you hear me?
+A - `Pascal Soriot, Chief Executive Officer `
+Yes, Gonzalo. Go ahead, we can hear you now.
+Q - `Gonzalo Artiach Castanon, Analyst, ABG Sundal Collier `
+Okay great. So first one, it's regarding your yesterday's news on DESTINY-PanTumor02. And with
+the data presented yesterday, the improved PFS and OS in line with what you showed at ASCO.
+How much does this help for a potential tumor-agnostic approval? And here, what is your view on
+this debate of the use of HER2 grades, or different expression levels, as a bymarket for potential
+treatment approach? And specifically in pancreas, where you didn't see any major improvements
+in terms of ORR, but could you share anything on how does this new parameter's PFS and OS
+look like? Thank you.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Okay, thank you for the question. So as we shared at ASCO, what we've seen with Enhertu in the
+PanTumor02 study is impressive response rate and durability of response across multiple tumor
+types, and particularly impressive in the gynecologic cancers, endometrial cancer, ovarian and
+cervical. But also encouraging data across multiple other tumors. And of course, what we saw in
+that study was an enhanced response rate in the IHC3+ compared with the IHC2+ populations.
+So it's important just to remember that there's a mix nature in this trial, you've got multiple
+different genotypes with different lines of therapy. But generally heavily pretreated patient
+population. And what you saw there was a response rate -- durability response which is beyond
+what you would reasonably expect, and certainly in the IHC3+ population for a standard of care
+chemotherapy in that setting.
+So I think it's encouraging now that we've got the progression free survival and the overall survival
+to backup that response rate and durability of response. And I do think there are differences in
+this setting between IHC3+ and 2+ which is something we've also seen in other settings as well.
+And that -- if you'd like establishes the differentiation from the standard of care. I also think, it's
+true to say though, that there are patients beyond the IHC3+ that are clearly benefiting, beyond
+what you might expect from that the standard of care chemotherapy. So what I would say is, look,
+conversations with regulatory authorities, including the FDA, are ongoing, as I said. Initial
+discussions are encouraging, and as those develop, we can provide more details.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks, Susan. Next question is from Richard Parkes at Exane. Richard over to you.
+Q - `Richard J. Parkes, Analyst, BNP Paribas Exane `
+All right. Thanks, Pascal. Yeah, just a couple of questions. Firstly just to push a little bit more on
+TL01. Just to help me understand the difference in level of optimism at the time of the press
+release, and the report you're communicating now. Because, as you'll know, your omission of the
+words, clinically meaningful, is what's caused nervousness. But clearly, given the decision to fire in
+your optimism today, you do see the overall benefit as meaningful. So can you just help us
+understand a little better the context? So that contradiction somewhat in the communication, is itadditional analysis which you've done since the readout? Or was there some other reason why
+you felt you couldn't include that wording in the press release?
+Second question, a bit simpler. Could you update us on progress for volrustomig to Phase III. I
+know we're waiting for the durability of response data at the lower dose to be presented. I was
+just wondering would that be an ESMO or World Lung? Thank you.
+A - `Pascal Soriot, Chief Executive Officer `
+Susan?
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+So the definition of clinically meaningful, in terms of what clinicians are looking for, will take into
+account not only the difference in medium, but shape of the KM curves and obviously, the hazard
+ratio, which is what the trials are often designed to power, together with the response rate,
+durability response and the safety profile as well as the patient population that's included. So I
+think -- what I would -- I would just reiterate really is that when we look at the data, and we find
+out during that, that it's encouraging, and we've had discussions with the FDA and on the basis of
+encouraging response we are proceeding to file. I can't go into more details today, but we'd be
+happy to have more conversations when we've actually been the opportunity to present the data
+at an upcoming medical congress.
+With regards to your question on volrustomig, the program is advancing at pace, and we have
+indicated that we've got a number of Phase II trials in planning. We're proceeding again at pace
+with those. And as we initiate those, and as we have more mature data, we will share those data,
+but not necessarily on the timelines that you're asking for. So at the appropriate time, we will
+share the data in a public congress.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Susan.
+Q - `Richard J. Parkes, Analyst, BNP Paribas Exane `
+Thank you.
+A - `Pascal Soriot, Chief Executive Officer `
+I mean, Richard just. Just to add. I mean, our partner, Daiichi Sankyo, and us actually, here we have
+a policy of only disclosing the high-level results, as you know, and not the details. So what you saw
+is the announcement relative to the high-level results. What we have seen is the detailed results.
+And that's probably also explained some of the discrepancies. But you'll understand better when
+you see the results of that at a future congress.
+And the next question is from `Christopher Uhde, Analyst, SEB, Research Divison at SEB.
+Q - `Christopher Uhde, Analyst, SEB, Research Divison `
+`Christopher Uhde, Analyst, SEB, Research Divison, SEB. I have a question on SUPERNOVA and the COVID antibody update in
+general. So obviously -- so I saw that the timeline seems to be reiterated. But we're moving
+toward the latter part of the half, not so much time to get it to patients before the end of the
+year. So perhaps could you just remind us a little bit about the factors determining the time from
+topline to EUA? And can you also talk a little bit about how you're planning to brand it? It seemsthat it won't be -- have you shelled -- but I guess that has advantages and disadvantages. So
+perhaps if you could talk about that?
+And then in terms of Fasenra, the growth levers going forward and also thinking about -- I thought
+GSK has an ultra-extended half-life IO 5. So what are your thoughts around competition? Thank
+you.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Christopher. Iskra, do you want to take the first one, and Ruud, you take the next one?
+A - `Iskra Reic, EXECUTIVE VICE PRESIDENT, VACCINES AND IMMUNE THERAPIES `
+Thanks, Christopher. Thanks for the question, and also thanks for your continuous interest in this
+area. So we are continuous -- continue to rapidly advance AZD3152, which is a new long-acting
+monoclonal antibody for prevention and treatment of COVID-19 for immunocompromised patient
+and I'm pleased to say that SUPERNOVA trial is on-track. As you are mentioning, we did update
+the trial and that was as a result of trial design, and that was a result of the consultation then
+agreement with the FDA, because we believe that is the fastest way how to achieve emergency
+approval for the patients in US. And currently, the trial is updated with this sub-study, our immuno-
+bridging data. As a reminder, this is a precedent study design and will allow us to have the data
+late this year. Obviously, as we are moving from the beginning with -- at pace, we will do our best
+to deliver AZD3152 to the immunocompromised patients in US by end of this year. Equally, we are
+we are continuing to SUPERNOVA trial with efficacy endpoint, and we believe that the efficacy
+data readout will happen in the first quarter of next year. That will allow us to have the approval
+globally outside of US.
+On your branding question. Thanks. Thanks for that. I do agree that not having Evusheld brand-
+name for our new next-generation monoclonal antibody has its a good and bad sides. We are
+currently in discussion both with FDA and EMA and we will provide the updates and the brand-
+name as soon as we get agreement from those agencies.
+A - `Ruud Dobber, Executive Vice President and President, BioPharmaceuticals `
+Okay, thank you so much, Chris. Quickly, the growth drivers for Fasenra in the foreseeable future.
+There are three big ones. First of all, by far, the biggest one is still bio penetration is at the low
+side for biologics in severe uncontrolled asthma, depending on where you are, it's everything
+between 15% and 25%. So there's still a huge room to maneuver in a positive way.
+The second one, what I said in my remarks is that China is an important growth driver. We have
+filed in China based on the outstanding MIRACLE trial. So hopefully, next year, we will see the
+results. And last but not least, later this year, we will see the outcome of Fasenra in EGPA, which is
+another very important growth driver for the brand. So all in all, we truly believe that there's still a
+very bright future for Fasenra.
+Quickly, your remark about long-acting, of course, we have our own. Fasenra with every 2 months.
+So we don't foresee a major impact of our molecules. The class is very competitive. But once
+again, bio penetration across the board is still at a very low level. So more competitors will also
+make -- grow the market in an acceptable and good way.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you. James Gordon at JPMorgan. James, over to you.Q - `James Daniel Gordon, Analyst, JPMorgan `
+Hello, James Gordon, JP Morgan. Thanks for taking the questions. Firstly, a question on Dato,
+which would be, is the plan to change anything on the back of the recent Dato update? And what
+might be changed? For instance, could you tweak any of the trials to enroll patients that you think
+are going to show stronger efficacy in some sort of subpopulation? And is it -- TROP2, is it
+something more sophisticated that you're actually looking at? Because a TROP2 expression is like
+a pillow on the slide, laying out the Dato program. But is this something else where you might
+end up stratifying? And will you kick off any more Dato Phase III trials from now? Or are you going
+to wait until you've got a bit more data from other trials to work how where the strongest efficacy
+is going to be generated?
+And then just one other question, Imfinzi saw very strong growth today. But is there anything one
+off here that helped performance? Or actually, if we put that to the side, is Imfinzi and Enhertu
+really going to be the 2 key growth drivers from now and to the end of decade. Can we really
+extrapolate the strong growth forward for Imfinzi today?
+A - `Pascal Soriot, Chief Executive Officer `
+Susan?
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Alright. So in terms of Dato-DXd the new trials. We'll start with that one. Yes, we are continuing to
+plan New Phase-III trials with Dato-DXd, as we had indicated at the end of last year. And we
+continue to be excited about the potential for this molecule in multiple different settings. In terms
+of the biomarker. TROP2 to is highly expressed across many different tumor types including lung
+cancer. I think in general about ADCs and prediction of outcome. Receptor expression is one
+element, receptor internalization is another element, and sensitivity to warhead is the third
+element, so this -- there are multiple elements to consider about predicting the patient's that are
+most likely to respond. And of course, we're looking at those different elements in what we're
+looking on from a biomarker perspective.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+Thanks, Susan. James, on Imfinzi. I mean, I think the first thing I'd note is that we double clicked
+into it, into the prepared remarks, because we think that the opportunity for Imfinzi going forward
+is an important one. We've made a series of investments into the lifecycle plan and the clinical
+development plan for Imfinzi and those now are paying-off in terms of positive readouts and
+we're commercially taking advantage of that. I think that -- to go a little bit more specifically,
+somewhere between 20% and 30% of the Imfinzi growth that we're seeing is coming from the
+established portfolio. So the PACIFIC and CASPIAN indications where we're seeing strength in
+PACIFIC across the globe as we kind of get further away from some of the COVID-19 challenges.
+We're continuing to progress against CASPIAN in parts of the globe where we have
+opportunities. But really, it's the new launches of TOPAZ, HIMALAYA and POSEIDON that are
+making up the balance of that.
+TOPAZ has rapidly gotten to a place in the markets where we've launched, where we have
+market-share that's well north of 50%. I'd say, HIMALAYA has had a nice uptake, but still quite a
+bit of opportunity to continue to move with HIMALAYA. It is a competitive context. And it's one
+where we are certainly coming up against therapeutic alternatives. But we like the uptake that
+we've had. Maybe the last proof point, just to offer on this. While with TOPAZ and HIMALAYA wereimbursement in just around 10. Now they're, 10 of the largest. So it's the US and Japan, and we
+have early access that exists within France. But we still have a number of countries within Europe,
+and a lot of countries within international, which yet to come on board. So we think the outlook for
+Imfinzi forward is strong.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Dave. `Emily Field, Analyst, Barclays Investment Bank of Barclays. Emily, go ahead.
+Q - `Emily Field, Analyst, Barclays Investment Bank `
+Hi, thanks for taking my questions. I just have two. The first one, just on Lynparza, and maybe
+digging in a little bit more to thats dynamics going on in ovarian. How much of sales is second-line
+ovarian? And just kind of we're aware of the registration being pulled for the competitor asset,
+but sort of why is this impact leading over into Lynparza. Do you expect to return to growth in the
+U.S. for this asset?
+And then just a question on the raised guidance for China. I was just wondering, is this truly based
+on sort of improving demand in the region. Is this impacted in any way by some of the price
+adjustments that are happening with the product from the NRDL. Just any incremental color you
+can give there. Thank you.
+A - `Pascal Soriot, Chief Executive Officer `
+Dave, do you want to cover the first one? And Leon could cover the second one.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+Yes, Emily. Thanks for the question, so first part of this is that if we take a look at PARP class
+across lines in ovarian cancer. Over the course of the year, the starts are declining, and that is
+predominantly a phenomenon of lower desire on the part of medical oncologists to treat in the
+second line setting in ovarian cancer as there's been, as you know, I think, quite a lot of changes
+that have been happening there with respect to competitor labels and discussion and dialogue
+with the FDA. Within the context of that, we've been doing a good job to continue to drive our
+PAOLA and SOLO indications. SOLO, we really have probably fully penetrated, though there is
+opportunity to continue to drive HRD testing rates in the front line. Unfortunately, a bit of what's
+happening is that those gains are being offset by some of the second line declines.
+Now today, in terms of where we stand, the second line represents a significant minority of our
+ovarian cancer business. And so I'm hopeful that even with a narrower PROpel label, that we have
+an opportunity to continue to drive growth in Lynparza with PROpel and some of the other
+populations that I've mentioned, but it is going to be slower progress that we're making there. I
+will say, outside of the United States and Europe, we're making nice progress with PROpel within
+Germany. We're continuing to drive growth opportunities that we have in breast cancer and also
+within ovarian cancer ex U.S. but I think that the growth rates that we'll see on Lynparza, while still
+in front of us, will be a bit slower. I do, though, look forward with optimism to hopefully having a
+regulatory path forward with DUO-E. We'll see how things net with DUO-O and those would
+certainly be enthusiastic areas for us to launch into.
+A - `Leon Wang, Executive Vice President, International and China President `
+Yeah, regarding China guidance. I think China is a -- this year is a -- we have some headwinds,
+oncology price cuts because of NRDL renew last year. So major oncology products get a cut. Andopportunities, because we were launching rare disease and also Enhertu in China, Calquence in
+China. So lots of new products are being launching -- little bit lagging behind the global pace, but
+I think we are looking forward to a lot of new launches. We haven't yet launched Imfinzi, TOPAZ
+and also HIMALAYA. And we also have launching strongly into ADAURA indication and the FLAURA
+too. And for inhalation business, Symbicort is a very strong growth, and Breztri after NRDL second
+year now. So these are also embracing very strong growth. And Pulmicort after last year's VBP, we
+digested and this year we back to growth now. So Farxiga is also one of a very major important
+growth driver, and that together with roxa and also all the other CVRM portfolio doing extremely
+well. So I think in the next one or two years, three years, we are launching a lot of new indication
+and new products. So a little bit behind, global, but also -- we also need to digest the VBP impact
+and some price cut-off, NRDL. Government in China is treating innovation better than before. So I
+think this is also very good sign for NRDL policy -- some of the transparency and also bring quite a
+good policy.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Leon. Victor Sander, Nordea. Victor, over to you. Victor, we cannot hear you.
+Q - `Viktor Sundberg, Analyst, Nordea `
+Yes, hope you can hear me now.
+A - `Pascal Soriot, Chief Executive Officer `
+Yes go ahead.
+Q - `Viktor Sundberg, Analyst, Nordea `
+Yeah, sorry. I have two questions, if I may. So on the outlook for 2023, I just wanted to get a bit
+more details on the headwinds that keeps you from raising or refining the guidance. So in China,
+you seem to be more optimistic, but the parameter is going against you. But you mentioned
+here, seems to be quite well anticipated, perhaps in the beginning of the year. So the Symbicort
+generic situation in the U.S. and NRDL impact from China in the second half. So are there other
+things here as well that keep you on the sideline here for a guidance update or refinement that
+have surprised you a bit during the year. You mentioned inflation. So maybe a quick comment on
+that would be helpful.
+And the second question I have is on Imfinzi. Very strong growth across all geographies, as you
+said, but especially in your Rest of the World category. Can you just elaborate a bit more, what is
+driving that and how we should extrapolate in that geography and why the uptake has been so
+quick here?
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks Victor, Aradhana, do you want to take the first one and, Dave, the second one?
+A - `Aradhana Sarin, Chief Financial Officer `
+Yeah, sure thank you, Pascal. Thank you, Victor, for the question. So we are reiterating guidance
+for the year. And I think it's a bit of phasing and dynamics between first half and second half. In
+the second half, we are going to experience, as you just mentioned and I mentioned before, the
+Symbicort generic in the U.S. Nexium, which went generic, end of last year, we started to see the
+impact. And again, it's a progressive impact. So again, more in the latter part of the year and
+decline in various other legacy brands. So if you look at some of the other -- the brands that arethe other -- the legacy category. The trends that was mentioned by Dave around second line in
+PARP and then the pricing impact that Leon mentioned on NRDL for Tagrisso, A lot of that went
+into effect sort of in the second quarter. So again, we'll see the full impact of that in the second
+half. I made some comments around gross margins. FluMist is, again, a product that does impact
+our gross margin, and that's, again, more weighted towards the second half. But really, when you
+look at both from a revenue and cost standpoint, in both SG&A as well as R&D, primarily driven by
+all the study starts as well as the material that we'll need to produce from at clinical supply
+standpoint, a lot of that is weighted towards the second half in R&D costs. So again, it's more
+phasing than anything else, and we are reiterating our guidance for the full year.
+And then Dave, on Imfinzi, Rest of World.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+So Victor, it stems back to the answer to the question that I gave previously to James. Established
+Rest of World is made up predominantly of sales from Japan. I think that if you take a look at a lot
+of the other international markets, they sit within emerging markets. So the success that you see
+in the quarter for Imfinzi and Imjudo is really driven by very rapid uptake that's been happening
+over the course of the half with TOPAZ, one, and then also within the last quarter, we've had
+reimbursement for Imjudo that's allowed us to be able to move forward with HIMALAYA.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Dave. Steve Scala. Do you want to go ahead, Steve?
+Q - `Stephen Scala, Analyst, Cowen and Company
+Thank you so much. Two questions. First for Dave. In the third quarter of 2022, you said that
+Enhertu could be one of the largest medicines in oncology. Are you willing to say the same for
+Dato-DXd based on what you now know? And second for Susan does AstraZeneca plan to alter
+the study design of and TROPION-Lung07 and 08, based on the results of TL01? Thank you.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+Thanks, Steve. I continue to believe that Enhertu has the opportunity to be one of the largest
+medicines, and certainly one of the most transformative medicines in the treatment of cancer. I
+will just come back to -- we've talked a lot on Enhertu about three important pillars and the
+PanTumor02 data, and Susan talked about that in greater depth earlier, really does begin to open
+up the opportunity to take Enhertu into areas outside of breast, gastric and lung cancer and I think
+is really promising for that. And with Dato I would say similarly that I confirm my enthusiasm for
+Dato's opportunity to be, potentially, as big as Enhertu. And I think that it's going to be an
+important medicine. Certainly also, relative to last quarter, having a positive Phase III readout
+reinforces confidence in the ability to be able to take a program forward and I think that that's a
+big driver of -- and I think that last thing, when we did the deal on Dato, we knew that there was a
+big opportunity to replace systemic chemotherapy in lung cancer and also in breast cancer. The
+real opportunity for Dato to be bigger than Enhertu would be if we can take it into tumor types
+outside of those two areas I and so that's really what we look-forward to seeing if we're able to
+effectively do.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Dave. I'll just also would state the obvious, which is, we have a lot more data points for
+Enhertu, then we have for Dato. We need to keep this in mind, of course, but the potential isindeed very large. Simon Baker....
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+There's a second question.
+A - `Pascal Soriot, Chief Executive Officer `
+Sorry, there was a second question. Sorry.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+The second-half for me, so thanks for the question again. I think I said before, TROPION-Lung01, I
+expected that we were going to learn some things from that trial, and indeed there are learnings
+in TL01, as you expect from any clinical trial, particularly the first pivotal trial. So it's normal practice
+for drug development. As you go along and you learn. There may be adaptations to trials, so. I
+think that's just a normal part of drug development. And that just say, look, we remain confident
+that Dato-DXd is very important medicine in lung cancer, including in the first-line settings with the
+trials that are already ongoing.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks. Simon, do you want to go-ahead.
+Q - Unidentified Participant
+Thanks. Pascal. Two questions, if I may, please. Firstly, on the Pfizer deal. You did allude to it on
+the slide a little bit, but I was wondering if you could give us a bit more color on what you're
+buying. Is this more technology rather than specific products? You highlighted selling the capsids
+on there. And specific to those, are there any characteristics that Pfizer brings that are
+differentiated in terms of selectivity and payload capacity.
+And then secondly, a question on brazikumab and inflammatory bowel disease. Now that you've
+written -- often terminated that project, I just wondered what your level of interest in that space
+still was. I see you've done some work with NLRP3 inflammasome inhibitors. But is this still an area
+that is under active development? Thanks so much.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Simon. That'll take us away a little bit from Dato, but Marc, you can go ahead and
+answer.
+A - `Marc Dunoyer, Chief Executive Officer, Alexion and Chief Strategy Officer, AstraZeneca `
+I thank you for the question, and happy to talk a little bit about gene therapy. So basically, the
+agreement with Pfizer, it concerns about a dozen pre-clinical construct and assets. And also a
+large number of capsid that have been developed over the years and that can be probably
+further refine to get the best possible capsid for both CNS or account your cardiotropic asset. So
+it's a combination of a dozen projects. We could start the clinical -- probably from next year, over
+the next one-two or three years plus other technologies, including capsids, which could be further
+refined. But we need to work on those to get the ultimate topic for the right tissue.
+A - `Pascal Soriot, Chief Executive Officer `Thank you, Marc and I look-forward to the day when we can actually show you the progress we're
+making in the Alexion portfolio. And the pipeline is very exciting, but it's also the whole for the
+cardiovascular, respiratory immunology portfolio. And at some point, hopefully in the future, we
+can spend more time on those products. As many of those are exciting. We're also making
+progress in VNI, even though it's much more -- at an early-stage, but with that, Mene, you want to
+cover the question that Simon had queried?
+A - `Menelas Pangalos, Executive Vice-President, BioPharmaceuticals R&D `
+Great question and the answer is, we have an interest both in terms of building our immunology
+capability and autoimmune disease, and specifically in diseases like IBD. Now, I'll give you two
+examples. And again, this I'm sure its something that Sharon will be talking about over the coming
+year. The first program is an anti-CCR9 antibody that's in Phase I, which has demonstrated really
+dramatic lowering of the T-regulatory cells in the gut. And it looks like a very interesting
+mechanism in an antibody, and we're looking to see how we can accelerate that. And you may
+also have heard about a deal we did with a small company called Quell, in the T-regs space and I
+talked about it today in my presentation. They have a really interesting way of locking T-reg cells
+to maintain their anti-inflammatory state. And one of the indications that we're pursuing with them
+is IBD.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Mene. We have a few more questions, so we maybe extend by five minutes. But if
+you don't mind, if you could ask one question each time. Seamus Fernandez, go ahead.
+Q - Unidentified Participant
+Yeah, thanks. So just a quick question on the change in leadership and Mene's retirement. It's
+interesting to see that Sharon is coming in from Alexion. Is this a directional move away from sort
+of more primary-care type opportunities? I know this is something, Pascal, you have talked about
+before, but there's a lot of interest in opportunities to treat metabolic disease. Just interested if
+there -- this is a strategic shift away from diabetes and metabolic disease? Perhaps obesity
+opportunities? Or if we're going to see AstraZeneca continue its efforts along those lines or
+perhaps even accelerate those efforts through business development going-forward. Thanks.
+A - `Pascal Soriot, Chief Executive Officer `
+It's a good question. Actually, what it is, is very simply the appointment of a very talented scientist
+and a very -- an exceptional leader. It's not reflecting a change in strategy. Certainly not reflecting
+that we want to consolidate Rare Disease and the biopharma business, because Sharon is being
+replaced as head of research and product development at Alexion. And it's also not reflecting a
+move away from or disengagement from primary care. I mean, I'm sure you've noticed that --
+looking at our sales, but also our portfolio, you've noticed that suddenly over the last few years.
+Naturally, our portfolio has moved to more specialty care, but primary care remains important,
+and that's why a few minutes ago we were saying, we look forward to the day when we can talk
+about what we have in R&I, but also in cardiovascular medicines. We have quite a few -- quite a
+few projects. And Mene maybe you want to sort of comment there on the portfolio we have.
+A - `Menelas Pangalos, Executive Vice-President, BioPharmaceuticals R&D `
+Yes, I think, you know, when we have a chance, hopefully, in the next 6 to 12 months to talk about
+all of the assets, both early- mid- and late-stage assets across CVRM, across Respiratory
+Immunology, B&I. I mean it's a very rich and deep portfolio with many-many opportunities, manyof them significant. We are moving more to specialty, but there's still a place for the primary care.
+And Sharon, I can just echo what was just said -- she's going to be a fantastic leader for us. It
+doesn't reflect any change in strategy. More of continuity with hopefully going from strength-to-
+strength and building on what we have already build.
+A - `Pascal Soriot, Chief Executive Officer `
+One thing that certainly Sharon can kind of help us do is continue building this focus in
+immunology. Something that Mene started and -- That will be an important chapter of our future.
+Matt Weston at Credit Suisse.
+Q - `Matthew Weston, Analyst, Credit Suisse `
+Thank you, Pascal. Can I ask a question about IRA Part-D reform. So at face value. Astra's oral
+oncology business, it's going to face significant headwinds over the coming years, as pharma's
+contribution to catastrophic cover in Part-D steps up significantly. But offsetting that was also the
+potential for volume uplift on lower copays and reduced foundation support. I wonder if Dave
+could walk us through the pushes and pulls for the Oncology business, and whether you see that
+as a meaningful net negative. Something that washes its face or maybe even a net positive.
+And if I'm allowed, Pascal, I know you said, one. Can I cheat? Susan on TLO 1, when do you expect
+the OS data to be mature and will you present the PFS data before the OS data is available?
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you. So thanks, Matt. So on the IRA, it is in term of co-pays et-cetera, it's -- I think it's
+probably a small positive for primary care products and a big positive for -- bigger positive for
+oncology. Not only oncology, but more expensive oral medicines. And with this I'll hand over to
+Dave, who can comment more specifically on oncology.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+So if we take a look at the first part, Matt, of the question. We haven't shared now for quite some
+time, specific product level breakdown of percent of business that's within Medicare Part-D. What
+we have shared that across the AstraZeneca complete portfolio. The 25% to 30% of it is Part-D.
+And you're right that the oral Oncolytics are above that average relative to kind of understanding
+the magnitude of the exposure here.
+So certainly, you can model out what the impact of having to pick up catastrophic looks like. I will
+say though that it is an important offset that comes with the ability to be able to have copay
+capped and also smooth over the course of the year. With these expensive oncologics, really the
+co-pay exposure that patients in Medicare plans face on the affordability is quite significant. There
+is no mechanism for industry to be able to help in the way that we do with programs in the
+commercial side of things.
+So, while $2000 of copay may be a barrier for a number of patients still within the United States,
+particularly within the some of the elderly population, we do think that there is an important
+reduction that's going to happen here. Overall, I will have to see how much we're able to actually
+get patients off of free goods programs as a result of this, and we'll keep that -- we'll keep you
+updated on that as it unfolds and we'll start to find out next year. Actually as co-pay moves down
+to a $3,500 cap on January of 2024.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `So thanks for the question, Matt. So, as you're aware, we've not indicated when the final OS
+analysis is going to be conducted for TL01. When we've got -- it's an event rate, driven as
+expected. And when we've got the projected event rate, we can update that. But just for you in
+the meantime, when considering the outcome and the maturity, just bear in mind that this is the
+second-, third-line non-small cell lung cancer patient population and unfortunately for those
+patients, median OS is still not long. So with docetaxel it's in the 10 to 12 months range is typically
+what you'd expect. So, it's not hugely and prolonged versus progression free survival.
+A - `Pascal Soriot, Chief Executive Officer `
+Thanks, Susan. So, `Eric Le Berrigaud, Analyst, Stifel, Nicolaus & Company, go. Can I ask everybody to stick to one and not cheat,
+please. Eric.
+Q - `Eric Le Berrigaud, Analyst, Stifel, Nicolaus & Company `
+Would like to try, first was on HER3 actually as a target in ADC is still continuing to see good data
+coming from your partners product, and some physicians would like you to embark into this
+partnership as well. Is there any option, and are you still discussing to get access to it? And if not,
+are you nonetheless interested by these targets? And are you then considering doing one
+proprietary products with any kind of construct?
+And maybe if I can try a very-very short one in rare disease. Putting together Soliris and Ultomiris,
+until the R&D delivers, will represent probably 80% of sales for the next two or three years. With
+some biosimilars coming in Europe first and competition growing, can you maybe give us a little
+bit of confidence into the ability to maintain or slightly grow self for the two together for the next
+two or three years? Thank you.
+A - `Susan Galbraith, Executive Vice President - Oncology and Research and Development `
+Thanks for the question about the HER3. You're talking about datopotamab deruxtecan. So
+obviously, there's going to be some data presented at the upcoming World Congress on Lung
+Cancer. And obviously, we've got an ongoing clinical collaboration with Daiichi Sankyo on this as
+part of the ORCHARD study in patients with EGFR mutated and non-small cell lung cancer looking
+in combination with osimertinib in that setting. When we're looking at ADCs in general, making
+some of the choices that we've made in recent business development in that space, we're
+looking at the overall benefit-risk ratio versus what we've already got with our internal assets and
+already partnered assets. So we'll look-forward to seeing the updated clinical data, both as
+monotherapy and in combination with osimertinib, which we get access to. And I would also just
+say, look, we're excited about our internal portfolio that's progressing. We have a B7H4, ADC,
+and we now have the EGFR MET bispecific ADC and a fully-receptor alpha-targeted ADC all with
+our proprietary linker warhead with topoisomerase warhead, so these decisions are made in, in
+the context of the internal portfolio that we've got as well.
+A - `Dave Fredrickson, Executive Vice President, Oncology Business `
+Eric, thank you for your question on the future of the C5 franchise. So, if you refer only to Soliris
+and Ultomiris, there will be a continued growth and it will be supported by both regional
+expansions, but also by extension of indications. But I want to take the opportunity to also signal
+or remind you of the 1720, the mini body, which is our C5 third generation, which is presently
+undergoing Phase III trials, which could also provide some further options to physicians and
+patients.
+A - `Pascal Soriot, Chief Executive Officer `We'll take two more questions and then we will have to close for the day. Peter Welford, over to
+you Peter.
+Q - Unidentified Participant
+Thank you. I will just stick to one question as asked. We'll start with China, I wonder given the
+changes that you mentioned with regards to the NRDL and some of the recent sort of reforms
+we heard, just wondered AstraZeneca attitudes towards China and investment there has
+changed at all? I mean, recently you've sort of cooled a little bit with the expansion of spend and
+investment in the country. Any perhaps pull back on some resources. Just wondering your current
+thoughts on investment and further investment in China from here, and whether there is any
+change at all and how you see the longer-term market there with the changes. Thank you.
+A - `Pascal Soriot, Chief Executive Officer `
+Let me call if this one, if I may Leon. Because of course it's going to be positive, right? Yes. I
+mean, actually we are very committed, and China is and will remain a very important country for I
+think for the industry, but certainly for AstraZeneca. And we are very committed. We are building
+our presence in rare diseases. We've just approved the build of a very important factory in China,
+in Qingdao, to make inhalers for China and potentially export out of China to some emerging
+markets.
+So we are definitely committed. We have a strong R&D team. We also, as I've said before, are
+leveraging our connections to partner with local biotech companies and help them develop and
+commercialize the products globally. So it will remain a very important country for us, not only
+because we have products to sell to help patients there, and there are as you know -- there are
+lots of patients. But also, because it's a source of innovation.
+And it is, for us, becoming a -- or has become some time ago already, actually, a strategic center.
+Anything you want to add there, Leon?
+A - `Leon Wang, Executive Vice President, International and China President `
+Yes, I think Pascal mentioned quite completely. I think -- I really hope you can pay also more
+attention to outside China, because outside China emerging market is larger than China now and
+growing much faster. And I think there will be lot of opportunity in untreated and undiagnosed
+patients' opportunities there. And within China, we still have a lot of products like biologics,
+Fasenra and all these important new launches that we still -- are very exciting and look-forward.
+And it's a source of innovation and it's a manufacturing center. And it's also a big market.
+A - `Pascal Soriot, Chief Executive Officer `
+That's a good point. I mean, outside of China, the growth was 38%, first half. So I'm sure you
+noticed that. Every region of the emerging markets regions is growing very strongly. We've been
+accelerating. We are certainly catching up on the approval of new products and launching them.
+So a lot of growth today and also to come. So maybe the last question with Hector of Berenberg.
+Luisa, go ahead.
+Q - `Luisa Hector, Analyst, Berenberg Capital Markets `
+Thank you, Pascal, and maybe a chance to say thank you to Mene, for sharing his insights over the
+years and for discussions around the productivity. And so Mene, maybe a question for you on
+that. So your slide on the breadth of platforms in place in biopharma. My question there would beantibodies. So with these novel platforms there, does it change anything in the R&D decision-
+making processes? And I think you are at six hours, maybe more now. But how does anything
+change in that decision-making given the complexities of these exciting platforms and do they
+carry more risk?
+A - `Menelas Pangalos, Executive Vice-President, BioPharmaceuticals R&D `
+Thanks, Luisa. First of all, thank you. And the reason why I wanted to show you the platform is
+because we have been building for a long-time, and of course, monoclonal antibodies and small
+molecules remain a very important part of the pipeline. And you know, many of the molecules
+that we have across the pipeline across both Oncology and biopharma. But these next-
+generation platforms are important, because the reason why we fail today predominantly is
+because our scientific hypothesis is wrong. As we go into more genetically validated targets quite
+often, you can't target them with a monoclonal antibody or a small molecule. So having access to
+gene editing, oligonucleotides, advanced biologics, gives you a chance to attack more
+complicated pharmacology and disease, and hopefully improve your probability of success. And
+that's all what we've been trying to do. So it's not that we're not interested in small molecules or
+biologics. I don't think our decision-making changes. It just opens up more opportunities in terms
+of the biology that we can attack.
+A - `Pascal Soriot, Chief Executive Officer `
+Thank you, Mene. Such a beautiful question to finish, Luisa. Thank you for this. So we'll end the
+Q&A here. Thank you, again, for all your great interest in our company and I wish you all a great
+weekend.

@@ -1,0 +1,777 @@
+Q3 2019 Earnings Call
+
+Presentation
+Operator
+Good day, ladies and gentlemen, and welcome to the SAP Quarter Three 2019 Earnings
+Conference Call. Today's conference is being recorded.
+At this time, I would like to turn the conference over to Mr. `Stefan Gruber, Head of Investor Relations, Head of Investor
+Relations. Please go ahead, sir.
+`Stefan Gruber, Head of Investor Relations `
+Thank you. Good morning or good afternoon. This is `Stefan Gruber, Head of Investor Relations, Head of Investor Relations.
+Thank you for joining us to discuss our results for the third quarter 2019. I'm joined by our new Co-
+CEOs, `Jennifer Morgan, Co-Chief Executive Officer and `Christian Klein, Co-Chief Executive Officer, as well as `Luka Mucic, Chief Financial Officer, our CFO, who will make
+opening remarks on the call today. Also joining us for Q&A is Executive Board member Adaire
+Fox-Martin, President of our Global Customer Operations; and `Ryan Smith, Chief Executive Officer, CEO of Qualtrics.
+Before we get started, I would like to say a few words about forward-looking statements and our
+use of non-IFRS financial measures. Any statements made during this call that are not historical
+fact are forward-looking statements as defined in the US Private Securities Litigation Reform Act
+of 1995. Words such as anticipate, believe, estimate, expect, forecast, intent, may, plan, project,
+predict, should, outlook, and will, and similar expressions as they relate to SAP are intended to
+identify such forward-looking statements. SAP undertakes no obligation to publicly update or
+revise any forward-looking statements. All forward-looking statements are subject to various risks
+and uncertainties that could cause actual results to differ materially from expectations.
+The factors that could affect SAP's future financial results are discussed more fully in our recent
+filings with the US Securities and Exchange Commission, including SAP's Annual Report on Form20-F for 2018, filed with the SEC on February 28, 2019. Participants of this call are cautioned not to
+place undue reliance on these forward-looking statements, which speak only as of their date.
+On our Investor Relations website, you can find our quarterly statement and a financial summary
+slide deck. Both documents are intended to supplement our prepared remarks today and include
+a reconciliation from our non-IFRS numbers to IFRS numbers. Unless otherwise noted, all financial
+numbers referred to on this conference call are non-IFRS and growth rates and percentage point
+changes are non-IFRS, as reported year-over-year. The non-IFRS financial measures we provide
+should not be considered as a substitute for or superior to the measures of financial
+performance prepared in accordance with IFRS.
+And finally, just a reminder, today's call is focused on our Q3 earnings results. In three weeks, on
+November 12, we will hold our Special Capital Markets Day in New York City, where we will
+provide more color on our growth strategy and mid-term revenue and margin ambitions.
+And with that, I'd like to turn things over to our Co-CEO, `Jennifer Morgan, Co-Chief Executive Officer.
+`Jennifer Morgan, Co-Chief Executive Officer `
+Thank you, Stefan. Good morning, and thanks to everyone for joining today's call. First, I'd like to
+thank Hasso Plattner on the Supervisory Board for their trust and honor of leading this Company
+forward together with `Christian Klein, Co-Chief Executive Officer as CEO. It's an honor to help write SAP's next chapter and
+follow Bill.
+Before I begin, I want to start with the news we learned about on Friday regarding the passing of
+Mark Hurd. Mark has had a profound impact on our industry, and on behalf of all of SAP, I want to
+extend our deepest sympathies to the entire Oracle community and most especially to Mark's
+family and friends. You are on our thoughts and prayers during this difficult time.
+Now, let me dive into our Q3 performance. Today we reported strong Q3 and year-to-date
+results, which Luka will detail shortly. Clearly, our experienced management vision powered by
+Qualtrics is resonating with customers and a key differentiator across all aspects of the Intelligent
+Enterprise. With top line accelerating and operational excellence initiatives in full swing, we're on
+track to reach our full year and mid-term ambition.
+Let me spend a minute on the macro. Our strong Q3 performance was achieved despite
+headlines about a slowing global economy, trade wars, and political uncertainties. We had some
+impact due to macro challenges, for example, in Asia and the German auto and manufacturing
+sector, but even in times of uncertainty, technology investment remains a focus for every
+company and our business is resilient due to the breadth of our global coverage.
+Companies continue to turn to SAP to transform, to accelerate their growth organically, and
+through faster M&A, to drive efficiencies, competitiveness, and successfully navigate a changing
+macro and regulatory environment. Our global pipeline is robust as we head into our seasonally
+strong Q4. SAP's resilience is further underpinned by more predictable revenue approaching 70%
+of the mix.
+Let me now highlight our strategic growth drivers in the cloud. We made a bold move with the
+acquisition of Qualtrics and customers are excited about the holistic experience management
+platform Qualtrics provide, in addition to what the combination of X and O data can do. We're
+very pleased with Qualtrics' growth and we are starting to see the scale of SAP helping drive and
+close pipelines, especially in the enterprise segment.Qualtrics had some impressive wins in Q3. Dish Networks, Slack Technologies, Akamai, U-Haul,
+Sharper Image, Stanley Black & Decker, Garmin International, and many others selected Qualtrics
+in Q3 to move beyond systems of record to new systems of action and achieve breakthrough
+results. We continue to beat our competition in both the enterprise and volume parts of our
+business. Qualtrics' volume engine is helping SAP to expand its footprint into new accounts and is
+helping us open doors for other SAP Cloud solution.
+We're also seeing an acceleration of our win rates against Medallia as customers are choosing
+Qualtrics for its technology and analytics capability and the breadth of XM Solutions across
+customer experience, employee experience, product experience, and brand experience.
+With the addition of Qualtrics to SuccessFactors, we've redefined the traditional human capital
+category to human experience management, or HXM. Every company needs to understand the
+factors that impact employee experience, to attract and retain their talent. And since integrating
+Qualtrics with the SuccessFactors suite, we've seen a tremendous demand in SuccessFactors'
+customer base for Qualtrics. Since May, we've acquired over 300 customers to the Qualtrics
+platform. SAPs evolution towards Human Experience Management is proving to be an accelerant
+for Employee Central, which added more than a 150 customers in the quarter and has now more
+than 3,500 customers globally. Competitive wins included British Telecom and Hugo Boss. And
+our joint sales missions are paying dividends. Qualtrics had its largest Employee Experience deal
+in history this quarter as a direct result of our joint go-to-market mission.
+Some proof points for SuccessFactors. We just closed 1,000 SuccessFactors customers in APJ
+and when you add China, that's another 400 customers. In Latin America, we're approaching
+800. Even in mature markets like Europe, we see significant growth to over 2,800 customers. UK
+and Ireland saw triple-digit new bookings growth in Q3.
+We're also making great progress (inaudible) in our partner ecosystem. We announced a
+partnership with Ernst & Young with EY delivering XM practices and solutions to its clients through
+its People Advisory Services and its Workforce of the Future solutions. EY will also become the
+first Qualtrics partner network member to adopt Qualtrics Employee Experience across their
+organization of 260,000 employees, and this will combine X-data and O-data from
+SuccessFactors.
+In addition to accelerating SuccessFactors business in HCM, our CS business continues to benefit
+with the infusion of Qualtrics across our C/4HANA portfolio. We introduced the connector
+between Qualtrics to C/4HANA, the developers and partners can use to build new integration
+scenarios. We're starting to see organizations combining customer feedback and operational
+data to listen, understand, and act. E.ON and Brazilian retailer Swift also chose SAP C/4HANA
+solutions in Q3 over our competition based on SAP's unique and compelling vision, while Petrofac
+and Perfumery Douglas went live on C4.
+We're continuing to invest in our customer experience portfolio. We've announced that Bob Stutz,
+a leader who continued to redefine the CX arena at both Microsoft and most recently,
+Salesforce, had rejoined SAP as President of Engineering and our CX business. Bob's experience
+and foresight will take us to new places in the future.
+Our Intelligent Spend solutions provide collaborative commerce with SAP Ariba, effortless travel
+and expense processing with SAP Concur and flexible workforce management with SAP
+Fieldglass. Together, they represent the largest commerce platform in the world, with more than
+3.4 trillion and global commerce annually transacted in more than 180 countries. This is nearly
+eight times the size of Coupa. We are making strong progress on delivering integrated spendscenarios starting with services procurement across Fieldglass and Ariba. BT, Sony Music product
+and many others turned to SAP's Intelligent Spend solutions in Q3.
+Specifically, Concur is starting to gain traction, especially in China, with Xiaomi as one of its
+marquee customer. Another incredibly exciting announcement and key strategic driver of future
+growth is our expanded relationship with Microsoft, which we call Embrace. We've listened to our
+customers to help them define and accelerate their journey to SAP S/4HANA in the public cloud.
+Many of our enterprise customers have chosen Azure. In response, SAP and Microsoft had
+established a partnership to move on-premise SAP ERP and S/4HANA customers to the cloud,
+through industry specific best practices, our joint reference architecture, and SAP Cloud delivered
+services on Azure. This partnership will both accelerate and simplify customer migration to
+S/4HANA on Azure.
+Microsoft will bundle SAP's cloud platform services into a bundle we call Embrace. And they'll sell
+these directly through their field organization to their customers, who will run SAP in the Azure
+Cloud. By putting the customer first, we've combined SAP innovation with Azure to create the
+optimized environment for SAP S/4HANA to enable the integration, orchestration, and extension
+of SAP systems in the Azure Cloud. As always, choice will prevail as we recognize that many of
+our customers also run SAP on AWS and GCP, for example. In this case, our customers will still
+have the benefit of the best-run SAP and their public cloud of choice.
+So, to summarize, SAP is delivering on its winning strategy and its promises as validated by our
+strong Q3 and year-to-date results. The fundamentals and future of SAP could not be stronger.
+Now I'd like to hand over to my partner and Co-CEO, `Christian Klein, Co-Chief Executive Officer. We share similar visions and
+with highly complementary skill set and experiences, we will write the next chapter of SAP's
+success together. Thank you, again. Christian, over to you.
+`Christian Klein, Co-Chief Executive Officer `
+Thanks, Jen, and thanks to everyone for joining us today. Let me begin with the personnel
+remarks. On Friday, we were saddened by the news about the passing of Mark Hurd. Words are
+never adequate in moments like these. The whole IT industry lost a visionary leader and a brilliant
+mind. And my thoughts are with his family, his friends, and everyone at Oracle.
+Being a CEO is a hallmark [ph] with responsibility and an honor to hold. I want to express my
+heartfelt thanks to Hasso Plattner, and the SAP Supervisory Board for the trust they put into Jen
+and myself.
+Starting off with a quarter like this certainly helps. This is where I also want to thank Bill, not only
+for his amazing quarter, but also for the unique journey during the past decade. This is an
+outstanding quarter across all key parameters. Cloud and on-premise order entry, revenue, cloud
+gross margins, operating margins and cash flow. Luka will walk us through those in a minute.
+Let me add some color from the core applications perspective. SAP's ERP flagship solution
+S/4HANA continues its success stories. It's the broadest suite in the market, serving over 25
+industries and 160 country versions. We are continuing to rap [ph] into artificial intelligence to
+further increase the business value and help our customers to grow and drive automation in the
+digital age. Until the end of this year, we will have 200 use cases and more than 1,800 features,
+representing a 60% increase in scope.
+S4 is further gaining market share, and we see positive software license growth and high double-
+digit cloud revenue growth. 80% of the DAX companies and 65% of the Forbes Global 2000companies already rely on SAP S/4HANA. We are now at more than 12,000 Latin customers,
+representing a 25% year-over-year growth. We're also very happy with regards to adoption,
+especially S/4 with more than just the technical migration. It allows our customers a complete
+redesign of their business model and business processes.
+We see 60% of customers apply for implementing and the other preparing their projects. To
+name just a few, this quarter Dow Jones and Callaway Golf in the US and Breitling in Switzerland
+went live on S/4HANA, as did Daewoong Pharma in South Korea. In context of that, we are
+making rapid progress in Cloud ERP. S/4HANA Cloud, including supply chain management, we are
+now at cloud revenue run rate of more than EUR0.5 billion and close to 2,000 customers. That's
+a coverage of 17 industries already in the cloud, and we are investing heavily in the user
+experience. This quarter we saw subsidiaries of McDonald and Xinjiang Daming Mining in China
+go live on S/4HANA Cloud.
+I also would like to provide you with an update on our platform business, including our in-memory
+database SAP HANA with more than 31,000 customers as of today. One important use case is,
+S/4HANA and other LOP applications such as SuccessFactors running on top of SAP HANA, but
+over the last two years, HANA has rapidly expanded beyond SAP applications to third-party
+applications. This is reflected in the share of full use licenses. We had more than 60% already and
+it continues to expand.
+We are evolving SAP Cloud platform as a business technology platform with focus on business
+services and integrating our LOP application. SAP Cloud platform is also key when we talk about
+integration including our master data integration content and co-kernel [ph] services like security
+and identity. There is no doubt that cloud is becoming mainstream in the enterprise software
+market. And so, we are happy to record increasing cloud cost margins across all business model.
+We are looking hard on further increasing the efficiency of our internal cloud delivery. You can see
+that in the margin trend and I will provide additional color at the Capital Markets Day. At the same
+time, we understand some industries with high policies [ph] complexity like manufacturing and
+automotive where ERP customization is needed, we keep major part of their core on-premise for
+the foreseeable future.
+The same is true for companies and countries with high -- with political instability, limited
+infrastructure or increased data security concerns. Hence, a lot of landscapes will remain hybrid
+for many years. SAP allows companies to combine cloud and on-premise in a landscape tailored
+to their needs, taking into consideration their business requirement and strategic vendor
+relationships.
+It's all about customer choice. This is also reflected in our multi-cloud strategy allowing both our
+customer and us to leverage the hyperscalers' highly elastic and globally available infrastructure
+to deliver SAP Cloud solutions. Jen discussed earlier the Microsoft partnership and how excited
+we are about that. Bill rest assured that customer choice in this context remains unchanged.
+Before I hand it over to Luka, I'd like to point out three focus areas that I believe will be critical for
+our success in the next chapter of SAP. One, customer success. SAP has always been best when
+we listen to our customers. Customers have been vocal about their feedback which we greatly
+appreciate and proactively seek. We are listening and taking action. Integration, solution adoption
+and use and upselling is a key and directly related to customer success, through innovation.
+SAP is not software distributor. SAP is a software engineering powerhouse. Our continued growth
+through innovation is based on our ability to leverage R&D resources effectively and efficiently.cycle, so we get the most out of our R&D investments, which are critical to our future success.
+Also, we will further strengthen core innovation with our customers to realize true business value
+with the help of new technology.
+Three, our employees. It is our colleagues that drive innovation, provide value to our customers,
+and consistently promote our growth and profitability. We are proud that SAP has been
+recognized on numerous employee awards worldwide. We are the only company to rank on all
+five classes of best places to work (inaudible) Our employee engagement index is near record
+high, but we don't stop here. In addition to further simplifying our internal processes, we are
+currently conducting our annual employee survey this year with our own SAP Qualtrics technology,
+which gives us detailed insight into the good, the best and active. If the employees are
+productive and innovative and therefore critical to our success.
+With that, I would like to hand it over to Luka. Luka, are you happy with the numbers?
+`Luka Mucic, Chief Financial Officer `
+Yeah. Thanks, Christian. As you know, usually it's hard to get me satisfied, but this time I'm indeed
+absolutely happy with the results this quarter. And I would also like to take the opportunity to
+congratulate both you and Jen on being named Co-CEOs.
+Look, in April, we promised a stronger focus on profits and we are clearly delivering. I'm very
+pleased to say that our operational excellence measures allowed us to achieve double digit
+operating profit growth and a substantial operating margin expansion. And just as important, we
+achieved this result with continued strong top line momentum.
+Let me now provide you with some background on the key drivers of the third quarter. Both cloud
+and software revenue as well as total revenue grew 13% this quarter. Cloud revenue was again a
+big driver of this growing 37%. New cloud bookings were up 39% and up 51% excluding our
+infrastructure-as-a-service business. This is a good trend for SAP, a net positive for the margin
+profile of our cloud business.
+As mentioned by Jen, we also signed a large partner contract with Microsoft. This contributed 18
+percentage points to new cloud bookings growth this quarter. In addition, as Christian said, we
+saw a significant growth in our S/4HANA cloud offering. Software license and support revenue
+grew at a solid 4% in the quarter. Software licenses revenue declined by 1% and with this, our
+software license revenue was actually slightly better than expected despite macro uncertainties.
+This was primarily driven by continued growth in our S/4HANA flagship solution and our digital
+supply chain offering.
+In Q3, the share of more predictable revenue increased to 69%, up 2 percentage points year-
+over-year. Now quickly to the regions where we had a very solid performance in the EMEA region
+with cloud and software revenue increasing 10%. Cloud revenue increased 48% with Germany
+and the UK being highlights. France and the UK had exceptional quarters in software license
+revenue.
+We had a strong performance in the Americas region. Cloud and software revenue increased
+16%. Cloud revenue increased 32% with Canada, Brazil and Mexico being highlights. In addition,
+the United States and Brazil both had strong quarters in software license revenue. In the APJ
+region, we had a solid quarter amidst a challenging market environment. Cloud and software
+revenue was up 9%. Cloud revenue increased 40% with Japan and Australia being highlights.
+Japan had an exceptional quarter in software license revenue as well.Let's now look at profitability and gross margin for the third quarter. Our cloud gross margin rose
+sharply year-over-year and increased by 5 percentage points to 69%. As Christian already
+mentioned, we continue to make progress on efficiency gains in our cloud delivery. This marks the
+third straight quarter in a row that we have increased our cloud gross margin sequentially. In our
+most profitable cloud segment, the Intelligent Spend Group, gross margin remained steady year-
+over-year at 78%. The gross margin of our other SaaS/PaaS businesses expanded massively by 10
+percentage points year-over-year and reached 70%, which is an acceleration compared to last
+quarter.
+Similarly, as in Q2, we benefited from primarily four effects. First, SuccessFactors is now running
+solely on our converged cloud platform based on the HANA database, extended lifetime of
+hardware, continued high gross margin from Qualtrics, and also benefits from restructuring. For
+our infrastructure-as-a-service offering, the cloud gross margin improved by 9 percentage points
+year-over-year to 25%. We see infrastructure-as-a-service becoming a smaller share of the cloud
+mix going forward as hyperscalers continue to expand their capabilities to operate SAP workloads
+in their datacenters.
+Our cloud and software gross margin increased by 1 percentage point to 82% year-over-year with
+a very positive contribution from the cloud margin. Our services gross margin was up 5
+percentage points to 27%. The increase of the services margin mainly results from a strong
+revenue performance paired with the successful execution of operational excellence measures
+and restructuring benefits.
+Overall, operating profit was up 20% year-over-year driven by a combination of strong top line
+and further acceleration of our operational excellence and restructuring benefits. This led to a
+stellar operating margin, which expanded 170 basis points. Year-to-date, we expanded our
+operating margin by 70 basis points. Turning quickly to IFRS operating profit, this was up 36%
+benefiting from lower share-based compensation expenses. For the first nine months, though,
+IFRS operating profit was down 28%.
+Let me just give you a brief recap and update on the effects that led to this result. Compared to
+the first nine months of 2018, we had close to EUR100 million higher acquisition-related charges
+and revenue adjustments mainly from the acquisition of Qualtrics, close to EUR500 million higher
+share-based compensation expenses and approximately EUR1.1 billion higher restructuring
+expenses. As mentioned last quarter, these effects are obviously much higher than usual this
+year. We still expect IFRS operating profit to be up significantly next year since we don't expect
+any meaningful restructuring expenses and acquisition-related charges to likewise decline.
+Therefore, our IFRS operating profit growth rate in 2020 will be much higher than on a non-IFRS
+basis.
+Moving on to EPS and taxes, where for IFRS EPS we saw a strong increase of 28% year-over-year,
+while non-IFRS EPS was up 14%. In the third quarter, our IFRS and non-IFRS effective tax rate each
+increased close to 2 percentage points year-over-year. However, our tax rate guidance for 2019
+remains unchanged. In Q3, our operating cash flow was up 28%. Free cash flow rose sharply and
+was up 116% due to strong operating cash flow and a reduction of our CapEx spend by 50%.
+For the first nine months, our operating cash flow was EUR3.3 billion, down 5% year-over-year.
+Compared to the prior year, operating cash flow was impacted by the following effects. First, the
+benefit of roughly EUR290 million from the application of IFRS 16, but then higher restructuring
+payouts of around EUR240 million, higher share-based compensation payouts of close to EUR210
+million, and higher tax payouts of EUR490 million. For the full year 2019, we therefore still expect
+operating cash flow to be slightly lower than in 2018.Similar to IFRS operating profit, we expect a steep increase in operating cash flow in 2020, as
+restructuring and tax payouts will decrease sharply. Free cash flow stabilized for the first nine
+months and was flat at EUR2.3 billion. This reflects our disciplined CapEx spend, which was
+EUR703 million, EUR443 million lower than the previous year. For the full year 2019, we now
+expect our CapEx to stay below the EUR1 billion mark.
+Before I conclude, I would like to give you an update on our non-financial performance and
+sustainability highlights. We are proud to be recognized as the number one software company in
+the Dow Jones Sustainability Index for the 13th year in a row. Developments in the world are
+leading to increased demand for SAP to enable customers to implement sustainable business
+models connecting economic, social, and environmental objectives. We want to help ensure that
+smart integration of impact measurement and valuation will ultimately become standard practice.
+To this end, SAP is a founding member of the Value Balancing Alliance, a non-profit organization
+that helps businesses measure their overall societal impact and dependencies.
+We aim to lead by example, continuing to steer sustainability holistically in our own operations.
+Employee retention was down slightly to 93.3% in Q3 year-over-year. We have made great
+progress in women in management, which is now at 26.3%, up from 25.9% year-over-year and
+obviously with Jen, SAP has named the first female Co-CEO of a DAX company. In Q3, our
+carbon emissions were 65 kilotons which is slightly higher than we anticipated. Despite this, we
+expect that our emissions in 2019 will stay stable at a minimum. We remain committed to our goal
+of becoming carbon-neutral by 2025.
+So, to summarize, we delivered an exceptional quarter across revenue, profit, and cash flow. We
+achieved double-digit growth in cloud revenue, double-digit growth in cloud and software
+revenue, double-digit growth in total revenue, double-digit growth in operating profit, substantial
+operating margin expansion, double-digit growth in earnings per share, and triple-digit growth in
+free cash flow. We reiterate our 2019 outlook with great confidence and we are on track to reach
+our mid-term ambitions.
+With that, thank you very much and we will now be happy to take your questions.
+Operator
+Thank you, sir.
+`Luka Mucic, Chief Financial Officer `
+Thank you. Operator, we can now start the Q&A session.
+Questions And Answers
+Operator
+Thank you so much. (Operator Instructions) Our first question comes from `John King, Analyst, Bank of America Merrill Lynch from Bank of
+America. Please go ahead. Your line is open.
+Q - `John King, Analyst, Bank of America Merrill Lynch `
+Yeah. Hi and good afternoon, everybody. Couple of questions for me. Firstly, just on the
+mechanics of the Microsoft deal. I think you're implying it's about a EUR74 million, EUR75 million
+run rate of revenue. Can you just explain just how quickly we will see that kind of revenue run rate
+in the numbers, please, perhaps for Luka, I guess? And then just coming back to the cloud
+bookings, the second question, I guess, you could look at this in a number of ways, butdepending on the mechanics of that Microsoft deal, I guess, the implied cloud, organic cloud
+bookings growth would still, I would say, maybe a little bit below what you are expecting in terms
+of cloud revenue growth over the next few years. And I guess the question is, would you agree
+with that and if so, what are the steps you are looking to take in order to try and improve the run
+rates on the cloud booking side? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, perhaps I will take both of those and then, please, Jen, Christian, add your color, if you
+want. So on the Microsoft side, it's very simple. Revenue recognition will begin in Q4 and then
+basically we will have roughly the figures that you are citing on an annualized basis over the
+course of the next three years basically. On the new cloud bookings side, look, I mean, first of all,
+I think, nobody should argue with a 39% new cloud bookings growth and 51% without
+infrastructure-as-a-service being a good result. Of course, it was influenced by the Microsoft
+transaction. But this is representative with the strategic choices that we are making. We are
+doubling-down on the partnerships with our hyperscalers. We drive healthy and highly profitable
+cloud platform and S/4HANA business as a result of those partnerships and we focus our HANA
+enterprise cloud infrastructure-as-a-service business on high value opportunities. This is exactly
+the direction that we want our business to take.
+When it comes to the growth rates in new cloud bookings that we need in order to hit our mid-
+term objectives, I think I've been talking about this already on a number of calls previously. It's
+important to note that, first of all, the new cloud bookings are not the only source of our
+revenues and of our growth. Of course, the renewal performance plays a role, the rent in TCV
+contracts plays a role and we have quite a few of them that actually have a higher number of
+users or other capacity metrics that are kicking-in in later years of a multi-year contract. And on
+the other hand, obviously, the pay-as-you-go revenues that we have primarily in our Intelligent
+Spend Group are also not captured in new cloud bookings.
+When you take a look at our performance across the different cloud segments, you will actually
+find that we run basically only healthy businesses that are growing exactly the way they should. In
+the Intelligent Spend Group, we have been very consistent around the 20% constant currency
+growth mark now for a number of quarters and with the stability of our transactional revenues we
+expect that this will be continuing and in the high growth customer and Experience Management
+segment, we have been growing close to 100%.
+In ATS, actually many of the cloud assets that are now reaching scale like S/4HANA, analytics
+cloud have actually had a very, very strong performance. And as they become a bigger piece of
+the pie, they will of course also influence the revenue performance in a much bigger way. Cloud
+ERP is an almost untapped opportunity still for us. Christian has mentioned the run rate that we
+have achieved by now, the opportunity in the market is huge. So, you shouldn't be concerned at
+all about our momentum in the cloud. Please.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Yeah. I'll just punctuate a couple of different areas of focus for cloud growth. The Microsoft deal is
+important, because it goes beyond our traditional partnership. They have put pretty big skin in
+the game and their sales teams across the world are now selling SAP solutions. That's going to
+help us do two things; accelerate the movement of S/4HANA to the cloud and accelerate the
+sales of SAP's cloud platform services in cloud revenue. So the stickiness of that partnership, we
+believe, will continue to pay broader dividends. I'd say, two other points. Qualtrics is another area
+where we see huge potential from a platform perspective as well as just giving us an opportunityto have new conversation, especially in places like Asia. This is where we can hit the ground
+running and really drive growth faster.
+And then finally, we've heard you, we know that you want to see more organic innovation in the
+cloud from SAP. It will be something we talk a little bit more on at our Capital Markets Day. But as
+Luka mentioned, whether it'd be analytics or the customer facing solutions or supply chain, this is
+an engine that we need to get humming even more.
+Q - `John King, Analyst, Bank of America Merrill Lynch `
+Okay.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you. Let's take the next question, please.
+Operator
+Certainly. Our next question comes from `Walter Pritchard, Analyst, Citi from Citi. Please go ahead.
+Q - `Walter Pritchard, Analyst, Citi `
+Hi, thanks. I'm wondering, between some of the things you talked about on the call with S/4
+public ERP ramping up with, it looked like the percentage of your S/4 customers that were new
+actually came down implying that the installed base might be moving faster as well as what you
+talked about with Microsoft in the Azure relationship. Do you expect that you start to see a little
+bit more of a pickup here in the installed base migration around S/4? And I'm just curious, I know
+investors get a little nervous around cloud versus on-prem, but how do you expect that will
+influence those two revenue streams if there is any change that you're highlighting here? Thanks.
+A - `Christian Klein, Co-Chief Executive Officer `
+Yeah. Thank you, Walter, for the question. So I'll start and then handing over to Adaire. So in Q3,
+so we have seen actually really strong quarter for S/4. I mean, as I mentioned, we have seen
+positive growth in the software on-premise S/4. And we also have seen high double-digit growth
+for S/4HANA cloud revenue. And actually we see both. I mean, we see many industries like
+automotive or in the (inaudible) industry, we see a lot of movement also on our customers
+migrating to S/4 on-premise. We see also, now that we are increasing the business value of S/4,
+we're serving new business models, putting more and more AI into the product, driving more
+automation, drive higher intelligence in the processes. We see now that also the move is really
+picking up.
+And then on the cloud side, especially in the finance area, we have seen major wins now in Q3.
+And as I said, being now close to 2,000 customers, this is now a major business for SAP. Even
+more important that, in the cloud, we see that the adoption is even kicking in faster. So we see
+go lives within 20 days, which is really strong and this also shows that not only in the cloud we are
+growing fast, but also customers are adopting really fast.
+A - `Adaire Fox-Martin, President of Global Customer Operations `
+Yeah. Maybe I will just add a little bit to that, Walter. Thanks to our colleagues in development who
+are increasing exponentially the functionality that is embedded in S/4, it means that as our
+customers look at the value case for the move, there is a very strong value proposition now
+around the S/4 environment. We are putting a whole range of different components aroundfacilitating an easy and cost-effective move for our customer base. We can see very significant
+focus from the SI community on the S/4 install base. We have a strong value assurance program
+and the implementation partners are doubling down on this.
+In the general business space, we now have 27 conversion factories from various different
+partners supporting our customers in that segment. With our colleagues in DBS, our model
+company approach, it means that we are simplifying with pre-configured solutions and content,
+the implementation of S/4 in a customer's environment. So we're working to automate as much
+as we can of that process to ensure that we can facilitate a cost effective and high value
+transformation for our customers.
+A - `Stefan Gruber, Head of Investor Relations `
+Good. Thank you.
+Q - `Walter Pritchard, Analyst, Citi `
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take the next question, please.
+Operator
+Certainly. We will now take our question from `Michael Briest, Analyst, UBS from UBS. Please go ahead. Your line
+is open.
+Q - `Michael Briest, Analyst, UBS `
+Great, thank you. Good afternoon and congratulations, Jen and Christian, on your promotions.
+Just following up on the topic of the private cloud, I mean, you're obviously repeating the
+ambition for 2023 cloud revenues of EUR15 billion, but looking at this Microsoft relationship, in
+part, that could be cannibalistic to the growth in HEC. Do you see any change in the mix in 2023?
+Are you expecting the SaaS/PaaS business perhaps to be bigger than previously as a result of
+this. And then related to that, Luka, on the CapEx side, I think you said you're expecting less than
+EUR1 billion this year. Six months ago, it was going to be EUR1.5 billion. I'm wondering how much
+of that relates to this change in hyperscaler relationships, and how much maybe to your -- you
+have some quite large capital projects like building offices in Munich and such like, is that
+contributing to the reduction in CapEx?
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+So maybe I can take the first part of the question. We don't see this cannibalizing our revenue,
+because we see that customers want choice. And so many of our customers absolutely want SAP
+to manage S/4 in the cloud, whether it'd be the public cloud or whether it'd be a HANA
+enterprise cloud. So we see many of our customers are making broader public cloud, enterprise
+decisions. And for us, we wanted to make sure that we didn't limit our conversation to customers
+only specific to one cloud offering. And so what we found is that the customer has so many
+voices around their table right now, whether it'd be movement to public cloud, or S/4 or other
+innovation, and we just found that by coming together and giving them prescriptive options
+depending on what's important to them, what their industry is, et cetera, then we can make sure
+regardless, we're getting a piece of the pie and we can influence that decision. So we'll continueto see both of those revenue streams grow, but now we're going to be in far more conversations
+and impacting the direction. Luka?
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. And perhaps just last on this one. I think we have been talking for a while now about the
+fact that we expect indeed the infrastructure-as-a-service to draw focus on high value
+engagements will not further increase as a percentage of cloud revenues. Actually, we believe
+that there is now an acceleration in SaaS part, but there is very positive for the overall margin and
+of course also for the gross margins in the cloud.
+When it comes to CapEx, it's correct. I mean, we have made great progress this year in our
+CapEx efficiencies. Main contributing factors are, first of all, the progress that we have been
+making with the hyperscalers and our partnerships in this respect. They are now really powering a
+lot of the infrastructure support that we need for our applications and that is of course helping us
+a lot, but it's also due to the fact that Gary Slater and Christian's organization and the cloud
+infrastructure team have done a terrific job to rationalize the demand for our own data center
+hardware and consolidating the procurement centrally. They have also successfully renegotiated
+the maintenance contracts for our hardware and our data centers in a way that makes it now
+highly economic to extend the lifetime of the hardware from four to five years, and that has of
+course also in the CapEx intensity and we believe that this will continue to be the case.
+Yes, of course, we also have general CapEx needs through facilities and other CapEx areas, but
+they are largely planned for and they have not been subject to major changes. So it's really mainly
+the infrastructure efficiency in IT and in our data centers and we believe that this will continue. So,
+also for the next couple of years, we expect no significant increases from the level that we have
+reached right now.
+A - `Christian Klein, Co-Chief Executive Officer `
+And maybe, Mike, just to give you one concrete example also how our HANA Enterprise Cloud
+offering plays together with our hyperscaler strategy, I mean, one of our main competitors talked
+about some SAP ERP replacement and I had a -- actually have no evidence. I didn't find any SAP
+customer moving over to the competition. But what we are just currently doing there is, one large
+ERP customer from the competition, they are now saying we want to move to S/4HANA. They
+have not the skill to get to one HANA and one S/4HANA, so they said put S/4HANA on ESA and
+we go to the HANA Enterprise Cloud. So you help us to first replace the database, second the
+ERP and then SAP helps with the migration. And this is done with the HANA Enterprise Cloud
+offering plus ESA infrastructure. So you also can see that both offerings have also played really
+well together and helps us also to win market share going forward.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay, thank you. Let's take the next question please.
+Operator
+Certainly. Our next question is from Kirk Materne from Evercore ISI. Please go ahead. Your line is
+open.
+Q - `Stewart Kirk Materne, Analyst, Evercore ISI `
+Yes, thanks very much. And I'll add my congrats to Jennifer and Christian on your newmentioned that the business had been accelerating sort of versus the pre-IPO growth rates and I
+was just kind of curious where are you in terms of being able to leverage the global distribution
+capabilities of SAP with Qualtrics? And then, I guess, secondly, what kind of halo effect is maybe
+Qualtrics having on some of the other SaaS properties? I think you mentioned sort of the change
+in terminology around SuccessFactors. So I was just wondering if you could give us some sort of a
+broader update there on sort of the ability to leverage the Qualtrics brand across all of SAP.
+Thanks.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Sure. Thank you. Thanks for the question, Kirk. I'll start and then `Ryan Smith, Chief Executive Officer is actually on the call
+and I'll hand it him to give you a little bit more color. So, I look at it from a couple angles. One is
+that when you look at SuccessFactors or HR, and you look at the traditional category of HR, it was
+very much an event-driven kind of after the fact solution track -- track different events that
+happens in an employee's lifecycle. When you look at what's happening in the workforce today,
+the war for talent and employee experience, Qualtrics has really allowed us to really redefine
+how we're having these conversations. So it's not just about understanding why things are
+happening or why do I have attrition. It's understanding how to go further upstream and
+understanding who is going to address what are my issues going to be.
+And so being able to have those kind of conversations and take actions much further upstream in
+the business is key. So that has given us a huge kick in SuccessFactors, because it really changes
+the nature of the conversation and it makes it a (inaudible) discussion, because now we're talking
+to people about how experience actually shows up in the income statement, how we can actually
+lower your SG&A or it's going to allow you to be more productive and getting employees in retail
+on the floor and more productive in selling more is one example. So SuccessFactors is one.
+The other one clearly is around customer experience. When you look at our commerce solution,
+we see a really strong correlation between bringing together commerce and Qualtrics. The
+Qualtrics is also allowing us to start conversations in places maybe we wouldn't traditionally go. So
+it's allowing us to be, whether you are in customer service or other parts of the enterprise, it is
+getting us broader conversations and broader audiences, which has been fantastic.
+From a geographic perspective, you look at a region like APJ, the companies and the brands that
+are in APJ are foundationally based on this concept of experience. You look at the airlines in Asia
+and compare them to any other airlines in the world, these companies already understand
+experience. Now they very quickly can understand how technology can help them scale that new
+and different ways.
+Ryan and I were in Korea and Japan launching this over the summer, and we had incredible
+growth in our APJ regions around Qualtrics. So we're able to hit the ground much quicker. Our
+employees are super-excited about this solution, because they are able to have these
+conversations and we're really starting to have this enterprise conversation.
+Ryan, I'll hand it to you to add any additional color.
+A - `Ryan Smith, Chief Executive Officer `
+Yeah, I think you said it great, Jen. I think the only thing I would add would be, if you look back a
+year ago, we were on the road at this time, kind of starting our IPO roadshow, getting ready to
+go public and if you would have told me that -- here we are almost a year later, we've seen a
+massive increase in our growth rate from what was already out there. We're also seeing anytime
+we go in with SAP, our deal size increase 30% plus.We've already seen massive adoption on the EX product with combination of SuccessFactors.
+We've always been known as the company with the best technology in this space by far. I think
+the question was always out there, is HEC will go from seven-figure deals to high seven figure
+deals to eight figure deals. And with the combination of SAP, with the partnership network, we
+just launched a massive partnership with Ernst & Young, launched our Qualtrics development
+platform where last week we had 300 partners in Utah. We're starting to answer all of those
+questions.
+So like I said, if you would have told me last year at this time that this is where we would be after
+the announcement with SAP with the accelerated growth rate on an already fast growing
+company, I would have said, hey, that looks like success to us. So with this combination, we've
+done everything we said we were going to do plus some, so I couldn't be happier.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay, thank you. Let's take the next question, please.
+Operator
+Certainly. The next question is from `Adam Wood, Analyst, Morgan Stanley from Morgan Stanley. Please go ahead.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Hi, good afternoon and thanks for taking the question. And also congratulations from my side for
+both to Jen and to Christian on the new roles. I've got two questions, if I could. I just wanted to
+come back to Microsoft and the partnership there to start off with. And just to understand a little
+bit better technically exactly what's happening. As Microsoft bought a volume of software from
+you, then they can resell on to their customers bundled on Azure, so that in effect they are acting
+as a reseller for that and there is a volume of business that you get directly upfront from
+Microsoft that otherwise you may or may not have got, but would have come through over time
+with customers directly. Could you maybe help us understand whether there is upside or
+downside to those numbers? And then also whether you would envisage doing similar deals with
+other hyperscalers in future, or whether there's other products you could also see that type of
+deal happening for? So just a little bit more detail around the actual technical details of that
+Microsoft partnership will be really helpful.
+And then secondly, probably for Luka on the margins. You had a big benefit on -- particularly on
+the cloud gross margin side from the changes you've made around SuccessFactors and
+integration of the landscapes there. Could you maybe just help us around that on the
+restructuring? Should we expect a slightly slower pace of margin expansion over the next few
+quarters, because we've got that kind of one big benefit or are there still benefits from
+restructuring, particularly to come through? Thank you.
+A - `Christian Klein, Co-Chief Executive Officer `
+So I'll start. So, as it relates to Microsoft, really what this was about is, making sure we were being
+very prescriptive with our customers around what are the cloud services from SAP and what are
+the different services from Microsoft the customer should be thinking about when they are
+combining our solution. Today, they are kind of -- our users from Microsoft (inaudible) SAP, we've
+come together and been very, very clear on some business platform around SAP as it relates to
+the integration of SAP systems, as it relates to extensions of SAP or orchestration of SAP
+systems.We have a set of SAP cloud platform services that do them. We bundle those together and
+embrace. Microsoft made a commitment to those and can resell it with the customers. There's no
+downside to those numbers, only upside. The way that we really went about estimating kind of
+our initial start of this market was really in a few key areas of the world. And we put a very -- a lot
+of scrutiny around the pipeline, the business where we saw the customers moving, those who
+told us where they plan to move. So we see this as a start. We also want to make sure we're very
+clear here that we provide our customers choice.
+So, let's say, for example, we now have lots of customers who may be run on AWS. They've
+already chosen to run SAP on AWS. Those cloud platform services that I just mentioned around
+the integration, orchestration, and extension, those customers can buy those directly from SAP.
+So they can still get SAP's reference architecture on AWS or on GCP from SAP. The difference
+here is Microsoft puts a skin in the game, they are really teaming with us, they are doubling down
+the innovation and engineering with us and they are going to have their salespeople out selling
+this as well.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. And perhaps, just quickly on the margins front. No, we have not yet lost our firepower. We
+have additional benefits to gain from the platform convergence. I think, I've been talking a lot in
+the past years about this being an opportunity alone in the low triple digit million euro figure.
+Year-to-date, we have had a benefit of just about EUR50 million from the re-platforming. That
+means that at least the same amount is still to come. I believe actually we will do slightly more
+than this, because the benefits are really significant. And now we have paved the way for further
+efficiency increases for automation in other areas.
+And secondly, this is only SuccessFactors. We have still to fully complete the job on the Ariba
+business network. The application side at Ariba is already done. The business network side will be
+finished as well, come Q1 next year. And with that, you will see also the additional benefits in our
+Intelligent Spend Group business network cloud margins, which certainly will then help us to
+further increase the cloud margin also strongly in 2020. By the way, in the SaaS/PaaS business, we
+are now at 70.4% margin. This is what we had predicted only for next year. So we are clearly
+ahead of our plans. And you can continue to expect us to do very well on the cloud margin.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you.
+Operator
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take the next question, please.
+Operator
+Certainly. The next question is from `Phil Winslow, Analyst, Wells Fargo from Wells Fargo. Please go ahead.
+Q - `Phil Winslow, Analyst, Wells Fargo `
+Hi, thanks for taking my question and congrats again on a great Q3 and congrats to you, Jennifer
+and Christian, looking forward to working with you closely going forward. Just wanted to focus onthe manufacturing vertical because I think everybody on this call knows that the manufacturing
+obviously really runs SAP and on the Q2 call, obviously you've flagged some issues with China and
+then you called out Germany, but you actually continue to put up good results overall. What are
+you hearing from these manufacturing customers in terms of just their spending intentions,
+because as you mentioned last call, changes in supply chain might need to drive more spending
+with you all. But there is obviously some macro issues. Just if you could just double click on that
+vertical, that'd be great.
+A - `Christian Klein, Co-Chief Executive Officer `
+Yeah, so I'll start, and then handing over to Adaire for some specifics about China. I mean, on the
+manufacturing side, we are doing extremely well. I mean, we have both now a very competitive
+offering for on-prem as well as on the cloud. We want the solution on different hyperscalers, so
+we offer choice. And also in China now S/4 will also go live now on Ali Cloud in Q4. So, also there
+we will also have S/4HANA running on Chinese infrastructure starting in Q4, now actually this
+quarter. Adaire, any more?
+A - `Adaire Fox-Martin, President of Global Customer Operations `
+Yeah. Maybe just on the German side, a little bit of color on that. We had a very strong
+performance from SAP in Germany in Q2. And we did enter Q3 with an exceptionally strong
+pipeline for Germany despite what we thought as an overperformance on their numbers in Q2.
+But we definitely saw, during the course of Q3, some slowdown in execution, particularly for the
+customers in the discrete manufacturing segment, I would say, was really around business caution
+from here of a recession. We enter now Q4 with a very strong pipeline, not just from the
+seasonal perspective, but also because of an outlook on some backlogs. On some of those
+deals, cash flows down a little bit and we are using and have used the opening weeks of this
+quarter to really build out those value cases and the validation of those cases and the validation
+of those funds with our customers in this segment. So, I remain quite optimistic about our
+business in MAE, particularly because, as I look forward to Q4 pipeline, it is much broader than
+the discrete segment.
+And in China, we have -- I had the privilege of serving businesses in China for over 27 years now.
+And I have a very strong footprint in China with about 70% of the Fortune 2000 being SAP
+customers in China. Nevertheless, I will tell you that we are seeing a slowdown. We are seeing
+customers who are adopting a wait and see strategy, specifically focus, not so much on the
+software itself, but on the challenges of business continuity in the event of increasing tension as it
+relates to some of the macro political and economic scenarios we have seen.
+There is also a very strong focus from the Chinese government (inaudible) indigenous innovation,
+which is the ability of companies in China in order to have Chinese components et cetera in their
+supply chain. Nevertheless, I would say to you that, as a result of some of the work that we have
+been doing around our work with Ali Cloud and the ability to land our products on environments
+in China, for China, I'm confident that we will be able to address those business continuity issues
+that were raised and of course continuing to grow our business in China at the rate that we've
+been growing at over the last decade.
+A - `Luka Mucic, Chief Financial Officer `
+And perhaps just one sentence, on a global level, believe it or not, our two best performing
+verticals were actually services and discrete manufacturing.
+A - `Stefan Gruber, Head of Investor Relations `Thank you.
+Q - `Phil Winslow, Analyst, Wells Fargo `
+Great, guys, and best of luck in Q4. Thanks.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Thank you.
+A - `Christian Klein, Co-Chief Executive Officer `
+Thank you, Phil.
+A - `Stefan Gruber, Head of Investor Relations `
+Thanks a lot. We'll take the next question, please.
+Operator
+Certainly. The next question is from `Stefan Slowinski, Analyst, Exane BNP from Exane BNP. Please go ahead. Your line
+is open.
+Q - `Stefan Slowinski, Analyst, Exane BNP `
+Yes. Hi, thanks for taking my question. I was just following up on the previous question, I apologize
+if you've answered this already. But on the Microsoft deal, I was just wondering if you think you
+could be able to put similar partnerships in place with some of the other hyperscaler partners
+you've mentioned. I mean obviously you've just talked about Alibaba and Ali Cloud in China. I
+mean, is this something that you could potentially see Alibaba doing in terms of helping you sell
+direct in China? Thank you.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Yeah. So, I think that we're open to the future. Obviously, we have a very specific relationship that
+we've defined in motion that we've defined with Microsoft that will be very specific and preferred
+by the two of us. So, in looking at other partnership, we already have pretty strong partnerships
+with both GPP and AWS. We're users of that technology, we will continue to be. And so there's
+always possibilities for the future, but today we are just about Microsoft.
+A - `Adaire Fox-Martin, President of Global Customer Operations `
+Maybe I can comment on the Ali side.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Thank you.
+A - `Adaire Fox-Martin, President of Global Customer Operations `
+(multiple speakers) You are very welcome. In China, as I am sure everybody is aware, there's a
+unique set of licensing laws around software-as-a-service and platform-as-a-service as well as a
+unique set of cyber security laws. And so therefore, with Ali, we have physically landed platform
+onto the Ali infrastructure in China. And we will physically land S/4 on to the Ali infrastructure in
+China. And that means then we have the opportunity with the Ali Cloud team to take us tosolutions directly to the market, a very large scale market of small and medium enterprises in
+China.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Thanks, Adaire.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Let's take the next question, please.
+Q - `Stefan Slowinski, Analyst, Exane BNP `
+Great. Thank you very much. Thank you.
+Operator
+The next question is from `Charles Brennan, Analyst, Credit Suisse from Credit Suisse. Please go ahead. The line is open.
+Q - `Charles Brennan, Analyst, Credit Suisse `
+Thanks very much. Thanks for taking my question. Can I just ask one about the competitive
+landscape? In your prepared remarks, you made reference to both Medallia and Coupa, but can
+you talk about your win rates against some of the larger, more conventional competitors in
+Workday and Salesforce? And I guess the driving force behind the question is the recent
+comments from Workday that they are now penetrated in 40% of the Fortune 500s. That sounds
+like they are making some reasonable progress. Thank you.
+A - `Jennifer Morgan, Co-Chief Executive Officer `
+Thank you. I can add on to the comments that I made before. I think one of the things that I
+wanted to stress in my remarks is just the seismic scale from an Ariba perspective of the network
+that we do have and the work that we've done. And we've had several wins over our competition
+in the enterprise space last quarter. So we feel very good about our win rates and what's
+happening there.
+As it relates to SuccessFactors, we have our large SuccessFactors customer events in Q3. And
+again the conversations that we're having and moving beyond just talking about HR, the
+traditional HR processes, so we've actually seen some really great wins using Qualtrics within
+North America. But I think more importantly, the advantage that we have is just the ability to scale
+broadly outside of the United States. We're not a German company, we're not an American
+company, we're a global company. And we've got feet on the street everywhere. So when you
+look over in Asia, when you look over in Latin America, and you look at some of the customers
+that we're adding, we have a head start. Now when you bring in Qualtrics and you start to
+differentiate solutions like SuccessFactors, that allows us to accelerate even further. So we feel
+really good about where we are right now with the win.
+The thing I like about Qualtrics, if you think about Qualtrics, Qualtrics is not about surveys. It's not
+just about surveys and sentiment. When you think about what SAP did with ERP back decades
+ago, we saw silo systems, supply chain, manufacturing, financial, running the operations of a
+company. We saw an opportunity to bring those interdependent functions together, to have
+better insight to the business and being more efficient. That was back when the data within the
+four walls of the company and that became the operational data platform.Qualtrics takes a very similar analogy to that. Most data about your consumers, and even your
+employees is not just inside the company, but outside the company. Businesses are gathering
+sentiment and engaging with customers, employees across multiple functions of a company,
+outside the company, et cetera. Lots of companies do surveys, lots of functions within companies
+take employee sentiment or customer sentiment. The differentiator with Qualtrics is, they figured
+out how all that's interdependent and it created a platform. So, this platform approach and
+technology that Ryan talked about earlier, this is what differentiates SAP. This is what our sales
+force knows how to talk about, and this is where we're really starting to see the uptick and
+getting those big deals that Ryan mentioned earlier. It's an enterprise discussion, it's on the
+agenda as every CEO today. So those are just a couple of things that stands.
+A - `Stefan Gruber, Head of Investor Relations `
+Thanks a lot and we have time for one final question, please.
+Operator
+Certainly. And this question is from `Mohammed Moawalla, Analyst, Goldman Sachs from Goldman Sachs. Please go ahead.
+Q - `Mohammed Moawalla, Analyst, Goldman Sachs `
+Great. Thank you very much. And Jennifer and Christian, my congratulations as well on your new
+roles. I had a couple. Firstly, Luka, you obviously have some pretty strong gross margin tailwinds
+continuing into next year, but also some of the big OpEx benefits kicking in. You've also talked
+about sort of reinvestments back in the business. Can you talk about sort of the flexibility you
+have around delivering the margin and perhaps the shape of the margin expansion over the next
+couple of years in the event that the top line potentially faces risks, be they macro or anything
+else?
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, sure, can do. So, first of all, obviously the benefits from the restructuring program this year
+has not been significant, because it takes a while for the program to take effect, so the bigger
+impact will come next year. What you see this year in terms of progress on the gross margin side
+is really around the re-platforming and increased operational efficiency through consolidation of
+data center operations and infrastructure operations. And therefore, I'm very, very confident that
+we can continue to scale this business with increasing gross margin contributions also next year
+and even beyond next year.
+We have always said that, in 2019, against our target of an -- on average 1 percentage point of
+margin increase, the market should not expect a full percentage point already this year because
+we have the dilutive impact from our acquisitions that we have to digest. And given that this is a
+40 basis points dilutive headwind, I think you can see how the underlying is already performing
+against the average 1% that we have in mind. That in turn means that we will plan to do slightly
+more than that 1% next year to catch up, because next year, we have the full run rate benefit from
+the restructuring, but it's clear, the restructuring is not a cost cutting exercise. And I want to be
+very, very clear about that.
+We have done the restructuring in order to tailor our investments and our capacity to those areas
+where we have the biggest growth opportunities and we are putting actually our actions to where
+our plans work. We are seeing tremendous investment in Qualtrics, we're seeing a tremendous
+investment in our different cloud constituents. We are adding additional capacities only in theproductive areas in research and development, in sales and in services and that will continue to
+be the case to propel our growth.
+In terms of optionality, our business model has become way more resilient. We have now close to
+70% of our revenues in the highly predictable revenue sources, contrast that to only one-third
+when we hit the financial crisis in 2008 and that gives you a good perspective on how resilient our
+business model has become. And therefore, if we have to optimize our level of investments
+against only 30% variability in the top line, that would be a much easier than in the past. So you
+should take a lot of confidence out of this that we can and will hit our mid-term ambitions as we
+have announced them.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. And, Mo, did you have a follow-up or? That's not the case. Well, this concludes our Q3
+earnings call for today. Thank you so much for joining and we look forward to speaking to you
+again at our CMD on November 12 in New York City. Thank you very much, and goodbye.
+Operator
+Thank you. Ladies and gentlemen, that now concludes today's conference call. Thank you for your
+participation. You may now disconnect.

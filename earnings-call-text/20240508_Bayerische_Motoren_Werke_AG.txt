@@ -1,0 +1,329 @@
+Q1 2024 Earnings Call
+
+Presentation
+Operator
+(Call Starts Abruptly) Our CEO, `Oliver Zipse, Chairman of the Board of Management; and our CFO, `Walter Mertl, Board of Management, Finance, are also back in the room
+with me. The line will be open shortly for your questions. The operator will first give you some
+technical instructions.
+Questions And Answers
+Operator
+(Question And Answer)
+Ladies and gentlemen, we will now begin Q&A session. (Operator Instructions) (Operator
+Instructions) Our first question comes from `Tim Rokossa, Deutsche Bank at Deutsche Bank. Please unmute your
+line.
+Q - `Tim Rokossa, Deutsche Bank `
+Yeah. Thank you very much. It's Tim from Deutsche Bank. I'd have two questions, please. The first
+one is, I think the key element to discuss today is the pricing element of your EBIT bridge. All of
+your competitors have already reported, we've seen reporting season with very clear trends.
+Volume was generally weak, pricing was generally very strong for your competitors. For you that's
+not the case. Less volume issues clearly speak for your superior supply chain and model cycle
+management. We love that about you guys, that's great. But the pricing raises a few question
+marks.
+So two questions on that. Is all of the negative pricing that we've seen in the bridge in Q1 BEVs or
+do you also see this for ICE? And secondly, will pricing stay as negative, get worse, or better over
+the remainder of the year? And as an add-on question, Oliver, you are always very outspoken in
+your opinions. All German OEMs are against an import tariff from China, you said it as well again
+this morning. Why is this probably still coming nonetheless? Does Ursula von der Leyen just like to
+listen to Luca de Me too much? Or are there key points when you talk to EU politicians that
+express where that would be the case? Thank you.A - Unidentified Speaker
+We start with Walter and then Oliver. Walter, please.
+A - `Walter Mertl, Board of Management, Finance `
+Hello, Tim. Thanks for the first question with respect to pricing. As I mentioned, Q1 is already an
+exceptional quarter in '23. And we do know that the softening side on global pricing was
+happening in Q2, Q3 last year, moving into the Q1 '24. So we are running on the same level.
+If you have a look for our average revenue, you see that we are constantly maintaining roughly
+EUR50,000 a car, plus/minus FX. So I think we are quite proud about that we are so disciplined,
+not just in Europe, but also in the U.S. or in China, because we can elevate these ones. And of
+course we have more BEVs, and of course we have fantastically a good upper segment growth
+which is more than 20%, which are really helping.
+So, that means with respect to your question on the EBIT bars with EUR300 million, yep, that is a
+softening effect on pricing between Q1 and the later quarters. You won't see this effect in this
+level anymore if you would compare Q2 with Q2 or Q3 with Q3. That's leveraged then already.
+And with respect to pricing, it is also an effect as we all do know how much stock we have on-site
+on dealers. And just having a look on the dealers in the U.S., the average days outstanding in the
+industry increased by 13 days. So this time point in year was 35. Now the average in the industry is
+48. We, with the BMW Group, we also increased from 21 to 28 days, but just 28 days, and only 7
+days worse than we've been last year. We're leveraging our effects operationally, in my eyes,
+quite good. And that also has an impact straight away on our pricing levels in the fields. So I think
+we're doing an excellent job.
+A - Unidentified Speaker
+Thank you very much, Walter. The second part was the discussion or the political discussion about
+the territories between Europe and China. Oliver, please.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Tim, good morning. Why do you raise import taxes? The only purpose is to protect an industry.
+We don't think that our industry needs protection. First of all, because we are global market
+players. Unlike many other countries, we have many players, not only BMW, who act on a global
+base. And that is an industrial advantage. And you can easily endanger that advantage by
+introducing import tariffs. That's the first point.
+The second point is, we are currently a strong player in China and also as an export location to
+Europe. This is quite a different situation for other countries. So that's the current thing. The third
+point is, and maybe that is the most fundamental point, we have bilateral dependencies, not on
+the final product, but on the component side and also on the raw material side.
+Let's just look at the year 2025. In the year 2025, and that is what we are preparing for, and that
+is mostly forgotten, we have the first introduction of the next step of CO2 reduction for European
+new car fleets by minus 15%. And that is only possible if you increase your level of battery electric
+vehicles, emission-free vehicles. And there is no single car in the European Union without having
+components from China in there, and if it's only the raw material in the battery. So there is a
+mutual dependency. And I would not risk that dependency just by introducing an import tax on the
+final product. So we should always have this dependency in mind.In China, you cannot compare China with other countries. And that to compare China is like other
+countries, this is not true, it's quite a single entity and has to be dealt with differently. And there is
+no Green Deal in Europe without resources from China, it's impossible.
+And I'm -- you said I'm outspoken. I say this because afterwards politicians will say, if I would have
+known. That's why I say this, they know now. And I'll strictly warn for import tariffs for Chinese
+products, specifically because they are just starting. They're not even here yet. Their market
+share is very small to this very point. And the rest is about competitiveness. And BMW is
+competitive. Thank you.
+A - Unidentified Speaker
+Thank you very much, Tim. Next question, please.
+Operator
+The next question is from `Jose Asumendi, JPMorgan Chase & Co., JPMorgan. Please unmute your line.
+Q - `Jose Asumendi, JPMorgan Chase & Co. `
+Thank you very much. Jose from JPMorgan. A few questions, please. First of all for Walter. If you
+can please remind us, you announced recently some investments in Shenyang. Can you elaborate
+a little bit where the money is going to, is it capacity expansion, is it battery? And which vehicles
+are being currently being electrified in Shenyang? Also, if you could discuss a bit, how do you see
+the share of electric cars in China in 2024 for BMW? Obviously, you are delivering a much higher
+share of BEV versus your competitors, which continues to support that growth on a year-on-year
+basis. Where do you see it towards the end of 2024?
+And then for Oliver, I would very much like, please, to hear your views on, your competitors seem
+to be insourcing further components within the -- within production and assembly of the vehicle.
+Some examples are gigacasting and also front bumpers across the production line. Do you see
+any opportunities for BMW to insource components to be able to reduce further the cost of the
+car? Thank you.
+A - Unidentified Speaker
+Okay, thank you very much, Jose. I think we'll start with your first part of the questions about
+investments in Shenyang with Oliver, because he was in Shenyang two weeks ago. Oliver, please.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yes, thank you. Thank you for your questions. I was two weeks ago I was in Shenyang and we
+announced a large investment into the factory infrastructure up in Shenyang. And that is
+specifically dedicated in the refurbishment of the oldest factory up in Dadong. So we will take that
+factory there because it also has production licensing. So, China is a country where you need a
+production license to produce cars. And our mid to long-term vision is to keep our market share
+there, which by the way, is substantially higher than the rest of the world. In the rest of the world
+we have about 2.93% for BMW, we already have 3.7% in China.
+And since the industry in China is growing, we need additional capacity for the future, specifically
+because we currently increase our market share on the BEV side. I repeat that, in the first quarter
+our BEV sales in China grew by 18%, the average market grew only by 15%. So our ambition is
+there to keep or even increase the market share. And that's why we need these productionlicenses in that Dadong plant, which needs refurbishment. So that's the background of that
+investment. So, very much in line, by the way, with our long term strategy up there.
+You were question about insourcing. Let's have a look at what we do in-house on the high voltage
+battery side. The high voltage battery, so that's the element where we make out of single battery
+cells, which is an external component developed with us, but it's delivered from external sources,
+where we make a high voltage battery, which is then assembled into the car. This is 100% in-
+house activity. We're currently building up five factories for these high voltage batteries, one also
+in Germany, one in Hungary, one in China, one in the United States and one in Mexico. So that's a
+complete in-house sourcing activity.
+On the more traditional components like bumpers, we currently see a stable sourcing
+environment there. We're always looking very closely are there any changes in our supply
+landscape. But that is a very, not robust, but there is a lot of multi-sourcing underway that we will
+always have other options to do. There is no major insourcing besides on the EV side. Thank you.
+A - Unidentified Speaker
+Thank you very much, Jose. Next question, please.
+Operator
+The next question is from `George Galliers, Goldman Sachs at Goldman Sachs. Please unmute your line.
+Q - `George Galliers, Goldman Sachs `
+Good morning, and thank you for taking my questions. Oliver, I really have two questions for you,
+which come back to the comments you made at the full year results, and a lot of the conversation
+this morning around EU fleet CO2 legislation. I mean, firstly, I would probably say thank you to
+BMW for openly raising this topic, and I think you can raise it because you're in a position of
+strength with respect to CO2 compliance. However, investors have been asking whether it is now
+too late to make changes? And does changing the legislation not potentially lead to greater
+uncertainty for both OEMs and the consumer, and therefore put at risk the fact that there could
+be incremental challenges for the industry with the transition and also lower returns on the
+investments you've already made in your battery electric vehicles versus what might have
+previously planned.
+So, I don't know what your thoughts are on this. Is it a case that we do need to change it and that
+changing it can lead to better economics for yourselves and your peers going forward? Or do
+you actually think change could create risk? And then related to this, what actually do you believe
+can be changed at this point? Obviously, 2025 is now very close, is the change you referenced
+more for the 2026 and onwards time frame? Thank you.
+A - Unidentified Speaker
+Thank you very much, George. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yes, thank you. Thank you for that question. I think I'll try to circumscribe the framework we are
+working with. There is the three-step approach. 2025 is the first step with minus 15% on the CO2
+fleet. Then in 2030 comes the next step with minus 55%. I think these two will be inevitable, and
+that has been for the last eight years already. So that's not a new regulation, and all our strategygoes towards having products which are -- have such a high attractiveness that they are at the
+same time compliant with the regulation.
+So what we cannot do to create products which create a non-compliant situation, but the other
+thing is also wrong to say the regulation is correct but you don't have products to comply with. So
+they go hand in hand. And that's all what this game is about. And that is why we strictly are
+against taking the competitive element out of this game to say, well, to provide you planning
+security we make that regulation. You completely forget customers and products, and that is
+counterproductive to any form of CO2 reduction. You can only do that with markets and not
+against the markets.
+Because in our industry, customers always have a choice that can always keep their old product.
+That's unlike in the energy industry, they don't have a choice. Our customers always have a
+choice, they just don't buy new cars they just keep their old products to the determent of CO2
+reduction because that's a standstill in further development. I think that is very important to
+understand. And BMW does not need planning security because we told all along that technology
+openness is the key to profitability, and at the same time, to be compliant with the regulations.
+Open markets and technology openness is the key to everything. And I cannot comment on what
+others do, but if you don't follow that principle, you will have a very dire future. I'm absolutely sure
+about this. You might be compliant, but you will have a very dire future.
+And that's why I say, it's never too late to talk about regulations which only come into effect in
+2035. You cannot talk about regulation which comes into effect in 2025, and that's not our point.
+But I think there are better regulations which keep the competitiveness of the European industry.
+And at the same time, do a better service to the environment. There is a solution which I
+explained earlier, to have, first of all, a gradual evolution of CO2 reduction policies. And the
+second is, to have a similar regime for the fuel industry at the same time. And I think there is a
+better solution and it's never too late to speak up. Thank you.
+A - Unidentified Speaker
+Thank you, George. Next question, please.
+Operator
+The next question is from `Patrick Hummel, UBS Securities at UBS. Please unmute your line.
+Q - `Patrick Hummel, UBS Securities `
+Yes, good morning. Thanks for taking my question. Oliver, maybe the first one to you regarding
+the situation in China. If I look at the Q1 bridge, and especially in light of the strong performance
+of the high-end products, I have to assume that the BEVs are very mix dilutive. And just looking at
+pricing in China, which keeps getting tougher and tougher for everybody, that seems to be the
+very dilutive part in your bridge. And I'm just wondering, what's your strategy there? Do you want
+to defend your market share at any price? Because you highlight that you could keep participating
+in market growth or even grow faster than market, but it feels like you're doing that at a
+significant margin dilution. If you can comment on that, please.
+And the second question relates more to the coming quarters, and maybe that's one for Walter.
+You highlight that this year the quarters will be more evenly distributed in terms of the auto EBIT
+margin. Nonetheless, from prior years, we know that Q4 has a high skew in terms of cost. So can
+you just talk about the key building blocks and how you see them moving forward from the firstquarter that make you so confident that we won't see a deteriorating margin trend in the coming
+quarters? Thank you.
+A - Unidentified Speaker
+Thank you, Patrick. Thank you very much. Both parts of your question will be answered by Walter.
+Walter, please.
+A - `Walter Mertl, Board of Management, Finance `
+Hello, Patrick. Well, with respect to China, eventually I have to reiterate two things. Number one,
+'23 was not just exceptional for non-China, but also for China with respect to manufacturing cost,
+in principle. But we also have in the quarter one, the 5 Series ramp down in China that happened
+in non-China already in Q4, but in China in Q1. And the ramp-up of the 5 Series just happens more
+or less after Chinese New Year. So, and we're just in the ramp-up phase.
+With respect to that, we see still our net price effects positive, because ultimately it all belongs to
+attractive products. And if we have a look for the BEV market in China, as we discussed last time
+in New York, I think, we have to understand that 90% of the BEV sold in China is under
+RMB300,000, which we had touched on from RMB300,000. And we said, yep, it's eventually an
+effect on the 3 Series on the X3, but not above. So, and even if you have a look for the next 400
+-- between RMB300,000 and RMB400,000, that's further 5%, right?
+So, again, reiterating also what Oliver mentioned beforehand, we grew on our BEV sales in China
+by 18%, whilst the total market, even with all these lower segments, grew by 15%. And not to
+forget, our localized X5 is also contributing in China for China. So we are producing it in China. We
+all have these positive local effects already in, not just in now, but also since we build it and
+produce it. And the prices are really stable on the X5, you can check that out. So, with all that, we
+are moving even in China ahead. So, in Q1, of course, you see a total sales down by 4%, but that
+is mainly because of the 5 Series ramp-down and ramp-up. So, I'm not worried about that.
+And with respect to the quarterly developments of our EBIT margins, yes, in principle, Q1 is
+always a strong one. But if you have a look for 2022, you can see that we manage it always over
+8% and within our strategic corridor. And that is what we guided and that was what we executed.
+So, we deliver as we promise, as I say. Many thanks.
+A - Unidentified Speaker
+Thank you very much, Patrick. Next question please.
+Operator
+The next question is from `Daniel Schwarz, Stifel Financial Corp. at Stifel.
+Q - `Daniel Schwarz, Stifel Financial Corp. `
+Thank you for taking my question. I had one question on the financial services. Could you say
+what's driving the increase in penetration in the first quarter? I think you mentioned competitive
+pressure in the past. Is that easing somewhat? Or are you pushing the business a bit more? And
+with the higher leasing penetration, why did the elimination line not become more negative? And
+what's your expectation for the next two quarters?
+Then I had just one follow-up question on pricing, again. I understand the high base from Q1 last
+year, the negative effect, as you said that's easing in coming quarters. But does it include theexpectation of improving pricing sequentially from Q1 to Q2 to Q4 this year? Thank you.
+A - Unidentified Speaker
+Okay. Thank you very much, Daniel. Walter, it's your turn.
+A - `Walter Mertl, Board of Management, Finance `
+Well, to you, financial services is really turning around. Last year, you'll remember that Q1 and Q2,
+we shrank compared with the year '22. And since Q3, we are elevating Q3 '23. And we still do. So
+that means we had 422,000 new contracts, a growth by 21.5%. And that is not just new car
+business, but also used car business for lease as well as finance. And both new as well as used
+grew by between 20% and 22%. And with that, we organized good margins for the future with it.
+And the total new contract volume was at the level of EUR15.6 billion. Mainly Europe and the U.S.,
+but even China grew compared with previous year Q1 in the financial services business. So, that is
+quite positive.
+On the elimination, of course, with new business, you have in the eliminations a negative effect.
+But this is not the only one hitting the elimination segment. We also have to convert more or less
+all the interest subsidies we have, especially in the U.S., with the IRA topics. And that, of course, if
+you have an automobile, you have the positive effect in the consolidation. So, I really also assume
+that interest rate over the course of the year, especially in the second half year, will slightly be
+reduced. And then, of course, the support can be reduced, too. And then the math is ending up
+in the way you expect it.
+So, and I think I have to reiterate also our pricing level with respect to the sequentials. We
+mentioned in our guidance that we are leveling it on the same average like previous year, which is
+roughly EUR52,000 in average, plus/minus FX. And that's the level we presented in Q1. And that
+will be more or less the same level in Q2. So we assume rather keeping the average of previous
+year's level, rather than having ups and downs over the course of this year.
+A - Unidentified Speaker
+Thank you very much, Walter. And thank you very much, Daniel, for your question. I think we have
+two more questions, yes.
+Operator
+The next question is from `Horst Schneider, Bank of America at Bank of America. Please unmute your line.
+Q - `Horst Schneider, Bank of America `
+Yes, good morning. I hope you can hear me. I have got two questions left, please. The number
+one that I have is, I mean, first of all, big compliment to U.S. BMW on production and process. I
+think you're the only German carmaker not affected by supply shortages. And while that is a
+compliment and positive, of course, I have got in mind that when the other carmakers basically
+get rid of their shortages, for example, if Audi can sell again six and eight-cylinder engine
+vehicles, Mercedes gets rid of the 48-volt shortage, do you envisage a situation basically where
+there could be some supply pressure in the market, that we get an imbalance of supply and
+demand? Or how do you think about it that all your competitors talk about it to ramp up volumes
+to a stronger extent when they get rid of their shortages? That's number one.
+The number two question that I have is a more structural one for Oliver. It's a question that I ask
+myself constantly and also ask myself when I was visiting the Beijing Auto Show. We see there area lot of PHEVs with a range of 200, 250 kilometers. Li Auto with a special concept in its extended
+range concept. Why are the German carmakers not doing that, respectively? Why is BMW not
+doing that, just extending the PHEV range? because my view is on BEVs, it's difficult really to, I
+don't know, to stand out. And on PHEVs, with a combustion engine still in, I think it would be much
+better offer, or not, for the German carmakers and BMW? Thank you.
+A - Unidentified Speaker
+Okay, thank you very much, Horst. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+I don't know what to respond to your first question. We will keep our supply chains intact and we
+lived for the last 100 years in a competitive environment. I cannot give you an answer to that. I
+don't know what to answer to that. We will keep our supply chains intact. And as we said before,
+we have a growth ambition for this year. You see in the first quarter that the strategy works in
+there. And if we can gain market share with supply chain interruptions at the competitor side, we
+will continue our path.
+The second one is, BMW Group is committed to technology openness and that, of course,
+includes PHEVs. And I think the range of PHEVs, this is a very individual discussion. What is right?
+This is a matter of cost effectiveness. There is a balance between when do you step into a BEV
+with a much larger battery. I think there is a limit to the range where it makes sense to offer
+PHEVs. And our PHEVs with currently around 100 kilometers range, I think, are at the perfect point
+where the customer says this is what I would like to pay for. Never forget that the larger the range
+is, the larger the battery gets. And to have a very large battery, plus a combustion engine in
+there, there is a limit to the financial logic in that.
+But on the PHEV side, we have that offering. They are, by the way, very stable. Over the past
+year, they always linger about 200,000 units, and especially in the X5. The X5 PHEV is always
+sold out. So we are quite happy with our offering in that segment. Thank you.
+A - Unidentified Speaker
+Thank you very much, Horst. Last question, please.
+Operator
+The last question is from `Henning Cosman, Barclays Capital at Barclays Capital. (Operator Instruction)
+Q - `Henning Cosman, Barclays Capital `
+Yeah, thank you very much for taking my question as well. I appreciate the comments on pricing. I
+think we understood most of the building blocks volume getting a little bit better in the course of
+the year. Sequentially, mix also affects commodities staying positive. So, I wanted to perhaps ask
+you on the other cost changes sequentially. So compared to Q1 2024, do manufacturing costs
+and remarketing gains, does that get less negative in the course of the year? And does that help
+in terms of sequential margin development perhaps into the upper half of the full year range?
+And then if I can just ask you point blank, if you would be prepared at this point to indicate if you
+hope to be in the upper half or if you think you could be in the lower half of the full year
+automotive EBIT margin range? Thank you very much.
+A - Unidentified SpeakerGood, thank you very much. Walter, please.
+A - `Walter Mertl, Board of Management, Finance `
+Hello, Henning. So of course on the manufacturing cost side, if you compare quarter-by-quarter
+even versus '23 quarter one, there was the big one-off already in Q1 versus Q2 within 2023. So
+the run over, the beneficence of the lower cost manufacturing cost from 2022 rather was all in Q1.
+And since Q2 '23, we are rather running on this inflated manufacturing cost. So that means in
+comparison if we compare Q2 this year with Q2 next year, the manufacturing cost will be more or
+less gone.
+But with respect to remarketing profits, that is still coming down. Now it's just a question we
+recognized in '23 already a deterioration of the profits quarter-on-quarter, as we mentioned. And
+this is going alongside. So with respect to the difference between Q2 and Q2 previous year, it's
+just a question how fast it could deteriorate this year. So we have our understanding and
+expectations, but I would assume that this hit shouldn't be that big anymore as it was already in
+Q1 because we definitely had an extra supply of new car vehicles from Q2 last year onwards with
+all these effects which lasted already in the course of last year Q2, Q3, Q4 still moving on. So
+from that perspective I think that was the leverage.
+And with respect to the total impact on price mix and volume, we mentioned that this should be
+slightly positive. Never forget that the 5 Series ramp-up is just now even in China, as I mentioned,
+just since mid-February moving on. And our GKL, our upper segment class, also compared with
+the first half year last year is leveling up. So all that in combination makes me positive that we are
+in the quarter always between this range of 8 to 10 rather consistently and constantly than we
+had last year, because Q1 '23 was exceptional. Many thanks.
+A - Unidentified Speaker
+Many thanks. Ladies and gentlemen, we have reached the end of the telephone conference.
+Thank you for joining us. All the best to you. Bye, bye. And Servus from Munich.

@@ -1,0 +1,1747 @@
+Y 2020 Earnings Call
+
+Presentation
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+(Video Presentation)
+`Brigitte Rodig, Member of the Supervisory Board
+Good morning, ladies and gentlemen, thank you very much for joining us online today for our
+BMW Group Annual Conference Analyst and Investor Day. I'm very pleased that so many of you
+have joined our stream from all around the world. I hope that most of you had a chance to watch
+the launch movie on the completely new BMW Operating System 8, the most powerful data
+processing system and technology stack ever created. And I'm really excited that I have with me
+here today, `Frank Weber, Member of the Board of Management of BMW AG, Development, Member of the Managing Board of BMW AG for development to
+discuss over the next 45 minutes the Operating System 8 as well as the very important strategic
+topic of the new cluster architecture enabling the BMW Neue Klasse and we will have, of course,
+time in that period to answer your questions.
+Frank, thank you very much for being with us here today.
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+That's my pleasure.Frank we've seen in the movie, the new iDrive has few buttons, but a large number of
+functionalities. How would you summarize the key highlights of the new iDrive and what are your
+favorite features?
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah, I think everybody is aware that digital performance is a top priority, not only for us, in a
+technical sense, but also for consumers out there. So we have a very, very long tradition in
+implementing complex digital systems in an automotive environment. Now Operating System 8
+and I think Brigitte said it before, is the most powerful digital system we have ever created here
+at BMW. Now, the computing power, just to give you some hints of how much more performance
+is now enabled through this operating system, you can see the signal flow in and out of the
+system has doubled, because we are 5G-ready, we can transmit information in and out of the
+vehicle 40 times faster than what we used to have with the old system. And when you look at the
+data amount that we are processing within all those super brands, we have probably 20 times
+the amount of data volume that we used to have. So what you can see already, this is the sheer
+performance and the data volume that we can operate with makes the system much more
+intelligent.
+The other important piece is we have the largest fleet of connected vehicles. We have 14 million
+fully connected vehicles, and this means every individual vehicle sees with the eyes of the
+complete fleet and we are sharing and exchanging the data of the entire fleet constantly. And so
+we have a learning system, but what is important to us is not only the intelligence or the
+computing power, what might be even more important how you as a consumer interact with the
+system. And the iDrive heritage that we have created over the last 20 years has truly
+perfectionized the way how you interact with the vehicle. I think BMW is the driving pleasure
+company and we want you to keep the eyes on the road and stay really focused on driving.
+However you want, when you want to enter navigation targets, you want other information, the
+iDrive controller that we have evolved over the last generations has become better and better.
+Now our philosophy, how you operate such a powerful and high-performance digital system is
+that there are different regional preferences, and there are certainly different personal
+preferences, how you interact with your system. So besides the pure performance, the emotional
+intelligence of the system is really important. And you see that speech is more and more often
+used, but not everything works well with speech interaction. Although we have become very
+natural how you enter your commands in the system. Some of the things, for example, when you
+make selections, the iDrive controller is the perfect way of selecting something from a list or
+when it comes to gesture or to simply touch functions, selecting on a map a target is a touch
+function optimized. So I think what is important, our system that you have multiple ways of
+interacting with the system in a very, very natural way. And so I think this makes our Operating
+System 8 and our ID8, which is then the iDrive Version 8 even more intuitive even safer and much
+more -- and we have much more performance.
+`Brigitte Rodig, Member of the Supervisory Board
+Thank you, Frank. A major topic when it comes to software in cars is the ability to generate
+revenue. Yet a lot of the remote software upgrades are for free. So what is our plan at BMW to
+generate earnings and revenue with this in the digital age?
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes, digital revenue streams are really important with all the digital functions because when youproduction. I think this was the nature of our business. So we developed and then we finished the
+vehicle, at the end we work during the lifecycle on the vehicle on some enhancements and
+improving quality. And this was the major goal. With the digital possibilities that we have and that
+the systems are constantly learning and improving and we can enhance certain features and have
+app content, application content that is introduced in the vehicle after you bought a vehicle or
+when you actually get a new vehicle creating those revenue streams is important. Also because
+today digital content when you order a vehicle, when it comes to driver assistance, navigation
+systems, audio systems, so the digital portion of our revenue stream already today is a large one.
+And this will now even grow further because we have the opportunity to have a product that is
+always fresh and updated. And there will be many things as Brigitte said that will still be for free.
+There are free [ph] bug fixes, there are things we want to improve that are where we don't
+generate a revenue.
+However, there will be other functions where people who can make selections, do I want to book
+this for a month, for half a year or for a year and we expect that we have a revenue stream of
+probably 5 billion on an annual basis for digital functions either at the initial purchase or through
+the vehicle life. So this is a very significant piece of the business in the future.
+`Brigitte Rodig, Member of the Supervisory Board
+Yes. Oh, yeah, that is, okay. Thank you. Over the past years, BMW has truly become a tech
+company, how has that changed the way organization is structured and what have we decided to
+develop in terms of in-house competences and where are we actually working with external tech
+partners?
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes. I think the important thing to understand is, although we have grown the digital team
+tremendously over the last couple of years, you still work in a very large network. So you are --
+although we have in the meantime we have 10,000 developers that are working in the software
+and hardware space, they are working for us in the digital car organization that is running within
+the development team. And maybe different to other organizations, the digital business, the
+digital development work happens at every function within the development team. We have not
+separated software and hardware engineers and said oh, they do the digital business and the
+others do the old business, no, not at all. I think even chassis engineers and certainly powertrain
+engineers and people who do body functions are all part of a large digital network and they are
+all enhancing with digital capabilities their individual functions. I think this is very important to
+understand. So we have grown this to more than 10,000 people. And I think mastering in a
+vehicle environment and operating system is really a big, big task.
+So when we launch now Operating System 8 with the BMW iX, this is always a big thing when you
+have the first launch for a new operating system. But what you saw already in the past and you
+will see it also this year is, that really we have in excellent network with very reliable structures
+that is able to execute those digital functions in a vehicle environment. However, you need many
+partners out there to make this work, because it does not make sense to develop many of the
+functions on a standalone basis for BMW. Here, you have to use the scale that is available in the
+industry, especially on non-differentiating functions. Here you want to be sure that on what -- how
+you use suppliers and partners that they are based on similar software structure, similar tool
+structures and here it does not make sense at all to build up your own in-house capacities. So we
+have the control over the overarching software and hardware architecture. And here we
+intelligently look how the content, the outside content can be included in this operating system.
+And this is the philosophy by the way that we have already established on the hardware side forthe vehicle. Look at transmissions, we don't build our own transmissions, we rely on a very strong
+partner. However, in a BMW, this transmission actually performs best within the industry. And this
+is a little bit also the strategy within the digital field.
+`Brigitte Rodig, Member of the Supervisory Board
+Okay, great. Thank you. So before we move to the Q&A, let's move to our second topic. So we
+announced with the kick-off of the Phase 3 of our electrification strategy, the BMW Neue Klasse. I
+would just like to discuss with you a little bit the strategic relevance for the competitive of BMW
+on this and also the key elements that you're focusing on when developing it.
+`Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes, I think we talked and discussed for a long time, should we call this Neue Klasse. Neue Klasse
+was in the '60s a real change for BMW and it's -- and it was pivotal what it did for the
+organization. And when we look what our goal is for 2025 creating a new cluster architecture that
+is able to deliver the entire BMW product portfolio with one building principle, I think this is very
+fundamental to develop this new architecture. Now, when it comes to what are the elements that
+are important for this all new development. It certainly uncompromisingly electric. There is for you
+also no doubt that this is the latest technology available from battery cells, how we evolve our in-
+house competence, we do our e-Drive system. The electric machine we developed ourselves,
+we built ourselves, so this is an in-house product, and you can expect another generational step
+when we introduce it in new cluster architecture. So on the e-Drive capabilities, there is a major
+step in the new architecture. On the cost side alone, you can expect from the complete e-Drive
+including batteries probably more than 30% on cost reduction, just for the e-Drive piece alone.
+So uncompromisingly electric is the one thing and how you integrate high voltage batteries. The
+second piece is another big step in digitalization. So there is another operating system that will
+be a revolution and a new human-machine interface that has never been seen in the industry
+before. So it's a very unique way of how you express digital content in a vehicle environment. So
+uncompromisingly electric, uncompromisingly digital. And the third piece, which is especially for
+an electric vehicle important is it needs to be uncompromisingly sustainable. And what we mean
+with this is that we have to go really deep into the entire supply chain. And when you look at
+battery electric vehicles, everybody is aware that many of your sustainability issues or your CO2
+emissions move from the usage phase of the vehicle into the supply chain. You need a lot of
+energy to build and produce battery cells and high voltage batteries. So, when we are already
+today using for the iX and the i4 that you have seen, exclusively green energy. So all our cell
+suppliers are committed and have guaranteed that those cells are produced with 100% green
+energy. And when you take this approach and roll it out to the entire vehicle making a truly
+sustainable, I think it is a very important piece for next generation of vehicles, that sustainability or
+circularity is something that will affect the entire industry. And it's a big thing going into every
+detail of your supply chain.
+`Brigitte Rodig, Member of the Supervisory Board
+Right. Great. Thank you. Thank you Frank for all these really great insights. We will now start our
+Q&A session. So please, moderator.
+Questions And Answers
+OperatorGentlemen, the floor is now open for questions. (Operator Instructions) And the first question
+comes from `Stephen Reitman, Analyst, Societe Generale, Societe Generale. Your line is open. Please go ahead.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, good morning.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Good morning, Stephen.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+...this discussion. Could you talk a bit more about this cost reduction you're talking about with the
+Neue Klasse. It's quite a strong figures 30% reduction. Split between the e-Drive and the battery
+cell, could you talk a bit about the saving elements there?
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah, I think as you can imagine, we cannot release details, but you can expect certainly more
+than 30% reduction on the battery cell alone. But interesting is the complete e-Drive system
+because when it comes to the battery electric performance, efficiency becomes the key driver
+and I don't know whether you are aware, the electric machines that we are today producing are
+very unique in the industry, because they don't use any rare earth and they have a very, very high
+efficiency. And watt hours per kilometer almost this becomes the gold source that your batteries
+are not -- the overall size of your batteries is not growing too much. So on the cell level, you can
+expect more than 30% because you have to watch the efficiency so much of your overall system.
+When it comes to power electronics e-machines, I think combining a performance and efficiency
+increase and at the same time reduce system cost by almost 30%, this together is very strong
+and will allow then, as a result, even longer electric driving ranges.
+But there is, as I said before, you can expect technology steps almost every 3-years on batteries.
+And you are aware -- you are aware of this. And the timing is almost perfect, when we are
+introducing our Neue Klasse, because then there will be another big step in lithium-ion
+technology available at this point in time that enables this cost reduction.
+A - `Brigitte Rodig, Member of the Supervisory Board
+And I think you can add that, with that, we are able to actually match manufacturing and
+production cost for the Neue Klasse with a comparable equipped combustion engine.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah, absolutely. When you look at the goal, the goal is clearly, when you look at the latest
+regulatory standards on emission levels that we want to compete with combustion engine cost
+levels.
+Operator
+The next question comes from `Tim Rokossa, Analyst, Deutsche Bank AG, Deutsche Bank. Please go ahead.
+Q - `Tim Rokossa, Analyst, Deutsche Bank AG `
+Yeah, thank you very much, it's `Tim Rokossa, Analyst, Deutsche Bank AG from Deutsche Bank. Thank you for doing this. Icapabilities, how much can you go into the center of the vehicle. Can you unlock range OTA, for
+example, can you really go into the powertrain? And then the second question is, obviously we're
+starting to see that Hyundai Kia for example even brings 800 volt architectures into the more
+mass market type of thing. When we compare that to your i4 and the iX for example, I think the
+main difference would then be charging power and charging time there with. Do you have a
+chance to upgrade whatever the tactics right now, whether that's 150-kilowatt or 200 kilowatt
+hours later on, or is that fixed for the lifetime of the vehicle? Thank you.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah, let's start with over the update, I didn't say it before, by the end of this year, BMW will have
+the largest updatable fleet in the industry. We will have 2.5 million vehicles that are capable of
+over-the-air updates. Now, your question is a good one, because you are asking is, how deep can
+I go really into each and every bit of the system. And now with Operating System 8, we can go
+and update every detail. It's on the propulsion side, it is on the -- it is on the chassis side though
+those deeply -- deep automotive functions, we are able to update as well as infotainment and
+other functions. So we are able to go into the complete vehicle. Now, just one other performance
+indicator is how large are the update packages, you can send over-the-air with new Operating
+System 8 we will be able to process 1 gigabyte update packages in less than 20 minutes. This is
+really industry benchmark. So we are very happy with the progress we have made from the initial
+launch of over the updates in '19, now what we can bring to the market in '21. This was over-the-
+air.
+The second piece was on...
+A - `Brigitte Rodig, Member of the Supervisory Board
+The charging power.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Charging power, 400 volt and 800 volt. Indeed the only different -- if difference at the moment is
+the charging times you can achieve, and you need the charging environment that allows for those
+high capabilities. The charging times that we have here with the iX or our own products are that
+you have in less than 10 minutes you have 100 kilometers of range. Updating this from 400 volts
+to 800 volts is a change in generation because it affects battery's power electronics and
+machines and it is not something that you can easily do. And you will see the industry, there is still
+a large portion that the industry there, when it comes to overall efficiency, you cannot necessarily
+say that 400 volt or 800 volt is leading to a better -- is leading to a better result because you
+have other issues on 800 volts. So, it will change over time. Changing it on the fly is not possible.
+Operator
+The next question comes from `Patrick Hummel, Analyst, UBS, UBS. The floor is yours.
+Q - `Patrick Hummel, Analyst, UBS `
+Thank you very much. It's Patrick from UBS. Good morning. I have one question related to the
+software content. Could you just give us a rough share with Operating System 8. What is the
+share of the software content that's actually developed by BMW in house? And what comes from
+third-party and how would that share look like in 2025 with Neue Klasse? And maybe more
+precisely, as far as the autonomous driving or a higher level of data driving functionality is
+concerned, is that all going to be in-house owned by BMW or what's the ratio there? Thank you.A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Now this is a tricky -- this -- when you look at the software in a vehicle, it is software is not one
+central package that you have. Software is distributed throughout your vehicle. And what I said
+earlier is, we have 10,000 people working on hardware and software solutions, even there is not
+-- it is not completely -- it will separate between hardware and software functions. What I can tell
+you, just to give you some indications, how much we have grown our in-house capability is within
+the last 3 years, we have doubled the capacity of in-house competence in that particular field.
+Now at the same time the software amount has grown also dramatically. So I think the art is not
+that I have the most software engineers at BMW, I think the art of mastering digitalization is that
+we are in control of the entire software and hardware architecture and include software pieces
+that are not done by us that are done by others, especially when it comes to third party
+applications and run those software pieces within our environment and when you then would look
+how much software, outside software we include, we talk about the ten-thousands of people
+who are writing quotes for us. A bit different is autonomous driving, we have in, close to Munich,
+we have a campus area with more than a 1,000 people working on autonomous driving solution.
+Here it is a bit different, here we do much more in-house. You can say more than half probably of
+the entire software pieces are done by us because here the -- how you do your development,
+how you include learning cycles and you do data driven development is a part also of your
+software development function. So here we do the majority of the software work in-house.
+However, also for autonomous driving, there are certain standards in the industry developed
+already that we include and incorporate when it comes for example to vision and camera based
+functions, here there is already a lot of algorithms and software developed, it does not make
+sense to repeat this, it would not be economical, it would economically not make sense.
+So it's -- from the 10,000 people double, we have roughly, you can say, one quarter is for
+autonomous driving functions. And this is highly software-related people. I hope this answers. I
+would be curious whether anybody can tell you exactly what the share of in-house and outside
+software is, I would like to know it myself. It is -- yeah, it's very hard to quantify.
+Operator
+The next question comes from `Horst Schneider, Analyst, Bank of America Merrill Lynch, Bank of America. Please go ahead.
+Q - `Horst Schneider, Analyst, Bank of America Merrill Lynch `
+Yes. Thank you and good morning for taking also my questions. I want to come back on this
+autonomous driving issue even though this is not the -- was not directly the topic of your
+presentation. Can you maybe explain again why you have decided last year not to hook up to
+Daimler on this NVIDIA deal. So why you stick to Intel and what's the difference between the Intel
+technology between NVIDIA and what are your general thoughts about this future that we have
+got basically software-on-a-chip. And yes, you buy that all from Intel or just that -- they're just
+refereed to autonomous driving, maybe you can explain that a little bit more. Thank you.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes. So I think the first correction would be, we don't just buy this, as I explained earlier, from Intel.
+We work together with Intel and MobilEye on certain solutions. But what I said is two thirds of the
+content and how you develop your specific Level 3 functions, we do ourselves. Now in the joint
+work that we did with Daimler, where we at the end decided to go into different directions. The
+only thing I can tell you here is, when you have a -- when you have two joint project work, and your
+timing when you want to have the first introduction does not align well, then it is very hard todevelop a good proposition for both sides. And so we have decided it is not the right timing and
+when you look back, how we communicated that separation, we said, we put it on hold and see
+how we can evolve this joint interest further. But at the moment, it would not be the right time to
+do this together.
+The -- when it comes to capabilities, the only thing I can refer to is the capabilities that we will
+introduce with the iX. We will have a completely new autonomous driving stack with the iX, it will
+be capable of Level 2, Level 2 plus functions and it will be Level 3 capable. And so, I think we have
+at the moment an industry-leading stack available for us, and there would be no need to hook-up
+with NVIDIA at this point -- with NVIDIA or anybody else in such a relationship at this point in time.
+Operator
+The next question comes from `Dorothee Cresswell, Analyst, Exane BNP Paribas, Exane BNP Paribas UK. Please go ahead.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Hi, there. And thanks for taking my question. I'd love to come back to this 5 billion digital revenue
+potential, that's obviously a really helpful number. But can you give us an EBIT number to go
+alongside that like your peer in Stuttgart. And then could you give us some timing around that and
+maybe you could also tell us where those digital revenues are at this point in time? And then if I
+could just confirm on the OTA capability, I'm guessing that would then also extend to
+autonomous driving functions. Thank you.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes, I would not be able -- I think I would not connect to the 5 billion annual revenue stream. I
+would not connect it to any EBIT number at this point in time. Now, when it comes to the content
+that I described, that is going to happen because we have now the capability to go deeply into
+the vehicle, and we look at the willingness of our consumers in which area they are willing to
+spend for certain functionalities, we can't exactly tell you the areas of advance in off driver
+assistance, of infotainment and other functionalities or third-party applications, what this
+willingness is. And so we looked at our overall volume and the different segments, and this is how
+this number was generated. So it had -- it has, we look back and we look forward, and I think it is a
+reasonable number that, that we -- that generated the 5 billion revenue stream. This was...
+A - `Brigitte Rodig, Member of the Supervisory Board
+And then the over-the-air update. Question Dorothee, you had another question over-the-air
+update.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Yes, just in terms of whether that extends to the autonomous driving functions. Will they be
+included in OTA capability essentially?
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yes, absolutely -- yeah, autonomous driving function is, maybe even a driver for some of the
+over-the-air updates because the system is constantly learning in the background, you don't even
+-- you don't recognize it. So, especially for autonomous driving functions, you learn from your
+fleet, the fleet is identifying certain critical areas, And so you are improving this. You have
+probably not seen this. What we have is a control center, this control center is many, many
+screens and people are observing real driving situations that are currently happening with ourvehicle in real driving situations. And then what we get is, like an automatic alert, see, this is -- and
+people have put their vehicle on automatic drive, automatic drive. And then at the same location,
+it's always that they either switch it off or the system is no longer able to do this. And so, we
+analyze instantly, what is the situation here and we are constantly learning and implementing
+instantly this new feature. And this can then be updated over-the-air within a very short time and
+is back into the vehicle. So this is a learning system and this is especially for autonomous driving
+an important capability.
+Operator
+Ladies and gentlemen, we have approximately 10 minutes left in this Q&A session. (Operator
+Instructions) And the next question comes from `George Galliers, Analyst, Goldman Sachs, Goldman Sachs International.
+Please go ahead, your line is open.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Yes, thank you very much for this session and for taking my question. I just had a question to start
+with on data collection from the fleet. Can you confirm what are you collecting at the moment.
+Are you collecting camera images from your vehicles, ambient conditions that the vehicles are
+being operated and how the vehicle sensor sets are reacting to the changing environment. Could
+you give us some idea of what you're collecting and how you filter that and leverage it? And then
+with OS 8, what incremental data are you able to collect going forward?
+And then the second question I had was just with respect to the Neue Klasse vehicles. I think that
+you have made it clear that you still see a role for the internal combustion engine in these
+vehicles, but could you confirm, is that with the combustion engine providing drive functions to
+one of the axles, or is it predominantly in a range extender type of function. Thank you.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah, good question. Collecting, collecting data, I think first of all, a premium digital experience
+mean that you have absolute data privacy. And what we insure and you can see it how we handle
+data privacy within our vehicles that there are no individual consumer data that we are collecting.
+And there are, always there are conditions around the vehicle or certain things that are available
+as fleet data, they are never individual data that are even available to us. Now the capability that
+we are able to monitor is an intelligent system. So what we have and you were asking what are
+now the new capabilities that you have, and this is almost like a mini controller in your vehicle and
+we can send purpose -- I would say, purpose-built questions into the vehicle. So when you see
+certain issues, an abnormal behavior, something you are interested in, for example, charging
+times, things that you not normally get as data, because you were saying traffic information,
+accidents, traffic signs, this is anyhow available all the time. So where is a vehicle -- where is the
+vehicle driving, at which location, and this is constantly flowing in and we can see this. But more
+interesting for us are the things that are not happening on a regular basis. So we can go into the
+vehicle and make analysis on certain functions on vehicles, on the certain powertrain on the
+certain digital component, whether there is an abnormal behavior. As you can -- you can almost
+ask the vehicle any question and then get back an answer, an anonymous answer back to us of
+what's happening out there with your fleet.
+And by the way, when you look -- when you have ever seen a BMW menu and you go -- and you
+go to your individual settings, consumers have to agree and say here's -- and they have various
+levels to which they can agree, what -- which and what of that data we can access. And if
+somebody doesn't like it actually, they don't have to check that box. And we don't see any dataA - `Brigitte Rodig, Member of the Supervisory Board
+And I think George had the last -- another question on the...
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Range, yeah, yeah. Uncompromisingly electric. So the Neue Klasse and the new cluster
+architecture, an electric architecture. And this -- all the vehicles that come off this new architecture
+will always have -- the big electric machine will always be on the right axle and it will always propel
+that vehicle. So if -- when there are options like a fuel cell or maybe other range extending
+options, it will not effect where the main propulsion is going to happen.
+Operator
+The next question comes from `Arndt Ellinghorst, Analyst, Bernstein, Bernstein. Please go ahead.
+Q - `Arndt Ellinghorst, Analyst, Bernstein `
+Yes, thanks. And hi Brigitte, and Frank.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Hi, Arndt.
+Q - `Arndt Ellinghorst, Analyst, Bernstein `
+Frank, as Head of R&D, what in future is really the outstanding competitive edge of BMW? I'm
+asking that question because a lot of the things we talk about here, I mean, they're great, but it's
+also a lot of catching up. (inaudible) these type of over-the-air updates for years now. And in a
+way you sell it as a revolutionary technology, it's a bit of catching up. And also on the battery side
+of things, when we listen to Volkswagen, they're obviously very, very aggressive. And you could
+say that they might have an edge in future. So where does BMW really fit in? And is that a wrong
+perception, am I too negative or is there a major difference in the outside perception versus what
+you see as Head of R&D?
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Now, the first thing I'd like to add, what makes BMW today such a convincing product, it is the
+overall harmony of technical solution. And when we talk about driving pleasure or the ultimate
+driving machine, this will not go away with electric propulsion. So you can always expect from us
+that this experience that you get in the BMW and how things and functions are integrated. Our
+aspiration and our goal is clearly to be best in the industry for the overall solution. So that -- and
+you will -- I think you will be -- you will have a chance to make this experience yourself, driving an
+iX or an i4. And this has nothing to do with catching up. Pieter Nota said it in his, a little video
+yesterday, the ultimate driving machine meets electric. So this is, I think this will always be a
+competitive advantage for us.
+Now when you look at over -the-air updates, I don't want to sell this. I am just saying is, when you
+compare us with all the other OEMs, nobody has the update capabilities that we are introducing
+or have introduced already 2 years ago, nobody has -- nobody has this. And so, I would say the
+third piece that is for us important and we don't talk -- when we say we want to build the
+greenest battery electric vehicle and it should come from BMW, it is more than a slogan, I have to
+say. Making the greenest, the greenest battery electric vehicle means that you really challengecoming from. You do this for aluminum, for steel, for many, many other components, plastic
+materials. And you look at recycling and raw materials in a different way. So if you look at this
+combination, electric, digital, circular and environmental-friendly and a new way of expressing
+yourself, the aesthetics you can expect in 2025 will change quite dramatically for our products. So
+in this combination and then -- it could still be the ultimate driving machine. I clearly -- I clearly feel
+that there is a competitive edge for BMW.
+Operator
+The next question comes from `Jose Asumendi, Analyst, JP Morgan, JP Morgan. Please go ahead.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thanks very much. Thank you Frank for the presentation. Very interesting. And I have just one
+question and this comes back against the point on ADAS and the opportunities for BMW to
+monetize this opportunity or the content of it. Can you talk little bit about two topics: One, what
+kind of cost have you put on the BMW iX3 in terms of Level 2 or in general ADAS content. It looks
+to us like you are ahead of your premium competitors out there in terms of content. And it is -- I
+think, the rest of your BMW primarily could be following the content depending on the BMW iX3.
+And then the second question when do you think automated highway driving will be on a
+regulation base, legal base be allowed in Europe, specifically in Germany. Do you think you will be
+able to offer this feature in the next maybe 2 years. And do you think this could represent maybe
+any several thousand euros revenue opportunity per car for BMW. Thank you.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Yeah. So this is about autonomous driving and our autonomous driving functions. The iX that
+comes to market, as I said, has a new technology stack that is capable of doing Level 2 driving,
+Level 2 plus driving, that is by the way only allowed in the U.S. and China, Europe is a little bit
+behind when it comes to the regulation for Level 2 plus functionalities. And Level 3 is also
+enabled in the vehicle. Don't -- I think don't look for this Level 3 function at start of production.
+This is true for our competition as well as for us, you always need some development time from
+start of production to really make a Level 3 function possible with all the validation work that is
+required. I'm not sure whether you are aware, we as a manufacturer, we have to validate our
+system and prove that it is safer to drive with a highway L3 function than a human driver. And
+when you look at the incident level at a German autobahn for example, you drive 700 million
+kilometers accident free. And so, this is the proof-point why we need always some validation time
+to say, our system is -- we can guarantee that this is safer than a human driver. So Level 3 will
+come, the current regulation is only allowing speeds up to 60 kilometers that are -- kilometers
+per hour, this is growing over time. But at this point, it is only possible to go up to 60 kilometers
+an hour with Level 3. The regulation is currently under review. But it will take some time. And I
+explain quickly to you why this is for the regulator tricky. With higher speeds the distance that you
+have to look in front and backwards is quickly increasing rapidly. And when you take a highway
+situation, where you automate -- automatically then want to pass another vehicle, you have to
+really look far back and far in the front. So it's currently 60 and it will probably in time increase to
+80 and then 100 kilometers. But the regulator is a bit careful what they also allow here.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Frank, I think we have time for one last quick question. So I think there is still one question in the
+line. Can we have that one question and then we have to wrap up.Operator
+So the last question for now comes from `Kai Mueller, Analyst, Barclays, Barclays Capital. Please go ahead.
+Q - `Kai Mueller, Analyst, Barclays `
+Thank you very much for taking my question. Actually following up from what Jose was asking on
+this regulation. I understand in Germany there is currently the debate about this being passed for
+the back end of this year. Just to understand when it -- when you compare your products or your
+offerings versus some more international peers, is that regulation that will be harder to meet for
+them because it's relatively complex or could that actually be the advantage for someone like
+you or maybe also some of your other German peers. And then the second question is, in terms
+of autonomous technology and longer-term in other regions, how do you make sure that your
+software can meet the standards that might be very different across the world?
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Okay, two very different and but important question. Yes, when you look at the Level 3 regulation
+and how to comply with Level 3 regulation, I definitely believe that we have built up the
+autonomous driving campus here. And we have hundreds of people working on, this is a
+competitive advantage. You will see that this is very, very difficult for others to meet those
+standards. I'm not saying that this is not possible, but I'd say, it's even -- even for us it's really
+making a vehicle Level 3 compliant completely Level 3-compliant is a big thing. And you have
+seen maybe recently also some announcement of our Californian competitor, that clearly said is, I
+want to stay in a Level 2 field. And you see there is a big, big hurdle to say the driver is in control
+or the vehicle is in control. So, and this will continue to be the case for several years. This was
+question number one.
+And then, China yeah, tech -- yeah, tech stacks. We said it yesterday also in our conference, we
+are working on different technical solutions for China and for the rest of the world. China has
+developed so quickly with own ecosystems, with own applications, with own customer interest
+that we clearly have -- we have created a joint venture late last year with ArcherMind, it is BMW
+ArcherMind information technology. So it's a software company and a joint venture firm that will
+also help us to be faster with regional Chinese solutions. We have today already almost 500
+people working just on digital systems in China, sitting in China. And so you can expect that there
+will be more separation between the technical solutions in China and in the rest of the world.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Okay, great. Well, thank you so much, Frank. Thank you very much for all your questions. I think
+that was a great discussion. We now have time for a little break. And then we'll be back for
+market review on China with `Jochen Goller, President and CEO of the BMW Group - China, President and CEO of the BMW Group in China. So
+we'll be back at 10:00 AM. For those of you who are joining on the telephone, you can just stay
+connected.
+A - `Frank Weber, Member of the Board of Management of BMW AG, Development `
+Great. Thank you.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Dear ladies and gentlemen, welcome back. After the inspiring discussion with `Frank Weber, Member of the Board of Management of BMW AG, Development on our
+technological innovations, let's now shift gears and talk about one of our most dynamic markets.I'm very delighted to have with me online, `Jochen Goller, President and CEO of the BMW Group - China, President and CEO of the BMW Group
+Region - China. He is joining us here online from Beijing for another detailed discussion on the
+Chinese market. Its development and our BMW positioning in the market. Jochen, welcome and
+thank you for joining us.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Well, thanks a lot for having me. And I still remember two years ago, right, we were all in Munich.
+A - `Brigitte Rodig, Member of the Supervisory Board
+And there we could stand on stage and meet everybody in person. Jochen, as this is our Annual
+Press Conference where we are reviewing 2020 results, I would like to start with a recap of 2020
+from the Chinese market perspective, we've seen a remarkable rebound of the economy and
+also a strong recovery of BMW MINI sales, we ended up having a 7.4% increase in deliveries here
+on year-on-year in 2020. Can you give us a little more insight on the driver of the growth and how
+-- what happened the post-pandemic recovery?
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Yeah, of course, certainly. I think one of the key elements for that successful performance was
+obviously the handling of the pandemic in China. I think everyone is aware about the very decisive
+measures, which were taken then in February, March. And it's actually in fact, I would say as of
+March-April last year China somehow had a grip on the pandemic. And that of course was
+translating into the sentiment, into the business mood. And this was accompanied by a lot of
+financial support measures, very, very smart, measures, I would say, very targeted measures. So,
+ultimately, I think after a very difficult quarter one, the whole market really came back and we
+were taking in launches of this. And as you said, we achieved another record year 78,000 BMW
+MINI cars, around 7.5% growth. And I would say it's on the one side really the very excellent
+handling here of the government as well as, I mean, we obviously look after our employees and
+after supply chain management, our plants were only closed for 2 weeks in February. Afterwards,
+ramping up again. So, I think the whole management here. And the team also in Shenyang did an
+excellent job. And yeah, we were delighted ultimately to have finished the year with such a result.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yeah, well now of course everyone is curious to understand how this positive development leads
+into 2021. How do you see the development or what are your expectations for this year?
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+I think the China's economy last year has shown lot resilience and people expect, actually we
+even expected that mainly in the second half last year, there might be a little bit of a slump after
+this kind of momentum. But that didn't happen. The economy was strong, consumption was
+strong, purchase behavior was strong. And it didn't really decelerate. So that when you look at
+our sales performance for example, it went all the way up until December. So I think we're
+carrying a very good momentum into the year 2021. You know that just a couple of days ago, the
+two sessions have concluded, which are the two big government conferences outlining the 14th
+five-year plan. And from what we see is our monetary side on a similar side the support will be
+continued. And so, all-in-all, and I think from the business sentiment, from the consumption
+sentiment, we are very confident out to 2021 and we will talk to the business partners, for
+example, this confidence is also reflected and we had some very good two month now. So wehad an excellent start into the year, carrying forward that momentum. So all in all, we are really
+confident and positive about 2021.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Great. That sounds encouraging. Jochen, in our deep dive discussion with `Frank Weber, Member of the Board of Management of BMW AG, Development just a few
+minutes ago, we were looking into the BEV strategy for the next years and then past 2025. My
+questions to you is a little two-fold. So, for one, how do you see the NEV regulation in China and
+the Chinese market develop. And second, what is the latest regarding BMW's NEV offensive in
+China, I mean, with the new iX3, of course, we are very exciting product available now and there
+is more to come.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+I think, I mean obviously China has really adopted NEV a couple of years ago, it became part of
+the government plan of the big targets. And some years ago China has overtaken the U.S. for
+example as largest New Energy Vehicle market. So the policies, I think are very long term and
+have been again, I think yes, stressed. So there are some clear targets. The government is aiming
+towards 25% of NEV share by the year 2025 minimum. And then roughly around 50% share of
+2030. As kind of a goalpost there can go either or, there are lots of incentives in place, whether
+it's monetary incentives in terms of purchase tax exemption as well as subsidies, but also non-
+monetary, like no ban days. So we clearly see a shift, a further shift towards NEV and
+predominantly BEV, yes, when you talk about New Energy Vehicle in China, the main goal and the
+main direction is clearly battery electric vehicles. So we're very optimistic that will accelerate. On
+the merit side, we had a milestone last year, which we could celebrate the launch of the iX3
+produced in Shenyang, our BMW's first full electric SUV because obviously, i3 was there, but so
+this car was -- started production in quarter four. And as Mr. Zipse also mentioned, we are now in
+the midst of an offensive, 13 BEVs by 2023, and of course, all of them will either come to China or
+are locally produced. So, we are following that momentum with a lot of new additional BEVs. And
+as I said, I think China will clearly remain the dominant BEV market worldwide.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yeah, so staying a little bit with the NEV offensive. In the competitive landscape, you see a lot new
+entrants coming in at very competitive also price positioning. How do you see ourselves at BMW
+positioned with our competitive advantages to win over customers.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Well, you're right, because I mean in China, we have some brands which are mainly not so well
+known in other countries. When you talk about (inaudible), I think, Tesla is known to everyone
+obviously. I see that way. Chinese customers are very, I would say, curious about new technology.
+And also you know car ownership, isn't that kind of a historic thing. So people are more flexible.
+And that's why I think NEV and BEV have a great future. And in a way, the competition helps to
+really create awareness for that technology. And whilst of course we have competitors, ultimately
+I don't think, you know, if you have some strong competitors in the market, it's creating a lot of
+buzz also for battery electric vehicles. And so therefore, I think it's good for the market as a
+whole. And then of course the question is, who has the better product, who has a strong brand.
+And don't forget the dealer network and service and so on and so forth. And so as a whole
+package of all of that, I think we're really well placed here in the market.
+A - `Brigitte Rodig, Member of the Supervisory BoardThat's great. Last but not least before then we start our Q&A, I would have a question on the
+specific tastes and preferences of Chinese consumers. And how are they affecting our product
+strategy. I mean, vehicle connectivity is just one area that comes to mind, but I'm sure there are
+others. I know we are leveraging some local R&D offices, we're also working with some well-
+established big tech companies locally. But so how do you see that we are addressing as BMW
+the specific Chinese customer needs?
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Perfectly, right. I think, I mean in China, first of all, our customers are extremely young. You talk
+about three series customers below 30, seven series customers well below 40. They're digital
+natives, tech savvy and they also have preferences for example, you know, we have long-wheel-
+base cars here. We have especially comfortable seat configurations and you mentioned
+(inaudible). And that's why our largest R&D footprint outside Munich is actually in China, which
+gotten around 1,100, 1,200 engineers and tech people here. And we've just announced a joint
+venture with ArcherMind about the impact on activity because ultimately we know that aside from
+of course brand and design and driving feeling, the topic of technology and in-car connectivity is
+actually a main purchase reason. So you have these things, I'm sure, they spill over into other
+markets clearly, yeah, after some time. But given the, I would say the digital natives and the age
+of the customer in China it's actually happening here for us.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Okay, great. Well, thank you very much for these introductory details regarding the Chinese
+market. We will now start our Q&A.
+Operator
+Floor is now opened for questions. (Operator Instructions) And we have a first question coming
+from `Henning Cosman, Analyst, HSBC from HSBC. Your line is open, Henning, please go ahead.
+Q - `Henning Cosman, Analyst, HSBC `
+Hi, good morning. Thank you for taking my question. I have first question about the iX3 in China
+this year, if you could share a little bit about your volume budget, how many you're intending to
+sell and if you could also talk a little bit about your price action that you had possibly in response
+to also Tesla's price action in the market. And I think related maybe to what you said is, was it also
+in a push to have a certain awareness for electric within BMW rather than it being potentially a risk
+going forward that you start with certain price points and then adjust in response to competition.
+If you could just discuss this complex a little bit. And I have another question if I may, afterwards.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Of course. So thanks a lot for the question on iX3. So I mean, the situation like is following, the car
+itself we introduced or we produced -- started producing in quarter four. We actually invited a lot
+of Chinese media and key opinion leaders to Shenyang to see the whole development of the car
+and also introduced the Gen 5 powertrain, which went down very well. So we saw an increase of
+awareness. And then the launch actually happened late in the year in around November,
+December. And because we had a slow product ramp up, so we didn't have too many cars in the
+market last year. And then of course, I mean, ultimately you have to look at the market, what is
+happening at the market. And we were always in a way observing what Tesla would do with a
+(inaudible) because you know that before the model (inaudible) was only imported.So therefore what we did is we went out with, call it a pre-sale price and then once we knew the
+new price configuration in the market, we adjusted the price. And we are now at the lower end or
+our X3 range. So we are still staying true to our range because X3 in China is between
+RMB400,000 and RMB500,000 and our iX3 in China is priced at 399. So we are actually in that
+ballpark from a pricing perspective. On the volume side, we are not giving any concrete model
+prediction for the year. All I can say is that we've received excellent feedback once on the car, but
+also on the pricing. And we can see in our orders actually ramping up on a really week by week
+case. So we are basically going to -- to meet our budget in March. But I can't share numbers, so
+you will see that over time when we report our quarterly results. So we're very confident about
+the car. Ramp-up is on track, but you also notice maybe that we are not blindly following, let's say,
+any prices of the competitor. So we have a certain price strategy. We decided to move the iX3
+into the lower end of that price range. But we are not slashing prices just to hit exactly prices of
+competitors. So I hope that answers the question.
+Q - `Henning Cosman, Analyst, HSBC `
+Yes. That's helpful. Thank you very much. And as a second question, if I may. If you could just talk a
+little about -- a bit about the consolidation of the Chinese joint venture in 2022 and the
+implications for your business overall. If I'm not mistaken the localization of the X5 is part of the
+agreement. If you could also talk about other potential implications. What it means for potentially
+further localization of electric models as well. And how it overall effect your China strategy? Thank
+you very much.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Yeah, I mean, we signed our packages we won in 2018. As part of that was that we would expand
+our capacities in Shenyang and we would take over 25% additional equity, that is going to happen
+in 2022. And so, actually we have a long-term localization strategy, it's very clear that, I mean, we
+have localized the key models and we are also going to bring the respective BEV model into the
+joint venture and we are currently constructing an additional plant in Shenyang, well on track, by
+the way, despite COVID pandemic last year, we had no delays whatsoever. So I think, I mean,
+ultimately it's more a technical thing to be honest because the 25% increase obviously triggers a
+consolidation, which I would then probably ask Brigitte and Dr. Peter to talk about. From a
+business perspective, we have a long-term plan and I would say, certain localizations we have in
+mind, we decided actually independent of that equity increase.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yeah, I can maybe just add. So, once we consolidate of course at the whole P&L balance sheet
+and cash flow will be fully integrated, which means the external revenue from the joint venture will
+show up in the consolidated Group revenues. We have to eliminate, of course, then the revenues
+for goods and services that we render to BBA today because they will then be inter-company.
+And the same will be true for the earnings, you will have the earnings, of course in, you eliminate
+the inter-company earnings and you also will have a PPA amortization, of course that will be
+impacting the results. So there is -- there is an impact to it, but of course a significant increase on
+the revenue line and earning increase and also the balance sheet of course will be prolonged by
+the assets of BBA and the cash flow will also will have a significant impact. So all elements of our
+income statement, balance sheet and cash flow, of course, will have that impact of the full
+consolidation. As and when we have the legal framework to actually then consol -- well execute
+the deal and purchase the additional 25% and consolidate.
+OperatorThe next question comes from `Charles Coldicott, Analyst, Redburn from Redburn. Your line is open, please.
+Q - `Charles Coldicott, Analyst, Redburn `
+Hi, good morning. Thanks for taking my questions. I also wanted to ask about the iX3. I know you
+don't want to give a volume target, but I was wondering if you could maybe comment on how
+many months of orders you now have for that model. And also what sort of conquest rate do you
+have for the iX3? Are the customers typically existing BMW customers or may be electric vehicle
+owners from other brands?
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+I mean, to be fair, I think we probably should talk about that in the second half of the year, tell you
+why, because we launched end of last year, we did the new pricing just before Chinese New Year.
+Then you had two or three weeks Chinese New Year and basically the business only restarted, in
+fact, two, three weeks ago. So, therefore when you talk about whose buying the car, it's very
+difficult to say because you talk about low numbers. At the moment what we see is, when you
+look at the consideration list, yeah, so because we are always checking also what are the
+precious choices the customer had. The good thing is, the wanted suspects, if you want a peer
+[ph], so you get the NEV and BEV models you all know are on the shopping list of the iX3
+customers, which is a good sign. But as we are at the moment, obviously talking about less than
+1,000 or 2,000 units, which we are currently ramping up. I don't think I can give any predictable
+statements on that. But from the social listening and everything you do on the marketing side, we
+know that we are now getting on to the shopping list of people who consider a BEV. Hence, we
+assume that we have a large share of (inaudible). But at that point of time it's really too early to
+give you any reliable kind of statements on that, in that matter.
+Q - `Charles Coldicott, Analyst, Redburn `
+Thank you. And if I could ask one more. Obviously last year you saw really strong volume growth
+in China. I'm just wondering where is sort of most of that growth coming from maybe thinking in
+terms of geography, how much is coming from Tier 3, 4, 5 cities. And maybe also how important
+is car financing for your growth in China?
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Yes, it's fair to say that we grew in Tier 1 to Tier 5. But the growth in the big cities at Tier 1, the
+megacities, Shanghai, Beijing and so on and so forth was less because you have already quite a
+saturated market there. I mean, in some markets, I think in Beijing, the premium share is already
+25%, 28%. So you're talking about European premium share, whereas when you talk about three,
+four, five, then obviously, it's much lower. So I would say, because of that size, volume wise, a lot
+of growth came from Tier 1 to Tier 2. But percentage wise, the number was of course higher, Tier
+3, 4, 5. Yeah, and we believe that actually, for example, our region west, which has a low tier 3, 4,
+5 kind of cities will be one of the growth engines. So, I think you will see eventually a certain
+saturation in the big markets. But then still, I mean, China is very big and I think at the moment, it's
+200, 300 cars per 1,000 households, sorry per thousand people. Whereas in mature markets
+you talk about 800, 900 for example in the U.S. So, there is still big growth. But you're right, it
+comes probably over the next years more from the other tiers.
+On finance, I mean, we've got a very healthy balance sheet here. The finance penetration is
+along 40%, 45%. But it is, we don't actually have leasing or something like that. It's really a
+financing and a loaning business, we have an extremely healthy business here with very, very lowdelinquency rate. And that obviously adds additional profit to our company and it's around 40% --
+around 40%, 42% penetration.
+Operator
+The next question comes from `Dorothee Cresswell, Analyst, Exane BNP Paribas from Exane BNP Paribas UK. Your line is open,
+please. Ms. Cresswell, may it be you're muted. We cannot hear you talking.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Apologies. Can you hear me now?
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yes.
+Operator
+We can hear you now.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Brilliant. Thank you. Yes, hi there. Yesterday, you very helpfully gave us your BEV targets globally
+for 2025 and 2030. Could you share some BEV proportion target for China with us, may be just
+for that market specifically. And then we also saw your Chinese joint venture operations improved
+their margins very nicely in 2020. Can you give us an outlook for the coming years given that
+obviously the proportion of BEVs won't go up. And I'm just wondering how much that will dilute
+the profitability going forward. Thank you.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Good. In terms of the BEV, there is -- there is a government target and there is our internal target.
+So the market is forecasted to go to 25% of NEV, new energy vehicle, but it's actually
+predominantly BEV as we can almost say 25% BEV share in China in 2025 and around 50% in
+2030. So these are kind of the anchor points. And of course, this is also what we are aiming for.
+And I mean, it's depending on the development obviously in the segment. What you also
+probably know is that you have certain (inaudible) here, you talk about ZEV Credits and you talk
+about emission targets like a (inaudible) target. And with our internal planing, we're very confident
+that we're well beyond what we need to do. And as also communicated yesterday, we're talking
+about 13 BEVs by 2023. We will localize all of our kind of BEVs in the key volume segment. So I
+would say we are in a pretty strong position here.
+And, sorry, what was the second part of the question?
+A - `Brigitte Rodig, Member of the Supervisory Board
+On the financial -- on the financial development.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Okay. Well, I mean, obviously the financial effects, you have to ask Brigitte. I can just give you an
+outlook. The market is actually very strong and we really improved our transaction prices, which is
+of course beneficial for the profitability of the import business as well as the local business. We
+have now the -- quite a young model portfolio, we're going to launch some additional cars. So Ithe end of the day, it's really also depending on the market and on the price points. So therefore,
+I would say, we've seen an excellent year, last year looking at the mix. We have to be mindful, the
+next years, I would actually see an increase after profitability and the performance. But one thing
+is the models you're launching in the mix and the other thing is, of course, the consumer
+sentiment and the pricing, yeah. So therefore this is something we are only -- we can only
+influence to a limited extent yeah.
+A - `Brigitte Rodig, Member of the Supervisory Board
+No, I think you're right, I mean it's the growth in the market. It's then the good pricing that we
+currently have. And of course the very strong financial position and the further localization, which
+will also support of course the profitability development, but against the goals if higher share of
+xEVs that we absolutely will expect.
+Operator
+Next question comes from `Angus Tweedie, Analyst, Citi from Citi. Your line is open, please.
+Q - `Angus Tweedie, Analyst, Citi `
+Hi, thank you. Thank you very much for taking my questions. The first one is could you discuss
+capacity growth in China. I think you've historically said you would invest RMB25 billion till 2022.
+Should we be thinking about a 20% capacity growth rate in 2020, '21 and how COVID has
+impacted that? And then secondly, could you perhaps just discuss how you think about these
+CAFE targets and particularly how high margin, but high fuel consumption import volumes play in
+that within the context of how you're localizing volumes? Thank you.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Okay, I think the RMB25 billion, what was -- are you referring to the global investment on that
+one?
+Q - `Angus Tweedie, Analyst, Citi `
+Investment number, but if you could help with capacity expansion, that would be great.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Okay. No, I mean what we've done obviously over the last year is, we have really expanded our
+footprint here in China. And as you know, I think in the future we have two footprint, right, I mean,
+one is in Shenyang with our (inaudible) on BBA. And let's not forget, and we also are now building
+up together with Great Wall. Our Spotlight joint venture, which was going to produce mini cars for
+China and as well as for the world markets, I mean, in terms of capacity extension or sales
+numbers outlooks, I really can't go into this. All I can say on the, I would say, on the volume, we
+expect really a good performance of the market, a growth of premium. And our aim is to grow
+with the premium market. So this is something. And in terms of detailed capacity numbers, that's
+normally nothing we communicate. And the second part was (inaudible) second part of the
+question.
+Q - `Angus Tweedie, Analyst, Citi `
+Yes, if you could perhaps discuss, at the moment, we're having very high fuel consumption on
+import volumes. Clearly these have a margin premium to what you're doing locally. How do youmanage that given CAFE targets are going to get stricter. But at the same time for protecting
+margins, as you localize volumes and move more to BEV volumes. Thank you.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+I mean obviously the good thing is we, I mean, you have a correlation between the emission
+targets and the zero emission eco target. So you can actually offset, and therefore we have a
+very I think a solid plan now. We're increasing our BEV share on both, by the way, I mean, for
+example, the cars you saw yesterday i4 and iX will be imported to China. And then we are
+localizing the i versions of our joint venture cars. So therefore, actually we don't see any issues to
+be fair in hitting neither both during the initial eco target as well as the (inaudible) target. And you
+can also look holistically at the business by the way. You can offset in between joint venture
+partners. So that's also a lever.
+In terms of profitability, I think that's not a China topic, it's a global topic. So, we will of course
+localize. So we are basically leveraging on some localization effects. And as with the whole
+company, we are looking into, of course, cost on measures. I mean you have with the increasing
+volume, you also have economies of scale on the electrification part. And of course, we are also
+looking into our cost of sale in China. So I think we're working on everything, material cost,
+production cost, cost of sale, so that we can somehow also offset the effects, which might arise
+from an increase of xEV.
+Operator
+The next question comes from `Tom Narayan, Analyst, RBC Capital Markets from RBC Capital Markets. Your line is open, please.
+Q - `Tom Narayan, Analyst, RBC Capital Markets `
+Hi, yes. `Tom Narayan, Analyst, RBC Capital Markets, RBC. Thanks for taking the question, a follow-up on Dorothee's question.
+So hitting 50% BEV penetration by 2030 will require a lot of batteries and battery supply capacity.
+VW talked about how they've already secured 150 gigawatt hours cell capacity in China through
+third-party suppliers, which is supposed to carry them through 2025. Given what we've
+experienced this year with chip supply shortages is a concern over what happens when you have
+multiple players making BEVs in China, especially domestic players who may have an advantage
+in securing battery capacity. Could you comment on your battery supply situation. And for how
+long have you secured this supply given your ambitious BEV penetration targets? And if I could on
+battery chemistry, could you benefit in China from innovations like iron phosphate and high
+manganese as was discussed by VW. Thanks.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+I mean, first let me maybe also comment, I don't think you can compare the battery a supply
+chain with what happened on the chip and component, right. Because what happened there is,
+everyone expected the market to drop, and then basically kind of, I would say components were
+redistributed and then market came back. I mean, on the battery side, you have a very long
+contractual commitment. And so, therefore I think what we've done is, we have announced
+ambitious BEV targets. And of course, the material which we need to fulfill our BEV targets is
+secured. I think on the details, how long, what is (inaudible) it's probably better to talk to Dr.
+Wendt who is our Board Member for purchasing. But what the targets we are communicating are
+of course backed by contracts. So therefore I'm -- basically I'm pretty relaxed on this one. When
+you talk about battery, you know, we have also and that's the reason why we're having kind of
+different suppliers, we're not going into single sourcing.I mean in China, we're working with CATL for our mini BEVs and in Spotlight we're going to work
+with (inaudible) which is a local company. I think you know that we have other suppliers globally. So
+we have been talking to four, five different battery suppliers. So therefore, I think we really are
+diversified. And given long-term contracts, I don't think that some are comparable to what
+happened with the semiconductors and the chips. In terms of chemistry, I mean, as always, you
+know, it's interesting because depending on whom you ask, you get many different opinions on
+battery chemistry and battery shapes and formats. And I think honestly here, we have a clear
+strategy with our partners with CATL. And of course, for example when it comes to China, we will
+leverage as a cost advantage we have in China. But on the battery chemistry, I think you usually
+have a long-term approach. What was very important for us is that, we have a sustainable
+purchasing of the raw materials. I think you know from our statements that we pay very much
+attention where these rare -- earth and rare elements are coming from. I think that is important,
+we have a long-term strategy. And I think if you would like to know more details about really the
+purchasing plan, that's probably something to talk to Dr. Wendt.
+Operator
+The next question comes from `Tim Rokossa, Analyst, Deutsche Bank AG from Deutsche Bank. Your line is open, please.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Tim, we can't hear you.
+Operator
+I'm sorry, `Tim Rokossa, Analyst, Deutsche Bank AG, we cannot hear you. Would you mind -- maybe you are on muted.
+Q - `Tim Rokossa, Analyst, Deutsche Bank AG `
+Can you hear me?
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yes.
+Q - `Tim Rokossa, Analyst, Deutsche Bank AG `
+Okay, great. I didn't change anything.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Okay.
+Q - `Tim Rokossa, Analyst, Deutsche Bank AG `
+But, okay, thank you for taking my questions. It goes a bit in the direction that Henning also tried
+to get to with the first question, and that is what Kai actually -- when we think about the price
+actions that we're seeing you taken on the iX3 in China, it obviously creates the fear in the
+market that indeed, what the NIO's and Tesla's of this world are telling us, is that they are
+primarily targeting you, to get market share from you, versus other premium brands in the
+Chinese market. Can you take away that fear from us and maybe how can we get more
+confidence in the fact that, that is not the case going forward. Thank you.
+A - `Jochen Goller, President and CEO of the BMW Group - China `No, it's very valiant question. Let me put it that way, I think ultimately, when you talk about the
+premium car, you're not only talking about the price, you talk about many things. You talk about
+brand strengths, you talk about the product, you talk about distribution, you talk about after sales
+coverage and you talk about the customer experience. And that's very clearly is we will demand a
+premium above those competitors, very clearly. And with this, I think this is something which then
+helps our profitability. If you ask how -- why are we confident? Well, we're confident, because this
+package of what I said, I mean, people buy cars also because of design, yeah. They buy cars
+because of the customer journey. So what we need to ensure and I would say, in China, we are
+really well on track. We basically are working on all these levers. And by the way, maybe to give
+you some confidence, despite (inaudible) despite Tesla and whatsoever, actually our transaction
+prices went up last year. So it's not that all of a sudden like we are collapsing. What happened to
+the iX3 is clearly, you need to be in a certain price band. That's very clear. And you cannot, you
+cannot be like 50% or 100% up, you need to be in a certain price band. And that's what we've
+done with the iX3. We're still on the price band, we are comfortable in terms of our margin. But
+as I said, the sales price and our sales position in China actually last year was better than -- was as
+good as five, six, seven, eight years ago, despite increasing competition.
+So therefore, I mean, we can't rest. You need to work on all areas. But the combination of brand,
+product, yeah, of really also very good dealer experience, which we invested a lot with the
+dealers by the way in upgrading showroom experience and the digital one to one marketing
+where I would say we benchmark, because we've created our own company called (inaudible),
+it's a limited company under our framework here. And this is kind of a company, which works on
+digital marketing and direct marketing. And I would say, there is not one single bullet if you want,
+but it's doing 10 things right. And then we are actually confident that we can retain the margin or
+even increase it.
+Operator
+The next question comes from `Patrick Hummel, Analyst, UBS from USB. Your line is open.
+Q - `Patrick Hummel, Analyst, UBS `
+Yes, Patrick from UBS actually. Thank you. So yeah, I just wanted to follow up to Tim's previous
+question actually. I think you are in a pretty tough place right now. You have a Tesla that's growing
+volumes very, very significantly and they have become the price setter and you're the price taker.
+We talked about the emerging Chinese BEV competition that has a plethora of EV launches
+coming. And if I look into your pipeline, all the products that's coming now and in the next few
+years is, except for the iX as an imported vehicle is on a multi-energy platform and we've seen
+that this might not be the perfect solution to customers. And it's going to take 3 years to 4 years
+from now to see the new cluster architecture arriving. So how can you make us more confident
+that in a market that's probably, if you're going to see significant growth in the premium EV
+segment, that this is over the next 3 years not going to be a continuous loss of market share and
+loss of profitability.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Yeah. Looks like you've been in some of our internal workshop. So actually, you know, first of all,
+we need to be also realistic about the size of the market. When we talk about 25% BEV share in
+2025, you're still talking about 75% of ICE share. So that is not going away overnight. And I think
+you have some players, they've decided to only play in one field and that is a growing field. And
+then you've got BMW and we are actually leading, I would really say the one field which is
+combustion engine field, and we're getting stronger and stronger in the other one. So that's whyI'm really confident because I think over the next years, you will still see a very, very big share of
+ICE sales -- of ICE premium sales in China. And you will have those increasing share towards 25%,
+even in the 28%. And for this, we actually have over the next years, in all of the segments at least
+one offer, I mean, we will have iX and i4 obviously imported, I mean, the first feedback on the iX
+in China was tremendous.
+Then of course, every car whether it's three series and five series and seven series, as you know,
+will have an i version. And ultimately, I think this (inaudible) conversion topic is, in my opinion,
+nothing which the customer really discusses. I think the customer is discussing the design and the
+brand and the connectivity and a powertrain. And so, you're right, at the moment, in the BEV
+area, others have more products. And especially Tesla is stronger. But we are now ramping up,
+we've got cars in all the volume segments. Let's not forget, next year, three series, seven series,
+and so on and so forth, and on top of that, I think for the next three or four or five or six years,
+you will see a very sizable sales in the ICE, which we make good margin. And this is a transition,
+right, which we have to manage. But because we play in both fields, I think we will mange this.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yeah, thank you. Thank you, Jochen. I truly support that. I think we have extremely competitive
+cars in this phase two as well. Now, we have time for one last question please.
+Operator
+The last question comes from `Jose Asumendi, Analyst, JP Morgan from JP Morgan. Your line is open, please.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thank you. Hi, Jochen. It's Jose from JP Morgan. Can you hear me?
+A - `Brigitte Rodig, Member of the Supervisory Board
+Yes, we can hear you, Jose.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thank you very much. Thank you, thank you. Jochen, can you talk a little bit more about the
+capabilities and resources you're building up in terms of autonomous driving in China. I mean,
+every time we meet in the region, it is fascinating how you are accelerating the work in the
+region. Can you talk a little bit about also when you compare the different regions, China, Europe
+and North America, where are we in terms of the cutting-edge technology in terms of us ADAS,
+what kind of progress are you making in the region. Obviously it's very difficult to get hold of data
+for the region. So maybe you can just explain us a little bit more how far advanced are you in
+ADAS in China, how does it compare across region. And who are your key partners that supports
+you and help you in this journey as well? Thank you.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Yeah, Jose, good to hear you. What -- let's put that absolutely. When you talk about -- and you
+talk about advanced driving assist systems, so ADAS, I think you have to link this to digitalization
+ultimately, yeah. And what is clearly happening in China is, as you know from a government
+perspective, a lot of money is put into the digitalization, into 5G and into the intelligent
+infrastructure. So first of all, and what you clearly will see is a tremendous growth in what we call
+intelligent connected vehicles, ICE, on the one side. On the other side, this belief or hype of next
+year everyone as Level 4 and Level 5 and no one drives the car anymore is also gotten a little bitin China, yeah. Because people understand it's actually quite complex. And while we see a lot of
+pilot projects, you don't really see at the moment a clear roadmap 1 Level, 3 Level, 4 would really
+be permitted. So this is just the situation.
+When it comes to BMW, we have actually a tech stack, which we develop with the partners, for
+example, like MobilEye, but we also have a local -- local partnerships here. And our cars are
+currently Level 2, what we call Level 2 plus, right, I mean, you have ADAS systems, which had to in
+a certain situation drive autonomously, but you need to be actually able to react. And that is what
+you can do, we call it Level 2 plus. So on a highway in certain situations and our iX3 is technically
+capable for Level 3, and so are the cars to come. So I would say from a capability, technical
+capability perspective, I think we are on the level of what is permitted. But I think it will also take
+longer here in China, even in China until you see really kind of a nationwide or in larger areas a
+kind of Level 3 or Level 4.
+So we have a tech stack globally. We basically are now increasing our footprint. To share with you,
+we have, I think I mentioned the largest R&D center outside Munich is in China. We've just
+announced early January the cooperation with ArcherMind, which is a local IT and tech company.
+We will have around (inaudible) by the end. And they work on in-car connectivity and on in-car
+(inaudible), yeah, so exactly to do, to take our tech stack to adapt to China where necessary and
+to integrate local partners. So therefore, technically it's Level 2 plus what you currently see on the
+market, all the cars like, and if and when there is the infrastructure ready, as well as the legislation
+ready, we will then also be technically ready to basically switch to a higher idea.
+A - `Brigitte Rodig, Member of the Supervisory Board
+Wonderful. Well, thank you so much. Thank you for all those great questions. I think that was a
+wonderful discussion. Jochen, thank you so much for taking the time to being with us here online
+from Beijing.
+Dear ladies and gentlemen, I hope you enjoyed our two deep dive sessions. Let me now just
+please finish with a few housekeeping remarks. We'll now have another short 15 minutes break
+and those of you who are on the phone can just stay connected. At 11:00 AM, we will be back with
+our annual conference with `Oliver Zipse, Chairman of the Board of Management of BMW AG, Chairman of the Board of Management of BMW AG and
+Dr. `Nicolas Peter, Chief Financial Officer, Member of the Management Board of BMW AG Finance for our annual
+conference. And of course, in that included will also be then Q&A. So, our program will then finish
+at 12:30. Unfortunately, we can't have now a coffee chat together, but I hope you have a good
+quick break and we'll see you all back at 11:00.
+A - `Jochen Goller, President and CEO of the BMW Group - China `
+Thank you. Bye-bye.
+(Break)
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Ladies and gentlemen, welcome to the BMW Group Analyst and Investor Conference. My name is
+Maximilian Schoberl. With me are the Chairman of the Board of Management of BMW AG, Oliver
+Zipse, and our Member of the Board of Management for Finance, `Nicolas Peter, Chief Financial Officer. We are standing
+next to a really cool car.
+Oliver, I know you are really fascinated by this model. Would you like to tell us more about it?A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Yes, Max. This is the BMW iX, our innovation and technology flagship. We are excited to launch it
+later this year. The iX will enable all future BMW vehicles. Nicolas and I've driven it many times.
+A - `Nicolas Peter, Chief Financial Officer `
+Exactly, Oliver. The IX is a true BMW. All electric with the range up to 600 kilometers according to
+WLTP. Short charging times, a unique discovery space with our high-tech, I'm sure customers will
+love it.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Absolutely. Ladies and gentlemen, shortly Oliver will give us a closer look into the future, but
+before that, let's take a look back at the 2020 financial year and the outlook 2021.
+Nicolas, the stage is yours. But first, a short film.
+(Video Presentation)
+A - `Nicolas Peter, Chief Financial Officer `
+Ladies and gentlemen, good morning. I hope you are all doing well. As we just saw in that video,
+2020 was an exceptional year for all of us, in our personal lives and in the business environment.
+The same is true for the BMW Group. In a very volatile market environment. We successfully dealt
+with the complex situations and we are therefore able to limit the negative impact of the
+pandemic on our results. Under these circumstances, we were able to achieve solid group
+earnings.
+At the same time, we also made important decisions for the long-term success of the company
+and even stepped up our transformation process. We have put sustainability at the center of the
+company. This is also what our new BMW Group report represents. We are the first automotive
+manufacturer listed on the DAX to combine our sustainable value report with our annual report to
+create our BMW Group report from the reporting year 2021. The report shows how economic,
+environmental, and social concerns. And not only dependent on each other, but complement
+each other at the BMW Group.
+Ladies and gentlemen. 2020 was also a stress test for our capacity for transformation. Almost as
+soon as a pandemic broke out, we initiated important company-wide measures to make us even
+faster, more efficient, more digital, and more profitable. As a result, we were able to reduce our
+fixed costs by almost EUR1 billion and capital expenditure by around EUR1.7 billion.
+Our performance program, which we initiated back in 2017, has an important part to play in this.
+The aim of our company-wide performance and cost cutting program is to achieve a sustainable
+increase in profitability, make our structure leaner, and speed up our processes. Digitalization
+provides decisive leverage in this respect. We are using it in a targeted manner to make our
+company more efficient.
+In sales and marketing, for instance, we set up digital systems to manage and increase the
+contribution margin at individual vehicle. At the same time, by cutting back on our sales promotion
+programs and streamlining our structures, we were able to lower our selling costs. The impact will
+be even greater in the years to come. In parallel, we continue to focus on reducing variant and
+drivetrain complexity.By 2025, up to 50% of our current drivetrain variance will no longer be offered. We already
+reduced our range of diesel and petrol engines by almost 30% in recent years. As you can see,
+we are making the decisions necessary to raise and maintain our profitability within our target
+range of 8% to 10%.
+Ladies and gentlemen, let's start with the key figures for the group. Group earnings before tax
+totaled EUR5.2 billion with the Group EBT margin of 5.3%. The second half of 2020 underlined
+the BMW Group's performance capabilities. Our products were very much in demand and the
+strong product mix and better pricing also contributed to the positive effect. Our free cash flow
+was strong. On this basis, we are investing in the future and forging ahead with electrification and
+digitalization in particular.
+Research and development expenditure totaled almost EUR6.3 billion in 2020. Thanks to strict
+cost management. This was slightly lower than the previous year without having to cut back on
+key upfront investments. The R&D ratio of 6.3% was on par with the previous year. The main
+focus areas here were on the development of the fifth and other future generations of our
+electric drivetrains. It's a new eighth generation of our BMW iDrive and highly automated driving.
+The financial result improved significantly year-on-year. The key driver here was a significantly
+higher at equity result of more than EUR1.2 billion from our Chinese joint venture, BMW Brilliance
+Automotive, mainly due to high volumes combined with effective pricing. From April on, sales
+figures in China were consistently higher than the previous year. The operating business of the
+UNO Group with its focus on mobility services also performed significantly better than the year
+before. The sale of shares in the matting service provider here had a further positive effect.
+As a part of our transformation process, we are also moving forward with personnel restructuring
+measures. The size of our workforce decreased in 2020 as forecast from 126,000 to 120,700.
+We are taking advantage of vacancies rising from voluntary agreements as well as natural
+attrition. The company is noticeably leaner than it was just a year ago.
+Ladies and gentlemen, in the face of challenging conditions, the BMW Group posted solid group
+earnings. The Board of Management and the Supervisory Board will therefore propose to the
+Annual General Meeting that BMW AG's net profit of EUR1.25 billion be utilized to pay a dividend
+of EUR1.90 per share of common stock and EUR1.92 per share of preferred stock. This represents
+a payout ratio of 32.5% for 2020 and is therefore on a par with the previous year and within our
+long-term target range of 30% to 40%.
+At EUR17.8 billion, Group liquidity remained almost at the same level as at the end of December
+2019. We have the liquidity reserves we need to be able to at any time if the situation
+deteriorates again.
+Ladies and gentlemen, before I move on to the individual segments, let me show you a brief
+video.
+(Video Presentation)
+Ladies and gentlemen, I would now like to start with the Automotive segment. The EBIT margin
+for the segment was 2.7%. This is at the higher end of our forecast adjusted during the year '20
+to 3%. The third quarter EBIT margin of 6.7% was followed by a margin of 7.7% in the final quarter.
+This is the segment's best quarterly figure for two and a half years.
+EBIT totaled EUR2.2 billion and was therefore significantly lower than the previous year as
+expected due to the pandemic. The EBIT bridge in the Automotive segment for the full yearshows that the negative impact from the steep volume decline in the first half of 2020 could be
+partly compensated by positive effects from our healthy model mix and improved pricing.
+Headwinds included the negative currency developments, increasing cost from the electric
+vehicle offensive the segment share in increased residual value risk provisions and cost for
+personnel restructuring measures. Reduced R&D and sales and marketing expenses had a
+partially offsetting effect.
+Ladies and gentlemen, let's take a look at free cash flow in the Automotive segment, which
+totaled around EUR2.8 billion in the first quarter. For the full year 2020, it reached EUR3.4 billion
+and was therefore significantly higher than in 2019. Healthy pretax earnings in the second half of
+the year were a key driver for this, as well as a reduction in inventories and capital expenditure.
+We were able to lower inventory levels by almost EUR1 billion from 2019 by optimizing lead times
+and through structural improvements in the logistics. At the end of the year, capital expenditure
+totaled EUR3.9 billion. With privatization and a clear focus, we were able to reduce this total by
+EUR1.7 billion compared to the previous year. The increase in free cash flow over the previous
+year also led to an increase in the segment's net financial assets of over EUR800 million to
+EUR18.5 billion.
+Ladies and gentlemen, let's move on to the Financial Services segment. Our financing and leasing
+business also felt the effects of the pandemic. As expected, earnings before tax were
+significantly lower than the previous year at EUR1.7 billion. This is due to significantly higher risk
+provisioning in the mid-to-high three-digit million euro range for anticipated credit and residual
+value losses.
+Almost 1.85 million new financing and leasing contracts were concluded with retail customers in
+2020. This represents a moderate decrease from the previous year. In the last six months of the
+year, the number of new contracts concluded was on a par with the previous year due to the
+market recovery. We also benefited from positive development in the pre-owned car market.
+This resulted in higher income from the sales off and off lease vehicles. The credit loss ratio also
+remained low. The segment's return on equity was 11.2%. Particularly, thanks to the improved risk
+situation in the fourth quarter. Return on equity was only slightly lower than the previous year.
+I would like to turn now to the Motorcycle segment. Despite the coronavirus pandemic, BMW
+Motorrad was able to achieve the second best sales figures in its history. This underpins BMW
+Motorrad's successful growth strategy. Overall, segment earnings before tax were significantly
+lower year-on-year as forecast totaling EUR100 million. This also reflected a negative sales
+volume growth in the first six months of the year. With 13 new models such as the BMW R18, the
+product offensive had a positive effect. At 4.5%, the EBIT margin for 2020 was comfortably in the
+top side of our forecast target range of 3% to 5%.
+Ladies and gentlemen, we are actively driving the transformation process. In 2021, we will once
+again invest in a targeted and focused manner in the areas of electromobility and digitalization
+financed by our profitable car business. We expect to see a positive development in key
+automotive markets this year. This is also reflected in our guidance for the year despite there still
+being a great deal of uncertainty. How the coronavirus pandemic develops from here remains
+uncertain, even with vaccines available.
+The supply situation for semiconductors also remains tense. Moreover, we also anticipate
+ongoing headwinds from raw material prices. All these factors could have a potential impact on
+the results of operations, financial position, and net assets of the BMW Group. Any possibleimpact in connection with the EU's ongoing antitrust proceedings are not included in the following
+forecast of our key performance indicators.
+Let's now take a look at our guidance for 2021. We expect to see significant growth in Group
+pretax earnings this year. The Automotive segment is forecast to post a solid increase in the
+number of BMW, MINI and Rolls-Royce vehicles delivered to customers. The EBIT margin in the
+Automotive segment is expected to be within the range of 6% to 8% with a significantly higher
+ROCE for the Automotive business.
+In the Financial Services segment, we forecast a return on equity of between 12% and 15%. In the
+Motorcycles segment, we are planning for a solid increase in deliveries. We expect the EBIT
+margin to remain within our target range of 8% to 10% and ROCE for the segment to therefore
+also be significantly higher year-on-year.
+With the expansion of our outlook to include some of the following non-financial indicators, we
+are highlighting the strategic importance of ESG reporting and the systematic management of
+our ESG targets.
+The percentage of women in management positions at the BMW Group is expected to increase
+slightly in 2021. So, the continued personnel restructuring measures the targets that have been
+set will be reached with a slight decrease in the size of the workforce. With the adjusted
+reference base, we anticipate another significant reduction in CO2 emissions in the new vehicle
+fleet. This will be tied to a significant increase in the percentage of electrified vehicles as well as
+the further development of our highly efficient combustion engines. Plants also call for a
+moderate decrease in CO2 emissions per vehicle produced, which is included in the forecast for
+the first time.
+Ladies and gentlemen, 2021 will be all about profitability enhancement and growth for us. We are
+ready to respond quickly and flexibly to any further developments that could arise from the
+uncertainties described. We started the year off strongly; however, we are expecting an
+increasingly volatile business development over the course of the year. In the Automotive
+segment, we are nonetheless aiming for a free cash flow of over EUR5 billion for 2021. You know
+the BMW Group. Our thinking and actions are always geared towards the long-term. By making
+the right decisions today, we are creating the necessary conditions for reaching and sustaining
+our strategic target of an EBIT margin of 8% to 10% in the Automotive segment. We are on the
+right cars and looking to the future with confidence.
+Thank you for your attention.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Nicolas. You have given us a lot of confidence for 2021. Thank you very
+much. Now, I will hand over to Oliver. Oliver, please come on stage.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Ladies and gentlemen, since August 2019, I've been working with my strong new Board of
+Management team to lay the foundation for a new beginning. Firstly, we adopted our integrated
+approach to sustainability with concrete goals up to 2030 in line with the Paris Climate
+Agreement. In fact, our own CO2 emissions target is a lot more ambitious.
+We are also submitting our activities to external scrutiny as demonstrated by our first integrated
+BMW Group report. Secondly, we are still the team with confidence. BMW certainly has all theourselves as pioneers almost a decade ago with the i3. And thirdly, we dealt with the effects of
+the coronavirus pandemic with typical BMW flexibility.
+In fact, our global market share even increased during the pandemic. What counts for you is
+looking ahead, and now, it is time for the next big push. We are driving the transformation the
+company needs to ramp up e-mobility at high speed. The BMW iX standing here next to me is a
+good example of our technology offensive. And there will be much more to come. Take a closer
+look.
+(Video Presentation)
+Well, here it is, the brand new BMW i4 life in front of you. The fully electric i4 comes right from the
+heart of BMW, and we know that customers are really looking forward to this car. This is a clear
+sign that markets are now ready for electromobility. It's all about timing. We will bring this sporty,
+fully-electric fully-electric Gran Coupe to market in autumn. At major tipping points, BMW has
+often assured in change with bold decisions.
+Our entire product line at BMW, MINI, and Rolls-Royce is based on technological innovation. It
+meets our customers' different needs in different markets worldwide, and that is exactly where
+our strength lies in the current phase of our transformation. We are electrifying BMW and picking
+up the pace of electromobility. And here is now our roadmap for 2021, 2023 and 2025. Through
+our technology offensive, we have prepared ourselves with the necessary depth and precision.
+This year, our XUV sales are expected to grow by more than 75% compared to last year. The
+percentage of fully electric vehicles will continue to grow and is expected to more than double
+compared to 2020. And by the end of this year, we aim to have delivered more than 1 million
+electrified vehicles to our customers since 2030. Then, 2023 will be a key year for us in e-mobility
+with 13 fully electric models on the roads.
+Positioning our best in the high volume segments will enable us to ramp up quickly and achieve
+swift market penetration. To this end, we have empowered our structures in recent years. Others
+focus on individual market segments and niches. We, on the other hand, are taking a targeted
+approach across all market segments. By 2023, we will already have at least one fully electric
+model on the roads in all market segments from the compact car segment all the way up to the
+ultra luxury class. By 2023, we will already have at least one fully electric model on the roads in all
+key segments, again from the compact car to the luxury class.
+This means by the end of Phase II of our transformation, we will have fully electric models for all
+our major series covering about 90% of our segments. With an eye towards regulations, we
+could even serve certain segments exclusively with fully electric models. The most important
+aspect is always ensuring an optimal balance between the product offering and profitability. And I
+want to make it quite clear. If demand in certain markets shifts entirely to fully electric vehicles
+already within the next few years, we will be able to deliver. And then by the end of 2025, we will
+have delivered a total of around 2 million fully electric vehicles to our customers. We will also be
+growing our sales of fully electric miles by well over 50% per year over the next few years, more
+than 10 times the figure for 2020.
+We have been focused on this growth and have prepared for it systematically as you know us. So
+we can adapt flexibly to market developments at any time. MINI will be the first BMW Group
+brand to go fully electric. MINI is perfect for the city and therefore for e-mobility. We will be
+releasing the last model with a combustion engine variant in 2025. And then by the early 2030s,
+MINI will be exclusively fully electric. And you can also expect to see fully electric products fromAs an industry, we will only be able to meet current and future mobility needs with an open
+technology approach for all drivetrain forms. This includes e-fuels as well as hydrogen, which will
+be an alternative worldwide. Next year we will be releasing a small series of the BMW i Hydrogen
+Next. We could also imagine it as a production vehicle.
+Our production network is swiftly and efficiently integrating electrification into our existing plant
+structure. And with our Intelligent vehicle architecture, we are in an optimal position to
+industrialize and scale manufacturing using a single production structure with maximum flexibility
+and exchangeability. By this, we can tap the full potential of differentiated demand around the
+world. Both today and in the years to come. The BMW X3, including the best model iX3 will now
+be followed by the high volume 7 Series, X1, 5 Series models and the MINI countryman, each with
+four drivetrain variants. By 2022, each of our four German vehicle plants will be producing at least
+one fully electric vehicle. We are making our plants worldwide fit for the ramp-up of
+electromobility.
+Technology is our enabler for climate neutrality in 2050, because the greenest electric car in the
+world will be a BMW. Our customers can rest assure that their BMW will always have the smallest
+overall carbon footprint and that sets a very high standard and it's a challenge. At the high end of
+the market, in particular, where customers are willing to pay more, they are already asking
+specifically for sustainable product features in their cars.
+Luxury and sustainability, they go hand in hand. And that is another reason why we have been so
+successful in the luxury segment. In 2020, despite the pandemic, the 7 Series, the 8 Series, the
+X7 saw sales growth of 12% compared to 2019. And since 2017, it is even 70%. At the same time,
+we are reducing CO2 emissions throughout the entire lifecycle, that means supply chain
+production, and of course, the use phase.
+We will reduce carbon emissions per vehicle by at least a third across all these phases by 2019.
+The supply chain is especially important in e-mobility and here is a brief insight.
+(Video Presentation)
+We are serious about making BMW sustainable. As a hi-tech company, we drive technological
+innovation forward. `Frank Weber, Member of the Board of Management of BMW AG, Development showed you this during the deep dive this morning. We always
+think of mechanics and digital together and develop hardware and software in a highly integrated
+manner. This capability will also be crucial in the next phase of our transformation from 2025
+onwards.
+The electromobility growth curve will continue to climb between 2025 and 2030. Our best was
+the average growth of more than 20% per year during that period. And to this end, we'll be
+launching a radically new product offering in 2025. We call it the Neue Klasse. BMW made a
+similarly radical change in its product direction once before back in the early 1960s with its re-
+discovery of this sporty mid-range car.
+But most of all, back then, it was about our mindset and sheer determination to change things.
+We are being just as bold and just as radical again today. And we are asking the question. What
+does BMW need to be in 2013? What fits our customers? What a society need? And what does it
+demand? For us, the Neue Klasse forms the nucleus of rethinking the car from the ground up and
+we are liberating ourselves from today's segments and architectures. We are revolutionizing the
+underlying logic of our product offering and combining it with the new vehicle architecture based
+on the principle of e-mobility first. An electric drivetrain based on the hydrogen fuel cell could also
+be a part of this.We see the Neue Klasse as a combination of an entirely new IT and software architecture, a
+newly developed electric drivetrain and battery generation, a new level of sustainability geared
+towards a circular economy. Digitalization, electrification and sustainability are the defining
+characteristics of the Neue Klasse. Circular is already a USP for BMW and we have defined new
+efficiency standards for the models of this new car range. We are purposely using secondary
+materials such as recycled steel, plastics, and aluminum, and so on. And we're even considering a
+paradigm shift towards secondary first, where the quality and availability of materials allow.
+Circularity is both an aspiration, and at the same time, a promise for us. We are developing the
+vehicles of the Neue Klasse from the outset, so the raw materials can be recycled at the end of
+their lifecycle for use in new vehicles. So to say, from cradle to cradle. In addition to e-mobility
+first, Neue Klasse also aspires to be digital first. We are developing a totally new kind of user
+experience, never before seen in a production vehicle. And because every region of the world
+has different digital ecosystems, we are using a regionally customizable technology stacks. They
+tailored the vehicle's operating system perfectly to localized conditions and updated constantly
+to ensure it is always fresh. Our customers can book and reconfigure features throughout their
+vehicle's lifecycle.
+The Neue Klasse will create a complete emotional experience, and at the same time, secure our
+long-term profitability. In terms of range of manufacturing cost, we aim to match the level of our
+state-of-the-art combustion engines vehicles. The Neue Klasse underlines our clear commitment
+to achieve an EBIT margin within the target range of 8% to 10%. One thing is already certain. The
+vehicles of Neue Klasse will be true BMWs. They are designed to win over our customers and
+inspire them. By 2030, at least 50% of our global sales will then be fully electric. Over the next,
+approximately 10 years, we will be releasing a total of about 10 million fully electric vehicles onto
+the roads.
+Neue Klasse is our global product offering for the markets of the future, and we will grow with
+this unique portfolio and we'll manage the necessary complexity. We can do that. We have
+confidence in our abilities. We think far into the future all the way until 2050. Our approach is
+tech-forward, and we are also optimistic about the financial year 2021.
+Now, our sales figures for January and February seamlessly continued the trend at the end of the
+strong fourth quarter of 2020 with significant double-digit growth sales.
+Ladies and gentlemen, taking the car into the future is the most exciting challenge. It takes
+passion and excitement for mobility and the greenest car -- the greenest electric car will be a
+BMW and the boldest company, the BMW Group. In other words, BMW is going electric, digital,
+and circular.
+Now, `Nicolas Peter, Chief Financial Officer and I are looking forward to your questions. Thank you very much.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Oliver, thank you very much from my side. Ladies and gentlemen, you made it quite clear that
+BMW has a great roadmap for the future. Now, ladies and gentlemen, we will start with our Q&A
+session in a few moments. We will be right back. Thank you.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+I and `Nicolas Peter, Chief Financial Officer are going to answer your questions here in the room via telephone. We are
+streaming around the world. So please understand if there are minor technical delays, we don'texpect this to happen. However, should the connection not work, you can also send your
+questions by email to ir@bmwgroup.com.
+The line is now open for your first question, please.
+Operator
+Ladies and gentlemen, the floor is now open for questions. (Operator Instructions). And the first
+question comes from `Arndt Ellinghorst, Analyst, Bernstein, Bernstein. Please go ahead, your line is open.
+Q - `Arndt Ellinghorst, Analyst, Bernstein `
+Yeah, good afternoon. Good morning, everyone. Oliver, my first question for you, please. It really
+seems BMW is mastering engineering, but you're struggling with the perception of all your efforts
+and I know it's a recurring question over the years that we keep asking, so I just would give you
+the chance to reflect on this. And I also like to understand whether you recognize the issue of
+perception and we can take it offline to discuss why I think that's the case, but I think many would
+share that view.
+And then secondly for Nicolas, please. Nicolas, also something we've discussed before, and
+thank you for the more than EUR4 billion free cash flow target this year. I think that's great. When
+would you be in a position to provide medium-term financial targets for BMW, please? Thank you
+very much.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much. And I think we start with Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Arndt, good morning, and thank you very much for your question. I think it's a valid one, but it's
+not unexpected. My take on that is we started -- Let's talk about electromobility. We started in
+2013 and then we thought how to go further from here. And we took a difficult way, but I think
+that makes preliminary strong way. Difficult was because it took some time to take the idea of
+electromobility to include the breadth of the infrastructure of BMW that took some year and the
+perception of course was, we are not continuing with our path.
+We did exactly the other thing. We took it so seriously that we made a strategic reconciliation of
+what we do and said we take three years time and enable us to took that very quickly in all
+segment, as I just said, and then of course needs develop a new architecture, develop the fifth
+generation of battery cells, and we knew the price for that would be that there is a perception
+that we are stopping our efforts.
+Now in 2021, you will see it's time to harvest. We will ramp up in almost all segments this year,
+next year, 2023, and then we take now the next step. Phase III we call that from 2025 onwards.
+And if you ask me, would I do it again? Yes, I would do it again, exactly the same way and the
+price tag behind is and you rightfully mentioned it, is that during these two years, three years,
+between '18, '19, '20, there was an impression that we are not delivering. We will grow very
+quickly now because everything is invested to enable this quick expansion through all market
+segments.
+Let me give you three figures. Our market share in Germany last year was about 9.8%, almost
+10%. In Europe, it's a little bit about 7%. Worldwide, it increased last year to 3.2%. And now,
+combined with electromobility, I think you see from these figures there is potential for BMW on a-- especially on a worldwide scale and not only -- the management team of BMW is very
+confident that we have now exactly the right setup to conquer some of the market share which
+we aim for some years ago, and now again, it's time to deliver and I'm really looking forward to
+that. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you, Oliver. Nicolas, on the second part.
+A - `Nicolas Peter, Chief Financial Officer `
+Arndt, before answering your question, it's really great to be able to hear all of you. Of course,
+we would have preferred to share this hour with you in Munich. But it's a great opportunity to
+share some of our thoughts with you, how our business is going to develop. If we reflect first on
+2020, I think in particular, the second half of the year showed clearly the strengths of the BMW
+Group.
+After having reacted fast and flexible in end of Q1 and in the second quarter, we were able to
+ramp up our business, manage inventory level in the right way by doing so, improving used car
+prices and we saw the result within EBIT margin in the second half of the year, in the second -- in
+the last quarter of the year of 7.7% and a free cash flow, which was significantly above the
+previous year.
+The main objective and we know and we've even learnt in 2020 that our business environment is
+extremely volatile and our main objective is on one hand side to manage the technological
+transformation of transition while sticking to an EBIT margin of 8% to 10%. And in 2020, we used
+and we implemented a lot of actions to improve the quality of our business, be it on the revenue
+side or on the cost side.
+Based on that, I'm optimistic that we are going to achieve our EUR4 billion free cash flow target,
+clear mid-term and long-term objective is 8% to 10%. We've delivered 7.7% in Q4. We had a
+strong -- As Oliver outlined, we had a strong start into '21. So let's see how in the following
+quarters our business is going to develop.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Nicolas. Next question, please.
+Operator
+The next question comes from `Dorothee Cresswell, Analyst, Exane BNP Paribas, Exane BNP Paribas U.K. Please go ahead.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Hi there, and thank you for taking my question and it's a really interesting presentation we've
+seen in the last two days. My first question is around the consolidation of the Chinese joint
+venture from next year. I'm wondering whether that might actually lead you to announce new
+strategic targets for profitability and free cash flow given that both should be best[ph] as a result.
+And then my second question is around the likely working capital evolution in 2021. You've
+mentioned yesterday, I think, a normalization of payables and a continued effort to reduce the
+inventories. And so, if we take that together, what's the likely working capital tailwind included in
+your EUR4 billion free cash flow guidance for the current year? And maybe you could share the
+2021 targets, the CapEx and R&D with us. Thank you.A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Dorothee. The right questions for Nicolas. Nicolas, please?
+A - `Nicolas Peter, Chief Financial Officer `
+Let's start with the first part. So, the plan is to consolidate BBA in -- as already outlined in 2022.
+And I should have mentioned this already when answering Arndt's question. This will have a
+positive impact on free cash flow in our Automotive business.
+Your second question was on why to a lesser extent on the EBIT margin. Why to a lesser extent?
+Because we consolidate not only the bottom line, but also the topline. So here, there might be an
+minor impact maybe with the exception of the first year of full consolidation.
+Capex and R&D targets for '21. Let's start with CapEx. We will be below our strategic target of 5%
+in '21, probably slightly above '20, but below the strategic target of 5%. Yeah. Somewhere
+between 4% and 4.5 % is probably the right number. The late (inaudible) R&D will be plus minus
+on the same level as in 2020.
+And your third question was on working capital tailwind, which we expect. We expect a positive
+impact from liabilities coming back in the mid two -- mid three-digit million euros amount
+inventories should be relatively stable despite an increase in sales, which we anticipate for the full
+year.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much. Next question, please.
+Operator
+The next question comes from `Tim Rokossa, Analyst, Deutsche Bank AG, Deutsche Bank. Please go ahead.
+Q - `Tim Rokossa, Analyst, Deutsche Bank AG `
+Yeah, good morning. It's Tim from Deutsche Bank. Hi, Oliver, Nicolas and Max. Oliver, the market
+certainly appreciates your much stronger (inaudible) weak focus now as you can see from the
+stock price development, why not going all in now? Why not building a bit more charging
+infrastructure considering premium customers certainly demand the premium charging
+infrastructure? Why not doing a bit on the manufacturing site yourself given the shortage fear that
+we have in the market? And why just sticking to a much more aggressive target which is
+appreciated, but feels a bit like this is really one out of two or maybe three steps?
+And then secondly, Nicolas, it's probably for you. With the announcement of the Neue Klasse,
+which is a pretty cool name by the way, do we have to fear that the investment spending that you
+just referenced for 2021 does indeed have to steady on that level or even go up a little bit again,
+as we approach 2025-2026 and the launch of the new platform? Or can you, similar to most of
+your competitors, say that you have surpassed the peak in spending? Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Tim. We start with Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `Yes, Tim, good morning. It's great to talk to you. Why don't we go all in? That is a very good
+question. Why should we? I stated you the three figures at the very beginning, 10% Germany
+market share, 7% in Europe, a little bit above that and then a little bit over 3% in the worldwide
+markets. And we are on a growth scenario. We are not a shrinking scenario. Now let's look until
+2025, 2030, 2035, even until 2040. Yes, there will be some markets here in Europe, maybe also
+some regions in China which will go all electric.
+And as I said before, we will be ready to follow 100%, because we have the best offering in all
+segments. And our production structures, our supply chain will be highly flexible all the way to raw
+materials. That is what we have built up in the last five years. But at the same time, some of the
+growth markets, they have not even started thinking about electric. And I'm not even talking
+about charging stations. There is no mindset on the consumer to switch. And so, at least for the
+next decade, maybe even for the next decades, it's good advice to be flexible and the major
+investments we already have behind us because we flexibilized our product structures and we
+flexibilized our production structures.
+And again, we are on a growth path. And look at the first two months of this year, which is for us
+an important year. We grew by 25% compared to the year before. And at the same time, as
+electromobility was growing, cars with hybrids and also only combustion were also growing at the
+same time. And from our point of view, that will continue.
+My favorite example is the comparison between two city and that could be any cities you know
+just for the sake of the argument. In Oslo, probably it will be possible without losing much
+customers to switch pretty quickly to electromobility. You have sustainable power supply. You
+have a lot of charging stations with good infrastructure, you have (inaudible). All the ingredients,
+you need to develop that industry, you have there.
+Now, you go to any city in Southern Italy, they have not even started thinking what that could
+mean. And that could be any other region where they have not started thinking about
+electromobility and that is happening at the same time. And I'm currently running as President of
+the ACEA, which is an European Group of Automobile Manufacturers. And overall, there is no
+100% way towards full electromobility visible, not in the next two years, not in the next 10 years.
+And since we want to grow still, we also think that is good advice to do both at the same time.
+Percentage wise, of course, the electromobility is growing faster, of course, and that's why we
+aim to 50% of our market share in 2030 being best.
+Last argument from a climate point of view, and we told you we take that serious. It's not just a
+game, that is really serious. Combustion engines, which are still sold in the next five, 10, 15 years
+must contribute with the lowering to the CO2 emissions. If you stop developing them, very soon
+you will drive -- you will see old technology on the roads, and the progress then is zero. And as
+long as we cannot assume that every single car in the world describing electric that is very good
+advice from a profitability point of view, but also from an environmental point of view at the same
+time. And therefore, we come to the conclusion at least for the time being that we will do both at
+the same time, and because we are growing company and not a shrinking company. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Nicolas?
+A - `Nicolas Peter, Chief Financial Officer `Tim, if you look at our industry and at the BMW Group, probably on an average, every second
+generation of products, we invest into a new architecture. If you look at our today's portfolio,
+which is a very strong portfolio, this is now exactly the right timing to invest into a new
+architecture and this is exactly what we have decided. So from this perspective, I'm not expecting
+that CapEx is going up in a significant way in controlling. I do expect this is a clear target that we
+will design this architecture in such a clever way and we have good ideas that the development of
+individual models based on this architecture comes at an even better cost level. Its number one.
+Number two. As we've discussed a couple of times, we have already invested a lot of money in
+the flexibility of our plants throughout the last couple of years in order to our plans to be able to
+handle ICE next to plug-in hybrids and full electric cars. So, the high share of the CapEx
+expenditure is already behind us. So, I'm clearly expecting that this will contribute to the fact that
+despite the costs, we have to invest in the money, we have to invest in developing the next
+generation of electric drivetrains and money. We have to develop in software as you've discussed
+in detail with `Frank Weber, Member of the Board of Management of BMW AG, Development earlier today that we will be on track to meet our 8% to 10% EBIT
+margin target.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you, Nicolas. Thanks, Tim, for your complement for our naming Neue Klasse. Thank you
+very much.
+So, ladies and gentlemen, the next question, please.
+Operator
+The next question comes from `Stephen Reitman, Analyst, Societe Generale, Societe Generale. Please go ahead.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, good morning. I have two questions, both on technology. You've shared with us details about
+the operating system and the answers you're making on that with over the updates and general
+technology. Could you talk a little about the electronic hardware in the Neue Klasse and what you
+are developing also with the iX? Are you moving to an in-cost server type architecture, reducing
+the number of ECUs in the vehicle? And how does that move maybe what is recognized to be
+probably best-in-class at the moment just as Tesla with its hardware three for self driving
+computer.
+And secondly, on batteries, we've had some indications about the reductions in the cost you're
+expecting from sales by 2025. Could you give us some idea about the chemistry that you're
+thinking about? Is there going to be with a higher emphasis on manganese and reduction in
+cobalt? Thank you very much.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Stephen. This will be answered by Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Well, first of all, the name, Neue Klasse was from Mark Trowell [ph], just to mention that, I think
+that is very important, but we think it was a good idea.
+Talk about technology a little bit. I think, Frank gave you some insight this morning as well. Let's
+talk about the electronics. 2025, and we said before, it's all about timing, it's the perfect entrypoint also to make a big leap on the digital side, because that field just as the battery is quickly
+developing and it's all about when do you start with the product, what the architecture will ask for,
+let's say, at least one decade. And 2025 is a good time to go in there.
+The number of CPUs. Of course, today, we have our CPUs integrated in the component
+structure, which has a lot of advantages in terms of quality and exchangeability, but of course, the
+next step to do that more centrally.
+Will we all go through -- towards one CPU? No, because there are different CPUs, and in the
+industry, you have very different CPUs, you have high performance CPUs for all functions, for
+example, autonomous driving, real-time very high-data driven, and there will be two or three
+CPUs, which performed on high performance. Then, there is a second one for all safety critical
+issues. They must be as quick as possible, real-time response. And then of course, they will be
+specialized to use for everything, which has to do with communication and entertainment.
+So, we will reduce the number of CPUs drastically. But it will not go back to one, it will be
+somewhere possibly five or six to seven. So that is a big leap in our industry. That's the way to go
+into the second question, which you might have asked, but you didn't ask, but maybe you meant
+what is our in-house competence in that. I think we will build up some in-house competence
+quickly, but we will do that with partners. We can talk about it yet. We will not do it alone, and
+there, we will have an overall system, which is, first of all, highly performant, but at the same time
+flexibly enough to have the right partners, which could be even different partners throughout the
+world. That was your first question.
+The second question on batteries. Batteries, of course, that's not a secret. The cost down issue is
+one of the major factors, and cost down has much to do with the chemical structure of the
+batteries. We have our own research center with 250 people working on it, and they are working
+on the sixth generation of our battery cell.
+It's too early to talk about details. I'm very frank with you, because that is also a true competitive
+advantage we would like to achieve here, but the chemistry of the next generation of fuel cell will
+be of eminent importance to achieve that cost down and at the same time of course power
+density and energy density.
+At the same time, last sentence on the cell side, I think it's really important to reduce the amount
+of critical elements like, for example, cobalt in the cells that we already today we buy lithium and
+cobalt by ourselves to make sure that we have enough of that. We don't leave that alone to our
+cell suppliers, and we are very happy with the current partners by the way whether that COTL or
+Samsung or EVE in China and then later on from 2024 with Northvolt.
+I think we're not in a monopole situation here. It's a strong -- really strong supply network. There
+is no need to invest in that ourselves, at least not for the time being. And looking at the end of
+the decade, of course, there is discussion about solid-state batteries. I compare that very much
+to the development we have on the quantum computers side. It's not 100% sure which kind of
+physical effect at the end makes the race. Is it the oxide, the polymer side or it's just the sulfide
+side. There's a race going on. At some point in time, there will be solid state batteries, but not in
+2025. But of course it can happen then very quickly afterwards. We will have to see. That would
+be my answers to your both questions here. Thank you.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Thank you.A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you very much, Stephen. So, the next question please.
+Operator
+The next question comes from `Angus Tweedie, Analyst, Citi, Citi. Please go ahead.
+Q - `Angus Tweedie, Analyst, Citi `
+Hello, can you hear me?
+Operator
+Yes, we can hear you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Yes, we can hear you. Go ahead.
+Q - `Angus Tweedie, Analyst, Citi `
+Thank you. Thanks for taking my questions. Firstly, to all of our costs coming back on this going all
+end point to take off that one, I mean clearly you're head of the free cash flow targets we've
+been thinking about in the past as we go into 2021. Would you consider using excess cash flow to
+accelerate your growth and perhaps expand that pool of 10 million vehicles you're targeting in
+the mid term that you can monetize through software?
+And then secondly for Dr. Peter, if you could just touch on fixed costs, firstly, you've had very
+impressive reduction in headcount this year, and we're expecting a further decline in 2021. Can
+we expect further declines from that going into the mid-term? And then secondly, a question we
+continued to get from investors and it will be great to get some clarity on this is clearly having a
+multi-powertrain approach at the moment to read the strategy gives you flexibility, but does
+come at a higher variable cost situation. Could you perhaps discuss how much of a drag that is on
+margins at the moment to help us scale and how much upside we could potentially see as you
+eventually compromise. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+So, thank you very much. Angus, we start the first part, was the free cash flow target and the
+multi-powertrain will be answered by Oliver, and then, Nicolas about the expectation for the fixed
+cost. Yes, Oliver, I will start with you.
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Yeah, Angus. Thank you. I think these questions are very much at the fundamental of our
+company philosophy. Profit and cash performance is always extremely important for us to
+combine that with the long-term perspective. Let's look at the first two months. We increased our
+X Series in the first two months from 112% and that of course is pushing money right into our free
+cash flow. So that is working pretty well. And as I said before, that's on the EV side, that's on the
+hybrid side, and that is again on the internal combustion engine side.
+And if we can grow faster. We will do so. It's all about operational performance. And as you heard
+already, until now, we have not stopped any plans due to the chip shortage. That is also I think astrength from BMW to have an in-depth knowledge of supply chains all the way back to the
+foundry and the fabs. We cannot exclude that there will be no problems in the next couple of
+weeks. But as you know, I think we showed a real good performance here and that is right linked
+to our multi-powertrain philosophy. If you -- That's our conviction. If you do that, and yo' not only
+say it, but you do that, you will be on a shrinking scenario. You will not be able to grow from the
+point on when you stop that. And by the way, no one is stopping selling combustion engines now.
+These are all things about 10 years in the future. And there is no indication that the whole world
+will shift inside of one decade. And I think you don't have a choice. If you want to grow market
+share, you have to do that. The only thing you have to do, you have to be -- you have to have the
+best combustion engine in the world.
+And if you look at the combustion engines, and I look now, five to 10 years in the future, that is a
+different combustion engine than we know today. Currently, you have 48 volt systems which are
+called mild hybrids and there will be a different step beyond that. A lot more electrified, but there
+is still a combustion engine, but that has nothing to do with current combustion engine we see
+today. So, that is also important what is happening on that side, because also in 10 years there will
+be people who do not have access to a black from our point of view to date will be 30%, 40%,
+maybe even 50% of our customers.
+Yeah. And I think the cost answer, I think Nicolas is going to answer.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Yes, there was a question about the expectation for fixed cost development. Nicolas, yes.
+A - `Nicolas Peter, Chief Financial Officer `
+Angus, maybe, let's start with the personnel development in 2020 and what can be expected in
+'21. As I've outlined, we reduced by approximately 6,000 employees. The truth is the reduction
+was more significant, because at the same time, we were building up increasing, reinforcing our
+teams in very relevant areas of the company, in particular electrification and digitalization
+software competence. And as we are speaking, we are setting up. I think Frank outlined this
+already this morning and Jochen as well. We are setting up a partnership in China to add some
+additional software engineers to our workforce. For '21, you can expect a further slight reduction
+overall, but we will continue on our journey to, on one hand side, become more efficient in many,
+many areas, while at the same time reinforcing our teams in the very relevant and critical areas
+from the future, and this is something which is not only related to headcount targets. You've seen
+in our numbers that overall on the fixed cost side, we have become much more efficient. This is
+due to our performance program which played a key role in this reduction just to give you a
+further example, we've been able, over the last 1.5 years to reduce our indirect cost spending, so
+not related directly to production and the car, by approximately EUR1 billion per year, which I
+believe is a really good and strong -- strong result. Now, if you think about the multi-powertrain
+cost effects, I think the important element I already gave in my previous -- in my previous answer
+is a fact that we have invested in the last couple of years significant CapEx in order to reinforce
+the flexibility in our plant.
+This is something we definitely will benefit from. And this is exactly why we are able, in a very
+efficient way, to produce today in one plant and best example is China where we produce X3
+with a combustion engine on the same production line as an iX3 which is exported from China to
+other markets.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `Thank you very much. Next question please. And we can take some more questions. Yes, we
+have a little bit more time. Yes, next question.
+Operator
+The next question comes from `Daniel Schwarz, Analyst, MainFirst, MainFirst. Please go ahead.
+Q - `Daniel Schwarz, Analyst, MainFirst `
+Yes, thank you for taking my question. It's actually on the dividend. So we had a very strong cash
+flow last year and you're guiding for better cash flow this year, you said earlier, a large part of the
+investments are done and it's time to harvest and still you cut your dividend for the third time in a
+row and you end up at the lower end of the payout ratio. So the question is really why do you
+know at least go to the upper end of the 30% to 40% payout range as the market seems clearly
+not to be watching for owning so much cash. And my second question would be on CO2. Could
+you say how much you benefited from the phasing in 2020 in Europe and from super credits in
+terms of grams for the fleet average. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Okay. Thank you, Daniel. We start with Nicolas and then Oliver.
+A - `Nicolas Peter, Chief Financial Officer `
+Daniel, I really think we have a very, very consistent strategy regarding our dividend payout. When
+our -- in years where our results are better, we paid more and in years like 2020 where for
+obvious reasons, the coronavirus, the result is different from what we expected. We adjust our
+dividend in the other direction. And we believe that in particular, 2020 was a clear indicator how
+important a strong cash position in our businesses. We had a liquidity position in our company,
+which by the way is highly appreciated by the rating agencies.
+We have the second best rating in the industry from a global perspective and the best rating of
+all European manufacturers and this is very relevant in our business model. Why, because -- as
+you know, approximately one out of two cars are financed why our Financial Services organization.
+And the strengths of our credit rating gives us the access to the capital markets we need. So,
+based on that, we believe that the strategy we've implemented since many, many years is a very
+consistent, a very reliable one and we are planning to stick to the 30% to 40% range.
+And as I said, in particular in years where we had a lot of high volatility, we believe that 1.90 is
+exactly right decision.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you, Nicolas. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Yeah. Your question towards the phasing. Let's look at what we achieved last year. BMW accreted
+the biggest decrease of the year before with an underlying -- underscoring of almost 5 grams
+towards our target of 104 grams, we ended up with 99 grams. So, we stayed substantially below
+the official target from the EU and of course the phase in through double counting of beds to
+tech innovations and so on, that has -- that had an effect.But the effect is not as big, it's a single digit gram -- a low single digit gram effect. Why do I say
+that, this year in 2021, we have new targets, they're not NEPS anymore, they are WLTP and our
+difference to the target and our prognosis, it will be even higher than the 5 grams we scored last
+year and most of the phasing effects will be gone. So the underscoring of the 5 grams we have
+did not depend very largely on the phase in effects we had here. Because in the year 2021, you
+will see even bigger effects that would be my answer here, and I think what is important
+compared to 2019, in one year, we reduced our footprint of the new car fleet by almost 20%. It's
+a big -- big huge leap and we will continue that, of course, and this year of course our best
+offensive and electromobility offensive will play a major on that.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Thank you, Oliver. So, ladies and gentlemen, I think we have time for three more additional
+questions. So, who wants to start with the next question?
+Operator
+The next question comes from `Patrick Hummel, Analyst, UBS, UBS, please go ahead.
+Q - `Patrick Hummel, Analyst, UBS `
+Yes. Can you hear me?
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Yes, fine. Go ahead.
+Q - `Patrick Hummel, Analyst, UBS `
+Okay, perfect. Thank you. Patrick from UBS. The first question I have, and it's good to see that
+you're accelerating your EV effort, it would be great if you could just underpin that the little bit
+looking at the next five years you're spending in CapEx and R&D. Can you just give us at least a
+rough split what goes in EV, what goes into software and what still goes into the legacy business.
+And my second question is about the strategy to market with your BEVs. For the next few years,
+most of years these are going to be on these multi-energy platforms, which means that you
+really can't see what demand as you can react flexibly as you highlighted. But there are others in
+the market that we really push the pedal to the metal literally in BEV sales. They have built
+dedicated plants, they have dedicated platform that need to be amortized through higher
+volumes, through scale and they might have a better cost position than you have. So you are
+more in a price-taker situation in a way, if you really want to push your volumes as well too. So can
+you just help us a little bit balance things this product volume conflict, and the fact that there will
+be others in the market that will push their best sales way harder than you might?
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Got it. Thank you, Patrick. I think we start with Nicolas. And then for the second part of your
+question Oliver. Nicolas, please.
+A - `Nicolas Peter, Chief Financial Officer `
+Patrick as -- as you can imagine, yes we are accelerating rollout of EVs with clear targets, we have
+set for '25 and '30 and yes we are investing even more in particular in the area of software
+competence, this year is going to increase in our overall spending, and if you add up CapEx and
+in particular R&D costs, it will be above 50% of our total -- of our total spending.A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+Yes, Patrick. Thank you. Thank you for that question. I think I have to have to say something about
+how we develop cars and we still think what I explained to you now is of fundamental importance
+and a big competitive advantage BMW has. BMW has never thought in platforms, never and that
+is for a good reason we think in tech modules. One example is if we look at an operating system,
+but that could be any other component as well could be a battery cell. This tech component you
+will see in all our cars. If you look at an operating system, you will see that in a MINI, BMW, and a
+Rolls-Royce. The customer of course doesn't see that and that is where we scale our efficiencies
+And the platform, like you traditionally think of a platform, there is a plant with a lot of robots and
+then specific components come to the line and that is one platform and there is a different
+platform for other segments. This is not how BMW works, and I don't know any company who
+works like BMW, because you need decades to build up that competence.
+How does that filtrate into our products? Look at the iX which we showed. That is not a platform.
+That is a tech stack. And you will see the operating system, you will see the battery cells, you will
+see the steering wheel mechanism, you will see the control units for our excellence in other cars
+as well. They might be adapted if it's higher market segment with different weights of the car, but
+the principle is always the same.
+There is a car and the iX is not a platform at all. It's a singular car with a dedicated vehicle body,
+but all the components and that is where the real costs lie will be scaled substantially beyond that
+car. And that is the trick how we do that and that's by the way, we need it such a long time to start
+that defensive, and you will see that competence now in the i4, you will see that in the 7 Series.
+And if you think in platforms, you might have the impressions that you need to go on these
+platforms.
+And I think we have a strong, really strong competitive advantage to do the business quite
+differently. You make of course a big step then when you need different tech stacks, either on the
+battery side or on the operating system side or on the digital side and that's why the Neue
+Klasse. It's time in about five years to make a next big step, but that's not only a platform. We
+rather think in tech architectures and that has proven extremely efficient for ourselves and that is
+why it's also important that our plants can do these tech stacks as we call them. And the best you
+will see the i4 and the iX, you might think they are not on a dedicated platform, they will be
+superior in their performance. And we do not think in these very black and white platform thinking
+because we see a true competitive advantage on the cost side to do it rather in a module
+related kind of way.
+Yeah, that would be my short explanation to that.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Okay. Thank you very much. Next question please.
+Operator
+The next question comes from `Henning Cosman, Analyst, HSBC, HSBC. Please go ahead.Q - `Henning Cosman, Analyst, HSBC `
+Hi, good afternoon. Thank you for squeezing me in. I have two questions a little bit similar to
+Dorothee's both on China. So if you could please confirm that the dividend from China
+contribution towards your EUR4 billion free cash flow guidance will be normalized again this year
+may be in the order of magnitude of full EUR500 million. That's my first question, please.
+And then secondly, if you allow me to just ask you a challenge, you may be a little bit on the free
+cash flow accretion from the JV consolidation in 2022 at the least side, at the conference[ph] you
+mentioned as three digit million number when you adjust it for the first time in the next January. If
+I consider the local EBITDA and your adjusted for CapEx and for tax and your net out the dividend
+that you won't be receiving anymore, I calculate more on the order of magnitude of EUR1.5 billion
+full free cash flow position. So, I'm just wondering if you could help us out of them completely off
+there with my calculation, all that said maybe in order of magnitude that you could agree to.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Yes, thank you very much. Henning, this will be answered by Nicolas.
+A - `Nicolas Peter, Chief Financial Officer `
+Well, let's maybe start with the way how we decide in our joint venture on dividend payments
+from BBA to BMW and this is of course done based on profitability and cash position. In 2020, we
+had an exceptional situation, an exceptional in flu as we've already referred to in our, I think it was
+in our August telephone conference. It was the second part of a dividend payment, which was
+decided for the year 2019. In '21, we will take the decision as always during the second quarter.
+Of course, you have to integrate that 2020 gross and you've probably followed the telephone
+conference with Jochen was a pretty good year in China, where we have seen not only volume,
+but profitability developing in the right way. And of course, BBA is generating based on this
+volume development and strong pricing, has a good free cash flow development, and this will
+have of course a positive impact in the first year of consolidation.
+Let's see next year what the impact will be exactly, and we will include this in our guidance.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+So, ladies and gentlemen, we come to our last question please.
+Operator
+And the last question comes from `Horst Schneider, Analyst, Bank of America Merrill Lynch, Bank of America. Please go ahead.
+Q - `Horst Schneider, Analyst, Bank of America Merrill Lynch `
+Thanks for taking my question as well. I basically just have only one left and that is on pricing. So,
+we haven't talked about that so far. When I look at your Q4 then, there seems to have been a
+positive price impact but not as big as those that we have seen, for example, at Mercedes or
+Audi. So therefore, I want to understand why that was in relative comparison a lower effect? What
+trends you're seeing year-to-date? And if you don't think that you have got considerable catch-up
+effect ahead on pricing compared to the peers. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management of BMW AG `
+If you look at contribution margin, it's a very simple equation. You have a cost side and you have a
+pricing side. And what we do very rigorously since a couple of months to look very clear on the
+cost side, we talked about that already what our performance programs are. And of course, the
+second part of the equation is the pricing side. We're not in the business of losing money.
+We want to increase the share of profit with every individual car we sell, and that has a lot to do
+with data analytics that you look at every market, every segment, every region, every customer to
+deliver exactly what the customer needs and that is the trick. You don't do mass marketing in the
+premium segment. You do individual offers for individual customers. And I think that is where we
+learned a lot and we have continued to learn how do get tech markets with very individual pricing
+approaches and that to have the right pricing in the market is an art. And we are getting better
+and you just said you saw it in the market and we would like to push that further to get the
+equation between the cost side and the pricing side. Right. And I think we are moving quickly on
+that side.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+Nicolas?
+A - `Nicolas Peter, Chief Financial Officer `
+If you look by individual regions, we have -- and I'm not comparing to competitors, I'm focusing on
+our numbers. We have seen a very strong development in China. We have seen a really good
+development in the US. This good development is also backed by the development of the
+inventory level, be it new cars or used cars in the dealer organization, and we have seen a strong
+momentum in the most relevant European markets despite the corona crisis. And this is, I guess,
+backed also by the quality of our product portfolio and moving into 2019, one of our clear
+objectives we have fixed ourselves is exactly to maintain this strong development in terms of
+pricing.
+Q - `Horst Schneider, Analyst, Bank of America Merrill Lynch `
+All right. Thank you.
+A - `Maximilian Schoeberl, BMW Group, Director Corporate Affairs `
+So, thank you very much, ladies and gentlemen. Thank you for your questions and your personal
+interests. We hope it is not too long before we see one another again. We wish you a pleasant
+day, and above all, stay safe. Thank you very much from Munich. All the best for you. Bye-bye.

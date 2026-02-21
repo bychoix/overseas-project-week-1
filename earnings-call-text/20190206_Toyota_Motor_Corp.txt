@@ -1,0 +1,184 @@
+Q3 2019 Earnings Call
+Company Participants
+Shigeki Tomoyama, Executive Vice President
+Unverified Participant
+MANAGEMENT DISCUSSION SECTION
+Unverified Participant
+Now I would like to discuss our Financial Results for the First Nine Months to December 2018.
+Compared with the first nine months of the previous fiscal year, consolidated vehicle sales
+increased by 23,000 units to 6,701,000 units. This was the result of solid sales mainly in Asia.
+Consolidated financial results for the first nine months of this fiscal year were net revenues of
+¥22.4755 trillion, operating income of ¥1.9379 trillion, pre-tax income of ¥1.7257 trillion, and net
+income of ¥1.4233 trillion.
+While both net revenues and operating income increased, net income decreased by ¥589.8
+billion year-on-year. This is largely due to the fact, as shown on the bottom of the slide under
+item 3, that net income of the same period of the previous fiscal year includes a positive impact
+of ¥291.9 billion due to the U.S. Tax Reform and that net income of the first nine months of this
+fiscal year includes a negative impact of ¥310 billion of unrealized gains and losses on securities
+due to the market duration during this fiscal year.
+Furthermore, if I may add some comments on the unrealized gains and losses on equity
+securities, Toyota uses U.S. GAAP as of today. Starting in the current fiscal year in line with the
+revised U.S. GAAP, we've recorded in profit and loss statement the mark-to-market values of
+equities we hold other than those of subsidiaries and affiliated companies. This represents a
+valuation losses based on the equity market value as of the end of December 2018.
+If I may just explain the factors which impacted operating income year-on-year. Firstly, the effect
+of foreign exchange rates increased operating income by ¥10 billion. Secondly, cost-reduction
+efforts increased operating income by ¥10 billion, as the impact of cost-reduction efforts
+exceeded the increase in raw material costs. Thirdly, marketing efforts increased operating
+income by ¥210 billion due to improved product mix in North America, Asia and Europe, as well as
+improved profitability in financial services. Finally, expenses decreased operating income by ¥10
+billion due to an increase of labor costs mainly in Japan and Central and South America. As a
+result, excluding the overall impact of foreign exchange rates, swap valuation gains and losses
+and other factors, operating income improved by ¥210 billion year-on-year.
+Next, I would like to elaborate on operating income for each region going from the left-hand side
+to the right-hand side on this slide. In Japan, vehicle sales decreased by 44,000 units to 1.595
+million units due to the diminished effects of new models. Operating income was up ¥131.3 billion
+year-on-year to ¥1.2442 trillion due to cost-reduction efforts and marketing efforts.
+In North America, vehicle sales were down 41,000 units year-on-year to 2.091 million units as a
+result of the temporary impact of the preparation for RAV4 and Corolla switchovers. Operating
+income was ¥163.7 billion, down ¥4.4 billion compared with the first nine months of the previous
+fiscal year. As for sales incentives, we are controlling them more adequately by efficiently
+allocating them to key models.In Europe, vehicle sales grew by 19,000 units year-on-year to 725,000 units, driven by hybrid
+vehicles such as the C-HR HV. Operating income was up ¥24.5 billion year-on-year to ¥87 billion.
+This mainly results from marketing efforts and the reduction in expenses.
+In Asia, vehicle sales were up 127,000 units year-on-year to 1.275 million units on the back of solid
+sales in Thailand, China and India. Operating income was up ¥59.9 billion year-on-year to ¥395
+billion, mostly as a result of marketing efforts, including an increase in vehicle sales.
+In other regions, overall vehicle sales were down 38,000 units year-on-year to 1.015 million units,
+mainly due to a decrease in vehicle sales in the Near and Middle East. Operating income
+decreased by ¥21.6 billion year-on-year to ¥84.3 billion. This was largely due to depreciation of
+local currencies and an increase in raw material costs.
+Next, I would like to talk about the operating income of Financial Services. Operating income,
+excluding swap valuation gains and losses, for the first nine months of this fiscal year was up ¥43.1
+billion year-on-year to ¥263.8 billion. This is mainly due to an increase in the lending balance and
+the decrease in costs related to residual value losses.
+Now, I would like to move on to discuss the outlook for the full fiscal year ending March 2019. First
+with regard to our consolidated vehicle sales, we have increased our forecast at the time of Q2
+results by 50,000 units to 8.95 million units. As described at the bottom of the slide, we have
+also increased our forecast of retail vehicle sales at the time of Q2 results by 50,000 units to
+10.55 million units.
+We have adopted forex rate assumptions for January onwards of ¥105 per dollar and ¥125 per
+euro as well as full-year assumptions of ¥110 per dollar and ¥128 per euro. Based on this, our
+forecasts for full-year consolidated financial performance are net revenue of ¥29.5 trillion,
+operating income of ¥2.40 trillion, pre-tax income of ¥2.20 trillion and net income of ¥1.87 trillion.
+Please note that with the impact of unrealized gains and losses on the equity securities, we have
+used the same amount as the actual losses in the first nine months of the fiscal year.
+Please see the next slide. First, we anticipate there will be a ¥10 billion positive effect relating to
+forex rates and the ¥20 billion negative impact relating to cost-reduction efforts. Secondly, we
+estimate that the effects of marketing efforts will have a positive impact on operating income of
+¥85 billion, mainly due to increased vehicle sales in Japan and Europe, as well as improved
+profitability in Financial Services. Finally, expenses are expected to have increased by ¥65 billion,
+largely as a result of increased labor costs and expenses. As a consequence, we maintain our
+operating income forecast at ¥2.400 trillion which is what we have forecasted at the time of Q2
+results.
+Now, this one compares the latest operating income forecast for this fiscal year with result of the
+previous fiscal year compared year-on-year. Operating income is expected to increase by ¥200
+million, maintaining our operating income forecast at the time of Q2 results. As I mentioned
+earlier, excluding the overall impact of forex rate and swap valuation gains and losses, operating
+income is expected to be up ¥135 billion year-on-year due to cost-reduction efforts, marketing
+efforts. As for the cost-reduction and fixed cost-reduction activities, we are steadily making
+progress towards achieving our challenge level target. In order to achieve this, we will follow
+through with our activities.
+Now I'd like to turn to the Executive Vice President, Shigeki Tomoyama, who will explain our
+Strategy of Connected and MaaS, which we are engaging as activities enhancing competitiveness
+and sustainable development.Shigeki Tomoyama `
+Good afternoon, ladies and gentlemen. I am Shigeki Tomoyama of Toyota Motor Corporation
+under Toyota's Connected and MaaS Strategy. I'm in charge of Connected Strategy, the new
+business, as well as Motorsports.
+Two years ago, at the end of 2016, Toyota announced its Connected Strategy comprised of
+three arrows, namely build mobility services platform, MSPF; and secondly, use of big data using
+that as a foundation; and also creating new mobility services.
+MSPF can be called a contact point between cars and external sources. With MSPF, Toyota takes
+responsibility to safely and securely manage the collection and management of data
+transmissions and big data between vehicles and external sources. Service companies such as
+ride sharing, car sharing and insurance companies are also able to offer services to Toyota and
+Lexus vehicles via MSPF.
+The Toyota's Connected Strategy has three faces, namely defense, kaizen and offense. In
+defense, we will establish a long-term relationship of trust with customers and secure and
+expand the existing value chain. Through kaizen, we aim for rapid improvements in productivity,
+quality and lead time by changing existing work habits. Via offense, we have an eye toward
+creating new value for cars and a new mobility business.
+Key defense measures in our Connected Strategy include e-Care services and a health check
+services. Dealers and call center both enabled by vehicle data allow provision of timely after-sales
+services,. Delivering a secure life with cars to customers, we hope to increase the number of
+service visit to dealers and improve the replacement rate of Toyota and Lexus vehicles moving
+forward.
+The main kaizen measure in our Connected Strategy is early detection and early resolution or
+EDER based on vehicle data. By constantly collecting vehicle data, we can detect market defects
+at an early stage and identify target vehicles. As a result, market actions can be taken faster and
+more efficiently reducing costs.
+Onboard software updates by OTA, which stands for Over The Air, are currently limited to
+updates of navigation-related software. From 2020, OTA software updates will become possible
+for certain ECU-controlled software. With OTA, automobile software can be kept constantly up
+to-date, reducing costs significantly compared to part replacement by visiting dealers.
+Offense measures, in our Connected Strategy, focus on the creation of a new value for vehicles
+and the creation of a new mobility business. The Agent system represents new value creation.
+This Cloud AI virtual assistant enables cars to talk to and communicate with users. Currently,
+Agent 1.0 is in commercial use allowing users to control the navigation system and air conditioning
+system by talking to Agent. We plan to launch a more advanced Agent 2.0 in or after 2020.
+Creating a new mobility business represented to AT by Mobility as a Service or MaaS is a new
+growth field for us and our transformation from a car company into a mobility company. There are
+three approaches in Toyota's MaaS Strategy. The first involves collaborating with the leading
+regional MaaS players such as Uber, Grab and DiDi. And the second, Toyota plays the main role in
+the MaaS business. And the third, Toyota dealers are the main business entity in the MaaS
+business. The approach to be used is tailored to each region. In all approaches, we recognize
+that it is important for Toyota to provide a value chain, including in cars, that themselves are a
+means of transportation as well as related maintenance, insurance, leasing and more.So this is a collaboration scheme with MaaS players of provision of a value chain. It's also an
+essential element in tie-ups with MaaS players. Toyota has developed the Total-care Service for
+ride-hailing vehicles. The Total-care Service allows Toyota dealers, insurance companies and
+regional ride-hailing companies to share vehicle data via MSPF. Vehicle management and
+insurance, maintenance are all covered through shared vehicle data via MSPF as the first step
+pre-rolled out a service to 1,500 vehicles owned by Grab Singapore.
+So we have implemented the improvement of the TPS and then this collaboration entails
+Intensive Care Stall, ICS, and then exclusively for Grab vehicles have been installed with Toyota
+dealers and they aim to improve the operating rates of vehicles and reduce maintenance cost,
+Toyota and Grab plan to expand this service to all Grab vehicles throughout Southeast Asia. At
+the same time, we aim to increase Toyota's share of Grab rental vehicles in Southeast Asia by
+25% by 2020, representing a maximum 80% of the Grab rental vehicles.
+In Japan, we have already deployed a leasing service aimed at fleet customers, whereby a lease
+is added to the Total-care Service that I mentioned earlier, a new car leasing business for a
+business called KINTO will be launched from this month. The Toyota Share car-sharing service
+that allows cars to be locked and unlocked through smartphones made its debut last month. In
+the U.S., a similar car-sharing service in which Toyota dealers are the main business entity
+launched in Hawaii last year with the deployment throughout North America scheduled in MaaS
+currently existing passenger vehicles, useful vehicle dispatch services. However, we believe
+MaaS-dedicated vehicles will become necessary based upon their own characteristics.
+But now there will be MaaS-dedicated vehicle lineups shown here. The e-Palette on the left of this
+table was unveiled at CES last year and is scheduled to be revealed during the Tokyo 2020
+Olympic Games. We also think more compact lineups are necessary. The vehicle in the middle of
+the table is Sienna-based MaaS vehicle, while the vehicle on the right is much smaller, a compact
+BEV-based vehicle. Our plan is to meet a wide variety of needs within these three lineups.
+Linked to the future automated driving mobility services. As to the Level 4, the autonomous
+driving vehicles, when it will become available or not, it depends upon the technology and cost
+factors. The consensus need to be built, so that it's very difficult to forecast that as well. So
+therefore, as a basis, the Level 2, Level 3, the mass-produced vehicles will be used, and then the
+Autonomous Driving Kit will be added. Then, it will become the Level 4 MaaS-dedicated vehicle.
+So that is a concept to commercialize this system or the vehicle.
+So Autonomous Driving software to be installed on in ADKs can be developed by the third-party
+companies, but we aim to increase overall vehicle safety through dual-monitoring of the
+surrounding environment by Toyota's Guardian System on the vehicle in concert with
+Autonomous Driving software. And our development is promoted by standardizing the interface
+between ADK and the vehicles and generalizing the control unit, including Guardian System to
+expand the use of the application.
+To realize these MaaS strategies, Toyota has been promoting collaboration with the key MaaS
+players, including Grab that I mentioned earlier, and a joint venture in which SoftBank is the largest
+shareholder. And together with Uber in North America, we have been working on the
+development of an autonomous driving MaaS fleet based on the Sienna platform and so on and
+so forth. But together with SoftBank, Toyota has established a joint venture, MONET
+Technologies, and MONET conduct service planning, sales, vehicle and leasing and third-party
+operation aiming to popularize MaaS vehicles in lower public areas and local public agencies that
+support senior citizens mobility.And so that we are talking about these cars are significantly evolving due to the technical
+innovation such as the electrification, intelligence, informatization. We anticipate the realization of
+an autonomous driving mobility society. However, just using AI and developing advanced software
+doesn't lead to the popularization of autonomous driving mobility.
+The car itself is the bundle of advanced hardware and software and cars are industrial products
+that are on a learning curve. At the same time, cars are the means of transportation with which
+the lives of people are entrusted. To mass produce such cars at sufficient quality and appropriate
+cost, provide maintenance in a timely manner and popularize such cars as a safe transportation
+service, we understand that it is important for us to further hone our real-world strengths,
+including our long cultivated Toyota Production System, TPS, our real-world expertise, technology
+and assets, including our service network.
+Toyota efforts to transform itself into a mobility company has just started with connected cars and
+a MaaS business. We would like to contribute to the realization of a mobility society in which
+everyone can move safely, smoothly and freely.
+Thank you for your attention.

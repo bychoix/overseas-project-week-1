@@ -1,0 +1,575 @@
+Q3 2023 Earnings Call
+
+Presentation
+Operator
+Good afternoon, ladies and gentlemen. I would like to welcome you all to the BMW Group's
+telephone conference for the third quarter results. With us today are `Oliver Zipse, Chairman of the Board of Management, Chairman of
+the Board of Management and our Chief Financial Officer, `Walter Mertl, Member of the Board of Management, Finance.
+First, Walter will take you through our financial results. Oliver will then give you a general business
+update for the BMW Group. Afterwards, we will have time for our Q&A session. Walter, please go
+ahead.
+`Walter Mertl, Member of the Board of Management, Finance `
+Good afternoon, ladies and gentlemen. The BMW Group delivered a strong performance in the
+third quarter. As expected, we achieved solid sales growth and correspondingly positive financial
+key figures. The Group EBT margin for the third quarter came in at 10.6%. For the nine-month
+period from January to September, it was 11.9%, exceeding our strategic target of 10%. The
+automotive segment posted an EBIT margin of 9.8% for the third quarter and 10.3% for the year
+to the end of September.
+Without depreciation of BBA assets from the purchase price allocation, the margins came in at
+10.8% for Q3 and 11.4% through nine months. After successful third quarter, we expect a positive
+business development in the fourth quarter. All segments are on track to meet our goals for the
+year. I'd now like to show you a few slides with our business figures for the third quarter and the
+first nine months in more detail.
+Let's start with the Group figures. Group earnings before tax for the third quarter were on par
+with last year at just under EUR4.1 billion, despite a significant headwind from the fair value
+assessment of interest rate hedges compared to Q3 2022. Group pre-tax earnings for the year
+to the end of September decreased by about EUR6.8 billion. However, last year's figure included
+one-time income of EUR7.7 billion from the revaluation of equity interests in BBA. Without thiseffect and looking at the underlying operating result instead, Group earnings were EUR900
+million higher year-on-year in the first nine months.
+Let's take a look at the individual segments. Starting with the automotive segment, the BMW
+Group delivered just under 622,000 vehicles to customers in the third quarter of 2023, a year-
+on-year increase of 5.8%. Year to date September, deliveries rose 5.1% to around 1.84 million
+vehicles. Our order books take us into 2024 with valuable impetus coming from new models like
+the BMW 5 Series. We expect this positive trend in deliveries to gain momentum in the fourth
+quarter, resulting in solid growth in vehicle sales for the full year as forecasted in August.
+In addition to models from the upper price segment, our all-electric vehicles are another
+important growth factor. We sold around 94,000 units in the third quarter and just under 247,000
+fully electric vehicles for the nine-month period. BEV share of total sales continues to grow. In the
+third quarter, it was 15.1%. In the fourth quarter, our sales of all-electric vehicles will get a further
+boost from the launch of the new BMW i5. For the full year, we expect BEVs to account for about
+15% of deliveries.
+After nine months, the share was 13.4%. Third quarter automotive revenues were at the same
+level as the prior year at EUR32.1 billion. However, currency translation headwinds from the US
+dollar and Chinese renminbi played a part in this. Adjusted for these currency translation effects,
+revenues increased by 6.5%, thanks to higher sales. The automotive segment's operating result
+for the third quarter totaled just over EUR3.1 billion, with an EBIT margin of 9.8%. Year to date
+September, the EBIT margin came in at 10.3%.
+Let's take a look at the operating result in the automotive segment in more detail. In the year-on-
+year comparison, we see that Q3 2023 was impacted by just under EUR200 million from the net
+balance of currency and raw material positions. This difference is mainly due to currency
+translation effects from development of the Chinese renminbi.
+Raw material prices remain high, although we are seeing a slight tailwind compared to Q3 2022.
+However, this does not include material and logistics costs. Volume, model mix and pricing effects
+all contributed to a tailwind of around EUR300 million in the quarter. The largest share of this
+position results from higher vehicle sales. The contribution from the model mix is only slightly
+lower than the previous year, despite BEV growth. The market has continued to normalize over
+the course of the third quarter, partly due to improved vehicle availability. We continue to pay
+close attention to price discipline.
+Expenses for research and development rose by around EUR100 million. This reflects a decrease
+in the capitalization rate of 8.5 percentage points to 32.2% year-on-year. Based on Group R&D
+spending, the R&D ratio according to German Commercial Code came in at 4.6%.
+We expect the figure for the full year to be with -- within our long-term target range of 4% to 5%.
+Research and development expenditure focused on the electrification and digitalization of our
+vehicle fleet as well as the development of new models like the all new BMW 5 Series and the
+Neue Klasse.
+Digitalization includes the innovative BMW Operating System 9, which we are rolling out this year.
+We are also making great progress in the area of automated driving. With Level 2 plus, the new
+BMW 5 Series already offers a partially automated driving experience. We will also be launching
+highly automated driving Level 3 shortly.
+Sales and administrative costs increased by about EUR100 million partly due to higher spending
+for digitalization projects. Other cost changes include cost for materials and logistics. They remainat a high level due to among other factors higher labor cost from our partners.
+Although they were more or less stable in the quarter compared to previous year, we recorded a
+notable negative impact in the nine months' period. Free cash flow in the Automotive segment
+totaled EUR2.6 billion in the third quarter. The basis for this high figure is the strong quarterly
+result of EUR3 billion.
+The change in working capital increased free cash flow in this quarter by around EUR100 million. In
+Q3, inventory levels rose however the increase in trade payables nearly offset the impact of the
+higher inventory on working capital. The delta between capital expenditure and depreciation
+reduced free cash flow in the third quarter by about EUR500 million. Capital expenditure for the
+first nine months totaled around EUR5 billion mainly from the fifth and sixth generation e-modular
+kits and the construction of the plant in Debrecen in Hungary. The CapEx ratio for the year to the
+end of September was 4.5%. We still expect the ratio for the full year to be around 6%. Changes
+in provisions had a negative impact on free cash flow of about EUR400 million. In the third
+quarter, the profit sharing bonus for financial year 2022 was paid out to our employees and the
+corresponding provisions dissolved.
+Other items boosted free cash flow by around EUR400 million. At the end of September, free
+cash flow in the Automotive segment stood at around EUR5.8 billion. In the fourth quarter, we are
+planning for a significant increase in capital expenditure due to usual seasonality. This will
+negatively impact free cash flow.
+As I mentioned, we expect the CapEx ratio for the full year to be around 6%. Inventory decreased
+towards the end of the year, but will still be at a high enough level of meant -- to maintain vehicle
+supplies to markets. This will ensure we are able meet the robust global demand for our vehicles
+in the first quarter of 2024.
+The plant's significant uptick in costs as well as higher tax payments will weigh on our Q4 free
+cash flow. As a result, we still expect the free cash flow of above EUR6 billion for the full year
+2023.
+Let's turn now to the financial services segment. I will focus on the first nine months of this
+portfolio business.
+Year to date September, the number of new financing and leasing contracts concluded with retail
+customers decreased by 5.6%. This is partly due to higher interest rates which have substantially
+increased financing costs for consumers. At the same time, the financial services sector remains
+as competitive as ever.
+However, when we look at the course of the year, we see a clear positive trend in new business
+in financial services. While in new contracts with end customers in Q1 were just under 20% below
+Q1 2022, they were back to the previous years' level in Q2. Driven by higher vehicle sales and by
+the pre-owned car business, financial services reversed the trend in the third quarter.
+New contracts with end customers rose by 5.7% compared to the third quarter of 2022. We
+expect the positive development in new business to continue in the fourth quarter as well. The
+average financing volume per vehicle increased from the previous year, primarily due to an
+improved product mix in the Automotive business. For this reason, the volume of new business
+decreased by only 1.6% for the year to the end of September. Segment earnings before tax,
+totaled EUR2.45 billion at the end of September, down 8.3% from the previous year. This
+decrease mainly reflects higher refinancing costs and the smaller size of the total portfolio.
+Income from the resale of end of lease vehicles remained consistently high. The credit loss ratiois still at the low rate of 0.15% across the entire credit portfolio and we expect return on equity for
+the full year to be within the range of 16% to 19%.
+Let's move on to the motorcycle segment. In the third quarter, BMW Motorrad sales were on par
+with a high level of Q3 2022 at just over 52,000 units. Segment EBIT totaled minus EUR4 million
+compared to EUR87 million in the third quarter of 2022. This decrease was primarily due to
+changes to the model launch calendar compared to the previous year. EBIT for the year to the
+end of September totaled EUR308 million and was therefore slightly lower than the previous
+year. The EBIT margin came in at minus 6% for the third quarter and 12.0% for the first nine
+months.
+I'd like to look now at the outlook for our key performance indicators. We expect to see stable
+business development for the rest of the year and are therefore able to confirm our guidance for
+the financial year 2023 for all segments. This assumes that the geopolitical and macroeconomic
+conditions do not deteriorate significantly. In the Automotive segment, we are planning for a solid
+increase in deliveries compared to last year. The segment's EBIT margin should come in at
+between 9% and 10.5% with return on capital employed of between 18% and 22%.
+The Motorcycles segment is projected to report higher sales. In this segment, we expect to see
+an EBIT margin of between 8% and 10% and return on capital employed of between 21% and
+26%. In the Financial Services segment, return on equity between 16% and 19% for the full year.
+Ladies and gentlemen, our third quarter results once again underline the BMW Group's
+performance capabilities. On this basis, we will be able to deliver a strong finish to 2023. With our
+attractive premium product portfolio, we are in an excellent position across all brands, segments
+and drive technologies to take advantage of market opportunities.
+We remain cautiously optimistic about the future, despite all the economic and geopolitical
+volatility. We have a long-term strategy and we have a clear plan. Our underlying earning power is
+the result of continuous profitable growth in our core business as well as disciplined price and
+cost management. It lays the foundation for our business success and allows us to leverage our
+cash flow to finance our investment in emission free mobility.
+At the BMW Group our thinking and actions are always geared towards the long term. We are
+securing and creating value. And our financial strength allows us to shape our own future.
+Unidentified Speaker
+Thank you. Thank you very much, Walter. It was a pleasure and now Oliver. Zipse, Oliver, please
+go ahead.
+`Oliver Zipse, Chairman of the Board of Management `
+Ladies and gentlemen, good afternoon. Before I talk about current developments, I would like to
+say a few words about the change in the Board of Management of BMW AG.
+As you all know, the Supervisory Board appointed Jochen Goller to the Board of Management
+effective 1st of November. After various roles in China and the United Kingdom as well as serving
+as Head of the MINI brand, Jochen Goller has managed our activities in China very successfully
+since 2018.
+Sean Green, who was previously Senior Vice President, Sales and Marketing at our BBA joint
+venture, will be responsible for our business in China going forward, Jochen Goller it takes over
+from Pieter Nota, who led let our Customer Brands and savings Board division from 2018.Under Pieter Nota's leadership, the BMW Group grew its global market share significantly, and
+during this time, the BMW brand also regained its position at the top of the premium segment
+and steadily expanded it.
+I would like to extend my sincere thanks to Pieter Nota and wish Jochen Goller all the best as he
+embarks on his new role. I just got back from a trip to Asia about a week ago. I know that some of
+you will were also able to get an idea of the current market situation over there at the recent
+BMW China Days in Shenyang and Shanghai. For me, the visit to Beijing and then the Japan
+Mobility Show in Tokyo clearly showed once again there is no one-size-fits-all for the mobility of
+today and more specifically tomorrow. Our world is multifaceted and that's why we need different
+technological solutions. On the one hand, to meet our customers' wide ranging needs, on the
+other hand to comply with very different regulatory requirements in countries around the world.
+To decarbonize, China relies on pure electric vehicles but also on plug-in hybrids and hydrogen
+fuel cell vehicles. In Beijing, for example, a large number of taxis already run on hydrogen. In the
+third quarter of this year, we grew our business worldwide, thanks to our wide range of premium
+vehicles across all drive technologies. Pure electric vehicles stood out in China, in particular, we
+more than tripled our sales there in the first nine months compared to the same period of last
+year.
+In Japan, the current demand for all electric cars is still relatively subdued. The focus is more on
+hybrids and cars with combustion engines, however, it became clear at the Japan Mobility Show in
+Tokyo that Japanese manufacturers in particular are starting to set things up with their own
+concept cars and fully electric options. Japan recognized the importance of hydrogen early on.
+This is why our BMW iX5 hydrogen pilot vehicle has been well received there. For a global
+premium manufacturer like the BMW Group, technology orientation and openness remains the
+right path for decarbonizing mobility. Our healthy sales and financial figures are proof of this.
+We will continue to pursue this path consistently in the future. In October, we presented the BMW
+X2 with the all-electric iX2 as the latest example of this. The X2 is more than anything, a digital
+champion. The new BMW Operating System 9 introduces the ideal platform for a comprehensive
+range of digital features and functions such as totally new gaming and streaming capabilities. It is
+features like these such as optimized touch controls or seamlessly integrated voice control that
+allow our customers to enjoy a unique digital experience in their car. Early next year, our rollout of
+new all-electric products will continue in the spring. The new BMW 5 Series Touring will celebrate
+its world premiere. It will be available with the same drivetrain portfolio as the Sedan, including
+the all-electric i5 touring. This gives us a real unique selling point in a segment that is very popular,
+especially here in Europe. And our goal remains the same; more than half our global sales from
+all-electric cars, well before 2030.
+To this end, we're also further expanding our leading role in battery cell technology. At our
+competence center in Parsdorf near Munich, we are laying the technological foundations for the
+efficient and resource saving production of battery cells and we do this along the entire value
+chain. We share the know-how we develop there with our suppliers. In this way, we are setting
+benchmarks in production, quality, performance costs and of course ecology of battery cells.
+Last week we put the competence center in Parsdorf into operation. Sample production of sixth
+generation round cells has begun. These cells are characterized by an up to 20% higher energy
+density. In addition, we were able to reduce the CO2 footprint in cell production by up to 60%.
+Our customers will benefit from up to 30% faster charging speed and up to 30% higher range
+according to WLTP and of course substantially lower manufacturing costs. In line with our local-for-
+local principle, the BMW Group also ensures that that's the next step, high voltage battery
+assembly takes place -- place as close as possible to the vehicle plants. This approach securesour production even in the event of unforeseen political and economic developments. Short
+transport distances also reduce the carbon footprint of vehicle production.
+Production facilities for the sixth generation of BMW high voltage batteries are currently being
+built at all major manufacturing locations in Debrecen, Hungary, in Woodruff in South Carolina in
+the United States, in San Luis Potosi and Mexico, in Shenyang in China and in Irlbach-Strakirchen to
+supply our vehicle production here in Bavaria. A clear majority voted to allow the planning process
+in lower Bavaria to continue in a recent referendum. It not only secures the future of our Bavarian
+vehicle plants, it also sends an important signal underlining Germany's future viability as a location
+for industry. We will start the construction within the next year. These high voltage batteries will
+then be used in our Neue Klasse, which will also be produced at our main plant in Munich from
+2026 onwards. We provided a glimpse of the Neue Klasse at the IAA MOBILITY in early
+September here in Munich.
+The BMW Vision Neue Klasse shows how we are designing individual mobility to be more human,
+more intelligent and more responsible. For example, the materials we are developing for the
+Neue Klasse will help to reduce its carbon footprint. An additional highlight is the BMW Panoramic
+Vision Display, which uses the entire width of the windscreen and is visible to all passengers.
+What has always set BMW apart is the perfect interaction of all components and the unmistakable
+brand authentic driving dynamics that this enables. We are also taking this unique selling points to
+a whole new level with a perfect combination of hardware and software. The Neue Klasse is
+more than just another BMW brand car.
+It is a whole new generation of products. We will be releasing six models on the roads within 24
+months from SAVs to sedans. What all the models have in common is the all-electric heart that
+powers them. MINI will also be all-electric in the future. Between now and 2030, we will be
+completely realigning MINI and making the brand all electric.
+We presented two key members of the new MINI family at the IAA MOBILITY, the MINI Cooper 3-
+Door and MINI Countryman. The next fully electric MINI is ready to go in April 2024, the MINI
+Aceman will make its world premiere in the premium compact car segment. The new MINI family
+is produced by our Chinese joint venture partner, Spotlight, in China and in our plants in Leipzig
+and Oxford.
+Our second British brand is also on the threshold of pure electromobility. By the early 2030, Rolls-
+Royce will also be exclusively all electric. Preparations for the sales launch of the first electric Rolls-
+Royce are currently in full swing. The Spectre, which is scheduled for release by the end of the
+year, is set to redefine modern luxury. And there's also been a change at the top of Rolls-Royce.
+Torsten Muller-Otvos who has led Rolls-Royce since 2010 and driven the transformation and
+rejuvenation of this unique marque is retiring. He will be handing over to Chris Brownridge from
+1st of December. Chris currently heads the UK market for BMW bringing experience, of course,
+but above all a feel for the exclusive demands of the brand and its customers. Let's now move on
+to BMW Motorrad. We recently celebrated the brand's centenary at the end of September with
+German chancellor, Olaf Scholz at our plant in Berlin-Spandou. The brand has performed
+exceptionally well in recent years. Its centenary celebrations with the culmination of the career of
+BMW Motorrad's longstanding leader, Markus Schramm who is also retiring. Under his leadership,
+BMW Motorrad steadily expanded its product range, opened new markets for the brand and saw
+numerous record breaking years.
+Now Markus Flasch took over from him on 1st of November. Markus brings experience as head of
+BMW M GmbH and head of the product line for BMW's mid-size and luxury class and Rolls-Royce.Let's talk about digitalization of the customer interface. While we are constantly expanding and
+refining our product range, our current focus is on further digitalization of exactly this customer
+interface. Direct customer access plays a key role in this. And to support this, our new direct sales
+model for MINI is about to be launched in Europe. The rollout with MINI in China was already a big
+success.
+The European rollout will begin on 1st of January with Italy, Poland and Sweden. Other European
+countries will follow in stages. And then the BMW launch will get underway in 2026. The direct
+sales market will benefit everyone involved. Our customers are guaranteed full price
+transparency and can move seamlessly between online and offline consulting options during the
+purchasing process.
+At the same time, it offers to our retailers an attractive business model as shown by their positive
+response. All our European retailers have signed contracts for this effect. In return, the BMW
+Group gains direct access to customers, which we will use to curate an entirely new customer
+experience. The best example of this is our new proactive care service.
+It uses data analytics and AI to evaluate data from the vehicle and detect potential problems
+before they even occur. If the cars can be fixed using software, this is done remotely. In all other
+cases, our customers receive a notification. For example, a tip for how to handle the issues
+themselves or, if necessary, a note asking them to contact the BMW dealer and if the customer
+agrees, an appointment can easily be set up using the automated system.
+Ladies and gentlemen, in 2023, we are once again demonstrating the success of the BMW
+Group's strategic approach. With our products, range of drive technologies and production sites
+worldwide, our position is highly diversified.
+A recent study also confirms this. US magazine Time and global database, Statista, named the
+world's top 750 companies. The BMW Group ranked in the top 10 and was the highest rated
+automotive manufacturer worldwide.
+The mood is also very positive inside the company as this year our Employee Survey confirmed.
+We asked our just under 150,000 employees on a global scale to tell us what they think. Their
+responses showed that the BMW Group is a highly attractive employer, the workforce backs the
+company's goals and our employees worldwide are very proud to work for the BMW Group. That
+is the best foundation for continuing on our successful course in the future. Thank you very much.
+Unidentified Speaker
+Thank you very much, Oliver. Ladies and gentlemen, (technical difficulty) and now the line will
+shortly be opened for questions. The operator will first give you some technical instructions.
+Please.
+Questions And Answers
+Operator
+Ladies and gentlemen, we will now begin our Q&A session. (Operator Instructions). Our first
+question comes from `George Galliers, Analyst, Goldman Sachs from Goldman Sachs. Please unmute your line.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Good afternoon and thank you for taking my questions. Oliver, maybe just the first one for you.
+When your team very kindly hosted us in China a few weeks ago, one of the subjects which cameup was whether or not it would be possible to price the i5 at the same level as the combustion
+engine cars, given that at the top end of the market, you're seeing a consumer preference still
+for ICE over electric. From your perspective, do you see this as purely a phenomenon in China or
+do you think there is a risk that in other parts of the world, we also see the consumer not willing
+to pay more for a battery electric vehicle versus an internal combustion engine vehicle.
+The second question I had, which also related to battery electric vehicles, was for Walter.
+Obviously, BMW has had tremendous success with its battery electric vehicles and that's shown in
+your sales numbers today. Could you just elaborate for us, are you starting to see some
+meaningful scale benefits as your battery electric vehicle volumes rise and what are the
+implications from that for the economics on your BEVs as we think about 2024 and outyears [ph]?
+Thank you.
+A - Unidentified Speaker
+Could we start with your pricing question about the i5 in China with Oliver and then Walter?
+A - `Oliver Zipse, Chairman of the Board of Management `
+George, hello. First of all, you mentioned there is some resistance in buying EVs in China, that's
+not true for BMW. We tripled our EV sales in the first nine months. So with the ramp-up of e-
+mobility worldwide, which is still not the majority of cars being sold -- by the way, nowhere in the
+world, we are right on track there. One peculiar good observation is that in the 5 Series on the
+comparable performance level, we will -- we will pursue a path of the same pricing for EVs and
+the ICE. Every market will have a different approach here. I think in China, this is, at this point in
+time, the right approach. This is still, by the way, a very profitable thing for us. And when we do
+the pricing, we will not do anything which will -- which will harm our profitability and especially we
+will be super careful about our keeping of the pricing points there, but I think our strategy in the
+EV in China is working out for us as I just presented.
+A - Unidentified Speaker
+Thank you very much. Walter?
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Yeah. George, EV is scaling and is contributing towards the scale is positive and we shouldn't
+forget that Gen 5 is still going to scale, as you saw in our CapEx numbers, which were still
+contributing to more capacities and this will even end up in a better scaling effect for us. So yeah,
+we are looking forward to it.
+A - Unidentified Speaker
+Thank you very much, Walter. And next question please.
+Operator
+Our next question comes from `Dorothee Cresswell, Analyst, BNP Paribas Exane from BNP Paribas Exane. Please unmute your
+line.
+Q - `Dorothee Cresswell, Analyst, BNP Paribas Exane `
+Hi, there. And thank you for taking my question. The first one is around BEV demand in the near
+term. So I think this morning, you said that your overall order book reaches into Q1 2024, but youalso said that the BEV orders are particularly strong. So, can I ask specifically how long your BEV
+order book is at this stage and also how that's evolved over the last few months basically where
+was it in Q2, and where is it now?
+My second question is on the mix. I think when you discuss the Q3 EBIT bridge, you indicated that
+the mix dynamic was a combination of a positive model mix, and a negative powertrain mix and
+they seem to have broadly balanced each other out. So is that something we should expect to
+see going forward and through 2024? And if you could tell us what the key factors in the model
+mix evolution are likely to be through the coming 12 months, that would be most helpful. Thank
+you.
+A - Unidentified Speaker
+Yes. Thank you very much, Dorothee. We start with Oliver and then Walter. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+Dorothee, hello. Thank you for your questions. Let me first start with -- with an overlook, we
+always said that BEV ramp-up is not a zero-sum game. If you look closely at our figures for the
+first nine months, then the combustion engine part, including the plug-in hybrids, they almost
+stayed the same compared to last year. I think it's minus 1.6%, so almost the same.
+Whilst at the same time, the -- for BMW, the demand for BEV's (inaudible) were increased by
+more than 100%. So the question is how do you remain our traditional car business intact, which is
+working and the growth comes out of the EV. Now look, the order book for the next year, we will
+introduce the i5, the iX2, the iX1 with all performance levels. We will have three completely
+electric MINI models and that is why I believe because they are all new at the same time that we
+will have a strong push towards BEV demand to reach our target of 20% in 2024, which we
+always said 15% this year, 20% next year and then it goes in 2025 to 25% and so on. So actually
+it's happening exactly in the way we prognosed it to be.
+A - Unidentified Speaker
+Thank you very much, Oliver. Walter?
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Discussion on the bridge, Dorothee, was with regards to Q3 '23 versus Q3 '22. So of course we
+had benefits in a stronger mix in ECA L [ph] as well as in the M, not to forget. And here, we
+started this lower segment (inaudible) but not to forget they are strong contributors to our total
+contribution, right?
+So, of course, the total contribution on average on an EV total all volumes is still lower than the
+total ICE level, but we shouldn't forget that we always speak about the portfolio. The total
+portfolio is starting with the MINI and ending ultimately with the Rolls-Royce and everything in
+between. So of course you have models, which you have very, very high contributions over the
+average and of course we also have some under, but we are still happy with the contributions of
+our EV cars.
+A - Unidentified Speaker
+Very clear message. Thank you very much, Dorothee. Next question, please.
+OperatorOur next question comes from `Jose Asumendi, Analyst, JPMorgan from JPMorgan.
+Q - `Jose Asumendi, Analyst, JPMorgan `
+Thank you very much. Hi, everyone. Two items, please. The first one, Walter, can you comment a
+little bit with regards to the fourth quarter, what should we expect in terms of volume outlook for
+Q4.
+And then when it comes to supplier compensation in Q4, maybe can you elaborate a little bit
+around whether BMW books the supplier compensation on a quarterly basis or should we expect
+a bigger one-time impact in Q4, maybe similar to what we have seen across some of your
+competitors.
+And therefore Oliver, look, one of your competitors seems to be quite clear that they can launch
+electric cars priced below EUR23,000 in Europe and actually make money. So I was thinking. If you
+could please -- maybe you can provide us an update with regards to your path to margin parity
+between ICE and BEV and I will be particularly interested in understanding a bit better this path to
+margin parity in the smaller premium car segment for BMW and whether the battery remains the
+biggest -- the biggest driver in this path. Thank you.
+A - Unidentified Speaker
+Good. Thank you very much, Jose. We start with Walter and then Oliver.
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Hello, Jose. So as I mentioned and you know, our seasonality in Q4, first of all, volume-wise as we
+predicted in August, it will be a solid performance in Q4 compared to previous quarter four. But
+as I've just mentioned, seasonal impacts on costs, fixed costs will always hit Q4 as usual. So this
+will weigh and the material cost headwinds, which we referred to in August is also still down,
+which is linked to the supplier compensation for increasing labor cost and inflation.
+We haven't finished all contracts yet, but the majority is done. So of course, there will be the final
+impact, but not major I assume and the total costs, which is also something which we shouldn't
+forget some elevated labor costs applied only from July onwards with the full second half-year
+impact which wasn't there in the first half year. So having said that, I still can confirm that the full-
+year 2023 will deliver within our revised corridor of 9% to 10.5% still.
+A - Unidentified Speaker
+Thank you very much Walter. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+Jose, as I said before, the question is not do I sell an ICE or a BEV, it's a question to participate in
+the BEV growth and we do substantially that and then look at our product portfolio, there is an i4
+M50, which is very profitable. With what car do we compare that? There is no comparing
+combustion engine for an i7 M60 or an i7 M70.
+These cars are sold because they are best and not because there are --there is another ICE. So
+these comparisons are very difficult to do because all the growth goes into the BEV side. The
+question is do you grow or do you not grow -- so and we decided to grow. And in these upper
+segments, there -- there is no unprofitable segment.And then the segment you mentioned EUR25,000 BMW -- neither BMW nor MINI is participating
+in that segment. So I cannot comment on this segment because we are not in that.
+A - Unidentified Speaker
+Thank you very much, Oliver and thank you very much, Jose. Next question please.
+Operator
+Our next question comes from `Tim Rokossa, Analyst, Deutsche Bank from Deutsche Bank. Please unmute your line.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Yeah. Thank you very much guys. Good quarter. Thank you. I would have two questions please.
+The first one is, Oliver, when you say selling the 5 Series best at a comparable price to the Asian
+region. How can that be what you call it a very profitable change volume because BEV engines
+must be a lot more expensive?
+And then secondly, when we think about strategically one of the big takeaways from this
+reporting season for many of your peers was a much lower demand for BEVs and hence lowering
+their targets. If we come to a situation where a lot of your competitors need to invest more into
+ICE engines for longer than I thought, would you be open to provide ICE engines to them as a
+potential supplier to some of your competitors in meaningful size? Thank you.
+A - Unidentified Speaker
+Thank you very much, Tim. Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+Tim, you really like that question about this parity. And I'll just repeat myself, if you would not
+provide the best to the market, you would simply not have the business. There are no customers
+who decide between BEV and an ICE. This is not existent. So either you grow and you make BEVs,
+and with the I5, this is profitable growth.
+And then of course the redefining price point is not only the powertrain, it's the options you've
+put in the car and at the end is the contribution amount of the car. And I can only -- only tell you
+we would never sell an electric car without being contributing to profitability. We will not do that.
+And it's a question of growing or not growing. It's not is that exactly comparable. And we only see
+that currently in China. Not in the other markets that we positioned the cars exactly at the same
+price. But this is a unique thing for China and nowhere else in the world. And first of all, actually
+we already provide some engines to other car manufacturers like for rental, we do that as public
+and the rest is a question mark. I don't know, but no one asked us yet.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Great. Thank you. And once again, I just clarify one point that you said that the Q4 would be within
+your full year guidance range in Automotive; that's at least how some people here interpreted it,
+just to make sure that we got the right message. Thank you.
+A - Unidentified Speaker
+They said that the full year number will be within our guidance. I didn't speak about the Q4Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Okay. Thank you.
+A - Unidentified Speaker
+Good. Okay, Tim, thank you very much. Thank you very much. Next question please.
+Operator
+Our next question comes from `Patrick Hummel, Analyst, UBS from UBS. Please unmute your line.
+Q - `Patrick Hummel, Analyst, UBS `
+Yeah, good afternoon and thank you. Hi, Oliver. Hi, Walter. My first question probably to Oliver
+regarding the BEV sales trajectory. Undoubtedly you have good product momentum with the new
+5 Series, 5 Touring -- i5 Touring incoming. If I remember correctly, you said 15% roughly this year,
+25% -- 20% next year, 25% in 2025. Now from a CO2 compliance in Europe, you probably don't
+even need such a steep curve. Correct me if I'm wrong. So in light of what your competitor called
+brutal competition, you might be inclined to say, let's not push too hard on the BEV side that
+would also optimize your margins maybe against that backdrop of brutal competition. Would you
+see that 20% next year and 25% in '25 still more or less a linear trajectory or could it be the right
+time to slow down things a little bit on the BEV side next year before maybe reaccelerating later.
+And my second question, Walter, I'm not sure to which extent you want to answer it. Nonetheless,
+I try on a qualitative basis. If we think about the key bridge items going into next year, you said
+you look into 2024 cautiously optimistic, which means everything and nothing but if you think
+about the main building blocks in the bridge like volume, price mix, fixed costs, residual values, et
+cetera, how do you feel about those items from today's perspective? Do you end up with a
+positive view in terms of growing EBIT year-over-year? How do you think about these items?
+Thank you.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Patrick, do I understand you right that you try to slow us down. Two years ago, it was the other
+way around.
+Q - `Patrick Hummel, Analyst, UBS `
+I'm not trying to slow you down. I want to understand your thinking, Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Okay. (Multiple Speakers) Okay. What -- we will do exactly what we said two or three years ago.
+We are creating a market that is strong products create strong demand. And then the number is
+15%, 20%, 25%, 33% and 50% before 2030, these are market figures. These are demand
+figures. This is, at no point in time, a push figure. We will not do that by the way, independent of
+the regulation and we are quite sure with -- with that wide array of products we are having and
+which are about to come, including the Neue Klasse, there will be a strong market demand and
+strong market demand always means profitable price points.
+We will never push cars into market only for regulatories [ph] at least not in the next three to five
+years, which we can oversee. And that's not necessary because we -- every segment we have
+presence, we will have the MINI 4 cars, we will have a whole array in (inaudible) all the way to the 7series and of course at Rolls Royce. And I think there is no reason to slow down and there is no
+reason to even accelerate. So we see, what we see strong, strong normal, if I may say so market
+demand and we will follow the market here. Thank you.
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Yeah. And with respect to 2024, I think we will speak about in March and all the rest is up to the
+community because as `Oliver Zipse, Chairman of the Board of Management mentioned we have strong attractive products to come,
+which we're all looking forward to.
+A - Unidentified Speaker
+Good. Okay. Thank you very much. I think the next question, if it's the last question, Nora [ph]. I
+don't know. So three more questions. Okay, next question please, Yes.
+Operator
+Our next question comes from `Michael Tyndall, Analyst, HSBC from HSBC. Please unmute your line.
+Q - `Michael Tyndall, Analyst, HSBC `
+Yeah, hi there, Mike Tyndall. Thanks for taking my question. Just a couple if I may, you mentioned
+in the preamble around price normalization. And if I'm not wrong, you mentioned it at Q2. I
+wonder if you could just kind of elaborate a little bit more on what that means, what are you
+seeing sequentially in terms of pricing and what are you thinking of going forward on pricing.
+And then the second question I guess you've mentioned part of the reason for keeping the cash
+flow guidance still at 6, even though you've done quite a lot of that already is this big step-up in
+costs in Q4. I wonder if you can just help us a little bit to understand the order of magnitude of
+some of those costs that are going to come through in Q4. Thanks.
+A - Unidentified Speaker
+Okay. Thank you very much, Michael. Walter?
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Hello to you. Pricing side, let's start with step one. When if you have a look for our numbers, our
+net sales average is quite stable, I would say FX related, it looks like it's inventory is different, but
+if you corrected by FX, you will have more or less the same amount as we had into Q2 and Q1.
+So that is still positive and with respect to, for example, some external data, we also do use
+Autodata for the US. You will see that our sales allowances is less than $3,000 a car. Why is that?
+Because we recognize that the Autodata Institute is rather taking on also IRR support and -- is
+including that one, which is reflecting roughly $900 to $1000.
+But if you deduct this one because this is to the customer support by the government rather than
+by us, we are under $3,000 which is a superb number if you compare it with historical data, I
+would say. So I think our momentum is still positive. With respect to free cash flow, well, I think we
+mentioned already in Q2 versus Q2 actuals that we see strong CapEx cash out in Q4 and we also
+stress that we are not reducing inventory levels as we did in previous years, because we want to
+achieve our momentum in Q1 '24 to have stable supply for the good demand we are facing. So
+that's the reason why the free cash flow is not exploring but rather static above 6 billion.A - Unidentified Speaker
+Well, thank you very much, Michael, for your questions. I think we have two more questions.
+Please go ahead.
+Operator
+Our next question comes from `Stephen Reitman, Analyst, Societe Generale from Societe Generale. (Operator Instructions).
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, thank you very much. `Stephen Reitman, Analyst, Societe Generale, Societe Generale here. Apologies, I was cut off for a
+little while, so I'm not sure if these questions have been asked, but I'll try anyway. First question,
+please, on nearer term, could you comment on your certified used vehicle program, how that's
+been developing because obviously that's been a very big difference from the last -- when we
+had the last great financial recession, the ability to treat your returning cars much better and
+getting higher price realizations on those. So if you give us the trend on that please.
+And secondly maybe a bit longer term and looking at the generation 6 of the battery cells, you're
+moving to the new cell format, the cylindrical cells. How confident are you and what current
+indications you have on that -- on the manufacturing to avoid some of the problems that others
+who have gone to that larger cell format may have been planning [ph] at the moment. Thank you
+very much.
+A - Unidentified Speaker
+Okay. We start with your first question with certified used cars program and then Oliver. Okay.
+Walter?
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Right. The certified used car program is still running nicely with respect to our new car and used
+car business with Financial Services is still moving ahead, so it's increasing both businesses. I think
+that is most relevant. With respect to used car in principle as I've stated, the residual value is still
+strong and the returns as I also mentioned are also coming in on a high level.
+A - Unidentified Speaker
+Okay. And then second part Stephen was about larger cell formats and our challenges for this
+and this will be answered by Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yeah. We are starting with our sixth generation, a new era inside the cell development, first of all,
+to scale it up to the needed volume to support market demand and also to reduce cost. At the
+same time, not all cell we move to the cylindrical shape. We will still have rectangular cells in our
+portfolio for specific demand, especially for the entry models. So there will be a long time, where
+we have both cell formats, cylinder and rectangular, at the same time to create the right mix for
+the customer demand and also to create the right price point for each and every model. But what
+is -- what is correct, the sixth generation the majority of cells will be cylindrical.
+A - Unidentified Speaker
+Good. And now we are coming to the last question. Yes.Operator
+Our last question will come from `Henning Cosman, Analyst, Barclays from Barclays. Please unmute your line.
+Q - `Henning Cosman, Analyst, Barclays `
+Hi, good afternoon. Thank you for taking my question and congrats actually on the results. I think
+it's pretty clean solid result in a difficult environment. I wanted to ask a couple of clarifications,
+please. I just have the feeling we might leave with very mixed messages from both on the
+volume and a pretty wide range for the margin for the first quarter. So let me ask you, the 15%
+implied volume growth to get you to the midpoint of what you define as solid, that would imply
+750,000 units in the fourth quarter. That seems pretty high. I just wanted to perhaps discuss if
+that's really what you're thinking. And perhaps more importantly, Walter, I appreciate you say you
+come in the margin range for the full year, but of course for the fourth quarter, in the meantime,
+that implies a range of 5% to 11%. So I'm just wondering if you really want us to leave the call
+thinking it could be really as low as 5%. I guess you're accommodating (inaudible) for lower
+pricing, maybe some dealer compensation again, higher R&D, but do you really not to sort of
+draw a line that's a bit higher than 5% for the fourth quarter. Thank you very much.
+Q - Unidentified Participant
+Okay. Thank you very much, Henning. Walter?
+A - `Walter Mertl, Member of the Board of Management, Finance `
+Hello, Henning. I thought I'd rather speak clear than giving mixed messages but never mind, so I
+think with respect to this margin ranges you reflect here, I think I pronounced that we will be
+within the 9% to 10.5% EBIT margin full year. And if you then mathematically calculated back, you
+will never end up with a 5% or 6% or 7% or just 8%.
+So I think all the rest is up to your excellent model, I guess. So with respect to the headwinds, I
+mentioned them already. Fixed cost will rise and then with having less inventory at year-end than
+currently year-to-date September, this will also have some slight impact on that. Right? So I think
+we've made it all clear, at least I thought.
+A - Unidentified Speaker
+I think now, it is clear. So, ladies and gentlemen, thank you very much for your questions. It was a
+pleasure and we see each other, again. Bye-bye and that was from Munich. Bye.

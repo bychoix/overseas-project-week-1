@@ -1,0 +1,565 @@
+S1 2024 Earnings Call
+
+Presentation
+Unverified Participant
+Good afternoon, ladies and gentlemen. Thank you for coming, and I'd like to start this 2024
+financial results briefing meeting. I'm Irie, and I would like to serve as the emcee for today's
+session. I really appreciate you for coming.
+First, I would like to introduce Masahiro Yamamoto, the Chief Head of the Accounting Division, to
+report on the new financial results of the FY2024 Q2.
+We would like to experience our heartfelt appreciation to our customers around the world who
+chose us, as well as the shareholders, dealers, and suppliers who support us.
+First, let me provide the summary of Q2 of the fiscal year ending March 2024. Operating income
+was JPY2,559.2 billion. We are grateful for the support of many stakeholders, including suppliers
+and production to logistics, sales, and services.
+In addition, our operating income increased compared to the same period of the previous fiscal
+year. As a result of selling each car with care and advertisements that match the product appeal,
+we have refined making ever better cars. As for the full year forecast, we have revised the
+forecast upward from the previous forecast to JPY4,500 billion in light of the impact of the
+exchange rate fluctuation, as well as our efforts to improve profitability. The interim dividend will
+be JPY30 per share, YoY increase of JPY5, and we plan to proceed with JPY100 billion as the
+maximum.
+As for the share repurchases, we intend to continuously evolve our cycle of growth together with
+stakeholders, aiming to realize the mobility society through the business foundation we have built
+up, and through frontline efforts that maximize the effectiveness of such.
+First, let me explain our financial results for H1 ended September 2023, covering six months from
+April to September.
+Consolidated vehicle sales for the period was at 4,744,000 units, which was 114.1% of
+consolidated sales for the same period of the previous fiscal year. Toyota and Lexus brand
+vehicle sales was at 5,172,000 units, which is 109.1% of such sales for the same period of the
+previous fiscal year. The sales volume increased in all regions.
+Also, we increased the sale of electrified vehicles, mainly HEVs, with electrified vehicles
+constituting 35.3% of the total sales.
+Consolidated financial results or sales revenue of JPY21,981.6 billion; operating income,
+JPY2,559.2 billion; income before income taxes of JPY3,521.5 billion; and net income was
+JPY2,589.4 billion.
+I would like to explain the factors which impacted operating income YoY.First, the effects of foreign exchange rates increased operating income by JPY260 billion. Cost
+reduction efforts decreased operating income by JPY110 billion due to the impact of soaring
+materials prices. Marketing costs increased operating income JPY1,290 billion due to an increase
+in sales volume, improvement of sales mix, and price revisions mainly outside of Japan.
+An increase in expenses decreased operating income by JPY220 billion due to an increase in
+labor costs and investments in areas such as digitalization. We also experienced a positive uplift
+of JPY197.8 billion, largely due to the swap valuation gains and losses. As a result, including the
+overall impact of foreign exchange rates, swap valuation gains and losses, and other factors,
+operating income increased by JPY960 billion YoY.
+Let me explain the operating income for each region.
+Japan improved YoY due to strong sales. North America, Europe, Asia, and other regions also
+increased YoY, supported by strong sales and price revisions based on product competitiveness.
+In the next slide, let me explain the business in China as well as financial services business.
+As for business in China, due to steady demand for HEVs, our strength, we are maintaining
+Toyota and Lexus sales volume. The operating income consolidated subsidiaries and our share of
+profit of investment accounted for using the equity method both decreased YoY due to the
+fluctuation in foreign exchange rates and increase in selling expenses.
+Regarding the financial services business, operating income, including swap valuation gains and
+losses for the fiscal year, decreased YoY, largely due to the decrease in margins.
+Let us now move on to the shareholder returns.
+The interim dividend for the current fiscal year will be JPY30 per share, an increase of JPY5
+compared to the previous fiscal year. We will focus more on dividends and aim to increase
+dividends steeply and continuously in order to reward our long-term shareholders.
+As for share purchases during the current interim period, we will conduct share repurchases,
+flexibly taking into account our share price levels and so forth, with the maximum acquisition limit
+of JPY100 billion.
+Now, let me talk about the outlook for FY2024.
+For both consolidated vehicle sales volume and Toyota and Lexus brand vehicle sales volume, our
+previous forecast remains unchanged. For the regional breakdown, while Asia will decrease,
+reflecting the uncertainty in markets such as China, Thailand, and Vietnam, we forecast an
+increase in North America and other regions where robust market is expected, and in Europe
+where we expect a recovery in supply. Although BEVS will decrease, reflecting the decline in the
+Chinese market, we expect a total electrification rate of 37.2%.
+Next, the full year consolidated financial forecast.
+We have adopted the full year foreign exchange rate assumption of JPY141 per USD, JPY152 per
+euro. Based on this, our forecast for the full year consolidated financial performances are revised
+upwards, resulting in sales revenues of JPY43 trillion, operating income of JPY4,500 billion,
+income before income taxes of JPY5,550 billion, and net income of JPY3,950 billion.
+I'd like to explain the factors that we believe will impact operating income.First, we expect the effects of foreign exchange rates will increase operating income by JPY1,180
+billion. Cost reduction efforts will increase operating income by JPY100 billion. We expect
+marketing efforts will increase operating income by JPY370 billion due to an improvement in
+sales mix, as well as price revision, especially outside of Japan. Increase in expenses will
+decrease operating income by JPY110 billion.
+The factors that we expect will impact operating income compared to the same period of the
+previous fiscal year as shown. Thank you very much.
+Now, we would like to introduce the Executive Vice President and CFO, Mr. Yoichi Miyazaki, who
+will tell us about our growth strategy of the Company that we aim at. Next speaker is Mr. Miyazaki.
+I'm Miyazaki, the CFO. Regarding our financial results, of course, Yamamoto has already
+explained. However, our profit structure is steadily improving. We believe that the foundation for
+such a similar growth has been laid thanks to our customers around the world who chose us, as
+well as our shareholders, dealers, and suppliers and all other stakeholders who support us. Once
+again, I would like to express my deepest gratitude. We intend to further strengthen this
+foundation with our many stakeholders who support and sustain us from a medium- to long-term
+perspective from the past, present, and into the future.
+Today, I would like to talk about the kind of growth we aim to achieve.
+First, let me talk about the characteristics of our business foundation. Our business has three
+characteristics. First, we have a full lineup of vehicles worldwide and a balanced regional
+presentation. Second, we have a global customer base of more than 100 million units. Third, we
+offer hybrids, which provide both CO2 emission reduction and profitability. These characteristics
+lead to the stabilization of earning power, which is less susceptible to the effects of fluctuations in
+the economic and market environment in each country.
+Another major point is the careful timing of our investment decisions. Our comprehensive
+assessment of investment in BEVs and batteries, while considering the energy situation and
+infrastructure of each country, the evolution of technology and changes in actual customer
+demand has enabled us to achieve a strong financial foundation, upon which we can promote
+investment for the future. This financial foundation has been made even more successful by
+steady continuous improvement activities of our suppliers and those on the front lines of
+manufacturing and logistics, as well as our dealers.
+On the front lines of manufacturing, we are working to improve quality and productivity by
+accumulating second-by-second improvement, reducing the burden on workers through
+digitalization and visualization, visualizing the skills of our skilled craftspeople.
+On the front lines of logistics, amidst the shortage of truck drivers and ships, we have been
+making improvements by drawing on the wisdom of related companies. As a result, in power
+distribution, we have simplified routes and increased loading capacity. In finished car logistics, we
+have reduced vacant space rates by jointly transporting vehicles with other companies.
+On the front lines of sales, we are utilizing digital transformation to build a system that links
+production, transport, and sales to provide customers with accurate delivery date information and
+to deliver vehicles quickly and without waste.
+We intend to continuously evolve our cycle of growing together with stakeholders. Through the
+business foundation we have built based on making ever-better cars initiatives, and through
+frontline efforts that maximize the effectiveness of such, including the efforts of related parties.We will continue striving to deliver ever better cars that meet the needs of our customers in each
+region, develop new customers in emerging markets, and further strengthen our unique and
+solid business foundation.
+We also plan to expand and strengthen our investment in the future, including in BEVS, hydrogen,
+software, and energy and increase touchpoints with our customers and alliance partners beyond
+the automotive industry with a total package. That should lead to the expansion of our business
+domain towards becoming a mobility company and the transformation of our corporate group's
+business structure.
+Next is investment for the future.
+At our technical and manufacturing monozukuri workshops, we have shown you our technologies
+and skills that have been accumulated over the years. You don't just wake up to find yourself in
+the future. The future is made up of the steady accumulation of day-to-day activities of today. To
+leave many options open for the future, our engineering efforts will drive investment in various
+advanced areas, and we plan to actively sow the seeds for the future by combining
+manufacturing techniques with digital and innovative technologies.
+For key investments in mass production, we plan to determine investment timing based on the
+technologies and skills we have honed from a long-term perspective while closely watching
+market trends. When it comes to shareholder returns, we aim to continue to increase dividends
+to reward long-term shareholders.
+Finally, here is our capital strategy.
+Our transformation into a mobility company requires a muscular balance sheet while selling
+strategic stocks that have declining significance to our holdings and conducting home and away
+activities within our corporate group. We have been building alliances to accelerate our
+transformation. By continuing to reduce our number of strategic shares, reviewing group cross
+shareholdings, and utilizing more effectively treasury stock and cash on hand, we aim to build the
+optimal structure as a mobility company and maintain and improve our competitiveness.
+In summary, to realize a cycle of growing with our stakeholders, we will continue striving to
+strengthen our earning power, accelerate investments for the future, utilize more effectively our
+accumulated assets, and create a new structure as a mobility company to gain a competitive
+edge. Precisely because this is an age in which it is hard to predict the future, we hope to work
+together, with your support and encouragement, to create the future of mobility.
+To this end, we would like to use the results we have been able to generate, thanks to our many
+stakeholders, as a source of growth together with our customers, shareholders, suppliers,
+employees, and local communities. If you do not act, we will not be able to carve out a future for
+ourselves. We hope that you will continue to look forward to what Toyota will achieve and support
+us in the future.
+Thank you very much for your attention today.
+Questions And Answers
+Operator
+Thank you very much. Now, we would like to entertain questions. Please wait for a few minutes
+while we prepare for that.Now, we'd like to start the question-and-answer session. The people who would be responding
+to those questions, please come up to the stage. I'd like to introduce the speakers today, the
+Executive Vice President and Chief Financial Officer, Yoichi Miyazaki; Chief Communication Officer,
+Jun Nagata; Masahiro Yamamoto, Chief Officer of the Accounting Group. Please excuse us and
+be seated, so that the speakers will be seated as well. We would like to entertain the questions
+from the floor, as well as from online participants. We'd like to have a separate session.
+The first is a question to entertain from the people in this room. Those of you who have
+questions, please raise your hand and speak to the microphone. We'd like to give chance to as
+many people as possible, so please refrain from asking more than two questions. Two questions
+per person, please, and thanks for your understanding.
+The person in the middle row, please.
+Q - Unverified Participant
+[Inazaki Obasaki]. Thank you so much for this opportunity. About the outlook of this full year, the
+JPY1.18 trillion is a good figure, but as to the JPY141 to the dollar, the current depletion of yen is
+still ongoing. What about the outlook on the foreign exchange rate? Do you think that it will
+further be adjusted upward?
+The second question is related to just foreign exchange rate. Yen is weak, which is actually
+pushing up this raw material expense. That's a negative factor of the weak yen. How do you
+perceive the negative impact on behalf of TMC? Of course, the exporting of the companies tend
+to enjoy the benefit of this weak yen. However, what is the optimal level of the foreign exchange
+rate? How do you perceive that?
+Thank you very much for your question. Well, as to this fluctuating foreign exchange rates and
+what is the assumption in our company, like automatically that we just based upon the past
+results, and then this future assumption is based upon that. In the remaining segments, JPY140 to
+the dollar is the current assumption. That is the level of this assumption.
+However, as to the fluctuating exchange rates, what is the impact upon the Company? Well,
+whether weak yen is good or bad is not the issue, but foreign exchange rates, I think the stability
+is something we want to happen. That's something we appreciate, stable exchange rates. TMC in
+other countries than Japan, we would have to produce the automotive industry, and we'd like to
+continue to produce here in Japan.
+In the past, the [friendly] yen was so high, and then the Great East Japan earthquake struck.
+During that difficult time, rather than shifting the plant overseas, we continued to create
+employment by building the plant and continuing operations to continue for the local and regional
+communities in Japan. We have a strong base here in Japan. That means that we export vehicles
+from Japan. Of course, in the current phase of the weak yen, there is an effect, and then it might
+push up the income and the revenue.
+However, when you look at the overall supply chain, the yen is weak, might be positive or it could
+be negative in some other regions. It just depends on which region you are talking about. What
+we want is a more stable fluctuation of this exchange rate. We built this production plan and took
+a deep root in that community, and we cannot quickly shift your production sites easily. That's my
+answer. Thank you very much.
+OperatorQ - Unverified Participant
+Ikeda from [inaudible] newspaper. Now, I'd like to ask you about the Chinese market. For H2 of
+the year, what is your outlook for the market? In H1, the production level was rather low. The sales
+level was maintained from the previous year, as I understand. After H2 of the year and onwards,
+what will be the competitive landscape? What would be your sales projections? A related
+question to that would be about your BEVs sales forecast 200,000 vehicles was the original plan.
+Now, you've reduced that amount in your new forecast. Is it because the demand for BEVS has
+declined? Or is it because of Toyota’s product plans? Something specific to Toyota itself rather
+than the market? These two questions are related to the Chinese market. That's the first part of
+my question.
+The second is hybrid, including PHEV, is growing in your business. Earlier, Toyota’s hybrid has
+garnered the same profitability as ICE vehicles. Now, in terms of the plug-in hybrid vehicles, is the
+profitability on par with the ICE vehicles? The profitability of PHEV is the second question of mine.
+Thank you very much for your questions. In terms of the Chinese market, I'd like to respond. First
+of all, as for the market itself, the BEVs market is growing, centering on domestic OEMs. Ikeda-
+san has mentioned, we are maintaining our share of the market and remains stable. As
+Yamamoto-san mentioned earlier, the very strong, intensive discount competition has begun,
+especially in the area of BEVs. Under such circumstances, local OEMs in China, as well as
+incumbent OEMs, are competing very fiercely in terms of prices. Therefore, the discount rates
+had started. We plan to maintain our share of the market. Currently, we are maintaining it.
+Going forward, that would remain our assumption going forward in our business in China. Our
+BEV, as has been mentioned, is the area we have downgraded our forecast, but then, our hybrid
+vehicles are expected to increase. The total number of vehicles that way we can sell in the
+market will remain. That is one of the ways of avoiding the price competition. The units are
+declining. Why? Well, because of the fierce price competition is one factor. Actually, in the eyes of
+the customers, they have more choices and options, bZ4X and other Toyota vehicles still have
+room for improvement, and that's the message we are receiving from the market. We are talking
+about cars. We improve our models periodically. Therefore, going forward, we will continue to do
+so, responding to what the market tells us. As for the second point, I'd like to ask Yamamoto-san
+to respond.
+Thank you very much for your question about the profitability of plug-in hybrid, which is on par
+with hybrid vehicles.
+Operator
+Next is the person wearing a white jacket around the middle row, please?
+Q - Unverified Participant
+[inaudible] Tokyo. I have two questions. First, about this strategy and policy-based shareholding.
+Mr. Miyazaki mentioned that you reduced the cross-holding, and you would like to revise that
+even within the group companies, but you referred to that now at this time. What is the time
+scale that you would like to further revise or reduce the holding or the cross-holding on those
+policy-related shares? The second is the idea on this pay raise. Different companies in the latter
+half of this year, they would like to raise this labor cost, and then they will have additional
+spending for that. What is the policy? What is this cost related to the labor cost of some of these
+suppliers and others? What do you think of that?Well, as to the policy and strategy related cost holding of shares, during the previous quarter, the
+announcement of the financial results are already mentioned. Our philosophy in concept on that,
+and you really urged that we should be clearer about the shareholding. After the end of Q1, the
+announcement that we gave you our idea. This time, again, including even the group cross
+shareholding that we touched upon this policy on this shareholding, and the graphic also shows,
+we have done some of the measures and implemented measures.
+Our thought is unchanged. There is no longer any significance of cross-holding the share and so
+on. We revised it, we might make that money, and then there will be the financial resources for
+investing in the other new areas. We will switch the asset mix and then we find the new partners.
+We will invest in new areas. That is why we'd like to revise the cross-holding of the share.
+As to the group shareholding, we have the same concept. Optimal business within the group,
+we'd like to achieve that optimal business and information. The structure should be revised
+accordingly. Together with other companies, we are implementing this home-and-away concept.
+When our lineup is changing, we would like to really promote that kind of concept in the future.
+To answer the question about the timing of when we will implement that, well, when the need
+arises, we will immediately implement that needed action. That's our thought. Therefore, it's not
+something for the sake if this particular call, but we have the basic concept to find that when
+need arises quickly, we'll implement our action. That's what we'd like to do.
+Operator
+As for the second question, Nagata will respond.
+A - Unverified Participant
+Thank you very much. As to this thought on the salary hike pay rates, as Miyazaki also touched
+upon that at the beginning, for the sake of the stakeholders, we've been building the cost
+together with other stakeholders. Our message is because we'd like to create the future
+together. Automobile is something that we work together and build together.
+The first question is a concept on the pay rates within TMC. Of course, naturally, our employees
+and we are partners so that for this term to the next fiscal time, the inflation is taken and other
+factors pushing up the living cost. They have worked so hard, and then we, of course, appreciate
+the hard work. Taking all those stuff into account, we’d like to really have a good talk with the
+employees.
+Once a year, we have a [inaudible] talk every month. We have dialogue with the labor union
+members to try to improve the situation and then another improvement in one of another we
+improve. Taking that into account, the pay rate level will be considered for next year.
+As to the second question about how we respond to that with regard to the suppliers,
+employees, because the raw materials in all these things, the costs increased due to the weak
+yen, I think the procurement became so expensive, especially raw materials and electricity supply
+as the pay rate related areas. Since last year, we have taken that into account and then we paid
+accordingly to the suppliers. We will maintain that stance at the policy this fiscal time so that to the
+people around the stakeholders and suppliers, we will pay them accordingly.
+How should we push that up for the Tier 2 and other suppliers? Eventually, our message will be
+compared to all the suppliers, including Tier 1 to the rest.I have to add to this specific question, just additional comments. In my presentation, we talked
+about a shortage of truck drivers and logistics, and transportation is the issue. In that sense, of
+course, for the logistics costs, I think this is an area we want an improvement on, and we will
+extend our cooperation. As to the transportation costs, we are negotiating with this logistics
+company to raise the fees for them so that the effect should be the increased reward for the
+truck drivers. That's something we are talking about with the logistics and transportation
+company. We hope that we will really pay accordingly.
+Operator
+Fourth row, alongside the aisle, please.
+Q - Unverified Participant
+[Inosima] from Bloomberg. BEV exports from China is something that I would like to ask about. In
+addition to that, that had an impact to southeastern older businesses. What is the immediate
+situation and the new outlet going forward? Also, higher interest rate, will that have any impact to
+your procurement as well as sales? Once again, they need a situation in the outlook I would like
+to ask. Do you have any responses to those developments?
+I'd like to respond to the first question of yours. The BEV exports from China was the question
+and how that would impact our operations in Southeast Asia. Now, BEV exports from China are
+increasing, and we have confirmed that. Thailand and other countries have seen batteries
+becoming a certain industry segment. For the future outlook, most probably Chinese BEVs and
+other OEMs will continue to strengthen their exports or expand their operations overseas. That's
+something we have to expect.
+What do we do about it? I’m sure you already know it's not that we don't have the battery EV
+lineups, the question is when we’ll actually introduce them and launch them as products. I cannot
+be too specific. Japan to Southeast Asia and the Chinese exports have different levels of tariffs in
+different countries. At what timing we consider local production or at which timing we start
+exporting from Japan to Southeast Asia our BEV, we really have to be watchful of the market
+situation, as well as the competitive landscape going forward. Thank you for your question.
+In terms of the higher interest rates, especially in the area of sales and financing services, I
+believe, you're very right, especially in the United States. Interest rates are being raised. In terms
+of procurement, the margin of profit is declining. The financing business of ours is not really losing
+steam. It's still stable because of the residual value that is the cost or the value of the used car
+remains very strong. Overall, the used cars have maintained a higher price point. What we hear
+from the market, the power of the product, which maintains the residual value of the used cars
+contributing to profitability. That's the value of coming up with powerful products, and that
+certainly has a positive impact to the profitability. Thank you for your question.
+Operator
+Person in the second row from the back.
+Q - Unverified Participant
+From [inaudible], my name is [Shiraoka]. Will there be any change to the investment practice
+because the first is that in this financial relative cash seems to be accumulated a lot in your
+company six months ago. At the first conference, you said that the share price was a bit down, so
+you mentioned the shareholders. As of now, your share prices went up to a high level. Of course,it's not something you would determine by your company, I'm aware. The share price is high, so
+shareholders are really expecting the further growth in your company.
+More investment means more return, and the shareholder price is so high. Maybe capital cost,
+funding cost is going down for your company. I recognize. So, you have abundant cash, and it
+might be spent as a dividend payout to the shareholders. Maybe shareholders really expect your
+company to grow further. Maybe you can invest that into the R&D. That is for the sake of the
+future, is it likely you invest more for R&D and other future projects?
+Thank you for your question. In this interim announcement figure, the feeling on that is something
+I'd like to touch upon. In our presentation, I have also tried to convey this message, but in this
+announcement of the financial results, of course, the people who purchased the model and then
+loved them, we should really appreciate the users. [inaudible]. We should really express a
+gratitude. There are lots of customers who are waiting for a vehicle. As soon as possible, we
+have to deliver the vehicles. Therefore, the suppliers and the manufacturing plants and logistics
+company people and others are working hard to deliver it as soon as possible, dealers as well. I'd
+like to take this opportunity to thank all the stakeholders because of their hard work. We finally
+achieved this group number this time.
+As a result, [inaudible] in each the offices and the front-line fields, these partners are supported
+by the local community residents and other stakeholders. It’s all thanks to all these people who
+contributed to these numbers. I can't really think of a better word. Anyway, these earnings, the
+profits, are not to be used for our own sake, but rather, we'd like to spend it to transform the
+Japanese automotive industry. How can we create and explore the new mobility business here in
+Japan and so on. That's where we'd like to make further investment so that we can return this to
+the society at large. One company alone cannot change the future of automobile. Multiple
+companies and reach a formal partnership, and we’d like to actively invest in new areas so that
+we can transform the future of those ones. That's something we'd like to explore.
+The result of these efforts, we'd like to further strengthen our earning power. As I said, again, I
+would like to return the benefit back to the stakeholders, and with their support, we'd like to go
+up this next step. We'd like to steadily turn this good cycle. That's something we'd like to do. That
+is the basis of our foundation. Then, we decide on where to invest further. We have to really sow
+different plants, and what kind of seeds are needed is not yet clear. We will plant seeds, sow the
+seeds in many places, explore different abilities, and then we might create a new species of
+plants and so forth. That's something we'd like to try.
+Another question is about the domestic production. Foreign exchange rates are likely to really
+change, fluctuate much. 10 years ago, yen used to be strong, but the domestic employment and
+suppliers had to be protected. The automotive plant, in the short term, it's not really a positive
+situation, but you still enjoyed through that difficulty, but now the foreign exchange rate has
+changed. Clearly, you have a high quality and producing here in Japan makes it the most
+competitive situation for you. To continue to change Japan is the most competitive. What do you
+think of the competitive edge of the domestic production?
+Thank you for your question. As to the competitive edge, before that, talking about competition,
+close to three million units of the domestic production level has been maintained for a long time
+because TMC [inaudible] trend we had [inaudible] production company because we were a
+company born in Japan. We've been a Japanese company. We were in the Japanese society and
+the nation of Japan.How can we continue to make contribution to the people of Japan? That is an important mission
+of about a dozen years ago. The earthquake occurred in Tohoku and then yen was so strong.
+There were six hardships we suffered and a lot of plans to move overseas. After the aftermath of
+the earthquake, we created the East Japan Toyota models, and we wanted to contribute to this
+local community of Tohoku by automotive production. We did something, reversed the trend
+compared to other parties.
+Now, East Japan, in Tohoku, we believe that we have made a contribution to the whole region,
+and we still do. We would like to maintain the policy, three million units, to continue to be
+produced here in Japan. In terms of number, of course, JAMA is also relevant here. Anyway, are
+you aware that in Japan, there’s a JPY15 trillion income for Japan, thanks to this export
+automobiles? Energy cost is going up here in Japan as well due to inflation, but still, it’s kind of a
+difficult situation. Two or three years ago, the JPY15 trillion was spent to really procure energy in
+Japan imported.
+In order for Japan to be economically feasible, I think you have to continue to earn foreign
+currency. Toyota should really support that kind of systems as a company, and the number should
+really approve that. As Mr. [inaudible] mentioned, what about the future? We should never
+deviate from this policy. We'd like to keep the stronghold here in Japan and continue to make
+contributions to the local community and regional communities here in Japan.
+Operator
+Next question, please. The person in the second row from the front, please?
+Q - Unverified Participant
+I am [Katsumata from Chubu Kansai Shinbun]. I have one question for you. As for April to
+September, repricing efforts. Over the past recent years, it seems it has had a major impact.
+Would you be more concrete in telling us what you have done? As Nagata-san mentioned earlier,
+rewarding your suppliers is something that you have done. Based on that, cost-reduction efforts
+together with the suppliers is another area of interest that I would like you to elaborate on. Thank
+you.
+Thank you for your question. Improvement efforts at Gemba can take multiple forms as you've
+seen in Miyazaki-san’s slide.
+I listened directly to people in Gemba, and I'm feeling the advancement of digitalization. I'm
+referring to a specific slide here. In terms of machined parts, the visual inspection of the surface
+find 1 out of 10,000 some defective parts. People in the Gemba have a very intense job because
+they should not overlook such defects. Then, you introduce AI camera. It can really be effective.
+On the right, you see sealers being applied, sealers that you're paying to reduce [inaudible]. It
+really takes skills. Then, there are seasoned craftsmen who are so good at it. VR algorithms can
+read in what seasoned craftsmen would do, and newcomers can mimic what the seasoned
+craftsmen would do. That results in a reduction in training hours, and some specific techniques
+can be handed down to next generations.
+Three years ago, together with our labor union, we decided to catch up with others in
+implementing such digital technologies. Certainly, production area, our engineers and technicians
+are really eager to learn all our employees over the past couple of years during the pandemic.
+We have seen such result. With very strong workloads in Gemba, the use of technologies andsuch certainly has proven quite effective. This is something Toyota does. This is something that
+we do together with our suppliers.
+Well, in terms of our suppliers, I've given you several examples. We have direct touch with Tier 1,
+Tier 2 suppliers of ours. We have direct touch points with them. That's probably the physical limit
+of our reach. If improvement efforts should cascade it down to further down in the pyramid, then
+JAMA and parts supplier associations together should work together in implementing such
+improvement efforts. Nagata-san is working on that. Nagata-san, do you have anything to add?
+This is also an activity of JAMA. As Miyazaki-san mentioned, JAMA’s Supply Chain Committee is
+the forum that we work together, especially in a deeper dive in our supply chain, what they should
+do is something that JAMA can communicate very well and parts suppliers’ association as well, in
+terms of the creative ideas of what can be implemented. Of course, sometimes we can visit
+Gemba of those lower-tier suppliers, and that's the effort made by the entire industry
+association, not only by Toyota. Our activities are aligned with those with JAMA, and I think that's
+extremely important right now.
+Now, in the future, as has been mentioned, electrification and transition to BEVs, how should we
+go about that? As you go down in our supply chain, especially the smaller suppliers, they are at a
+loss of what to do, especially in the area of carbon neutrality, they are at a loss of what to do. Not
+only our direct suppliers, but JAMA and parts supplier associations’ network should be leveraged
+so that we can work from both directions.
+Operator
+Thank you very much for all your many questions. Now, I would like to shift to the online
+participants to entertain their questions. Online participants, when you have a question, please
+push the button to raise your hand, and we’ll call out your name. Then, please turn on your
+microphone and camera before you speak.
+No one has raised the question. I would like to return to the people on the floor in this hall, to
+entertain questions directly from them. The person on the third row from the front.
+Q - Unverified Participant
+I'm Hayakawa from NHK. For these financial results, you presented the operating income and the
+profit, you have achieved a record high. As [inaudible] mentioned, they expressed gratitude.
+However, how do you proceed over these six months, the financial results? Of course, the raw
+materials and other prices are going up. For the future, the outlook, you have upwardly revised
+the future outlook. However, what are some of the concerns and some of the factors you are
+considering carefully?
+Earlier, I have made some summary statements in my remarks, but the actual numbers we have
+seen. Of course, each field and each of the position people work so hard to come to this good
+result in the loans. Now, as to the full year outlook, we have presented. Of course, we have the
+resolve that we will continue to do this good work by working hard. However, the efforts are really
+observed in this marketing sales. This number is so good. What is the backdrop for this good
+marketing? We have introduced the Company system to build an ever-better car. The appealing
+product lineup have been prepared already. That is a major important basis.
+The second factor is that many changes are occurring. However, every day, in the daily
+operations, the accuracy is going up, and then we have to make a quick decision. Local
+specification has been tailor-made for each area. The facts in the field and frontline has beenconsidered to make a quick decision. Those results have been reflected in these good results.
+More than ever, to build an ever-better car in the local community that the local Gemba-based
+decision is made quickly. In others, the other people involve in this production and logistics and so
+on, these united efforts of these people were reflecting this good number.
+Anyway, it cannot be done overnight. It's been the result of all these accumulated hard work and
+daily improvement the united effort. All these results are reflected in this good result that we are
+announcing today. We are faced with a good situation now. We'd like to continue this good
+practice from now. We have just completed half of this full year business, and we can never feel
+so easy because we still have a lot of risks that we have to be prepared as I pointed out. The full
+year, the production is 10 million and 500,000 units. We haven't changed the production outlook,
+but from my standpoint, we might have had a kind of a positive outlook.
+However, as you pointed out, there are lots of concern. This market behavior is changing in China.
+In China, the real estate situation is uncertain, impacting Southeast Asia and Thailand. In Vietnam
+and Thailand, the market itself is going through some changes. We can never feel too optimistic.
+We really have to be careful, but still, the uncertainty in front of us and that uncertainty is getting
+more serious. We should really have to spread the antenna to have a good communication with
+the local CEOs and others to supply these good cars, which will please the customer there, and
+then really adjust the cars according to the customer in each region. That's what we'd like to be
+prepared. Thank you very much.
+Operator
+Next question, please. Person in the front row, please.
+Q - Unverified Participant
+I am Kato from Mainichi Daily. I have two questions. Now, Miyazaki-san, you talked about the
+contribution to the future mobility industry, the future automotive industry. Yesterday, you made
+an announcement about additional investment in the United States in production. Hydrogen
+battery carbon neutrality areas will become the focus of your future investment? The second
+question is, earlier, you experienced some accident at your suppliers' factories, which caused
+some holding of your production line. Does it have any impact in your production plans going
+forward?
+Now, the investment for the future, of course, carbon neutrality is a major focus area. Going
+forward, battery EVs, as well as hydrogen will become important areas as well because they will
+lead to new business domains. There are multiple options for investments. During the technical
+workshops and monozukuri manufacturing workshops, you have witnessed all those endeavors
+that we are making. Investment certainly is made into the areas where we have a basis of
+technologies, engineering, and capabilities. Technical workshops have demonstrated that we do
+have such a foundation. In monozukuri workshops, you have witnessed our engineering prowess,
+which would enable further investment in such areas.
+Now, the question, I'm sure, would be, what about ROI and profitability? How can we connect
+those different pieces of technologies and engineering prowess? How can we allocate our
+investment going forward is something that we will still have to determine.
+You asked about the accident of Chuo Spring Company. Actually, because of the data
+deficiencies, we have experienced halting our assembly lines at the Chuo Spring Company, and
+they have resumed production. Bringing them up to speed would be the current focus. As of now,we haven't changed our production plans. Before the end of the year, we will make some
+recoveries. That's something that we do to respond to that particular accident.
+What we have to do is because frequent incidents like this or accidents like this would in
+convenience our customers. How to manage aging manufacturing equipment and facilities is
+something that we really have to go through together with our suppliers. We've already begun
+our endeavors so that going forward, we will not cause any convenience to the future customer
+of ours. We will continue steadily for the improvement. Thank you very much.
+Operator
+We’d like to just entertain two more questions because time is getting short.
+Q - Unverified Participant
+[Inaudible]. In the USA, about the American market, that's my question. Three months ago, when
+we announced Q1 the results, there are some risk factors, and you mentioned the risk. What is
+the outlook of the US market from now? The second question is the UAW strike has finally been
+settled. What will be the impact and the rippling effect due to the strike in the USA? Because US
+automakers, their burden is going up. Some people say that it will be advantageous for the
+Japanese companies, but maybe investment costs will go up because of the overall impact. What
+do you think of that settled labor union strike in the USA?
+As to the outlook for the US market, let me respond to that part of the question. First, the
+economic numbers myself, I think you might present and make us feel a bit cautious. From actual
+operators in the US market, that is not yet being felt directly in the market because the inventory
+level, stock level might have been improved slightly, but there's a shortage of product. The
+image level, that's the US market situation, and market demand is strong. That’s the analysis as of
+now.
+However, fairly looking at the other OEMs, maybe it's not the case forever. There are
+differentiation amongst different OEMs in the US. What we actually feel, this is a strong market
+tendency right now. That is because of a good powerful lineup and appeal of our products.
+Because of that good line of products, we are in a good position. As to the overall market
+condition, we still have to be cautious, and we need to monitor closely. The US market itself is in
+that kind of condition right now.
+What about the global situation? The US, or the European market, a strong market. On the other
+hand, as I said, China, the economic situation is getting a bit stagnant, and the market is changing
+in some of the emerging countries as well. When you look at the overall global situation, we have
+a well-balanced portfolio around the world. Where we should do what kind of operation should
+be really scrutinized by us.
+As to your second question, Nagata will respond to your second question.
+After the UAW strike, would that have an impact on Toyota and other companies other than
+Detroit? Well, we are so sure about the possible impact on us. However, we feel after the strike
+that basically in US operations, like TMNA, basically should have the dialogue with the employees,
+like Toyota’s intracompany-level union, we should have a good dialogue with the employees.
+Their hard work and company competitiveness should be discussed between the management
+and the level union members.
+What about the pay rates? What is the good optimal employee pay rate in order to improve theentity announced yesterday for the North American company, they have the regular pay rate.
+They announced the result of the settlement, as I said, the employees made a great contribution
+in comparison to the other companies’ pay level. That's how we decided to revise and increase
+our pay level. We'd like to enhance a competitive edge, and it should be a good cycle. In North
+America, the Company should really upgrade itself to the better future. We would like to create a
+good cycle toward the better future. As Miyazaki said, he intends to make an investment in many
+new areas. That's what we'd like to do. That's the belief for the future.
+Operator
+Let us entertain the last question for the day.
+Q - Unverified Participant
+I am Yamamoto [inaudible], a freelance journalist. Now, your numbers are overwhelming.
+Chairman [Akiyo] has saw the fees for over the past has 14 years, and those numbers indicate
+the results of that. I'm sure a new management executive group will do something that is unique
+to them. What sort of seeds do you think they will sow? Also, what would be the weaknesses that
+Toyota has to continue working for?
+It's a very tough question as a matter of fact. Sowing the seeds. When it comes to this new
+executive group, as you've seen at the Tokyo Mobility Show, there are new areas that we are
+working on right now. When you sow seeds, you cannot expect it to burgeon immediately. You
+don't know whether the seeds were sown by yourself or someone who were before you.
+Anyway, it's an all-out effort of the entire company under the new executive team. Nurturing new
+ideas, we would like to explore new possible business domains. As we do so daily, several years
+later, we will look back at what we did and what we discussed and find that we have done several
+years ago has been a very good decision and have flourished.
+What are the weaknesses of Toyota, as you asked? As I mentioned earlier, if we become
+complacent and lose focus in what we do, that will turn out to be a major weakness. What is our
+cause? Why do we work each and every day? Why do we make strides forward? Those are the
+things that we would like to continue talking with our employees to make sure that we are
+aligned. We would like to raise the level of the entire automotive industry of this country, and we
+will do our very best in contributing to that end. For that purpose, I thank you in advance for your
+understanding and your cooperation.
+Operator
+This concludes the question-and-answer session. We would like to ask the speakers to stand up.
+Again, we'd like to thank you very much for your participation. Thank you. The speakers will now
+step down from the stage. Thank you.
+This concludes all the programs of this announced briefing session on the financial results. Thank
+you very much for your participation.
+[END]

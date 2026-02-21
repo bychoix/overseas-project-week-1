@@ -1,0 +1,992 @@
+Q1 2016 Earnings Call
+
+Operator
+Good afternoon. Welcome, ladies and gentlemen, to AstraZeneca's Q1 Results Analyst
+Conference Call. Before I hand over the call to `Pascal Soriot, Chief Executive Officer & Executive Director, AstraZeneca, I'd like to read the
+Safe Harbor statement.
+The company intends to utilize the Safe Harbor provisions of the United States Private Securities
+Litigation Reform Act of 1995. Participants on this call may make forward-looking statements with
+respect to the operations and financial performance of AstraZeneca. By their very nature,
+forward-looking statements involve risk and uncertainty, and results may differ materially from
+those expressed or implied by these forward-looking statements. The company undertakes no
+obligation to update forward-looking statements. There will be an opportunity to ask questions
+after today's presentation.
+We will now hand you over to AstraZeneca, where the call is about the start.
+`Pascal Soriot, Chief Executive Officer & Executive Director `
+Hello, everyone. I am `Pascal Soriot, Chief Executive Officer & Executive Director, CEO of AstraZeneca. Welcome to the Q1 2016 results
+conference call for investors and analysts. The presentation is posted online for you to download
+and there's also an audio player.
+I'm joined today by `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global, Executive Vice President for Global Product and Portfolio Strategy,
+Global Medical Affairs and Corporate Affairs; `Marc Dunoyer, Chief Financial Officer & Executive Director, our CFO; and `Sean Bohen, Chief Medical Officer & Executive Vice President, our CMO.
+We plan to spend 20 to 25 minutes on the presentation and leave ample time for Q&A. In total,
+we have about one hour together. So please turn to slide two, where you'll see our forward-
+looking statements. Moving to slide three, you will see there the agenda. The plan for today forme is to provide a short overview and then I'll hand over to Luke for an update on our Growth
+Platforms and the ongoing launches of new medicines.
+As usual, Marc will cover the financials and our guidance. And then Sean will provide a pipeline
+and newsflow update, and I will end up with concluding remarks before we take your questions.
+Moving to slide number four. Q1 2016 was a good start to the year for AstraZeneca and we met
+expectations. We delivered 5% growth in our total revenue; 6% growth in our Growth Platforms.
+Our focus on cost discipline continues as we reduced core SG&A cost by 6%. Within R&D cost, we
+saw a slowdown in growth despite taking on board R&D cost related to ZS Pharma and Acerta.
+We received four regulatory approvals and four regulatory designations which underline the
+continued progress of the pipeline.
+Now taking a step back and looking at how we advance our strategy. AstraZeneca continues to
+make significant progress toward the total revenue target that we communicated earlier for
+2023. The company has increased pipeline productivity. We've built our therapy area leadership.
+We've developed our Growth Platforms and, clearly, we've transformed our culture as well.
+The shape of the business is evolving rapidly now with the growing number of specialty care
+medicines; in particular, in Oncology. In line with this strategy design to deliver benefits to patients
+and value for shareholders, we today announced further focus on our main therapy areas to drive
+greater productivity across the organization.
+The growth of our pipeline is such that we have to further prioritize and further sharpen our focus,
+and we have to allocate additional investments to Oncology.
+Alongside this, we'll continue to work with others in the opportunity-led part of the portfolio and
+accelerate the partnering of areas such as Infection, Neuroscience and Inflammatory Diseases
+outside of (4:15).
+So this focus will also streamline the operations, primarily in commercial and manufacturing. And
+this together with the drive for greater efficiency will deliver a material decline in our core SG&A
+cost in 2016 and 2017, as we previously guided you we would be targeting.
+These changes will increase our operational effectiveness. And by the end of 2017, they're
+expected to generate net annualized benefits of about $1.1 billion that will be reflected primarily in
+our core SG&A cost. We expect to incur a $1.5 billion one-time restructuring charge, the majority
+of which will be cash.
+Final estimates for program costs, the benefit and the impact will be subject to consultation. Marc
+will provide further details later on.
+Turning to slide five. You see the 5% growth in total revenue here that was impacted by a 4% hit
+from currency movement. The growth in total revenue was primarily driven by externalization
+revenue from new China partnership on Plendil, a medicine for hypertension.
+Our product sales grew by 1%. The Growth Platforms grew by 6%. As I said earlier, R&D cost grew
+by 6%, and we intend by the end of the year to keep this R&D cost broadly in line with last year. In
+fact, the growth in R&D would have been 9% if we adjust for recent acquisitions.
+We're on track to deliver what we communicated as far as R&D cost for the year. We continue to
+see a good reduction in our SG&A. We're also on track to achieve our goals for SG&A costmanagement for the year. And the core EPS decline of 7% reflect a lower level of other operating
+income and increase financing cost from the recent transactions.
+Slide six. This is a very exciting slide that shows that we achieved four approvals in the first
+quarter and four designations. So as you can see here, we're pleased with the fact that the first
+medicine from our acquisition of Pearl Therapeutics can soon benefit patients with the approval
+of Bevespi, previously known as PT003.
+With the triple combination PT010 in Phase III, we are well positioned to offer the benefit of the
+unique co-suspension technology that allows multiple medicines in the same unique device.
+Zurampic and Brilique each received approval in the EU for gout and post-MI respectively. Very
+importantly, Tagrisso received Japanese approval in certain forms of non-small cell lung cancer,
+and we consider this as a true milestone. Not only is Japan the market with the most potential
+patients, but the time line for Japanese approval is a new record, only a few months after
+approval in the U.S. and EU.
+It reflects the quality of the product, of course, but the commitment and the dedication of our
+team as well in Japan and globally. We look forward to publishing further data for Tagrisso as we
+see longer and longer progression-free survival and also a large benefit to patients with brain
+metastases, a frequent site for disease progression in lung cancer patients.
+On top of the four approval, we received four regulatory designation that are detailed here on
+the page. We're excited with the external recognition of our advances in science and the patient
+benefit that this brings.
+With this, I'll hand over to Luke who will take you through the Growth Platform.
+`Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Thanks, Pascal. Hello, everyone. So if we can just go to slide eight. So quarter one marked a good
+solid start to the year for the Growth Platforms. Our growth rate slowed in some areas versus last
+quarter; however, our performance remain in line with our long-term goals. Despite a challenging
+external environment, our performance was driven by our well-positioned geographic footprint
+and diverse product offering focus within our key therapeutic areas.
+If you'd move to slide nine; thanks. So if I start with Respiratory this morning, we delivered 2%
+sales growth during the quarter, which reflected a strong performance in Emerging Markets and
+the contribution from new products. This was offset, however, by Symbicort in the U.S. and the EU.
+Total sales of Symbicort declined 7% in the U.S. specifically. Volume growth was partly offset by
+pricing as a result of new contracts.
+Moving forwards, we do expect pricing to stabilize over the year as these new contracts settle in.
+Europe sales continue to be affected by slower in-class market growth and competitive pressure
+from both branded competition and analogs. However, despite a highly competitive market
+environment in EU, Symbicort maintained its market leadership in the class. And encouragingly,
+Symbicort in the pMDI format was also approved, COPD in Europe.
+Emerging Markets Respiratory sales grew 18%, now accounting for 14% of global product sales.
+And Pulmicort growth was largely driven by a 24% increase in Emerging Markets, particularly in
+China, which delivered a very pleasing 34% growth.
+Pulmicort in China continues to grow from the expansion of treatment centers, and we believe
+that this growth is sustainable with additional initiatives in home nebulization; and linked to this aAs to the new medicines in Respiratory, Duaklir is achieving market share of 20% to 30% in our
+lead markets, and Eklira and Tudorza managed to grow ahead of the market in a decreasing
+LAMA class.
+In the U.S., Tudorza was impacted by tougher access and a voluntary recall. We remain confident
+about the potential of the class, given the treatment guidelines recommend the addition of a
+further bronchodilator to standard ICS/LABA combination treatment for patients who are not
+controlled.
+Finally, we're very happy to receive the FDA approval for Bevespi, a LAMA/LABA using our
+proprietary co-suspension technology. Bevespi is the first in class to be delivered in a pMDI.
+With this approval, we're very pleased to offer a new treatment option to COPD patients, and
+the approval of Bevespi represents a successful milestone for our Respiratory franchise, which
+we expect to see further evolve later this year with benralizumab and tralokinumab data. And
+Sean will cover this shortly.
+If we just go to slide 10; thanks. So for Brilinta, global product sales were robust, growing by 46%.
+In the U.S., Brilinta gained further total market share at the expense of generic clopidogrel and
+one branded competitor.
+And if we look at new-to-brand prescriptions, Brilinta remained the branded market leader. And
+we also had some good news on guidelines out of the ACC in March. So the updated ACC, AHA
+guidelines in the quarter now recommend Brilinta over clopidogrel in STEMI patients.
+And with the support for treatment beyond 12 months, dual anti-platelet treatment, these
+guidelines now support the long years – longer years of this therapy in patients beyond one year.
+While the U.S. sales are encouraging, we do need to keep patients on the medicine longer for
+them to fully benefit from the treatment, and this will be a focus for us. And certainly the
+guidelines will support this messaging.
+In the EU, we had growth of 19%, with approval of Brilique in the post-MI indication in February.
+The launch of the 60-milligram dose is now underway in Germany, the Nordic countries and in UK.
+And the Netherlands has already secured early reimbursement.
+In Emerging Markets, it was another good quarter with consistent growth continued, with
+particular strength in China, despite the fact that there is no price listing or reimbursement. And
+we also saw encouraging growth in Russia.
+Please turn to slide 11. If we now look at Diabetes, this was a really strong performance in 2015 –
+sorry – the strong performance in 2015 continued into the first quarter. We had a strong
+performance of 23%. Growth was visible across all the regions – you can see this on the slide
+here in the middle – in what remains a very competitive market.
+I think we're well positioned with our broad portfolio and exposure to all classes in the non-insulin
+market. And if we look at the Farxiga family, it continued to lead the SGLT-2 class in volume share
+in the EU and international markets and also led to dynamic market share in Japan.
+In the U.S., Farxiga gained share due to preferred status with one major health plan and outgrew
+the SGLT class. But I think it's fair to say that competition within the class is expected to remain
+very intense.For Bydureon, the growth was supported by strong class growth of around 25% overall, and the
+continued successful launch of the pen device helped drive product sales across the globe.
+Product sales in Europe and Japan continue to outpace the class. And while the U.S. also
+benefited from market growth, competitive pressure remained. Next slide, please.
+If we look at Emerging Markets in aggregate, during the quarter the overall market, Emerging
+Markets growth rate slowed. However, we are on track with our long-term goals. Our established
+portfolio is well positioned as the main near-term growth driver in Emerging Markets. Trends of
+better diagnosis, improved access and favorable patient dynamics all bode well for our
+established products in Respiratory Diabetes and CV Medicine.
+The slowdown in growth in the first quarter was mostly attributable to two factors: the
+macroeconomic situation in Venezuela and a significant cut in government spending within Saudi
+Arabia. Looking at geographic performance. While growth in China slowed during the quarter,
+including some inventory reductions, the sales channel – in the sales channels, we are growing
+faster than other multinational companies and growing faster than the overall market.
+Pulmicort Respules interestingly is now the top medicine in China amongst the multinational
+company medicines, with Nexium and Crestor also in the top 15. Looking forward, we expect to
+maintain this solid growth in China.
+Brazil and Russia grew faster than the market at 19% and 5% respectively; and also, the Middle
+East and Africa and most of Latin America also grew faster than their local markets.
+Moving from geographic performance, just to give you a little bit of color around product sales.
+Emerging Markets growth was supported across all the main therapeutic areas. The Respiratory
+sales were up by 20%; Brilinta was up 109%; Diabetes was up 65%; and finally, legacy – and I
+emphasize legacy – Oncology was up 5%.
+As a reminder – and we've placed this on the side for you – the long-term target for Emerging
+Markets is mid to high single digit percentage growth in product sales, and we remain on track for
+this. Next slide; thanks.
+Coming to Japan. In Japan, product sales declined by 7%, driven by the Mature portfolio, which
+had a decline of 10%. However, the Growth Platforms grew by 8%. Specifically, our off-patent
+Oncology medicines continue to face strong generic competition, and there was also some
+destocking in the quarter in advance of the biennial price cuts from the 1st of April. And these
+price cuts are at similar level to those in 2014, with a total impact of about 6%.
+These were concentrated on the off-patent oncology and anesthesia medicines as well as our
+major revenue generation – generating medicines, Crestor and also Nexium. Specifically for
+Nexium, the Q1 2015 comparison. just to flag it to you, was high due to restocking because we
+had a recall in 2014 in Q4.
+During the quarter, the key growth medicines in Japan, Symbicort, Crestor and Nexium, all
+maintained leading dynamic market share positions in a competitive market environment. And
+that's what we've put there in the middle of the slide. You can see the bar charts. In addition to
+our established portfolio in Japan, we're also preparing for the next wave of product launches.
+And we're very excited about the recent regulatory approval for Tagrisso at the end of March, as
+Pascal has flagged, just seven months after submission and a few months after approvals in the
+U.S. and EU.And we expect Tagrisso to benefit from our existing Oncology presence and infrastructures we
+outlined at the annual results. And it represents a significant opportunity to address a high unmet
+need in a population which has a high prevalence of the EGFR mutation.
+Please turn to slide 14. So if we finish off some very exciting news. So the two new Oncology
+product launches, Lynparza continued its strong trajectory after one year of approval. Globally, an
+estimated 2,800 patients have now been treated with commercial supply on Lynparza.
+Despite the bulk of patients being fourth line, we continue to see encouraging signs the durability
+of the response for Lynparza. And interestingly, we estimate around 20% of the initial patients
+remain on the medicine.
+Lynparza is now been launched in 21 countries, with reviews ongoing in 14. And as can be seen
+from the middle part of the slide, BRCA testing rates have again increased over the past 18
+months to around 60% in the U.S. and around half the eligible patients in the EU, which is very
+encouraging. And as Sean will explain later, the expensive – the extensive development program
+is quickly advancing, and 2016 will be an exciting year for Lynparza. And advancing also the
+promise and our commitment in the area of DNA Damage Response.
+Turning to Tagrisso. Again, we've made very good progress just over a quarter after launch. We
+received approval in the EU in February in addition to the Japan approval I mentioned earlier, with
+multiple submissions and reviews ongoing.
+In terms of patient numbers, just to provide a little bit of context for you, we currently have nearly
+2,000 patients in pre-launch access programs. And as a leading indicator, T790M mutation
+testing rates are on the rise. In the U.S., the rate is around 40%, up from 10% before launch. And I
+think this is very interesting because unlike BRCA, prior to the availability of Tagrisso, there was
+no utility in testing these patients because there was no therapeutic option for them.
+On top of this, we anticipate testing rates to increase further after the ctDNA diagnostic test is
+expected to become available in the U.S. in the second quarter of this year.
+So in summary, reflecting on the growth driver performance in Q1: while the growth rate slowed in
+some areas, the resilience of the business was strong and in line with our expectations.
+I'll now hand over to Marc.
+`Marc Dunoyer, Chief Financial Officer & Executive Director `
+Thanks, Luke, and hello everyone. I'm going to spend the next few minutes taking you through
+our performance in the first quarter and our guidance for the full year.
+Please turn to slide 16. As Pascal mentioned earlier, total revenue grew by 5% at constant
+exchange rates. We continued to face currency headwinds in the quarter, which impacted total
+revenues by 4%.
+Our Growth Platform again performed well. And in line with our business model, we continue to
+generate value through externalization. For example, through an agreement with CMS for Plendil
+in China and an agreement with ProStrakan for Moventig in Europe. In line with full-year guidance,
+core SG&A costs reduced by 6% to 35% of total revenue. This was a significant improvement
+versus quarter one 2015.
+Further down the P&L, the rise in financing charges charges reflected the dilutive effect arising
+from the ZS Pharma acquisition and Acerta Pharma investment. The 7% decline in core EPS atconstant exchange rates to $0.95 was also driven by the impact of a significant year-on-year
+decrease in other operating income. The adverse impact of the currency headwinds on core EPS
+was 5%.
+Finally, as I mentioned at our last result presentation, we may well see greater fluctuation in the
+quarterly earning performance this year as a result of the loss of Crestor, which goes off patent
+next week.
+So please turn to slide 17. Looking at other in line of the P&L, product sales grew by 1% despite
+significant challenges, for example for Nexium. Given the 6% rise in the cost of sales, the gross
+margin on product sales fell by one percentage point to 83%.
+The 15% increase in core R&D in the quarter included the absorption of the R&D cost from
+acquisition investments. Excluding this absorption, core R&D cost would have grown by 9%, a
+significant slowdown.
+Our core tax rate was 17% in the quarter, in line with the full-year comments I made in February of
+a 16% to 20% range, which will depend on the eventual geographical mix of profits.
+Please turn to slide 18. Core SG&A reduction continues to be a key focus for the business. We
+made good progress in the quarter. As I mentioned earlier, core SG&A cost declined by 6% in
+absolute value, and by over four percentage points relative to total revenue in quarter one 2015.
+As I stated in February, core R&D costs this year are expected to be at the similar level to full-year
+2015. You can clearly see on the chart the fall in core R&D costs from quarter four 2015 to quarter
+one 2016, despite the first-time absorption of the acquired R&D cost mentioned previously.
+Please turn to slide 19. As we continue to maintain cost discipline across the business, we have
+announced today actions to advance our strategy implementation by sharpening our focus on the
+three main therapy areas, enhancing operational effectiveness and adjusting cost structures.
+We have made good progress focusing on the main therapy areas. For instance, in RIA, we have
+expanded the portfolio and are beginning to capture the benefits. In CVMD, we are broadening
+our portfolio, recognizing the loss of Crestor. And in Oncology we have one of the most exciting
+and balanced pipelines in the industry that we will further advance. But we plan to go faster and
+further.
+In parallel to this focus and prioritization, we will reduce cost at the global, regional and country
+level and make far greater use of shared services. We plan to reshape our manufacturing base,
+optimizing our presence in key strategic sites while taking into account the need to create
+capacity in our biologics supply chain.
+As well as continuing to focus on productivity and simplification, our R&D structure will benefit
+further from externalization, for example, as we share R&D costs with key partners. These
+changes will enhance our operational effectiveness, and once implemented by the end of next
+year, I expect it to generate around $1.1 billion in annuals net benefit versus full-year 2015. The
+benefits will fall mostly within the core SG&A cost line. We expect to incur up to $1.5 billion in one-
+time restructuring charges, the majority of which are likely to be cash costs. It is important to
+emphasize that these benefits are taken into account by our full-year guidance, which remains
+unchanged today.
+Please turn to slide 20. You may well be familiar with this slide that summarizes the challenges
+and opportunities we face this year. We know that there are two clear pressures on the businesswhen we think about our 2016 guidance; namely, the loss of exclusivity for Crestor in the United
+States, plus the dilutive effect of the recent acquisition investments.
+But our Growth Platforms continue – consistently perform well. We also have a very busy year for
+the pipeline and our launch program. We will continue to pursue value-creating externalization
+and disposal opportunities. As I've just mentioned, we have greater focus on cost discipline. All of
+these factors are within our control. This is why the adverse currency movements that we now
+expect to impact total revenues by around 2% this year, and a similar percentage on core EPS,
+are not including – not included within guidance.
+Please turn to slide 21. To conclude, I want to reiterate the guidance for 2016, which is at constant
+exchange rates. We expect a low to mid-single-digit percentage decline in both total revenue
+and core EPS.
+Finally, I want to reconfirm our capital allocation priorities. We will continue to strike a balance
+between the interests of the business, of financial creditors, and our shareholders. After
+providing for investments in business, supporting the progressive dividend policy and maintaining
+our strong investment-grade credit ratings, we will keep under review any potential investment in
+value enhancing and immediately earning accretive opportunities.
+Thank you for listening, and I will now hand over to Sean.
+`Sean Bohen, Chief Medical Officer & Executive Vice President `
+Thank you, Marc, and hello, everyone. Please turn to slide 23. I would like to start off by
+highlighting a few milestones achieved during the quarter. We received U.S. Breakthrough
+Therapy designation for durvalumab for bladder cancer. In the EU, we received Orphan Drug
+designation for acalabrutinib for a number of hematological cancers listed on this slide. Further,
+we received U.S. Orphan Drug designation for MEDI-551 for neuromyelitis optica, an autoimmune
+disease of the central nervous system.
+Finally, also in the U.S., Fast Track designation was received for MEDI18852 for hospitalized
+influenza A. These designations illustrated the quality of our pipeline and also point to the
+evolution from primary care to more specialty care programs addressing unmet medical needs.
+Please turn to slide 24. As Pascal and Marc mentioned previously, we have seen an acceleration
+of the pipeline. Nowhere is that more evident than in our milestones and upcoming news flow.
+First on Q1 milestones, I would like to review some late-stage pipeline headlines since the last
+results announcement.
+Starting with RIA, Symbicort in the pressurized metered-dose inhaler device was approved in the
+EU for COPD, and Bevespi or PT003 was approved in the U.S. for COPD. Zurampic received
+approval in the EU for gout. In CVMD, Brilique received approval in the EU for the post-MI
+indication. The SOCRATES trial for stroke also read out during the quarter, and though positive
+trends were detected, the trial missed its primary endpoint.
+For Oncology, starting with Tagrisso for lung cancer; we received approval in Japan at the end of
+March, just a few months following approvals in the U.S. and EU. We also made the decision not to
+restart the CAURAL trial in combination with durvalumab.
+We are happy to report that the FLAURA first-line trial is now fully recruited. We expect data from
+the second-line confirmatory trial, AURA3, in the second half of 2016, potentially already in Q3.Finally, after a successful Phase II interim analysis, AZD3293, a base inhibitor in partnership with Eli
+Lilly for Alzheimer's disease, will continue into a Phase III trial program.
+Please turn to slide 25. I wanted to highlight in particular the Tagrisso first-line AURA data which
+represented at the ELCC conference earlier this month. As an oncologist, I find this data
+particularly encouraging. The AURA study is a Phase I first-line trial in patients with EGFR mutated
+advanced non-small cell lung cancer. Although in a small sample of patients, about 60, the results
+were encouraging, with a confirmed response rate of 77% and a median progression-free survival
+of 19.3 months.
+As a comparator, currently approved first-line medicines for EGFR mutated non-small cell lung
+cancer patients typically provide less than one year of median progression-free survival as per
+their approved labels. This setting is being further evaluated in the ongoing FLAURA Phase III trial.
+Please turn to slide 26. We would like to update you on our durvalumab Hematology IO
+collaboration with Celgene. As you can see, the development program is extensive across
+disease types, with the first patient dosed in a Phase I trial in relapsed/refractory multiple
+myeloma. We are committed to advancing this program and also to be hematology space, which
+is an integral part of our overall Oncology strategy.
+Please turn to slide 27. Finally, we anticipate a very busy year ahead in terms of pipeline newsflow.
+We have previously communicated a PDUFA date for ZS-9 of 26 May 2016.
+In the second half of the year, we expect regulatory decision on saxa/dapa for type 2 diabetes,
+cediranib for ovarian cancer and CAZ AVI all in the EU. I have a note in front of me here that
+actually, we just got CHMP go for CAZ AVI this morning.
+We expect the resubmission of saxa/dapa in the U.S. during the second quarter; and in the
+second half of 2016, Bevespi for COPD in the EU; benralizumab for severe asthma in the U.S. and
+EU; the rolling submission for roxadustat in China; and potentially, acalabrutinib for the first blood
+cancer indication in the U.S. This potential regulatory submission for acalabrutinib would be for an
+accelerated approval.
+Finally, we expect key data readouts for benralizumab for severe asthma and Lynparza for gastric
+cancer in the second quarter. And in the second half of the year, Brilinta for peripheral artery
+disease, Lynparza for breast and second-line ovarian cancer, selumetinib for lung cancer, the
+durvalumab HAWK trial for head and neck cancer and acalabrutinib for blood cancer.
+We are advancing quickly in first-line lung cancer with the MYSTIC trial, which is enrolling well, with
+top-line data on progression-free survival expected in the first half of 2017. We are also advancing
+in first-line bladder cancer both in durvalumab monotherapy and in combination with
+tremelimumab in the DANUBE trial. We also have the only chemo free IO combination for first-line
+head and neck cancer with the KESTREL trial.
+A comprehensive registration program is underway across multiple tumor types, stages of
+disease and monotherapy as well as combination therapy. Additional combination studies of
+durvalumab with other immunotherapies and also chemotherapy are underway. We are very
+pleased with the progression of our Oncology portfolio and with the advancement of our
+broader pipeline in 2016 and into 2017.
+I will now hand back to Pascal
+`Pascal Soriot, Chief Executive Officer & Executive Director `Thank you very much, Sean. We now open the floor for questions. Before we do that, let me just
+kind of quickly summarize what we told you today and ask if you can move to slide 29.
+Essentially, the message is we are very much on track. Q1 reflects the progress we're making
+across the entire company. It also reflects the implementation of some of the commitments we
+gave you, in particular, reduction of SG&A cost. It reflects the progress of our pipeline.
+The important point I would like to make to you is that we are really kind of pivot – at a pivot
+point, if you will. We have actually rebuilt our pipeline with great success; in fact, more than we
+expected to and we have now a tremendous number of exciting projects in Oncology and
+Specialty Care but across the entire portfolio including Respiratory and Cardiovascular Disease.
+And so as a result of it, we really have to accelerate the shift to our Specialty Care – more
+balanced Specialty Care/Primary Care portfolio.
+And so the program we've announced today is really reflecting this pivot to a more Specialty
+Care/Primary Care portfolio and it's reflecting the strength of our – we see in the pipeline and the
+need for us to invest more in Oncology, to invest more in preparing all those launches and to
+invest in Specialty Care as we just cost in other parts of the business to reduce our SG&A and
+facilitate this redeployment of resources.
+So all in all, very much on track is what we told you. Pipeline is building in line, in fact, faster than
+we thought. And we are starting to shift and preparing ourselves for the launch of these new
+products. We reconfirm our guidance for the year.
+Q&A
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+And we'll now stop here and I'll open the floor for questions with Tim Anderson at Bernstein. Tim,
+go ahead.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Thank you. I'm trying to understand the comments about sharpening focus and what that means
+exactly. So you talk about that benefiting primarily SG&A. That would suggest that narrowing focus
+is not really on the R&D asset side, but it's almost more on the in-line brand side.
+So my question is: does that narrowing focus imply that you're going to sell off or partner in-line
+brands? And if so, is there any chance that these are wholesale divestitures of entire therapeutic
+areas? Or are these kind of items one at a time?
+And then a second question is on the MYSTIC trial. So as you note, readout in first half 2017.
+That's PFS. It's pretty clear there's a delayed response from IO. And with the CTLA-4 specifically,
+there is sometimes pseudoprogression before there's regression. So it seems that with PFS was
+the first readout that could embed some real risk. Can you comment on that? And then will we
+see the OS data in 2017 or not or will that likely be a 2018 event?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Right. Thanks very much, Tim. So Sean, if you want to answer in a minute the MYSTIC questions.
+And the first question about the narrowing the focus – and thanks very much for this question
+because it really helps really sort of clarify or – the comments we made and what we are trying to
+achieve here.Essentially, focusing means we are going to really focus on Oncology, Cardiovascular, Diabetes,
+Respiratory medicine and will continue and in fact accelerate the partnering of assets in CNS, in
+Infection and including in Autoimmune.
+Now we are going to invest more on Oncology and in other Specialty Care products. So as a
+result, certainly, we will – this focusing has an impact on R&D but a lot of what we said would be
+reinvested. And so we believe that this focusing here will help us maintain the R&D budget to
+deliver. We told you we would try to contain it whilst investing more in Oncology.
+On the SG&A side, essentially, we are continuing to reduce the SG&A cost as we told you we
+would and basically those savings will fall to the bottom line. In fact, the savings we've
+communicated of $1.1 billion are the net savings. We haven't communicated more details, but I can
+tell you that in fact, the savings are bigger than that. And we are making a big reinvestment in
+Oncology and Specialty Care as a whole. And the $1.1 billion is the net of all of those movements.
+Sean, you want to cover the...
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+The MYSTIC overall survival. Yeah. So, Tim, let me see if I answer because largely what I'm going
+to do is I'm going to – I'm probably going to reiterate things that we said at the end of year for
+2015. Overall survival, I would say that the balance of the data that we're getting in immuno-
+oncology across company seems to indicate that overall survival is really necessary to capture the
+full benefit of immunotherapy for cancer. Even recently at AACR, we got more data, albeit in
+head and neck cancer, not in non-small cell lung cancer. indicating that the overall survival benefit
+which was quite robust was not very well captured in progression-free survival or in response
+rate.
+So with regard to MYSTIC taking all of this into account, we're very fortunate to have the
+opportunity to elevate overall survival to a co-primary endpoint. And that does necessitate an
+increase in the size of the trial, the power for that end point. But the recruitment has been so
+robust that we've been able to do that without actually delaying our guidance that we should
+have data in the first half of next year.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+I'm sorry. But I guess my question is on the PSF specifically, we get pseudoprogression with
+CTLA-4. Doesn't that kind of put that endpoint at risk? And Pascal, my question on the narrowing
+focus is really, does that involve out-licensing or sale of branded in-line products?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Really sorry. I should've been clear on that. No. I mean certainly, we will continue partnering in-line
+products just like we've done it with Plendil in China, where we think we can generate additional
+growth leveraging these sales capabilities and investment of partners. But there's no intent to
+out-license large products. Certainly continue partnering but, no – we might divest smaller
+products but – as we've done in the past, but that's about it.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Or exit therapeutic area?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `Yeah. So if we exit a therapeutic area, it's going to be driven by the focusing on the core TA. For
+instance, in Infection we might look for partners for our new products in antibiotics.
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+So let me clarify, Tim. For CTLA-4, are you referring to determine the mesothelioma data? Is
+that...
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+No, no. And there has been a recognized phenomenon when you give CTLA-4 is that you
+actually, the tumor sometimes progresses before it regresses. So if the readout – so this is from
+prior data sets in tumors like melanoma, for example, that's led to the notion that PFS in that
+great endpoint. So if PFS is the first readout with MYSTIC and MYSTIC is looking at a CTLA-4
+combo, doesn't that potentially put that readout at risk of being negative on the PFS – just the
+PFS side? I understand it'll let us – we'll capture the benefit, but my question is really on the PFS
+side.
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. Yes so the pseudoprogression phenomenon is what you're referring to. So couple of things
+about MYSTIC. One, it does have a single-agent durvalumab in both PD-L1 positive and PD-L1
+negative patients. So we have an opportunity to look at the single-agent to durvalumab. I think, is
+there a risk to PFS? I think it's less from pseudoprogression. I think it's more from the possibility
+that PFS doesn't capture the benefit of immunotherapy completely. We've seen that in other
+trials, not just with CTLA-4 but also with PD-1/PDL-1 agents. And I think most recently, the
+CheckMate-141 data that was presented at AACR in head and neck cancer had what looked like a
+pretty nice overall survival benefit but no PSF benefit and a very modest, non-significant
+difference in overall response rates. So we have accounted for that risk in the reprioritization of
+endpoints and the change in size for MYSTIC.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Steven. So moving to `Simon Baker, Analyst, Exane Ltd. at Exane (43:15). Simon, go ahead.
+Q - `Simon Baker, Analyst, Exane Ltd. `
+Thanks so much for taking the questions. Firstly and continuing on from Tim's question on
+sharpening focus. One way, presumably, of accelerating the sharpening of focus would be to
+move from doing product-by-product deals to larger partnerings or divestments or carve-outs of
+products. Is that something that you would consider doing, either on mass or by therapeutic area
+rather than the single-product deals?
+And then secondly, a question for Luke on China. Your performance in China in Q1 was very solid.
+There's been very divergent performance across your peer group. So I just wanted – I wonder if
+you could share your thoughts on the market dynamics in China at the moment and why you
+seem to be significantly outperforming some of your competitors.
+And then finally, a question on MEDI-4166, the PCSK9/GLP-1 combo, I wonder if you could – now
+that that's moved into Phase II – give us an update on your development plans for that molecule.Thanks so much
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Luke, do you want to start on China?
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+So I think it's a combination. We have a very good commercial organization in China. We're
+investing extensively in R&D. We've had announcements with WuXi. We also have a Discovery Unit
+in Shanghai. But also, we're benefiting from a very attractive combination of products for China
+right now. I think if we looked in 10 years' time, that collection of products may not be as
+competitive. But right now, it's extremely competitive.
+So we've got a good segment here. We've got products like Pulmicort. If we look at Pulmicort,
+around half our sales of Pulmicort come from the Top-1,000 nebulizing centers. The next bracket,
+the other half, is around 6,000 other centers and that expansion continues. So there are lots of
+opportunities with products like that. Also some of our older products such as metoprolol
+continue to grow. So it's a good mix of products. Then if we look into the medium to longer term,
+a product like Tagrisso is extremely exciting in terms of the value that it could add to treatment
+for patients in China.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+I think in China, Simon, you got to consider a few things. First of all, we have a tremendous
+pipeline – portfolio that really fits the needs of China at point in time too. We have a tremendous
+team, really fantastic team of people there. And certainly, we've invested a lot; continue to invest,
+as Luke was saying. And so this combination is leading to, we believe, the great results you see
+and we believe there are sustainable.
+By the way, in Q1, just for you to consider is that last year the first quarter, we had an increase in
+inventory in China. This quarter we had a decrease. So the inventory movements played against
+us in the quarter this year when you compare to last year. So our end market sales are even
+better than what you see in reported sales in China. So certainly very strong performance, far
+above the market growth rate.
+As far as the focus, I don't think I can comment more – I can comment and give you a lot more
+than what we have said so far. But the focus – we considering all sorts of options. But essentially,
+it's really continuing to sharpen the focus in the core areas we have communicated before. The
+place where we could potentially partner more broadly and exit is antibiotics, for instance, where
+we have a couple of very interesting products, I mean CAZ-AVI, for instance, just got approval in
+Europe, but it is not an area where we want to focus and we may partner. But CNS is another
+area, of course.
+So it's essentially going to be – and Autoimmune is an area where we also look for partners,
+except for anifrolumab, which we decided to make an exception of and keep to ourselves. That
+will enable us to invest more. With CAZ-AVI, by the way, just a clarification. When I say approval,
+it's actually the CHMP positive recommendation. Of course, we still have to have final approval,
+but it's a very nice signal for this product.
+So that's really what it is we are doing. And in fact, we've communicated that before, but we're
+doing it in an accelerated manner, and we also are including there the Autoimmune assets whichwe have not made as clear as, but – we had not made clearly candidates for partnering in the
+past. PCSK9/GLP-1, Sean do you want to cover this?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. I'll take that. Thank you, Simon, for asking a question about a Phase I/II molecule. That's fun.
+So MEDI-4166, if you at our full Q1 results, you'll see that it moved into Phase II. It did that in Q1 of
+2016. So our MedImmune group is moving that forward very quickly.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Yeah. So you'll have to wait a little bit longer to get more information.
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. I'm not going to tell you more.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+We still have a GLP-1 glucagon in early development, by the way, which is also moving quite nicely.
+But we need more data before we can give you an update.
+Q - `Simon Baker, Analyst, Exane Ltd. `
+Thanks so much.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Let me just go back here, by the way, to the externalization, to be totally 100% clear. In many of
+those areas, like autoimmune for instance, we have tremendous antibodies for infections. We
+have a tremendous team of scientists and they're doing a fantastic job.
+Our intent there is to continue doing research and early development in those areas, and retain
+the teams we have because they're doing a fantastic job. So when we talk about partnering, we
+talk about partnering at the development stage for development and commercialization of those
+assets, but we certainly will continue doing some research in those areas.
+So, next question is from `Diana Na, Analyst, JPMorgan Securities Plc, JPMorgan. Diana, over to you.
+Q - `Diana Na, Analyst, JPMorgan Securities Plc `
+Hi. Thanks for taking my questions. I have three questions, please. So first, what key data will you
+be presenting at ASCO? And what updates will you providing at your ASCO analyst meeting,
+please?
+And then secondly, so Merck has filed already for their PD-1 in head and neck cancer, and I'm
+wondering where this leaves you in terms of the HAWK study and the potential for Fast Track
+filing for durvalumab, please.
+And then thirdly, despite the addition of the PEGASUS data onto the label, Brilinta sales trajectory
+hasn't changed very much. Should we expect an inflection or a continuation of the current trend,
+please? Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `Thank you, Diana. So one question for Luke. And by the way, with PEGASUS, I assume you're
+talking about the U.S., because in Europe, we are still in the process of getting a reimbursement.
+We're only launching in Germany and the UK, so it's very early days. So maybe, Luke, you could
+start with the PEGASUS question, and then Sean cover the other two...
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Yeah. So the trend is – I mean, it's a positive trend. So at the end of last year, around 8% of
+PEGASUS scripts were with 60 and we're up to around 14% now. And actually, it's even trending
+higher than that. But I would say if we look at the number of people being prescribed 60, the bulk
+of them are coming off of the 90, so it's very much in line with the label.
+The other thing is, if we look at the guidelines, we have a Class I recommendation for treatment
+up to and beyond 12 months for dual antiplatelet treatment. And we also have a Class II
+recommendation supporting Brilinta over and above clopidogrel. So these are things which are
+positive. And actually, if we look at the weeklies that we've just got in now, overall, they've moved
+up to 12%, which is the new high. So it is a build. I think the key thing is, if you look at the trends,
+when people have discharged from the hospital – and this is true for clopidogrel, it's true for
+Effient as well – we lose a lot of people in that first couple of months. And so that's a big focus for
+us, is to make sure that that they're discharged. Then what we can see is if they go out to 12
+months, then they have a higher chance of being switched to 60. So this collection of positives
+hopefully should further drive growth.
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+All right. Yeah. So I'll give a few highlight for the ASCO first and then I'll get on to HAWK. So what
+we're talking about here is submissions of abstracts. So as not everything is finalized, I want to be
+careful to qualify that. So with regard to our DNA Damage Response portfolio, we have Lynparza
+monotherapy in ovarian cancer. We also have early trials, both monotherapy and combination,
+that we will present, and also updates on the Wee1 inhibitor, AZD1775.
+For Tagrisso – I alluded to this a little bit – we're going to present some brain metastasis data
+from the BLOOM trial. For immuno-oncology, we're going to talk about durvalumab in bladder
+cancer. And as I mentioned, that's a indication that has Breakthrough designation – recently
+granted Breakthrough designation from the FDA. We will see – the DETERMINE data, obviously,
+the trial was negative top-line. We announced that before, but you will get a detailed look at the
+data and some early combination data in IO. And then acalabrutinib as well, we'll have a couple
+abstract updates. And there's potential for FALCON results as well.
+And then the next question was HAWK, given the Merck filing. The HAWK data we expect in the
+second half of 2016 has Fast Track designation from the FDA. And should the data support it,
+obviously, we can still file the data. Again, accelerated approval of an agent in an indication
+doesn't close out further submission in that indication. So our hope is that if HAWK's positive, the
+FDA will have both filings in front of them simultaneously and can evaluate and make their own
+decision.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Sean.
+Q - `Diana Na, Analyst, JPMorgan Securities Plc `
+Thank you very much.A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Sachin at Bank of America. Sachin, go ahead.
+Q - `Sachin Jain, Analyst, Bank of America Merrill Lynch `
+Hi. A couple of questions, please. First, on the durva/treme combo. You're not citing next
+presentation of data. So I was wondering if you could just clarify when you'd have the next update
+for the Phase I lung and when we could expect PFS from that? And data for the combination in
+tumors beyond lung? The reason for the question is Bristol is alluding both sets of data at ASCO.
+Secondly, on CAURAL, you've outlined you start recruitment of the Tagrisso-durva. It sounds like
+more of a trial design issue. So are you considering Tagrisso-durva with a new trial design? Any
+color you can give around that.
+And then just one financial. You've clearly outlined a continued appetite for earnings-accretive,
+bolt-on deals. But I wonder if you could just clarify that statement in light of the fact you did two
+deals last year, and the need for an earnings-accretive deal now, given that by the time if you
+announced it today and it closed, you're basically sitting close to an earnings inflection anyway. So
+maybe if you could just outline your thoughts around that. Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Sachin. So maybe let me cover the last one, and then, Sean, if you want to cover the
+other two, durva/treme and the Phase I lung data, and then Tagrisso-durva study, CAURAL?
+So on the earnings question, actually, Sachin, what I guess we wanted to signal is that in the last
+two to three years, we've really worked very hard to rebuild our pipeline both internally but also
+externally. And we've had a number of acquisitions. And if you look at those acquisitions, they
+were all aimed at strengthening the pipeline in our core disease areas. But now we – what we
+have is a full pipeline, and it is gaining strength day after day.
+I mean the – Tagrisso is a good example of a product that is making incredible progress. I mean a
+year ago, people thought Clovis had a better product than we did. And then today, they don't
+have approval, and then we have a product that is really making enormous progress. But as a
+result of it, we have to put more money into developing and preparing the launch of those
+products.
+So essentially we said, okay, we're going to focus now on execution, turning this pipeline into a
+reality for patients and our shareholders. And any acquisition we would consider would still reflect
+the criteria we had before. But on top of it, we added this criteria of the fact it should be earnings
+accretive.
+Now, do we need an acquisition to succeed? We believe we don't. But if we found an acquisition
+that would be indeed earnings accretive and would continue to strengthen our strategy and our
+pipeline and our portfolio, we would certainly do it. And beyond that, I cannot say much more.
+Sean, do you want to cover the other two?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. Let me start with CAURAL. So as we had communicated later last year, we saw an interstitial
+lung disease signal in the CAURAL trial, the combination of durvalumab with – Tagrisso, I'm sorry.
+And in further analysis of that, we, as I said, decided not to restart enrollment of that trial. And weWith regard to 006, the Phase I trial, we are continuing to expand the trial. We do not currently
+have a particular date for when we will announce or share the data from that expansion. And then
+I think I went through, pretty extensively, what we intend to have at ASCO specifically.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Sean. Andrew at (57:47) Citi. Andrew, go ahead.
+Q - `Andrew S. Baum, Analyst, Citigroup Global Markets Ltd. `
+Three questions, please. I'm not quite as soft as Sachin. Astra's been linked to the Medivation in
+press articles. Sanofi has obviously very publicly put their cards on the table. I wonder if you'd care
+to comment on the appetite for engaging in a very competitive bidding process for this asset,
+given the earnings accretion, which is more the focus now than, let's say, the pipeline that you
+outlined.
+Second, there's been some notable departures from your MedImmune and Astra business on
+the R&D side, so as Bradley retired and your head of Development and your IO Research head
+have gone to competitors. Could you outline replacements for those positions, and the impact, if
+any, on the organization?
+And then finally, with regards to the shaping focus initiative, it does mention R&D productivity as
+well as SG&A and marketing. So how should we think about any change in the current relationship
+between the AstraZeneca and MedImmune organization, either as a function of that initiative
+expressly or kind of other factors that may be going on concurrently?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Andrew. A few great questions. I mean Medivation, it's a good question. But as you would
+– I'm sure you don't expect me to really answer that question. So apart from what I've just said in
+answer to Sachin's question, I really don't want to commit to – to commence more than that. I
+guess you're going to have to see what we do. But I have to say we're very committed – we are
+very focused on delivering our pipeline. That's really our number one priority, and we'll doing
+nothing that would distract us from this because we are at a very important turning point.
+I mean look at Tagrisso again. I don't want to be repetitive, but I mean this agent is so exciting.
+The IOIO studies, we can't share data because those are commercially sensitive data, of course
+but – in term of recruitment. But I mean this studies – the recruitment of the studies is going
+gangbuster. I mean it's really going very well, and we really want to stay very focused on turning
+this into a reality.
+The other question, our R&D productivity at MedImmune. There is no intent to change the model
+at all. I mean we think we have a great model. I mean there's no perfect model, of course. And a
+model is usually a function of what you think – what you believe in but also what is right for your
+organization. And so different companies will come up with different responses, depending on
+their own culture, their own people, their own history and a variety of other things. But that model
+we think works for us, and I guess hopefully the pipeline is here to support that statement. So
+there's no intent to change that.
+Now the question about changing – losing a few people, it's really – first of all, we've lost a couple
+of people, and they were certainly regretted losses because they were good people. But they
+got great jobs. And I'm a believer that – I mean people have to, of course, grow and develop.And so I'm disappointed in one hand but, on the other hand, happy for people when they take a
+great job.
+Now it also shows that we have great people, and it also shows that all the companies are
+looking at our people. So it's really a great reflection of the strengths of our organization,
+strengths of our people.
+And the final comment I will make here is that we talk about people departing. We never talk
+about people joining us. And I can tell you we've had like so many great people joining us, and
+I've got one sitting next to me on my left and our new CMO, and we're so happy to have him on
+board...
+A - Operator
+(1:01:50).
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+And – but we have had also many other tremendous talented people joining us. So always sort of
+sorry to see someone good leaving, even though you're happy for them to see their career
+develop. And on the other hand, we welcome new people and we always look – try to recruit very
+talented individuals who will strengthen our organization. So I think that maybe cover this. And
+we'll move to Nicolas Guyon at Morgan Stanley. Nicolas, go ahead.
+Q - `Nicolas Guyon-Gellin, Analyst, Morgan Stanley & Co. International Plc `
+Hi. Thanks for taking my questions. I have three, actually. The first one is on SG&A spending and
+the volatility in the last three years. So you increased SG&A by more than $1 billion in 2014; then
+you reduced it by about $1 billion last year with other cuts to come in 2016 and 2017. Not sure I
+really understand what makes your promotional spending so easy to switch on and off. And isn't
+there any risk to under invest behind your brands, notably with all the new launches that you
+have?
+Second, on saxa/dapa in the U.S. – correct me if I'm wrong – but it seems to me that you only
+communicate on filing when they have been accepted. So could you please confirm that you have
+not yet filed saxa/dapa in the U.S.?
+And finally on MYSTIC. I mean sorry to come back – and just a clarification on the Sean's previous
+comment. You do expect PFS data in H1 2017. But do you also expect OS data in 2017? Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Nicolas. So where do we start? On the saxa/dapa and MYSTIC; Sean, do you want to
+cover that? Or...
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Sure. I can cover that. Yeah. So all I'll do for you with saxa/dapa is confirm for you that we confirm
+filing when the filing is accepted. And we haven't mentioned it because the filing has not yet
+been accepted.
+With regard to MYSTIC, PFS data first half of 2017, that is correct. Obviously, these analyses are
+event driven. And in first-line non-small lung cancer, the survival events or deaths are considerablydelayed from progressions. So it will be further out before we have overall survival data. There
+will be some events, but it will not be mature or powered in the first half of 2017.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Sean. So the saxa – the SG&A question. You got to think about what has happened over
+the last couple of years, Nicolas. First of all, we acquired the BMS, half of the Diabetes franchise.
+Secondly, we acquired the (1:04:36) portfolio of products. And each time we welcome new
+people with us. And so that drove suddenly an increase. And each time we decided to focus the
+organization on continued – to keep them focused on the launch of those new products and the
+promotion of them. And we didn't want to disrupt the sales force initially, but we always said that
+over time we would gain productivity improvements across this entire commercial organization.
+This is basically what we are doing now. So we always sort of fine-tune it so that we remain
+competitive. But certainly, we are looking for improvement across the entire commercial
+organization so we can redeploy resources and invest more in Oncology, but in some type, of
+course, protect our profitability and the delivery of our dividend, which is an important part of our
+commitment. So we maybe we could move to Matt Weston at Credit Suisse. Matt, go ahead.
+Q - `Matthew J. Weston, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Thank you for take my questions. Three, if I can. The first on the new focus on SG&A cost. It is a
+topic that management has been talking about for some time. And if I look at consensus
+estimates, there's already a substantial saving in SG&A baked into consensus assumptions.
+Can I just check, are you indicating that this is the way – this is the strategy with which
+management is actually going to deliver something that's been talked about for some time? Or
+are you indicating that there's an incremental $1 billion on top of what consensus already has
+baked in that we should consider from a cost base?
+Secondly, clearly, strong success in China. A number of your competitors are highlighting a risk in
+the second half of the year as reimbursement for some drugs goes from federal to provincial
+governments. How do you feel about that, given it's such a substantial business to you?
+And then finally, on MYSTIC. Sean, I assume you're going to be relying on the contribution of
+components pathway to file the combo if neither of the drugs has received accelerated approval
+before the MYSTIC results are out. Have you actually had interactions with the regulator that
+suggests this is acceptable? Because by my read of the rules, you could argue – and particularly
+given that you're doing treme mono arms in a number of other studies, you could argue you
+really should have a treme mono arm in MYSTIC if you're relying on it for the approval of two
+novel drugs simultaneously. I'd love your feedback on that.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+So maybe, Matt, I can cover first question and – the SG&A. Essentially, it is the implementation of
+the commitments we made that we will reduce SG&A over time starting this year. And then if
+then Q1 is showing that and we'll continue reducing SG&A over the next couple of years. And
+essentially, it's reflecting the shift of our pipeline of a portfolio to a more balanced Specialty
+Care/Primary Care. And then we are redeploying our resources and our efforts to this future
+portfolio.
+Now as to your specific question relating to 2017 and whether it's additional to the consensus
+forecast. I will not answer this because if I did, I would give you a guidance for 2017, which wehaven't done. So I'm sorry I cannot answer it. But we certainly will give you a guidance for 2017 in
+the early phase of 2017, as we always do.
+Suffice to say that we just kind of continue doing what we said we would do. We said we would
+reduce SG&A; we're doing this. We said we'd build a pipeline; we're doing this. And essentially,
+despite quite a number of skeptics, we continue doing what we said we would do. And we're
+continuing to prepare to bridge to 2018.
+And maybe one point about 2018 is to think about how the pipeline is shifting to the Specialty
+Care and the addition of the acquisitions we made last year. You should consider this and think
+that as we kind of rebalance, we should have a leveraged growth of – or in 2018 and beyond and,
+therefore, quite a profitable growth actually, because of the change in the shape of our pipeline.
+As far as China, I mean maybe Luke, you want to add something here? But we are – we believe
+we will continue to grow very rapidly in China, and we continue to believe we can outpace the
+market growth in China.
+But just want to highlight, we believe we have critical mass in China. It's really an important point,
+and we have a tremendous team. And we think it is going to be a tremendous business for us in
+the years to come. Today, we are relying on the portfolio we have, which is really exactly what the
+Chinese patients need today: cardiovascular, diabetes. I mean, diabetes, everybody talks about
+diabetes being a difficult market in the U.S. and it's true. But we need to keep in mind, it is a really
+important growth driver for our Emerging Market businesses; in particular, in China, it's going to
+have an important part to play.
+So that's what we're focusing on today, but also we're starting to prepare the launch of our new
+Oncology drugs, in particular, Tagrisso. Luke, do you have anything you want to add on China?
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+I mean we have a third of the patients on DPP-4s in China. And if you look at Brilinta, alone, it's not
+reimbursed and we only have 1%. So there is – and not all of our portfolio is exposed to
+reimbursement. So I agree...
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+I mean Brilinta is not even reimbursed yet in China. We're doing tremendously well already in the
+first few months. MYSTIC?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. The contribution of components. So I guess a simple answer to the question is that we are
+confident in our strategy around contribution of components, in particular the data we will have
+for tremelimumab, and that is based on interaction with regulators. So the fact that, that doesn't
+occur in the same trial within MYSTIC, we do not view as a challenge.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Okay. Thanks, Sean. Richard Parkes at Deutsche Bank. Richard, go ahead.
+Q - `Richard James Parkes, Analyst, Deutsche Bank AG (Broker UK) `
+Yeah. Thanks for taking my questions. Firstly, on saxa/dapa, obviously, you've had the update for
+the heart failure signal in the saxagliptin label, assuming you're likely to have that also in thesaxa/dapa label. I know that you were – there was some expiration of the potential mechanism
+for that ongoing. So I wondered if you could update us on that work and whether that label's likely
+to impact your expectations for the saxa/dapa product.
+Secondly, just a couple of product ones, really. Bydureon in the U.S. is flattening. Just wondered if
+you could update us on any plans that you've got that might help to reinvigorate that. I know
+you've been working on some different pens in development devices.
+And then finally on ZS-9. I wondered if you could update us on your interactions with the FDA and
+how confident you are about achieving a label without disadvantage in terms of drug, drug
+interactions. Thanks.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Maybe – thanks, Richard. Should we start with Bydureon, Luke? And then Sean, so if you can cover
+ZS-9 U.S. and also the saxa/dapa label question?
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Yeah. So I mean you're right. It is very competitive. I mean we're holding share. We've got a very
+focused effort and it's interesting. There is a pool of physicians who have a lot of confidence in
+Bydureon, very favorable towards the pen and you can see that in the numbers. I think it
+continues to be – I mean it's a very attractive area to operate in, and I think the reason outcomes
+studies just reinforce that. I mean many of us who've been following this class for a long time. I
+think we – a couple of years ago, if you had to pick a class that would have a positive outcome
+study, then the GLP-1s were the one that you would put at the top of the list. And I think again,
+recent news, we've now got to outcome studies which are favorable for the class. We have ours
+ongoing.
+In terms of life-cycle, we have a number of things that we're looking, that we'll update you on in
+the future. If we look outside the U.S. – and I think sometimes we forget that, particularly with the
+Diabetes portfolio – we are really in a good shape in Europe as well as Emerging Markets with
+Bydureon, Onglyza and also Farxiga.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks. Look – so, Sean, ZS-9 a question was about the FDA interaction?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+And then Richard, apologies, but the saxa/dapa, we were not so sure we got the question. So if
+you don't mind, we will ask you to repeat it. But maybe you can cover the ZS-9 first?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. I'll do ZS-9, and then we will get – we'll try to get a clarification. So the answer to ZS-9 is the
+PDUFA date, as we have communicated is 26th of May. And we have had relatively typical
+interaction to date with regard to approaching that PDUFA date. And obviously, when we have
+more definitive, we'll communicate it. But that's all we have right now. And then again, as Pascal
+said, if you could clarify a little bit what you're looking for, clarification on saxa/dapa.Q - `Richard James Parkes, Analyst, Deutsche Bank AG (Broker UK) `
+Yeah. On saxa/dapa, basically two components. Firstly, what impact that label update has on your
+expectations for the combination products. And then secondly, it's obviously still not 100% clear
+whether the failure signal is a drug-specific or class-specific effect. And I know that there's been
+some work exploring the mechanism there. So just wondering if there's anything that might come
+out of that, that might help us delineate whether it is a saxa-specific or a class-specific issue.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Okay, Richard. So there are two parts to your question. I mean I guess one part's you, Sean, which
+is heart failure and do we do anything to understand that better? (1:15:00) I mean yeah, I would
+just say that, Richard, our focus now is really very much on Farxiga and Bydureon, but so the
+questions for you here. And then the next is impact on expectations, Luke. It's probably for you.
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. So I mean we are looking at data to try and investigate DPP-4 and heart failure. There's not
+much I can communicate until we actually have the data and see what we find. We do think that
+the label updates are class label updates, so not specific to particular agents in the classes. And
+so I'll let Luke talk about the impact of those.
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Sure. Yeah. Yeah. So I mean it's interesting. I think luxanbe (1:15:45) has sold around 100 million, so
+it's not insignificant; there's clearly a need. If we look at the combination that we have with
+metformin, it's a sizable part of our business. I think we also need to balance that with exactly
+what you've commented on, which is the presence of Onglyza in the combination.
+So I think it's hard to say at this point. We need to look at the ultimate label that we get. Feeding
+into that as well, if we look at the portfolio level, I think the outcomes study in Poreg (1:16:15) – and
+hopefully, we have some positive news ourselves in the future on this – has raised expectations
+for the SGLT2 class in the medium to long term. And clearly, we're a competitive participant there.
+And then also again, if I look at the overall Diabetes portfolio, I've just reinforced that we've got
+more positive news with GLP-1s right now. And again, we're competitive in that segment. So it is
+like anything in R&D. It's puts and takes, and we just need to see what label we get with
+saxa/dapa.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Luke. `Seamus Fernandez, Analyst, Leerink Partners LLC at Leerink. Seamus, go ahead.
+Q - `Seamus Fernandez, Analyst, Leerink Partners LLC `
+Thanks. Can you hear me?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Yeah.
+Q - `Seamus Fernandez, Analyst, Leerink Partners LLC `
+Okay. Great. Appreciate the opportunity for the questions. Just a few here. First off, can you talk a
+little bit about your continued emphasis of the $45 billion target and progressing towards it? Itjust seems, in the context of slow Primary Care launches and some of the dynamics there, that
+that almost works against the goal of the business, which seems to be shifting much more
+towards the specialty space and an opportunity towards much greater profitability. So just
+wondering why you guys haven't moved away from that, particularly as greater externalization
+continues.
+Second question is on the opportunity for Lynparza. Historically, you guys have talked about
+Lynparza and the PARP class as a $1 billion sort of blockbuster opportunity. How has that been
+evolving, particularly in the context of the information that you're gaining from the IO
+combinations and also from studies like TOPARP?
+And then my last question really is just a clarification or just trying to get a better understanding.
+Sean, you specifically said that you increased the size of the study, of the MYSTIC study, to
+capture the benefits of overall survival. I'm a little confused by that, because I would think that the
+need to power up the study would be more for PFS rather than overall survival, because it seems
+like smaller studies with immunology products tend to need to be run longer rather than be
+larger. So I'm just trying to get a better understanding of that comment. Thanks.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+So, a few good questions here. MYSTIC, I mean, Sean, if you want to cover this?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. Yeah.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+And as you speak, if you – the Lynparza question, I think there are two parts really in it. I think it
+would be good if you could sort of share some of the work they're doing and some of the ideas
+we have in beta (1:19:09) Lynparza, life-cycle management, also combinations in the DDI
+franchise. And then maybe Luke, you could talk about the potential of all that. And then I'll cover
+the $45 billion general question later on. So you want to start this, Sean?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Sure. Well, let's do MYSTIC first. Yeah, so the issue of overall survival is, to your point, a trade-off
+between time and power. So you – it's an event-driven trial, so you do the analysis based on the
+number of events you need. The issue about the size of the trial is obviously if you have more
+patients, you get to the event number more quickly. So we, I would say, have taken advantage of
+our robust enrollment to make the trial larger, and to also be able to accumulate those events in
+a way that we can keep our PFS endpoint in the first half of 2017.
+The other part of it is, you have to power for both primary endpoints. So as I said, we elevated
+overall survival to a co-primary. When you do that, you then have to power for both endpoints.
+And so when you make two primary endpoints, you do have to – you have to make a larger trial.
+Not so much that it is overall survival, but that we moved overall survival to a primary endpoint. So
+I hope that answers that.
+With regard to Lynparza, we started in sort of the purest, easiest-to-define patient population,
+which is the BRCA mutant patient population. But as we've said many times, there are multiple
+ways that DNA damage repaired defects can sensitize to PARP inhibition. And I think the data
+from here in the UK, from The Royal Marsden in prostate cancer, really illustrates this, becausethat can lead to DNA damage repair problems. And the data has been quite interesting; led, in
+fact, to the Breakthrough designation that FDA granted us in that indication.
+So we see the potential of Lynparza as being able to expand quite a bit beyond where we've
+started with BRCA mutation in ovarian cancer. And then the other thing I would add is that we do
+have a whole portfolio behind that. I mentioned AZD1775, the Wee1 inhibitor. We're studying
+these drugs in combination as well. And so we see this as really an extraordinary potential
+portfolio for the treatment of cancer.
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Thanks, Sean. And I would just add – I mean, Pascal made this point earlier. I mean some of the
+R&D that we're redirecting, DNA Damage Response is a core component of that. We believe
+we're in the lead. I mean obviously, immuno-oncology has been a focus for the market for some
+time, but something that could emerge if we continue to see the positive trends of data that
+we've observed so far is DNA Damage Response. If we look specifically at Lynparza, I mean it
+really directly benefits from a number of things. I think firstly – and we've got data on this at ASCO
+– it's quite a durable response. And so the number of patients who are persisting is a little bit
+higher than we originally modeled.
+We have got the bolus and that has now come through, so you can see the scripts – we're around
+30 a week, from memory, in the U.S. So it's relatively stable, but that's in the late-line, fourth-line
+breast – sorry – ovarian. But we've also got adjacent populations, so we're starting to see around
+11% of patients in prostate. We're also seeing breast as well as some more patients earlier in
+ovarian. Now of course, ovarian's a smaller indication.
+In the future, you've got adjacent populations such as ATM ATR, and potentially HIR. So again, we
+need to see where we evolve and what the data says, but we're certainly encouraged by the
+early signs with Lynparza and the level of awareness in the community about it.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Luke. So the general $45 billion question, Seamus. Maybe the one clarification I would
+bring to this number by the way is that it was a 2013 exchange rate. So who knows what
+exchange rates will – where they will be in 2023. But if you calculated that number using today's
+rate, I think you'd be more in the $41 billion range or so. And that's an important piece to keep in
+mind.
+And in fact, by the way, this is also an important other piece to keep in mind is that this currency
+movement in the last two years, or year-and-a half, in fact, have really put a lot of pressure on our
+profitability. And just as a quick reminder, they cost us about, in adjusted – in EPS term, about $1 in
+EPS terms. So if you calculated EPS using 2013 rates, you'd be kind of today $1 on both. So this is
+kind of the thing we have to – we're dealing with today.
+But looking to 2023, we are – our long-range plan still shows that we have – we will get there; we
+should get there. And it already sort of looks at the downsides in the plan. And of course, there
+are downsides. A plan is always made of upsides and downsides. And so if you look at some
+products are doing little bit less well and some products we are partnering or divesting. But
+essentially by the way, what we divest is made of products that were not really having a big
+impact on our long-range plan because they were launching in 2020 or beyond.
+But on the other side we have upsides. I mean, Tagrisso was a risk-adjusted sales forecast.
+Lynparza was risk-adjusted. We didn't necessarily think that Lynparza would have the potential wethink it will have now. And of course, we have the risk – the potential to some extent, same for
+Tagrisso. So as Luke said earlier, you have puts and takes in the plan, and then there is a number
+of upsides, a number of downsides.
+The important piece is that that growth is likely to be more profitable, as you pointed out
+yourself, than in the plan we had developed and communicated two years ago, because the shift
+is – luckily in a way, the shift is more Oncology, more Specialty Care and a bit less Primary Care
+shares in our total plan, so more profitable growth. So we'll maybe finish with one last question
+from `Eric le Berrigaud, Analyst, Bryan, Garnier & Co Ltd. (France) at Bryan, Garnier. Eric, go ahead.
+Q - `Eric le Berrigaud, Analyst, Bryan, Garnier & Co Ltd. (France) `
+Yes, good afternoon. Three short ones. First, again on Tagrisso, precisely in Japan. It looks like
+you put a lot of emphasis about the potential of this drug in Japan. Could you be perhaps even
+more precise about how big you see this drug in Japan, including what you think about price
+versus U.S., about how the ramp-up may be for this drug in Japan?
+Second refers to OTC Nexium revenues in Q1 for – with Pfizer. Just to be clear about what you call
+milestone revenue, is that a one-off? Does that include also royalty? How should we see the
+specific agreement across the year and maybe across the years to come?
+And lastly, a very short one about brodalumab. It looks like you're now expecting the final
+approval, or let's say the launch in 2017. First, does that mean that there won't be any further
+milestone from Valeant in 2016? And by the way, did you get any reiteration of commitment to
+the drug from Valeant in the recent past?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Eric. So maybe, Luke, you could talk to Japan. And Marc, if you could cover the milestone
+question, in any case? Luke, go ahead.
+A - `Luke Miels, Executive Vice President Global Product and Portfolio Strategy (GPPS), Global `
+Yeah. Sure. So if you look at patient numbers, there's around 8,000 in adjuvant, and there's
+around 18,000 in Japan in first line. And then if you look at the second line, T790M, and we apply
+a mutation rate of mid-60%s to 70%, around 8,000 patients in Japan. So the mutation rate is
+actually a higher incidence in Japan versus Caucasian patients.
+I mean the key thing here, though, is ultimately if we look in on second line – and again, we're
+referencing the (1:27:50) that we're very interested in, the potential to challenge the first-
+generation TKIs in the first line in Japan is very encouraging and is a large opportunity.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+So, Marc, you want to...
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Yes. So the question on the Nexium milestone. This is the second milestone that we have
+received from Pfizer. This is basically a sales-related milestone.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+(1:28:15) about the milestones, they are related to approval dates. And we continue to work withpayment of that milestone will be, of course, defined by the timing of approval and at this stage,
+it's – I don't think – yes, do you want to comment on that?
+A - `Sean Bohen, Chief Medical Officer & Executive Vice President `
+Yeah. Yeah. It's just, I mean what we've done is we've calculated when our filing was accepted
+and then looked at when the PDUFA date would be. And that's why you have that date there.
+Obviously, it's at the regulator's discretion when they actually act. But the way we do this is
+perhaps the conservative way and that is to use to PDUFA date. And that's what you're looking at
+there.
+Again, when the milestone is triggered depends upon the regulator's actual approval. So we're
+forecasting 2017. It could happen in 2016.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+(1:29:13)
+Q - Operator
+The $170 million in pre-launch milestones won't drop in 2016, probably.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Well, I think you'll have to judge that for yourself. But it will be defined by the approval date, as
+Sean said. And it's really hard to judge at this stage what the date will be. We've communicated a
+PDUFA date. And then there's also the question of the timing of the approval in Europe.
+We don't have at this stage more data to kind of give you an indication one way or another as far
+as the timing dates. We'll keep working with our partner and also the regulators to see what's
+best way to get approval. We really don't have much more we can share compared to what we
+told you before.
+Q - Operator
+Okay. Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Good. Thank you so much. So we maybe will close here. And I again would like to thank you very
+much for your interest in AstraZeneca. And I would like to wish you a good day. Bye-bye.

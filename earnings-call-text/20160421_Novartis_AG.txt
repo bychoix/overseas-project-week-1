@@ -1,0 +1,953 @@
+Q1 2016 Earnings Call
+
+Operator
+Good morning and good afternoon, and welcome to the Novartis Q1 2016 Results Release
+Conference Call and live audio webcast. Please note that during the presentation, all participants
+will be in listen-only mode and the conference is being recorded. A recording of the conference
+call, including the Q&A session, will be available on our website shortly after the call ends.
+With that, I would like to hand over to Mr. Joe Jimenez, CEO of Novartis. Please go ahead, sir.
+Joseph Jimenez `
+Thank you. I'd like to welcome everybody here today. Now, joining me on the Novartis end are
+Harry Kirsch, our CFO; we have David Epstein, Head of Pharma; Mike Ball, Head of Alcon; Richard
+Francis, Head of the Sandoz; and Vas Narasimhan, who's our new Global Head of Drug
+Development.
+Now, before we start, I'd like Samir to read the Safe Harbor Statement. Samir?
+Samir Shah `
+Good morning, everybody. The information presented in this conference call contains forward-
+looking statements that involve known and unknown risks, uncertainties and other factors. These
+may cause actual results to be materially different from any future results, performance or
+achievements expressed or implied by such statements.Please refer to the company's Form 20-F on file with the U.S. Securities and Exchange
+Commission for a description of some of these factors.
+Joseph Jimenez `
+Thanks, Samir. Okay. Starting on slide number four, we had a solid quarter. We absorbed the
+Gleevec patent expiration, as well as investing in new launches, and our net sales were up about
+a 1 point in constant currency. Core operating income was down 5% and this reflects the Gleevec
+patent expiration, as well as the launch investments, and we're making some good progress on
+the launches, which we'll talk about in a minute.
+On slide five, you can see the five priorities that I laid out at the beginning of the year and I want
+to touch on each of these. Starting with financial results on slide six; as you know, 2016, we do
+have some pretty strong headwinds with the Gleevec patent expiration with the launch of
+Entresto and Cosentyx in terms of additional spending, as well as spending on Alcon, but we had
+a good quarter. Pharma was up 1%, ex-Gleevec, it was up 4%. Sandoz had a good quarter; sales
+up 4% in constant currency and this was really driven by growth of the Biopharmaceuticals
+business. And then Alcon was down as expected, as we begin to execute the growth
+acceleration plan.
+The second priority is on the next slide and it's to strengthen innovation across all of our divisions.
+On Entresto and Cosentyx, the launches are progressing. So Cosentyx is doing extremely well. As
+you could see, we're growing share both in the U.S. and Europe as we launch in psoriasis, as well
+as the two new indications. David's going to talk more about that.
+And then on – in Entresto, we said the first quarter was going to be all about breaking down
+some of the access barriers which we've accomplished. There still is prior authorization that's
+slowing some uptake, as well as physician reluctance to switch stable patients. But we're working
+very hard on this and we're still very confident in the long-term peak sales of Entresto just given
+the data on that drug.
+And on the next slide, I just wanted to lay out some of the other potential catalysts, right? All the
+focus has been on Entresto and Cosentyx, but I want to remind everybody that we have a broad
+and a deep pipeline. Just touching on a few on oncology, LEE and advanced breast cancer,
+Fovista and wet AMD. In neuroscience, this Amgen collaboration in migraine is going to be very
+promising and in cardiovascular, serelaxin for acute heart failure. So, all these are potential
+blockbusters in growing areas of healthcare.
+And at Sandoz on slide seven, we're working hard to expand patient access to biologics with our
+biosimilars pipeline. We have five major filings planned for this year and next, and we expect to
+have a big impact on health systems around the world that are struggling with cost. This is a
+needed and going to be a welcome line from Novartis.
+And then finally on innovation on slide number 10, I'm very excited that now we have our two
+innovation leaders in place, Jay Bradner in research and Vas Narasimhan in development. They're
+off to a very good start, strong relationship and this is going to benefit our company for many
+years.
+Now, the third priority is to improve Alcon performance. And under Mike Ball's leadership, the
+Alcon growth plan is underway. So, we're accelerating innovation with the launch of UltraSert and
+PanOptix. We're strengthening our customer relationships around the world and we're improving
+basic operations such as customer service, ensuring that we've got the right product at the right
+place at the right time.Now, the fourth priority is to capture cross-divisional synergies. And as I said in January, we're
+going to focus our divisions, integrate drug development and centralize manufacturing. So, in
+terms of focusing the divisions, we've already transferred Ophtha Pharma from Alcon to Pharma,
+so that took place April 1. We have also transferred just under a $1 billion of mature products from
+Pharma to Sandoz; that also took place April 1.
+We're integrating some elements of drug developments. Vas has got his team in place and we
+are looking for a July 1 cutover. As well as on centralizing manufacturing, we've appointed a new
+global head. That is Juan Andres. He's Head of Pharmaceutical Manufacturing today, and he's
+building out his team and the plans for centralization of manufacturing, that'll go live on July 1.
+We think these changes will generate significant savings. We've put a number of a $1 billion out by
+2020 and that's going to help us with continued margin expansion for the company, as well as
+ensuring that the launches have what they need to maximize themselves.
+So, on slide number 14, I just want to give a little bit of an update on NBS. We've made good
+progress. Just picking out a couple of things that we did in the quarter. We consolidated Facility
+Services, so we had 100 suppliers across – around the world servicing Novartis sites. We've
+reduced that to three. And when you think about that, the leverage that we have in terms of
+offering these companies significantly greater business, we're able to take costs down
+considerably.
+We've started building out our five global service centers, which is – will help us lower costs in the
+long term. And we're expanding NBS to include in-country commercial efficiency across divisions,
+country-by-country. And then, finally, the fifth priority is to continue to build a high-performing
+organization with that focus on quality assurance. And in the first quarter, we had a large number
+of inspections and all of them were deemed good or acceptable.
+Now, before we move on to finances for the quarter, I want to invite Mike Ball, who's our new
+Head of Alcon, to share his initial perspectives on Alcon and the turnaround plan. Mike?
+F. Michael Ball `
+Thanks, Joe, and good morning, everyone. Well, just to start with, I'm very impressed with Alcon.
+Despite the rough patch we hit in 2015, I see a strong foundation and numerous competitive
+advantages here. And candidly for me, it's just fun to be back in eye care.
+I think I can distill Alcon's issues down to a few key themes. Alcon needs more innovation driven
+by a better understanding of customer needs. I think we need more investments behind key
+drivers of growth, a real mindset here of customer delight rather than simply customer
+satisfaction and a nimble device culture that moves fast and is focused. And I think the split with
+Pharma will really help us in that regard.
+We have initiated a focused set of actions to get our business turned around. In terms of
+innovation, we are putting more investments behind our most promising R&D programs in both
+Surgical and Vision Care. And we are actively consulting to get top position input to ensure best
+user experience. Also, we are, I'll call it, open for business, if you will, on the business
+development front, and we completed three deals in the past 60 days, I believe you've read
+about.
+To improve the Alcon customer experience, we established a team that did a deep dive into our
+Surgical business to come up with recommendations to move us into the customer delight area.
+We have had a report out on that and we are now ready to implement. And to drive near-termgrowth, we are increasing investments in business areas that are immediately responsive to
+promotion in both Surgical and Vision Care.
+In the mid-term, I'm also excited about a number of market expansion opportunities that exist
+because virtually no one in this space has invested significant dollars against obvious direct-to-
+consumer opportunities. My background in market creation and market expansion tells me there
+is great potential out there.
+So I am enjoying it. I feel confident in the turnaround. Obviously, the next question is when is the
+turnaround? So it's early days, but I feel that our growth acceleration plan will put us on track for
+sustainable growth by the end of this year. Joe?
+Joseph Jimenez `
+Thanks, Mike. And Mike is going to be around for Q&A, so he can get into it more deeply. Now, I'd
+like Harry to talk through the financials for the quarter. Harry?
+Harry Kirsch `
+Yeah. Thank you, Joe. Good morning, good afternoon, everyone. As Joe mentioned, we
+completed the transfer of operational control for Ophtha Pharma from Alcon to Pharma and for
+the mature products from Pharma to Sandoz. We updated our 2015 segment financials to reflect
+these changes, so all comparisons are on a like-for-like basis. Also, unless otherwise noted, my
+comments refer to continuing operations and growth rates in constant currencies.
+Slide 17 shows the usual summary of our performance. Overall for quarter one, sales were up 1%
+and core operating income was down 5% as was core EPS. I mentioned at the start of the year
+that certain factors would weigh on first-half performance with generic Gleevec entering in the
+U.S. market from Feb 1, high investments for Entresto and Cosentyx, as well as the Alcon growth
+plan.
+Operating income for the first quarter was down 5% in line with core operating income. Free cash
+flow was $1.4 billion, broadly in line with the prior year at $1.5 billion.
+On slide 18, you see that our sales growth was driven by strong underlying volume growth of 7%.
+This reflects the strength of our growth products, which were up 24% to $3.9 billion or 34% of
+group net sales. Of course, this includes the GSK acquisition effect as the transaction closed on
+March 2 last year. We had one month of sales from those products in quarter one 2015 compared
+to three months in quarter one 2016.
+This helped us offset 4 points from generic erosion on the quarter, as well as 2 points from price.
+Currency took us from a positive constant currency growth of plus 1% to a negative dollar growth
+of minus 3%. On core operating income, strong underlying growth of 15% was more than offset
+by negative 8 points from price and negative 12 points from generic erosion. Currency took us
+from minus 5% to minus 11% in dollars.
+I'll provide a bit more detail on the currency evolution on the next slide. The currency impact in
+quarter one of minus 4% on the top line and minus 6% on the bottom line was slightly better than
+we anticipated in January, mainly due to the weakening of the U.S. dollar in March. If March
+average rates prevail for the remainder of the year, we expect the impact on Q2 would be minus
+3% on top line and minus 4% on bottom line. For the full year, it would be minus 2% on the top
+line and minus 3% on the bottom line, slightly favorable to our January guidance.Now let's turn to margins on slide 20. Overall, the group core margin declined 1.8 points in
+constant currency, mainly due to generic erosion and growth investments.
+Let me talk you through the divisions. Pharma grew sales by 1% in quarter one as growth products
+compensated for generic erosion. However, core operating income was down 3% in the quarter,
+mainly due to generic erosion and launch investments behind Entresto and Cosentyx, partly
+offset by the two additional months of GSK assets and productivity gains. This resulted in the core
+margin decline of 1.5% points to 33.7% of sales.
+Sandoz grew sales by 4% and core operating income by 6% in the quarter, resulting in a core
+margin expansion of half a point to 19.8% of net sales. This expansion was driven by favorable mix
+mainly from U.S. biosimilars launches of Glatopa in June last year and Zarxio in September last
+year.
+Alcon sales were down 3% and core operating income was down 26%, resulting in the core
+margin decline of 5.9% points to 17% of net sales. This decline was mainly due to investments
+behind the growth plan announced in January combined with lower sales. As I mentioned in
+January, we expect sales growth at Alcon to follow in the second half of the year. We expect
+margins to improve over time to be in line with industry peers.
+On slide 21, you can see the dividend payment of $6.5 billion in quarter one drove an increase of
+our net debt to $23 billion at the end of March. Our free cash flow, which was broadly in line with
+prior year at $1.4 billion, was used primarily for payments related to the acquisition of small bolt-
+on businesses and share repurchases.
+Now, let's turn to the balance of 2016 shown on slide 22. In half one, we expect core operating
+income to be impacted by the higher investments we are making in Pharma launches and the
+Alcon growth plan. Quarter two is expected to be the lowest for sales growth as we lap the GSK
+oncology product acquisition and have the full quarter impact of Gleevec generic erosion, which
+continues in half two.
+With these factors, quarter-two core operating income could be a high single digit decline in
+constant currencies versus prior year. In half two, we expect the sales uptake from growth
+product, including Cosentyx and Entresto, together with cost benefits from productivity programs
+and resource allocation to deliver core operating income growth of mid to high single digits.
+Lastly, on slide 23, I want to confirm our full-year guidance. We expect net sales and core
+operating income to be broadly in line with the prior year in constant currencies. On the divisional
+level, we are expecting Pharma to be broadly in line to a slight decline; Sandoz to grow low to
+mid-single digits and Alcon to grow low single digits.
+And with that, I had over to David.
+David R. Epstein `
+Good. Thank you, Harry. Happy to report that for Q1, despite the negative headwinds from
+Gleevec generic entry – and let's not forget the remaining generic pressures on Exelon Patch,
+Diovan and Exforge – the division was able to deliver 1% growth. Before and after the transfers to
+Alcon and to Sandoz, we would have been 2 points better. And as mentioned earlier, our sales
+growth ex-Gleevec was a solid 4%. Core operating income declined 3 points from the
+investments we're making in those new launches.
+The next page has now been updated to show you the key growth drivers with exclusivitydouble digits. In addition, products like Cosentyx, Tafinlar and Mekinist and Revolade also grew
+strongly, although we don't have an easy comparison to show you in the percentage comps. So,
+overall the portfolio continues to do nicely and we have a substantial portion of our revenue
+coming from these growth drivers.
+I want to spend just two slides on our oncology portfolio; our oncology base business ex-Gleevec
+grew 7% versus prior year. Total oncology sales grew 9% versus prior year. The assets that we
+recently acquired are delivering right in line with our expectations. Of note, in the U.S., Gleevec
+volume share remains greater than 50%, which puts us well above the volume retention of very
+high-end benchmarks.
+And perhaps just as importantly, if you look at the last couple of weeks, there seems to be some
+stabilization in that share decline, which should set us up well for the next couple of quarters. Of
+course, the main growth drivers for oncology remain Tasigna, Jakavi, as well as Jadenu, the
+improved formulation of Exjade.
+During the quarter, we also took action on page 28 to further strengthen our oncology portfolio
+by expanding our relationship with Incyte and working and partnering with them on the
+development of a new indication, targeting graft-versus-host disease. This is a really horrific
+condition. Right now, there is not many drugs that work well. Steroids are used, cyclosporine and
+others. But here we saw very promising efficacy results with high overall response rates in both
+acute and chronic serious graft-versus-host disease. As a result of this new deal, a pivotal trial is
+going to start in the first quarter of 2017, and this should further help this product expand its
+already very compelling potential.
+Quickly on Gilenya, this product in multiple sclerosis continues to do very well; sales grew 12%
+versus prior year, in the quarter, we're growing strongly all around the world, in a number of
+countries we're actually the market share leader. Over 148,000 patients have been treated to
+date and the product is well positioned and increasingly recognized for early efficacy switch in
+relapse-remitting multiple sclerosis.
+Now what I'd like to do starting on page 30 is go a little bit deeper on Entresto given the high
+interest and the very high potential for this product for our company. Those of you who were on
+the call prior to the launch, remember I spoke primarily about two things. One was the fact that
+the patient population is largely divided in half – patients that are symptomatic and are getting
+worse and patients that are viewed as stable, although their underlying disease is also getting
+worse. And at that point I said the difference between a big drug and a very successful drug
+would be our ability to move the patients that are viewed as stable over to this product and I'm
+going to come back to that point in a moment.
+We also cautioned the uptake, particularly in the U.S., would be very slow at the beginning
+because access would be blocked. Take a look at this chart and, in fact, up until about January of
+this year there was virtually no access for this brand. What that meant was the early adopters, the
+physicians who would write a prescription, that prescription largely would not get filled because
+the managed care plans put in place so many hurdles to filing that prescription and in all honesty
+and all candor, some physicians said I'm going to wait a while now, and I'm going to wait until
+access opens before I re-engage in what I see is a laborious process.
+The good news is that our managed care team in the U.S. has done a truly excellent job. And if
+you look at the data for April, you see that we have, at this point, 100% access under commercial
+insurance with about 56% of those patients on the, what we call, the lower co-pay tier, which isusually around $30. And in Medicare, we have over 90% access with the vast majority of those
+patients on the lower co-pay.
+Now, I'd like to say at this point there's no more access issues. But I'd rather say, the access
+issues are greatly addressed but not completely and that insurance companies and other payers
+have gotten much smarter about putting additional hurdles in place. In particular, they're very
+good at using prior authorizations. Each insurance company has a different prior authorization
+form for the product. And in fact, they have different prior authorization forms for Entresto, but
+also the PCSK9s and Corlanor. And physician offices need to adjust to building these PAs into
+their normal practice in order to make sure that patients do get access to these products.
+Turning down to next page; you should be asking, I suspect you are asking, so what does this
+really mean in terms of results to-date? What are the lessons learned and where do we go from
+here with this product? On the left-hand side of the chart, you see weekly new Rx and TRx trends
+for Entresto. The good news is those prescriptions trends are indeed trending up since access
+has opened, since our field-force was retrained in January and was given materials to use for the
+first time with our physicians. Clearly, there's no inflection there yet and you'll recall we promised
+an inflection in the second half of the year. But you could look closely and lead yourself to believe
+it's certainly getting better and not getting worse.
+On the other hand, on the right-hand side of the chart, we show something that's, in my mind,
+very, very encouraging. And this chart compares relative uptake on a per capita adjusted basis for
+the sales of Entresto in Europe, basically Switzerland, Germany and France relative to the U.S. And
+what you see is a marked difference between Europe and the U.S. much, much better, several
+folds better in Europe than the U.S. and particularly well in Switzerland. So you might ask the
+question why is it so different. Well, first of all, the access issue in Europe is very different from
+the U.S. issue. Once a product enters the market, generally, there are a little to no co-pays, there
+are not step edits, and patients really have broad access to the product.
+Second, we made a decision based upon our learnings in the U.S. to launch in Europe focusing a
+bit more on those symptomatic patients. Because it became clear to us that physicians were
+much more willing to change a symptomatic patient than one they perceive as stable. And third,
+we decided to go because we knew there were not going to be access issues, we decided to go
+more broadly with our field organization. And what we're learning from our European launch is
+that frequency does drive prescribing for this product. So, a very good news in Europe and lots of
+work to be done in the U.S. I will come back to that as well.
+But before I do, on page 32, I want to try to give us all – get us all grounded again, both in the
+long term potential and what we see in the near term for the product. First of all, as you know,
+this is a product that's going to be built on multiple heart failure indications. The PARADIGM trial,
+which was the first approval and where almost all of the sales are coming now, it's the subject of
+the first label.
+The PARAGON trial in preserved ejection heart failure, which is enrolling well and we hope to file
+in 2019 will expand the market considerably for the product. And recently, after talking with
+leaders in the field, we decided to start another pivotal trial in post-acute myocardial infarction,
+these are patients that are at risk of heart failure. And we plan to file in 2020 or perhaps a little
+bit later. And this will be a third opportunity to expand the potential for Entresto.
+So, as a result of these programs and because of the remarkable data in terms of reductions in
+mortality and hospitalization, and also what we're starting to see now, which is some of thesymptomatic benefits, we remain confident that the sales of this product would be in the range
+of $5 billion in reduced ejection heart failure, and we can build from there.
+For 2016, as we cautioned last time, we would like people to be more modest in their
+expectations. And we're estimating sales in the ballpark of $200 million. I suspect some people
+will say to me, is that conservative? Is that optimistic? A lot depends upon exactly when that trend
+line breaks in the second half. We certainly hope to beat the number, but nonetheless, we think
+using $200 million as a target is not unreasonable for this year.
+On the next page, I want to take you through a little bit more detail of what we're doing, primarily
+in the U.S. market, but also some of these tactics are being used ex-U.S. as well. And basically,
+we're focusing on three areas to make sure the appropriate patients get this drug.
+We're expanding promotion and share of voice. We are adding sales representatives. Those
+sales reps are in the field today. They started in April. It's roughly a 50% increase in capacity
+against our cardiologists. And we are evaluating a primary care field force extension as well, likely
+to happen either very late this year or early next year.
+Another interesting learning is that in Germany, where we are calling on PCPs, a significant
+number of them are writing the prescription, which is something we had not fully anticipated
+when we launched the product. In addition, we just launched our Tomorrow direct-to-consumer
+campaign, that's meant to educate and activate patients so they understand there's something
+better out there for them that can give them a better life. More work to be done around
+informing patients and also supporting practices, doctors' practices around reimbursement.
+And last but not least, we are now well into and expanding and executing a clinical trial program,
+which we have now branded under an umbrella of something called FortiHFy. I won't read all the
+details for you, but you can see this is a fairly active clinical program meant to support this
+product. That's where we tie up on Entresto today. So I leave you again with a feeling of
+confidence. This is a very good drug. It's working in physicians' hands and physicians just need to
+use it to get comfortable with it and also get comfortable that the reimbursement process is
+something that can be managed.
+Turning now to an even better new story is Cosentyx on page 34. This product is above
+expectations, both your expectations and our expectations. We're outpacing competition with
+strong share gains in the psoriasis market. You can see on the left-hand side of the chart the
+strong share growth versus Stelara. The weekly TRxs are tracking nicely. You could even argue
+that the line is beginning to accelerate rather than decelerate.
+Perhaps even more importantly, if you look at a chart in the right-hand side and this is Germany.
+And you'll remember that we launched in Germany quite some months after the U.S. In Germany,
+we have already bypassed Stelara in terms of market share. And we are on track that before the
+end of this year, it is quite likely that we could bypass the market share for Humira, which would
+make Cosentyx the number one biologic brand in the German market.
+If you turn to the next page, let me share again why we believe Europe has even more potential
+for biologics and particularly Cosentyx than is typically understood. In the U.S., reimbursement
+requirements through step-edits usually require that patients fail other biologics, one, two,
+occasionally even three. In Europe, those step-edits do not exist, which means a patient can
+move immediately from oral therapy to Cosentyx at the first biologic therapy. And if you look at
+this chart, you see that indeed, 40% or more of patients are naïve to biologics in the European
+market that are taking Cosentyx. This means this market will expand, and we will capture much ofthat expansion, which means the European opportunity is quite big and for the brand overall in
+psoriasis.
+Now if psoriasis was all we had for this product, it would be a good news story. But actually
+psoriasis is just the beginning. And if you turn to slide 36, you see that we're building a mega
+blockbuster across three indications for this brand. We are now the only anti-IL17 with indications
+for a moderate to severe psoriasis, psoriatic arthritis and ankylosing spondylitis in our label. Sales
+during Q1 were $176 million and we are just getting started in the rheumatology indications.
+There are over 25,000 patients on this brand worldwide, and the market is big, $15 billion at the
+end of 2015 growing at over 20% per year, you can imagine this market growing at that rate for
+the next couple of years, even if we were only to capture 20% to 25% of that market, we should
+be able to easily hit our peak sales forecast for this brand. We have more to do in the area of
+rheumatology, field forces are being expanded. We're working through reimbursement in the
+number of countries for these additional indications. We plan to start a head-to-head superiority
+study in psoriatic arthritis and ankylosing spondylitis with Cosentyx versus Humira because we
+believe the profile of this product is very strong.
+With that, I'd like to end on the expected highlights for the pharmaceuticals and our regulatory
+news flow for the year. As you can see, the year is progressing nicely. I believe we will indeed see
+the regulatory filing also for PKC412 in the first half, so we'll see another green check mark. The
+BYM results in this rare orphan indication are disappointing where we just saw the earlier data
+sets and we're now doing the evaluation to see what the implications might be on the other
+potential indications. And with that, I'd like to turn the presentation back to Joe.
+Joseph Jimenez `
+Thanks, David. Okay. So, to just conclude, we had a solid Q1, and we are on track to deliver our
+full-year guidance for the year. Now, what I'd like to do is open it up for Q&A.
+Q&A
+Operator
+Thank you. The first question comes from the line of Jeff Holford from Jefferies. Please go ahead.
+Q - `Jeffrey Holford, Jefferies LLC `
+Hi. Thanks very much for taking my question. So, in the first quarter, you did operating profit –
+core operating profit of 5% decline at constant exchange rates. You had said when you updated
+the full year it could have been as bad as a double-digit decline. So, the first question is does this
+mean you've got some potential gas in the tank for a beat this year? Was there something that
+changed the phasing of operating profit loss in the first half to make it come out better than you
+expected?
+Secondly, just because we're all still getting to grips with the margins in the new Alcon and the
+new Pharma business, can you just give us a bit more help on the shape of Alcon margins through
+this year? So, for example, which quarter do you think should be the lowest margin for the Alcon
+business? Is that something we could expect in Q2 or are we already past that?
+And then just last, just on LEE011, can you just remind us of when the different interim readouts on
+this product are expected, just to help us understand there is time points that are out there and
+how events are occurring in those studies? Thank you.A - Joseph Jimenez `
+Okay. Harry first on the quarter.
+A - Harry Kirsch `
+Thank you, Jeff. So concerning the 5%, I said in January, quarter one could be double-digit. We
+had some better productivity. We had some cost phasing and Cosentyx performed better than
+expected. Overall, as I've shown on chart 22, I expect the first half to have the core op inc decline
+of mid to high-single-digits. So, quarter two given phasing could be high-single digits. But overall,
+we simply stick to our full-year guidance of broadly in line as further productivity and uptake from
+the growth products I expect to then drive some further upsides in the second half.
+A - Joseph Jimenez `
+Mike, on Alcon margin?
+A - F. Michael Ball `
+And so, still early days for me and I'm still learning, job one is obviously to turn the top line
+around. And to do that, we need to invest in marketing and sales and R&D. And as we do those
+investments, we could take short-term margin hit. But as I see this business turning around, we
+are going to return to industry norm. So, still a bit of a mystery to us right now.
+A - Joseph Jimenez `
+And David on LEE.
+A - David R. Epstein `
+Vas, do you want to?
+A - Vasant Narasimhan `
+Absolutely. So, for LEE or MONALEESA-2 study, the enrollment is complete. We expect to have
+the interim analysis complete in Q2 and we're on track for a full study readout by the end of this
+year. Thanks.
+Q - `Jeffrey Holford, Jefferies LLC `
+Thanks very much.
+A - Joseph Jimenez `
+Next question, please.
+Operator
+The next question comes from the line of `Richard Vosser, JPMorgan Securities Plc from JPMorgan. Please go ahead.
+Q - `Richard Vosser, JPMorgan Securities Plc `
+Hi. Thanks for taking my questions. Just a follow-up question on LEE. Perhaps you might be able
+to touch given you're fully enrolled on the blinded safety tolerability profile that you're seeing in
+the trial. Are you seeing anything that stands out in terms of signals relative to I-brands?Second question on Entresto and your comments on the experience in Germany with the PCPs.
+Perhaps you could explain why you're waiting until the end of the year to expand the sales force
+to PCPs in the U.S. I certainly would have thought the sooner the better maybe there. Secondly,
+after the expansion of the U.S. cardiology sales force, perhaps you might give us an idea of the
+relative size of the sales force and relative to their number of target docs in each geography.
+And just one final one on Entresto. Just thinking ahead in terms of pricing in Europe and price
+discussion in Germany, of course we have the GBA thinking about price one year after launch.
+Just do you anticipate any issues there that we should think about? And maybe I'll just push one
+more on Cosentyx. Just the thought, Lilly's Taltz has just been approved. So just what are you
+seeing there in terms of their launch behavior? Is there sampling? What are you thinking in terms
+of the future and the impact on Cosentyx? Thanks very much.
+A - Joseph Jimenez `
+Okay. Vas, LEE.
+A - Vasant Narasimhan `
+So on LEE, we are of course looking at the blinded safety review, we're seeing safety that's in line
+with what we've seen in previous trials, but I think it's too soon to really make any definitive
+declarations about the profile.
+A - Joseph Jimenez `
+And David, Entresto.
+A - David R. Epstein `
+Yeah. Regarding Entresto, so the learnings about Germany in primary care adoption of the
+production are actually very recent. It just really started to happen now and it was surprising. And
+that has actually given us additional fuel to look at accelerating that primary care launch, and
+that's why I was saying it could be as early as the end of this year versus waiting for next year. But
+I want to be clear we have not made an exact decision yet. We need a couple – I think we need
+another month or two of data – and then we'll really know what the right decision is.
+The next question was around?
+Q - `Richard Vosser, JPMorgan Securities Plc `
+Expansion of U.S. cardiology.
+A - David R. Epstein `
+Yes. So we're at around 600 people in the field; typical rep has between 30 and 50 what you call
+more or less super targets that they focus on, but they do also call on a bit more physician. What
+we're starting to learn is we're getting – I mean, the good news is we're seeing a fairly good
+breadth of prescriber and we're getting about 200 more physicians prescribing per week, but we
+haven't generally gotten to depth, which means repeated use, except in the places where we
+really heavied up on the frequency. So we're actually in the process of narrowing down the
+number of adopters that the reps are calling on, but seeing them more frequently, and we think
+that's going to be part of the reason you're going to see the inflection during the second half of
+the year.Regarding Entresto in Europe, you're right. Entresto is priced more modestly in Europe. It
+depends upon the country, but the prices are around €5.5 in the European market. Interestingly in
+Germany, we just went through the first evaluation process for the product, and the product was
+deemed to provide significant incremental events, which sets us up pretty well from our pricing
+perspective. Price will come down, but probably not come down a lot because the German
+government has deemed the product to be a significant event.
+Regarding Lilly's approval and launch, we welcome them into the market. Our experience has
+been that whenever a new class of drugs enters, having more than one player almost certainly
+expands the class, in this case, the anti-IL-17. So we expect that to happen here.
+The profiles of the drugs are a little bit different. I think actually in terms of clinical efficacy, they're
+spot on. Their label, however, from an efficacy perspective is better than ours because they were
+able to get something called POZ 100 (40:16) in their label. Dermatologists don't prescribe the
+POZ 100 (40:19) but the Lilly reps most certainly will use that data as anybody would and that will
+give an efficacy halo.
+On the other hand, there's also data in their label that says patients should never discontinue
+their product. Because when they discontinue, if they're re-challenged due to the immunogenicity
+of the product, there's a fairly high chance the patient will not respond again. And I think there's a
+number of 33%, 34% in their label which may prove problematic.
+And last but not least, about 17% of their patients have injection site pain and for Cosentyx, there
+is virtually no injection site pain. So, we look forward to the competition and the market expanding
+and this becoming – IL-17 – becoming the leading category in the psoriasis market.
+A - Joseph Jimenez `
+Next question please. Thanks.
+Operator
+The next question comes from the line of Tim Anderson from Bernstein. Please go ahead.
+Q - `Timothy Minton Anderson, Sanford C. Bernstein & Co. LLC `
+Thank you. I have a few questions. On Entresto, prior authorizations are still a major access issue.
+I'm wondering what's going to get those to lift in the U.S. I would imagine the answer would be
+treatment guidelines and that's kind of the one thing you didn't seem to touch on very much in
+your conference of update on Entresto. So what's the expectation for how those guidelines will
+read, and how do you need those to read to get rid of prior authorizations? And is that really the
+gating factor on prior authorizations?
+Second question is on Alcon. You talked about returning to growth in 2016. Is that on an organic
+basis? You talked about being open for business in terms of M&A within that division, so I'm
+wondering if M&A is what you envision carrying that division back to growth?
+And then Sandoz, you mentioned in the press release acquiring rights to biosimilar Remicade in
+Europe. I'm wondering why Sandoz would have to acquire right to really anything in biosimilars. I
+would think of Novartis as kind of being a leader in this area. So, when I look at development
+timelines, there are other companies that have been ahead of Sandoz, and I'm wondering why
+that's happening.
+A - Joseph Jimenez `Okay. Starting with Entresto, David.
+A - David R. Epstein `
+Okay. So, it seems to us, talking to payers, the prior authorizations are a new tool that's not going
+away anytime soon for many products at all. They originally started, as you know, with very high
+price specialty products, and now prior authorizations are common with most launches except for
+very, very, very inexpensive brands. And I think payers have figured out how to make the prior
+authorization process fairly inexpensive for them and a good way for them to save money.
+So I think the only way prior authorizations come off is when products become so common that
+the burden of processing the prior authorizations for the insurer outweighs their ability to actually
+inhibit prescribing, which means it will not be guidelines, but rather it will just be time and market
+and continued sales growth for the product. And when the product becomes standard of care,
+those PAs will go away. When is that going to be? It's not going to be this year and it's not going
+to be next year.
+A - Joseph Jimenez `
+Mike, on the Alcon organic growth?
+A - F. Michael Ball `
+Yeah. So, my comments were really relative to organic growth and we were looking to get growth
+in the fourth quarter organically. The BD deals are very important to us in 2017 and moving
+forward. And really, the return to growth is, my view, we have a lot of promotion-responsive
+brands here. And as we put more investment behind these brands, our prediction is that we will
+get a lift this year.
+A - Joseph Jimenez `
+All right. And Richard, on Sandoz Remicade?
+A - Richard Francis `
+Yeah. Thanks. Thanks, Tim. Thanks for the question and thank you for the recognition that we
+have a world-leading pipeline in biosimilars which we do. But with that significant pipeline, we
+obviously have to prioritize and make sure we're actually focusing on the right molecules at the
+right time in the right markets. And that's what's happened within Infliximab, and we saw an
+opportunity to leverage what was happening with Pfizer, and we took that opportunity to make
+sure we were well placed for entering to the market in a timely fashion.
+Q - `Timothy Minton Anderson, Sanford C. Bernstein & Co. LLC `
+Right. So, it is about timing as opposed to capability or...?
+A - Richard Francis `
+Absolutely.
+A - Joseph Jimenez `
+Thanks, Tim. Next question, please?
+OperatorThe next question comes from the line of Matthew Weston from Credit Suisse. Please go ahead.
+Q - `Matthew J. Weston, Credit Suisse Securities (Europe) Ltd. `
+Thank you very much. Three questions if I can. The first, you called out the opportunity ex-U.S. for
+Entresto. Can you give us the split of the Q1 revenue U.S. versus ex-U.S.? And David, can you give
+us the EU rollout timetable country-by-country over the course of the next 12 months so we
+understand how that opportunity is going to build?
+Then, secondly, just looking beyond the headline brands, it looks like some of your second line
+assets saw weakness, particularly ex-U.S. in Q1. So, Galvus, Diovan, Exforge were all below
+expectations. Is there a risk that you're sacrificing in-market sales by focusing the cardiometabolic
+effort on Entresto ex-U.S.?
+And then thirdly, Mike, you called out the opportunity to grow markets with increased promotion
+in particularly DTC in Alcon. I mean, that makes a lot of sense. But one of the issues with Alcon, as
+I recall, seems to be the difficulties in actually manufacturing sufficient product or getting the
+product in the right place to actually sell it and get the doctors' support. So how confident are we
+that, for example, Bailey's Total One (46:02) is going to have enough capacity for you to grow
+the market by pushing on new channels? Thank you.
+A - Joseph Jimenez `
+Thanks, Matthew. So, we'll start with the ex-U.S. Entresto question. David?
+A - David R. Epstein `
+Yeah. So, the sales were quite modest for the quarter, and I think breaking them out, particularly
+giving stocking, in some places lack of stocks, drawdowns and other places, it's not particularly
+meaningful where that revenue came from. Going forward by Q2 or Q3, I think you'll actually have
+some meaty material. But I'd say over the long term without giving a specific number, a
+substantial part of that $5 billion estimated peak sales will come from Europe and other parts ex-
+U.S. You can rest assured of that.
+The EU rollout, sales this year are primarily in the three markets that we showed on the chart, so
+Switzerland, Germany and France. A number of countries will provide reimbursement starting in
+Q3 and in Q4. So it won't be that material for this year, but actually should be a nice growth driver
+for Entresto as we start 2017.
+A - Joseph Jimenez `
+And the question about the second line asset such as Galvus.
+A - David R. Epstein `
+So, you're right that in order to balance providing a reasonable margin in a year of generic
+pressure, finding the money to invest in Entresto and Cosentyx, we did resource reallocation
+around the world. And it would be easy to jump to the conclusion that maybe that had some
+impact on sales for other products, but the reality is when you dive into it, it's driven much more
+by price reductions that we're seeing across the business in Europe and the emerging world.
+There's a number of countries where we're seeing the impact of low commodity prices and
+lower ordering for the emerging market growth is quite a bit slower than it used to be. And in
+Japan, there is quite a lot of pressure particularly overall because wholesalers were drawingdown inventory prior to their price cuts and continued erosion of Diovan and Exforge in the
+Japanese market.
+A - Joseph Jimenez `
+And Mike on Alcon. The question is about...
+A - F. Michael Ball `
+Right. So, on the growth markets then, so using direct-to-consumer to actually expand the
+markets, we're obviously going to marry up our manufacturing abilities with those efforts to
+expand the markets. I would tell you thought that in an expansion into the lenses area, it's
+something like DT1, we do have the manufacturing wherewithal to address those opportunities. I
+should also point out in other things in our surgical area, if you look at how far LASIK procedures
+have fallen in the last 10 years from some 1.6 million in the U.S. down to about 600,000.
+There's lots of opportunities I think to grow that market back up perhaps back to where it was.
+And so there is opportunities for us there and obviously we have the equipment to handle that.
+And then on things like Toric IOLs, I'm always surprised that Toric still such a low percentage of
+the market when really much of the public wants spectacle-free existence. So, I think, if I look at
+our portfolio, we are very well-positioned to handle market expansion, both from a commercial
+standpoint but also the manufacturing standpoint.
+A - Joseph Jimenez `
+Yeah. And as I've seen Mike commenting kind of reallocate resources, obviously, where we do
+have any kind of manufacturing capacity issue just because of growth on certain items, doing a
+good job of reallocating to where we don't – and that's where we can get the market expansion.
+Next question please.
+Operator
+The next question comes from the line of Andrew Baum from Citi. Please go ahead.
+Q - `Andrew S. Baum, Citigroup Global Markets Ltd. `
+Hi. Three questions, please. First on Entresto, ICER praised the U.S. pricing strategy for the drug
+but presumably it's resulted in much lower PBM rebates than you could have got. How much of
+the issue is, very simply that the rebate available to PBM is just too low compared to other
+primary care drugs/specialist care drugs, and how much has other factors, along the lines that you
+mentioned?
+Second question regarding marketing. David, could you just remind us why you made the
+decision to delay marketing? I was curious at that time and then, when you talk about the 50%
+expansion, you obviously have a small relative base right now. So, perhaps you could put it in
+context and whether the reason for that is OpEx-dependent given the pressures on the business
+this year or are there other reasons?
+Finally, on the Attorney General investigations could you remind us what you believe the timelines
+could be here and to what extent the potential GSK-like CIA could negatively impact your prior
+Entresto estimates?And then finally a quick one, I'm not an ophthalmology analyst. Mike, you referred to industry
+norm of ophthalmology margins. Perhaps you could educate me and tell me what kind of number
+you're thinking of?
+A - Joseph Jimenez `
+David?
+A - David R. Epstein `
+Yes. So, Andrew, thanks for pointing out that ICER, which is essentially a health technology
+assessment, said that we priced this drug almost spot on given the value of the drug to bring out
+hospitalization cost, as well as to improve survival. As you can see, we were able to find the right
+level of rebates with the PBMs and other payers because we have basically open formularies
+now. So, I actually feel we did a very, very good job here.
+There is an interesting, what I would call, a conundrum in the U.S. market. We could have gone up
+and maybe price this drug at, say, $25,000 a year, and you're right, in that case, the rebates
+would be even higher and maybe there would have been more excitement among the PBMs but
+probably even less patients would have gotten the drug and over the long term, I think it would
+seriously hurt the drug's uptake success and really would damage our reputation if we had done
+something like that.
+In terms of marketing, we look closely at what has happened in the cardiovascular field over the
+last couple of years. So, for example, if you look at the Factor Xa, a number of those companies
+went out very, very heavy upon their launch. And that was before reimbursement was as
+restrictive as today. They actually fired their sales forces after year one, and they pulled back. And
+it was a largely wasted resource. So, we said given that we know reimbursement will be even
+worse, that would be the wrong way to go. And we saw they go with a more targeted approach.
+And then we said as we opened up reimbursement, we will be ready to then expand the
+commercial presence.
+And, in fact, we have time for field force expansion, the DTC, the office support programs to
+actually rollout just as reimbursement opens. So, it's on plan. And I think the only still really open
+question whether to, one is when and the question came earlier, when should we put the primary
+care field force up, and we're evaluating that. And then the second is how to optimally execute in
+the field particularly around helping physicians to focus initially on patients that are
+symptomatically getting worse and having the right frequency. So, rather than trying to cover
+everybody extensively but really cover those physicians within our frequency that we crack the
+code and they begin to prescribe sort of routinely.
+Your next question was about the Southern District of New York case, Andrew. Timing is always
+very hard to predict in these cases. From time to time, it will, let's say, flare up in the newspapers
+because we might be in the courtroom arguing, for example, over how broad or how narrow the
+case should be, what documents need to be provided. There's really nothing of substance that
+has changed in this case but it's in the newspaper from time to time. And overall, predicting how
+long this takes is really beyond my ability to do that.
+A - Joseph Jimenez `
+And, Mike, on industry norm margins?
+A - F. Michael Ball `Yeah. So, if I think if you look at a basket here, let's call it Cooper, AMO, Medtronic, Boston
+Scientific and Stryker, what you find is that the return on sales from op income standpoint is low to
+mid-20%s.
+A - Joseph Jimenez `
+Thanks, Andrew. Next question please?
+Operator
+The next question comes from the line of Tim Race from Deutsche Bank. Please go ahead.
+Q - `Tim M. Race, Deutsche Bank AG (Broker UK) `
+Hi. Thanks for taking my questions. So looking at the sales and marketing costs in the
+Pharmaceuticals Division, it seems pretty much in line with what we saw in the prior year.
+Obviously, Gleevec wasn't a heavily promoted product and the sales cost I presume is behind
+Tasigna. So, given the timing of launches of Cosentyx and Entresto, one would expect your cost
+to have increased significantly year-on-year. So how much of the sort of, say, performance on the
+cost of estimate – sales and marketing is due to phasing either preloading in the fourth quarter or
+are we going to see that in the second quarter?
+And then could you just clarify when you talked about 600 reps earlier, the 50% increase that
+you're making, does that include the 600 or would that make it up to 900? And then finally, just
+talking about refocusing resources, you mentioned in the statement refocusing on Onbrez.
+Would you be able to talk about which other products that you've refocused resources away from
+so that we could perhaps focus the top line better going forward? Thank you.
+A - Joseph Jimenez `
+Yes. So, there's a number of factors that impact the overall M&S spend lines and they're
+happening at the same time. One, is we've been driving it now for several years and we
+intensified it last year a series of activities to make ourselves more productive. We are constantly
+driving particularly on non-productive costs throughout the year. Sometimes those costs come
+through, savings come through in a lumpy kind of way. But wherever we're not getting a good
+return, we are squeezing out money.
+Second is we have redirected spend from, for example, some of the emerging markets into the
+countries where Cosentyx and Entresto are launching. And there were changes during the course
+of the year. Last year, you'll recall in terms of how cost of goods came out because of revaluation.
+If you actually look at our M&S, our M&S is up slightly from last year, not a lot. It's about 1%. But it
+actually is up and one would expect that as more countries reimburse Cosentyx and Entresto, our
+M&S spend will continue to grow up, not in a dramatic way, but you would think in an incremental
+way during the course of the year because that's going to be a whole new opportunity to grow
+this brand. So, I hope that's helps a little a bit.
+Q - `Tim M. Race, Deutsche Bank AG (Broker UK) `
+And then Onbrez, the focus is?
+A - Joseph Jimenez `
+Yeah. So, there's virtually no promotion of Onbrez. We do promote Ultibro with a particular focus
+on Ultibro in the European market. And I'm glad you mentioned this product because it wasn't inmy presentation, but you recall that we did a head-to-head study called FLAME versus Serevent
+or Advair. And the idea of that study is to prove that a LABA/LAMA combination, particularly
+Ultibro, will reduce exacerbation versus a steroid-containing product. In fact, that is what has
+happened with this product. You will that full data set at the ATS. I think you will also see that
+pivotal trial or that key trial published in a major medical journal probably during the month of May,
+and that should give Ultibro another boost in the marketplace.
+Thanks Tim. Next question please.
+Operator
+The next question comes from the line of `Kerry Holford, Exane BNP Paribas from Exane BNP Paribas. Please go
+ahead.
+Q - `Kerry Holford, Exane BNP Paribas `
+Thank you very much. `Kerry Holford, Exane BNP Paribas from Exane BNP Paribas. Three questions please. Firstly on
+Alcon, you've given us some more detail on the components of that division now. We can see
+that the equipment sales declined about 30% in Q1, and I'm wondering if that is a fair reflection
+of the outlook through the remainder of the year. So, can you give us some guidance on the
+outlook there would be very useful?
+Secondly, on oncology, you previously stated that you intend to grow that portfolio through the
+(58:39) patent expiry, and I'd just like to hear whether you continue to stick by that target.
+And then thirdly, a more sort of conceptual question on Entresto. I'm wondering whether the
+problems you're now facing regarding the slower ramp in the U.S. and this inherent lack of
+physician education are in part due to the fact that you've enrolled relatively few patients from
+the U.S. into the PARADIGM study? I think it was only about 7% of the total trial population. So, I
+think can you remind us why you elected to enroll so few into PARADIGM?
+And secondly whether you think that U.S. ramp could have been faster had more physicians,
+patients had access to the clinical trials earlier. And is that a consideration going forward, certainly,
+when we think about the PARADIGM study? Thank you.
+A - Joseph Jimenez `
+Okay, Mike, on equipment sales.
+A - F. Michael Ball `
+So, on equipment sales, the good news here is we had an excellent last couple of years in
+equipment sales so, we really got a lot of equipment placed. And as you get equipment placed,
+then, you get a line of consumables coming out of it. So, you saw our consumables grow.
+We've also found that when people buy the equipment, of course, they keep it for 5, 7, 10 years
+so then that real estate really then does belong to us. So, that's the good news out of this and
+we see increases in shares and things like IOLs where we have equipment placed.
+Of course, with such a great ramp-up then in new products, then, the amount of new equipment
+that's placed happens at a reduced rate going forward. But bear in mind that equipment is only
+about one-tenth of the revenue of this particular area. So, in my mind, this is a great trade-off. We
+need then to build off of the installed base that we have in and get the rest of the business
+growing as a consequence.A - Joseph Jimenez `
+David, on oncology growth.
+A - David R. Epstein `
+Kerry, so you're right. Thank you for reminding us. About three years ago, we said we predicted
+the oncology business would grow through the Gleevec patent expiration. And then, about a year
+ago, we changed that. And the reason we changed it was that Gleevec patent expiration came
+later than the base case. So, the product was bigger, it came in at different point in time.
+The interesting thing, though, is despite Gleevec being so large, if you look just at our oncology
+business for this year, they will have a modest sales decline. So, actually, I'm quite proud of the
+growth they're able to achieve, given that their biggest product is going away.
+A - Joseph Jimenez `
+And on the Entresto trial, Vas?
+A - Vasant Narasimhan `
+When you look at the benchmark data on cardiovascular trials in the United States, I mean, most
+companies are aiming in the 10% to 12% of patients in their total studies. That's really driven by
+speed and cost. So, certainly, the PARADIGM study was lower but was not way off the mark. But
+nonetheless, in our upcoming trial programs, both with PARAGON, PARADISE as well as our
+ongoing Phase IV programs, we want to have much more U.S. physician participation in the clinical
+research on Entresto. And you'll be seeing that moving forward.
+A - Joseph Jimenez `
+Thanks, Kerry. Next question please.
+Operator
+The next question comes from the line of `Graham Parry, Bank of America Merrill Lynch from Bank of America Merrill Lynch.
+Please go ahead.
+Q - `Graham Parry, Bank of America Merrill Lynch `
+Great. Thanks for taking my question. So, I'm afraid to say more on Entresto. Firstly, just could you
+run through exactly what the key pushback from cardiologists has been that you didn't expect
+initially? And then how your Phase IV program is intended to specifically address those physician
+hurdles, particularly the studies that you're doing outside of the big outcomes trials? What's the
+size of that program, timing of data and the cost of that plan as well?
+And then secondly, from a guidelines perspective, do you think you can get a broader
+recommendation for use in line with your label or just the specific PARADIGM-HF patient
+population and what percentage of the market do you think that represents?
+And then thirdly, on Alcon, Mike, you referred to new business expansion areas. I was just
+wondering if you could expand on that. What particularities are you looking at that we perhaps
+aren't thinking about? Thank you.
+A - Joseph Jimenez `David?
+A - David R. Epstein `
+Let me start and then Vas will add to it. Essentially, what you see, we talked to enough
+cardiologists, is the following. I'll try to make this qualitative.
+They do not have a huge sense of urgency to move to this product, particular for patients that
+have multiple comorbidities and they view as fatal because they don't want to create any
+potential – what they view as any potential harm for that patient. So, they will then, depending
+upon the position you've talked to, come up with different excuses for why they are not acting.
+They will say reimbursement is too difficult a problem now as you know going away.
+They will say, my patients do fine, I don't – and survival is not enough. They will say, hey, you didn't
+use maximally tolerated enalapril; although, nobody does. And as you know, we just completed
+the atmosphere study which shows that maximum RAAS inhibition has no incremental value in
+heart failure and it's really the NEPI component that is making this product do the great things
+that it really does.
+They'll say, I want to follow the label exactly; or they'll say, I want to wait for guidelines. But these
+are all excuses because of the still underlying discomfort at moving patients because we haven't
+really, in my opinion, held their hand enough and supported them. And because the reimbursers
+made it so, so difficult for them to initially try the drug.
+I think that will start to change. We do have some physicians that have put on dozens of patients,
+even some physicians that have put on 100 patients. Once they've started seeing patients come
+back to their office, who they originally saw in a wheelchair, who could barely catch their breath,
+coming back and thanking the doctor because they feel so much better, I can tell you, that doctor,
+all the excuses go away. And we just have to create more of those situations. Vas?
+A - Vasant Narasimhan `
+So, just a couple of things on the trial program. You saw at ACC we released data that pretty
+clearly showed that from many of these patients, the first event is death. And so, you need to act
+now if you really want to impact their lives. And also, that the impact of Entresto is the same
+regardless of whether you're talking about a stable patient or a sick patient. So, that's already in
+our data sets. And I think we have very strong evidence to begin with, that you should be starting
+patients and switching patients to Entresto.
+Nonetheless, there are three categories of trials I would say we have. One is bridging the
+PARADIGM data set to our label and ensuring that patients who have different enalapril doses,
+we have a strong evidence base to show that they can be safely switched. The second is naïve
+starts and starting patients who've not been exposed to enalapril on to Entresto. And the third is
+hospital initiation and switching patients in the hospital at different levels of severity on to
+Entresto.
+It's a little over 30 trials. We obviously don't disclose the cost of that. But what I can say is it's an
+incredibly robust program that's being reviewed by the top cardiologists in the world and the top
+cardiologists in the United States.
+A - Joseph Jimenez `
+David, about guidelines, the question.A - David R. Epstein `
+So, guidelines, there's nothing more to add than what we've said before. We expect European
+guidelines, during the second quarter; U.S. guidelines are most likely the fourth quarter. In terms
+of the content, we will have to wait and see.
+A - Joseph Jimenez `
+Mike, business expansion.
+A - F. Michael Ball `
+Yeah. So, if you think about new business, I think about it in two ways. One is, actually new
+business and the other one is thinking about old business in new ways. So, let's deal with the new
+business to start with.
+So, we did this deal with Transcend. And so, essentially, what it is, is an opportunity in, what's
+called minimally invasive glaucoma surgery, to insert a stent in the eye during a cataract
+procedure to alleviate the symptoms of glaucoma. And so, at the end of the day, what you have
+there is a great situation for us where we're already number one in cataracts, and we simply have
+an add-on to the sales force that allows us to get into the glaucoma market, and about 15% to
+20% of cataract patients actually have glaucoma. So, that is what I would call a new business using
+our existing resources.
+Then when I think of – say, thinking about old business in new ways – so, for example, presbyopia.
+So, presbyopia has been around a long time. There are some solutions for it, but it really hasn't
+been pushed. The penetration into the presbyopic market, that is, people who need reading
+glasses has been very poor. And in my mind, there are many opportunities here to look at
+technology that we have to in fact, penetrate that market in a more aggressive way than we have
+in the past and I refer to that as new business as well. I'd also point out new business in the LASIK
+market. So, lots of opportunities out there in my mind.
+A - Joseph Jimenez `
+Thanks, Graham. Next question, please.
+Operator
+The next question comes from the line of `Florent Cespedes, Société Générale SA (France) from Société Générale. Please go
+ahead.
+Q - `Florent Cespedes, Société Générale SA (France) `
+Good afternoon, gentlemen. Thank you very much for taking my questions. Three quick ones.
+First, for Richard on Sandoz. Could you maybe clarify and explain a bit why some recently
+acquired products from Glaxo are already transferred from Pharma into Sandoz division? It is
+because that they are no longer promoted, and is the potential of these products really much
+lower than initially anticipated?
+Second question would be for Vas on the recent portfolio and LEE011 breast cancer. Could you
+elaborate a bit on your strategy on this field knowing that you have a portfolio of products with
+BYL or Afinitor is a combination strategy potentially the next step on this field?And the last one, an easy one for David on respiratory. Usual question, could we have an update
+on your plans in respiratory in the U.S. and tell me about partnership. And is the fact that this – any
+announcement is delayed due to some resources constraint given the Gleevec generics and the
+Alcon storm? Thank you.
+A - Joseph Jimenez `
+Thank you, Florent. Richard?
+A - Richard Francis `
+Thanks, Florent, for the question. I think if I understand your question correctly it was about why
+do we move some of the GSK assets in the mature transaction that we've just done with David,
+that $900 million that you referred to. It goes back to the criteria that we place across the mature
+brands, which is where do we think Sandoz can strategically add sales and marketing weight
+behind those, where they previously have had that in Pharma, and where they have also greater
+platform for Sandoz's products to actually extend their sales and marketing capability going
+forward. So, it really fits in that criteria and we looked across all the brands with David, and
+obviously that included some of the GSK brands.
+A - David R. Epstein `
+And I think I'd just add to that, the main reason for us doing the oncology part of the GSK
+transaction was Votrient, Mekinist, Tafinlar, Promacta. I mean, those were the real drivers. The
+other brands were part of the valuation, but we were not expecting much from them anyway. And
+if by chance, Richard can get a bit more out of them, so the better.
+A - Joseph Jimenez `
+Vas?
+A - Vasant Narasimhan `
+And clearly, the CDK4/6 is going to be a significant market. And we believe that with LEE, we can
+capture a significant portion in a three player market. Now, in addition to the trial we have
+ongoing in letrozole, we also have the MONALEESA-3 study that we'll read out with fulvestrant in
+2018. And we're currently evaluating how best to take forward the program as well with our PI3
+kinase delta inhibitors, as you mentioned, BYL. And we should have, I think, more concrete plans
+by the end of the year on how we'll look at combination studies with our LEE program.
+A - Joseph Jimenez `
+And David, on respiratory...
+A - David R. Epstein `
+I think your last question is when are we going to launch Seebri and Ultibro in the U.S. We are in
+negotiations, to be clear. I think what's happened that's slowed things a down a little bit is when
+we got this really exceptional FLAME data, it made the asset look even more interesting. And I'm
+hopeful that we'll be able to close the deal in the coming month or so.
+Q - `Florent Cespedes, Société Générale SA (France) `
+Thank you very much.A - Joseph Jimenez `
+Next question please.
+Operator
+The next question comes from the line of `Steve Scala, Cowen & Co. LLC from Cowen. Please go ahead.
+Q - `Steve Scala, Cowen & Co. LLC `
+Thank you. I have three questions. First, would you confirm that the second quarter interim from
+MONALEESA-2 is for both safety and efficacy? And David, when you spoke about this last June,
+you were not backing away from the notion that this is a study which could stop early for efficacy.
+Are you still confident?
+Secondly, I'd like to follow up on the LEE011 safety question from earlier in the call. Vas, you
+answered the question relative to earlier LEE data, but there's some view that the safety profile
+of this agent is less optimal that competitors. So, how does it compare to the competition?
+And then lastly, and I apologize for being picky and I appreciate that the guidance range for Alcon
+hasn't changed, but the words that describe it appear to have changed. So, in January, the
+wording was accelerate growth in 2016 and beyond. In today's release, the wording is improved
+sales performance later in the year. Michael said, sustainable growth later in the year, and he also
+said growth in Q4. Just wondering why the wording changed, why it seems more muted? And is
+sustainable growth market growth or better? Thank you.
+A - Joseph Jimenez `
+Okay, David.
+A - David R. Epstein `
+Let me take the MONALEESA question. So, yes, the interim that's planned for Q2 looks at both
+safety and efficacy. Typically, we say, don't anticipate study stops on interims. However, in this
+case to be fully transparent, if this product works like Pablo (73:10) works, like IBRANCE works, it
+probably would stop and that's why we gave you the guidance that we gave you.
+In terms of safety, the safety profile seems more like IBRANCE than the Lilly drug. However, all
+the safety data, at least for our product is from various small studies and much of it preclinical
+studies. We are close to having the full clinical readout. Once we have that, I think we'll really
+understand if there are safety differences or not and before that, it would just be speculation.
+A - Joseph Jimenez `
+Okay, and then on the – let me start on the reason why it might look like the Alcon words have
+changed. Obviously, no guidance has changed on Alcon but if you remember, we built the Alcon
+turnaround plan before Mike came in. So what we're doing now is giving Mike free reign on taking
+a look at that plan, looking at how he wants to reallocate resources within the plan and also the
+expectations.
+If you remember the volatility of the Alcon business a year ago, it was quite substantial. And so,
+we believe that once we get through the second quarter and really have a good look at the half
+year as to how Alcon is performing, we'll have a very tight view as to whether we solidify what we
+said at the beginning of the year or say that it's going to be better or say that it's going to worse.So, it's a little bit due to Mike's entry into the business and my wanting to ensure that he owns the
+plan and can change the plan, as well as wanting to get through the first half of the year before
+we commit to a new number. Mike, do you have anything to add?
+A - F. Michael Ball `
+Yeah. I think one of the reasons to really even take this job as I looked at the prospects for Alcon
+and what I saw was the prospects were bright. You got a great company. You got great market
+shares. You got probably the best products in the industry. And what they need is a boost and I
+describe the boost.
+Now, to try and get into the exact timing when I've been here 75 days, I'm just not going to do
+that. I've given you kind of my best shot. But I what can tell you is the prospects look very good
+for this company, and I love the opportunities, as I look down the road, at expanding the markets
+that it's operating in.
+Q - `Steve Scala, Cowen & Co. LLC `
+Thanks, Mike.
+A - Joseph Jimenez `
+Okay. Next question, please? I think we have time for two questions.
+Operator
+The next question comes from the line of `Vincent Meunier, Morgan Stanley & Co. International Plc from Morgan Stanley. Please go
+ahead.
+Q - `Vincent Meunier, Morgan Stanley & Co. International Plc `
+Thank you for taking my questions. The first one is on Gleevec. Have you an idea or a target for
+the volume retention after the multiple generics launch in the U.S.?
+And the second question is on your peak sales for Entresto. Can you give us a bit of color on the
+horizon for that peak sales? Do you think it's beginning of next decade or middle of next decade
+or different? And lastly, what's the net price currently in Europe and in the U.S. for Entresto?
+A - Joseph Jimenez `
+David?
+A - David R. Epstein `
+Okay. So, Gleevec. So, there will be multiple generics entering in, if I recall correctly, Q3 of this
+year. It's hard to know exactly how many, but would not be surprising if there were four, five or six
+of them. If history has any guide, prices will, more or less, collapse at that point in time, and you
+would expect, then, our volume to become fairly small.
+In the case of Entresto, I think this product will be growing in up to the year that it goes generic.
+You have to recognize there is virtually no competition for this product, it's going to be virtually
+impossible for someone even if they had a similar molecule to do a head-to-head comparison
+study and prove equivalence or superiority. So that peak for the reduced ejection fraction will
+probably come around patent expiration.Net sales in the U.S., we don't give a specific number. But the discounts vary and they came in
+right around where we projected when we gave you our peak sales forecast. So I would say the
+discounts are not too small, and they're not too big, and we found a good place with the payers.
+Q - `Vincent Meunier, Morgan Stanley & Co. International Plc `
+All right.
+A - Joseph Jimenez `
+Thanks. Final question, please.
+Operator
+Next question comes from the line of Mike Leuchten from Barclays. Please go ahead.
+Q - `Michael Leuchten, Barclays Capital Securities Ltd. `
+Thank you. It's `Michael Leuchten, Barclays Capital Securities Ltd. from Barclays. Two questions for Harry, please. Just briefly on the
+other income on the P&L that seemed to be fairly low in Q1 relative to prior quarters. Just
+wondering if that's a new run rate to take forward after the restatement of the P&L and the new
+organizational structure?
+And then the second question, with that organizational structure effective from April 1, Harry,
+where is your focus first and foremost now that you have a different organization to use the P&L
+for?
+A - Harry Kirsch `
+Okay. Thank you very much, Mike. So, the OIE line is, of course, always even in core a little bit
+volatile. And so, as you have seen, OIE in core were pretty much in line versus last year quarter
+one. So, we don't give specifics on the OIE lines by quarter or for the full year. But overall it's of
+course that volatility is included in our total year guidance that core operating income is broadly in
+line with prior year in constant currency.
+In terms of the organizational changes, basically, the after products moving to Pharma, of course,
+Pharma continues to be a significant part of the company. I think the realignment now made it
+easier for the Alcon colleagues to focus on the devices business and therefore, the focus
+continues to be mainly on Pharma, but of course also on the turnaround of Alcon, as well as of
+course to make sure that the resource allocation into the biosimilars at Sandoz also are
+appropriate given the very good opportunity.
+A - Joseph Jimenez `
+Thanks, Harry. Okay. I want to thank everybody for attending the call. We look forward to giving
+you an update at the half year. This concludes the call.
+Operator
+Thank you for joining today's conference call. You may now replace your handsets.

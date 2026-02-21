@@ -1,0 +1,1152 @@
+Q2 2015 Earnings Call
+
+Operator
+Good morning and good afternoon, and welcome to the Novartis Q2 2015 Results Conference
+Call and Live Audio Webcast. Please note that during the presentation, all participants will be in a
+listen-only mode, and the conference is being recorded. After the presentation, there will be an
+opportunity to ask questions A recording of the conference call including the Q&A session are
+available on our website shortly after the call ends.
+With that, I would like to hand over to Mr. Joe Jimenez, CEO of Novartis. Please go ahead, sir.
+Joseph Jimenez `
+Thank you, and welcome to our second quarter results presentation. Joining me on the Novartis'
+end are Harry Kirsch, CFO; David Epstein, the Head of Pharma; Jeff George is here, Head of
+Alcon; and Richard Francis, the Head of Sandoz Division.
+Now, before we start, I'd like to ask Samir to read the Safe Harbor statement.
+Samir Shah `Thank you very much, Joe. The information presented in this conference call contains forward-
+looking statements that involve known and unknown risks, uncertainties, and other factors. These
+may cause actual results to be materially different from any future results, performance, or
+achievements expressed or implied by such statements. Please refer to the company's Form 20-
+F on file with the Securities and Exchange Commission for a description of some of these factors.
+Joseph Jimenez `
+Thanks, Samir. Okay. Starting on slide number four, we had a solid quarter in Q2. For our
+continuing operations, our net sales were up 6% to $12.7 billion and core operating income was
+also up 6%, both in constant currencies. You saw that Pharmaceuticals and Sandoz had very
+strong quarters. Alcon had a weaker quarter and we'll talk about that in a minute. But innovation
+across the company was strong in Q2 with the early launch of Entresto in July, and Glatopa, the
+generic of Copaxone for multiple sclerosis.
+Slide number five shows the results in a little bit more detail. You can see sales and core
+operating income. Now, net income of $1.9 billion was down 18% in constant currencies due to a
+couple of one-offs in a high year year-ago base that Harry will explain. You can see core EPS up
+7% on a constant currency basis.
+Now, we have five priorities for the year, and we made progress on all of them this quarter,
+starting with the first which is to deliver strong financial results. In Pharmaceuticals, we had strong
+sales growth and margin expansion, so you can see 6% and 9% good leverage. We also
+continued to rejuvenate this portfolio.
+Our Growth Products were up 38% and they now account for 44% of the division's total sales,
+and also Emerging Markets Growth helped to offset the loss of exclusivity on Diovan and Exforge.
+Sandoz delivered very strong financial results with sales and profit up double digit as you can see.
+This is driven by the division's increased focus on core markets, particularly the U.S., which is up
+23%.
+Biopharmaceuticals also up over 50% to a run rate that's approaching $900 million, and at the
+same time, margin was improved 260 basis points. Alcon had a weak quarter. Sales were flat and
+core operating income was down. In the quarter, we were hit by a few things hitting at the same
+time. There was a decline in intraocular lens sales due to both mix and to competitive pressure,
+and another big factor was the Emerging Markets slowdown which impacted equipment sales for
+Alcon. Now the key to accelerating growth at Alcon is to increase innovation, and on the next slide
+you can see that we're approaching this, both in the short-term and in the long-term.
+So, in the short-term, besides the momentum that Centurion has, we did receive approval in the
+EU to our new trifocal intraocular lens, called PanOptix. So, this is already on the market and
+starting to be launched right now. And we're also planning to launch our pre-loaded IOL, called
+UltraSert in Q3. This gives the surgeon great precision in terms of where they place the IOL in the
+eye. And longer-term, we're working on the next-generation IOL platform. So, really a step
+change to improved materials, optics, mechanics, and in Pharmaceuticals, we've had positive
+Phase II data on RTH258 and that's currently in Phase III.
+So, I think we have a lot happening in terms on both the short-term and mid-term. It's going to
+have to be innovation. This is fundamentally a good business. If you just look at the demographics
+of what's coming in terms of an aging population, and you look at Alcon's share positions, what
+we have to do is accelerate innovation and growth will accelerate on Alcon.Okay. Next slide shows other innovation around the company. Obviously, the approval and launch
+of Entresto was a major event for the company. This is one of the most important cardiology
+advances in the last decade. As you know, we have shown very good clinical results with a 20%
+reduction in cardiovascular death and first hospitalization reduction at 21% compared to the
+current standard of care. This approval came six weeks ahead of the FDA's action date, and
+good planning by David and his team led to a very early start of shipments right after FDA
+approval.
+We also made progress on immuno-oncology on the next slide. Two new molecules have
+entered the clinic in solid tumors with four more progressing into the clinic later this year and in
+2016. So, we will have six new immuno-oncology molecules in the clinic.
+In Sandoz, in the second quarter around innovation, we received FDA approval to Glatopa. This is
+the first generic competitor in multiple sclerosis for Copaxone. We've now launched in the U.S.
+and this sits right alongside GILENYA and EXTAVIA, providing a broad set of options from Novartis
+for physicians and patients. Now our third priority is to complete the portfolio transaction, and the
+integration with GSK's oncology products is on track. Novartis oncology sales grew 30% in the
+quarter, and our new field force is fully operational in over 50 markets around the world.
+Our fourth priority is to capture more cross-divisional synergies, and Novartis Business Services is
+executing well. We have 9,000 full-time associates transferred into this unit, and that team has
+kept their costs flat versus year ago, and this is contributing to the positive margin that you've
+seen in the first half of the year during a time of unprecedented launches and investment in
+launches. We've also identified five locations for the Global Service Centers, and we are seeing
+the benefits of increased collaboration. For example, we're planning to reduce IT business
+applications by 40%.
+And then our fifth priority is to build a high-performing organization. And as part of this, we have
+continued our focus on quality assurance. In the first half of this year, we had 79 manufacturing
+site inspections, and 100% of them were rated good or acceptable.
+Now, I'd like to turn it over to Harry.
+Harry Kirsch `
+Thank you, Joe. Good morning, and good afternoon, everyone. As mentioned in our first quarter
+release, unless otherwise noted, my comments refer to our continuing operations, which include
+of course Pharma, Alcon, Sandoz, and corporate activities, and starting from March, the
+contribution of the new oncology assets acquired from GSK, and the 36.5% stake in GSK
+Consumer Healthcare joint venture. My comments also refer to growth rates in constant
+currencies, unless I noted otherwise.
+Slide 18 shows the summary of our performance. In quarter two, net sales were up 6% as strong
+performance at Sandoz and Pharma more than compensated for a weak quarter at Alcon. Core
+operating income was up 6%, and we generated 0.3 percentage points of core margin
+improvement in the quarter. Core EPS was $1.27, up 7%. Reported operating income and net
+income were down, mainly due to the amortization of the new oncology assets, and a significant
+prior year IP settlement income.
+In the first half, we were up 4% on the top line, and 8% on the bottom line versus prior year,
+generating strong core operating income leverage and core EPS was up 9%. Free cash flow in the
+first half was $3.5 billion, but more on that later in my presentation.On slide 19, you can see that our sales growth was driven by double digit underlying volume
+growth, which more than offset the impact of generic competition. In the quarter, we achieved
+strong volume growth of 12% driven by our Growth Products, including the new oncology assets
+we acquired from GSK. This more than offset the generic impact of negative 5% or about $0.7
+billion, mainly from Diovan and Exforge. Pricing had a negative impact of 1%, bringing us to a net
+sales growth of 6% in constant currency.
+In line with our expectations, the strong currency impact took us down 11%, resulting in a USD
+growth rate of negative 5%. As usual, you'll see a similar but more pronounced story on core
+operating income with underlying volume growth of 21% more than offsetting a negative 13% of
+generic impact and negative 2% of pricing.
+Currency impact of a negative 13% took us from a positive 6% growth in constant currencies to
+negative 7% growth in U.S. dollars. We give a little bit more color on the recent currency evolution
+on slide 20. FX had a strong impact on both top line and bottom line in the second quarter,
+negative 11% on sales and negative 13% on core operating income, primarily due to the continued
+strengthening of U.S. dollar against most currencies.
+If mid-July exchange rates prevail for the remainder of the year, the currency impact for the full
+year 2015 would be around negative 9% on sales and negative 13% to negative 14% on core
+operating income, basically in line with the estimates I shared with you in April.
+Slide 21 illustrates the continued improvement of our core margin, which grew 0.3 percentage
+points in quarter two and 0.9 percentage points in half one.
+As you can see, the quarter two core margin increase was driven by Pharma and Sandoz. Pharma
+improved sales by 6% and core operating income by 9% through the continued reduction of
+functional costs and ongoing productivity initiatives more than offsetting the significant
+investment put behind the launches of new products like Entresto and Cosentyx. This resulted in
+a core margin expansion of 1 percentage point.
+Sandoz grew sales by 11% and core operating income by 30%, reflecting the strong base
+business performance and the launch of Glatopa in June. It's worth noting that even without
+Glatopa, Sandoz would have grown sales by high single digits and delivered significant core
+operating leverage in the quarter benefiting from continued strong performance of Anti-
+Infectives, the Dermatology business and biosimilars.
+As reflected in our revised full year guidance, we expect Sandoz to grow high single digits in
+2015, noting that it will cycle over the Diovan generics exclusivity period in the second half of the
+year. The core margin improvements at Pharma and Sandoz more than offset Alcon which was
+down the second quarter mainly due to flat sales and continued investments into growth drivers.
+Overall, our half one performance of 4% sales growth in constant currency and 8% core
+operating income growth confirms that we are well on track to achieve our full year 2015 group
+guidance of mid-single digit sales growth and high single digit core operating income growth.
+Now, let's look at the quarter two sales performance of Alcon on slide 22. Flat sales in the quarter
+were mainly driven by a decline in IOL sales, an accelerated contact lens care decline and lower
+surgical equipment. This slowdown in business performance would have resulted in an underlying
+growth in the second quarter of 2%. However, Alcon was also negatively impacted by
+approximately 2 percentage points from the phasing of U.S. allergy shipments as well as trade
+inventory reductions mainly due to slowdown of Emerging Markets, resulting in a zero growth inthe second quarter. Given the underlying sales growth in quarter two, full year sales guidance for
+Alcon has now been lowered to a low single digit growth in constant currencies.
+I just want to go back on slide 23, to our core margin in the quarter which improved 2.4
+percentage points in constant currencies from 25.9% for total group last year to 28.3% for
+continuing operations. Let me walk briefly through the reasons. We gained 3 percentage points
+through the portfolio transformation. Our continued focus on driving sales and productivity over
+the past year contributed an additional 0.3 percentage points in the quarter, bringing us to a core
+margin of 29.2% for continuing operations in constant currency. Currency took us down by 0.9% to
+28.3% core margin in U.S. dollars.
+Let's now turn to free cash flow on slide 24. Free cash flow for continuing operations was $3.5
+billion in the first half, down from $3.8 billion in the first half of last year, and this was mainly due to
+the negative currency impact which was partly offset by hedging gains and favorable net working
+capital.
+On slide 25, you can see net debt increased from $6.5 billion at the end of 2014 to $17.4 billion at
+the end of the second quarter. The increase of $10.9 billion was mainly driven by outflows of $16
+billion from the acquisition of the oncology assets from GSK, as well as the dividend payment of
+$6.6 billion and share repurchases of $2 billion. This was partly compensated by our total group
+free cash flow of $3.2 billion, including discontinued operations, net divestment proceeds of $9.9
+billion related to the portfolio transformation transactions, and proceeds from options exercised
+of $1.6 billion.
+Lastly, on slide 26, I want to reconfirm our outlook for the full year 2015. Our group guidance for
+continued operations net sales growth remains unchanged at mid-single digit in constant
+currencies. However, to reflect the first half performance, we raised Sandoz full year guidance to
+high single digit sales growth and lowered Alcon full year guidance to low single digit sales
+growth. Our core operating income guidance for continuing operations also remains unchanged
+where we expect to grow ahead of sales at a high single digit rate in constant currencies.
+And with that, I hand over to David.
+David R. Epstein `
+Thank you, Harry. Our Pharmaceuticals division delivered solid constant currency sales growth, up
+6% and nice core operating income leverage, up 9% for the quarter. The plus 9% was helped by
+the bringing in of the new oncology assets, as well as our ongoing productivity efforts.
+As a reminder, I want to remind you that the comps for the first half of this year were challenging
+compared to last year as we were facing generic expiration on Diovan in both the U.S. and Japan.
+Having now lapped those periods going into the second half, we will be less impacted by Diovan
+and should fully benefit from the new oncology assets as well as initial contributions from
+Cosentyx and Entresto. Of course, we will have to invest in those launches, but they will then
+improve our sales momentum going into the second half.
+On the next page, you see that our Growth Products now represent 44% of total division sales,
+up 38% from the same period last year. And on the next page, slide 30, you see that our
+Emerging Markets now represent 26% of our total business, and both the mature as well as the
+Emerging Markets posted nice sales growth.
+Of note, in the Emerging Markets, about half of that 10% growth came from the addition of the
+new oncology assets, and we will face, going forward, challenges as we predicted at thebeginning of the year as Emerging Markets begin to slow down in places like China, Russia, as
+well as in the Middle East and North Africa.
+Turning now to page 31, you see a familiar slide. This is our unparalleled growth platform with
+exclusivity to 2019 and beyond. All products did very nicely during the quarter. The only negative
+on the chart is Galvus, and you recall that we made a decision to pull Galvus off the German
+market last year. Once corrected for Germany, even Galvus posted nice growth of roughly 5%.
+Now, I want to spend a few minutes on our oncology business starting with page 32 as I haven't
+spoken about it in detail in quite a while. As Joe pointed out earlier, the oncology business grew
+30% year-over-year, underlying with an 11% growth in our existing assets, and the difference was
+in new assets that we brought in from GSK. Those new assets represent just over $0.5 billion in
+sales or 15% of total oncology sales. The integration of these products as well as the GSK
+associate onboarding is going very, very well.
+Turning now to page 33, we look at some of the major brands, in particular, Tafinlar and Mekinist,
+as you recall these are the combinations of products to be used in BRAF-positive melanoma. We
+achieved $131 million in net sales in Q2 which is truly an excellent growth versus the same period
+last year when the products were not in our hands. In addition, to remind you, in terms of the
+data, there's a greater than 25-month improvement in median overall survival, and very
+importantly, when compared to some of the immuno-oncology agents, which have shown some
+toxicities in their trials, we had a very low 11% discontinuation rate in this pivotal data.
+In terms of milestones, we're happy to say that we have now completed the submissions in
+Europe and Japan for the combination therapy, and in terms of the new opportunity which we
+had not really anticipated when we did the deal, is this new Breakthrough Therapy Designation
+that we received from FDA in BRAF V600E-positive non-small cell lung cancer, which would help
+us accelerate a filing and approval in that indication.
+On page 34, you can see why we have one of the world's most exciting and largest hematology
+businesses across five product families, all of which reported a very nice growth during the
+period. The EXJADE or iron chelation franchise benefited from the introduction of JADENU which
+is a new formulation of this molecule, a formulation that requires one to take a tablet instead of
+dissolving the drug in a glass of water, which in the past had created all types of compliance
+issues.
+In addition, you see very strong growth from Jakavi. The Promacta number is not here, because
+this is one of the ex-GSK assets. Suffice to say, Promacta is one of the fastest-growing products
+now in our product line and one which we have blockbuster expectations around. Farydak was
+also approved in the U.S. in February, Japan in July, and we received a positive CHMP opinion in
+June. While this will be a modified product, it will be a very important product for patients with
+myeloma that have failed other therapies.
+Turning now to page 35, I want to give you an update on Afinitor. This product was mentioned
+actually in the news in the last couple of days because several other companies have presented
+interim data in their trials in renal cell carcinoma. To put things into perspective, you'll recall the
+strategy with Afinitor was to exploit the mTOR pathway, and as a result, we studied and gained
+approval for several different indications.
+Renal cell carcinoma, which is the indication that was in the news for the other companies, of late,
+now represents only 22% of the Afinitor business, and thus, less of an issue going forward as our
+product potentially is pushed to a somewhat leader line of therapy if those drugs are indeedthe Afinitor potential, one should look at the fact that RADIANT-4, our pivotal trial in
+neuroendocrine tumors, met its primary endpoint, and we have regulatory filings expected in the
+second half of the year. We have a big opportunity here to expand the use of Afinitor in
+neuroendocrine tumor patients, many patients which do not get very adequate therapy today.
+Turning now to page 36, we'll take a quick look at how we're doing with Ultibro. Ultibro is our
+once-a-day LABA/LAMA that's been launched outside the U.S. This particular chart shows you how
+we're doing in the six EU launch markets where the product is out and growing, and you can see
+that we have achieved a very strong uptake of Ultibro Breezhaler, outpacing two established
+players in the respiratory field, which speaks to both the quality of the drug and the benefits it
+brings as well as the quality of our European commercial organization. We remain on track for the
+U.S. approval towards the end of this year, and we'll have more to say at that point in time.
+Now, I want to spend a moment on our two new and important assets starting on page 37 with
+Cosentyx where we built continued momentum in psoriasis. Now, this chart is going to take a little
+bit of explaining, and I want to put things into context for you. We achieved worldwide sales of
+$30 million in Q2, which is ahead of our internal plan.
+About 80% of this business was in the U.S. market where we gained the first approval. What you
+see on the left hand side on the chart is actually the number of prescriptions according to IMS.
+And this is a rough reflection of the amount of prescriptions sold that are paid for by customers,
+but that doesn't tell the whole story. There are now over 6,500 requests for the medication that
+has either been processed or in process. When one thinks about the factor of probably about
+130,000 moderate-to-severe psoriasis patients who are on biologics in the U.S. market, you
+quickly realize with some simple math, we've already achieved middle-single digit market share
+with this product which is a really, really good start after just a few months.
+And while I have less data for you outside the U.S., I can tell you qualitatively we're seeing good
+uptake in countries like Germany, in Canada as well as Japan, and interestingly enough, in some
+of those markets, we're seeing earlier line use than we're seeing initially in the U.S. where the
+payors have a bit more control. In addition, in the quarter, we generated data in difficult-to-treat
+psoriasis; people that have psoriasis on the palms of their hands, in the nail beds, the soles of
+their feet, and this will give I believe increased impetus to use this product because it speaks to
+the efficacy power of Cosentyx.
+And very importantly, we completed our regulatory filings in the U.S. and Europe for psoriatic
+arthritis as well as ankylosing spondylitis during the quarter and these indications could well be as
+big as the psoriasis indication making this, as we've said in the past, an opportunity that could one
+day reach as much as $5 billion once we have approvals in these different indications. So overall, a
+very good start; customers are giving us good feedback and we're excited about where this
+product can take us.
+Now, on page 38, to spend a moment on Entresto; no data in these particular cases are once-a-
+day – I'm sorry, twice-a-day product for chronic heart failure. We received our first approval in the
+U.S. market on July, the 7th. As Joe pointed out, we shipped it very quickly. Field force is out
+interacting with customers, and the label is very, very good. The label speaks to the reduction in
+cardiovascular death rate, as well as hospitalization for heart failure. In the clinical section,
+mentions clearly the superiority versus enalapril. So, we think we're well set from a label
+perspective. We expect the CHMP opinion in Q4, and the preserved ejection fraction study
+continues to enroll per plan.So, we'll leave it with that and now just quickly go to slide 39 which is our newsflow for the year.
+First half was solid. You see the green check marks; second half of the year, a lot of work still to
+do. And of course, the LCZ recommendations outside the U.S. are the things to really focus on.
+So, with that, I'll turn it back to Joe.
+Joseph Jimenez `
+Thanks, David. So, to conclude, we had a solid second quarter and we remain on track to deliver
+our full year guidance. Importantly, we made good progress on the pipeline and are delivering
+against our key launches on Entresto, Cosentyx, and Glatopa.
+So, now, I'd like to open the line to questions.
+Q&A
+Operator
+Thank you. And we will take our first question from Richard Vosser of JPMorgan. Please go ahead.
+Your line is open.
+Q - `Richard B. Vosser, JPMorgan Securities Plc `
+Thanks so much. A few questions, please. Three, please. Firstly on Alcon, just asking how many
+quarters you'd expect the weakness in IOLs to continue? How long will it take for new launches to
+recapture the share? And on the solutions business, is the minus 11% a new sort of run rate that
+we should be thinking about? What could slow that down?
+Secondly, on the associate income from GSK, it appears that you might have had to readjust your
+expectations based on GSK's guidance for the business in May. So, just thinking whether it's fair
+to think of a sort of run rate for this year at a sort of $190 million or should we think of any
+seasonality in the business that could help boost profitability in the second half.
+And then, finally, just on BKM120, wondering whether that you could give us some more color
+behind the modest efficacy, where there are some dropouts, for example, could we expect
+maybe a better result with a more specific PI3-kinase, BYL719, and I'll leave it there. Thanks very
+much.
+A - Joseph Jimenez `
+Thanks, Richard. Starting with Jeff.
+A - Jeff George `
+Richard, with respect to your two questions on Alcon, in IOLs, we did see a 2% decline in IOL
+sales in Q2 and 1% down for the year-to-date, and that was, as Joe said, driven by mix and
+competitive pricing pressures. We did see 6% unit growth. So, I think the unit shares are
+rebounding, particularly led by the U.S. We're seeing strong shares there.
+The big factor has been a decline in the ReSTOR Multifocal IOLs, which is a class of IOLs that's
+lost favor with surgeons as they've moved away from it due to the visual side effects and splitting
+light. And as Joe mentioned also, I think we've got some exciting new IOL innovation that's
+coming down the pike. It's not going to happen overnight, but it will impact both pricing and mix,
+namely, our trifocal and pre-loaded in Europe, which I'm optimistic about.With respect to the contact lens care solutions decline, we did roll out in June an improved
+product segmentation, coupled with refined pricing and new packaging. Fundamentally, this is a
+pretty solid high margin business, where there has, historically, not been all that much focus. And I
+think we shouldn't be looking at minus 11% going forward, clearly, a crappy result in Q2 that did
+not meet expectations.
+And we expect that the new initiatives that we're pursuing coupled with better share comps in
+the second half of this year will help us for the year to go, but clearly an area of focus for us.
+A - Joseph Jimenez `
+Okay, Harry, associated income?
+A - Harry Kirsch `
+Yes. Thanks, Richard, for the question. I have to step back for a minute just to explain a bit how
+we are doing the quarterly income recognition from associate companies. As you know, our basic
+principle is that we have to take an outside-in estimate for a given quarter as Roche and GSK
+report after us.
+Then, we true up or down the next quarter after we have seen the actual results from the
+respective associate company. In the case of Roche, which reports financials every six months, we
+have reflected a negative true-up for 2014 in our quarter one financials and a somewhat lower
+analyst consensus for Q2 in 2015.
+The larger impact was for the OTC JV. But here you have to recognize that quarter two includes a
+negative true-up from quarter one basically after we got March results from GSK and we had to
+correct from our March estimate for that in Q2. When you step back and look at March to June,
+core net income is about $75 million from the JV. But again this includes an estimate for quarter
+two results, which we have to true up in quarter three once we get the actuals from GSK. So, it
+sounds all a bit complicated and yes, this is difficult to forecast. But it should become easier when
+the JV is fully integrated. And overall, we continue to believe in the strong upside potential and
+value creation of this $10 billion consumer company driven by anticipated synergies.
+A - Joseph Jimenez `
+And, David, on BKM120?
+A - David R. Epstein `
+So, BKM we had a positive Phase III in breast cancer measuring progression-free survival. That's
+very important, because with the positive outcome on that primary endpoint, we can then take
+the product forward and discuss it with the regulatory authorities. The reason we've been more
+cautious is that while we see an overall improvement of progression-free survival, it's relatively
+modest from a clinical perspective. But when you start to look at subgroups, in particular those
+who have PIK3CA mutations, you start to see a much more robust and more, in our opinion,
+clinically meaningful result. So, we want to have discussions with the regulators about what a filing
+could look like.
+The other thing you need to know is that we will not see overall survival data until the second half
+of 2016. So, you usually get progression-free survival data first, then overall survival takes time.
+You also mentioned the other PI3-kinase inhibitor, BYL. As a reminder, BYL looks to have an even
+better tolerability profile being more targeted. That's part of the reasons that we advanced it.A - Joseph Jimenez `
+Okay. Next question, please? Operator, next question, please?
+Operator
+Thank you. We take our next question from Matthew Weston of Credit Suisse. Please go ahead.
+Your line is open.
+Q - `Matthew J. Weston, Credit Suisse Securities (Europe) Ltd. `
+Thank you very much. Three questions if I can, following on from a number of Richard's themes.
+The first on Alcon, what I'd like is to really understand what's happening overall in the
+marketplace. Jeff, I remember your enthusiasm when you took over the role at Alcon, in particular
+that many of your competitors were going to be in disarray with a lot of the M&A that was taking
+place in the industry and particularly around cost-cutting there. It seems that what we're in is a
+very, very competitive and acceleratingly competitive environment. So, what different from what
+you expected and is there any way that with SG&A or price that you can try and mitigate some of
+the threats that are coming from the competition?
+The second, focusing also on the BELLE-2 data for the PI3-kinase; David, can you just let us know
+what it means for the combination of PI3-kinase and LEE011, and whether or not you think there is
+any role for a kind of PAN patient combination approach to counter Pfizer with palbo, or whether
+we can only really think of the PI3-kinase in small subgroups of patients?
+And then finally, another pipeline question. It looks like BYM in hip fracture has been delayed
+awhile. Can you explain what's happening in that study that means the data readout has been
+pushed back?
+A - Joseph Jimenez `
+Okay. Thanks, Matthew. Jeff, start with maybe your take on the overall situation at Alcon.
+A - Jeff George `
+Hi, Matthew. So, I think, look, there is an accelerated competitive environment within eye care
+because it's fundamentally a very attractive area of healthcare with the aging demographics and
+the expansion in Emerging Markets. So, I think Q2 was definitely a disappointing quarter for us
+and reflected the slowdown in Emerging Markets that Joe had referenced earlier.
+I think at the end of the day, this is really about innovation for us and we're going to need to really
+significantly accelerate our innovation in order to strengthen our growth profile and prospects
+going forward. I think we had a number of factors in the quarter that hit us all at once in a
+negative sense. And when I look at the innovation efforts that we have, it's not going to happen
+overnight and it will take time, but I feel like we've made progress on the surgical front particularly
+within IOLs and the work that we've done in the past year to accelerate the innovation there.
+On the Pharmaceutical front, we still have work to do. I think we have an exciting early stage
+pipeline with respect to dry eye and glaucoma with LME636 and MGB354, but those are relatively
+early stage, and RTH in wet AMD is out a couple of years. I'm very positive about the Phase II data
+there, and the Phase III recruitment is progressing well, but given the loss of exclusivities that we
+face, we do have work to do to accelerate our growth.Okay, David, on BELLE-2?
+A - David R. Epstein `
+Okay. So, I don't think this would materially change what we're doing with LEE and the two
+different PI3-kinase inhibitors. So, you'll recall we have programs we can get combining LEE with
+BKM, but also LEE with BYL. If in the event that BKM became a drug only for the PI3K mutation,
+then you might anticipate that that would be also a greater focus for the triplet combination.
+And there's different datasets on the size of or the relevant prevalence of that particular
+mutation, but it's between 30% and 45% depending upon the literature. And when we show the
+clinical data for BKM, which will be in the fall or in the fourth quarter depending which medical
+meeting it goes to, you'll get to see what the actual prevalence of the mutation was during our
+study, but it's actually a fairly common mutation.
+A - Joseph Jimenez `
+And BYM in hip?
+A - David R. Epstein `
+So, BYM, just as a reminder, we're doing a pivotal trial in inclusion body myositis, which is a rare
+orphan indication. And then the idea is to then if the data is positive then to expand into other
+indications like hip, sarcopenia, and other uses. I think the reality is while there's no material
+change on our charts, the reality is the enthusiasm level will arise once we see the positive data
+from the orphan indication, and until then, it's hard to know the exact timelines for occurring the
+other studies.
+Q - `Matthew J. Weston, Credit Suisse Securities (Europe) Ltd. `
+Thanks very much.
+A - Joseph Jimenez `
+Okay. Next question, please.
+Operator
+Thank you. Our next question comes from Andrew Baum of Citigroup. Please go ahead. Your line
+is open.
+Q - `Andrew S. Baum, Citigroup Global Markets Ltd. `
+Yes. Good afternoon. Three questions, please. First for David, would you agree that Lucentis
+from here on is a declining asset? Second for Jeff, perhaps you could just talk more broadly
+about the impact of capitation on CapEx investment within Medtech including ophthalmology? To
+what extents are you seeing just unwillingness to upgrade the CapEx cycle as it impacts your
+surgical business just simply because we are seeing more and more capitation introduced within
+provided payors?
+And then finally on BKM120, given what sounds like a marginal benefit for the overall patient
+population and adverse DNS (40:16) profile, and the fact that I don't think the PI3K mutant
+population was a pre-defined secondary, at least not listed on PubMed. To what extent does that
+jeopardize your ability to either get regulatory approval or to translate into meaningfulA - David R. Epstein `
+Yes. Thanks, Andrew. The first – unfortunately, you were very – not very loud. The first question, I
+couldn't hear. We heard the other two questions. Can you just repeat the first one?
+Q - `Andrew S. Baum, Citigroup Global Markets Ltd. `
+Yes, sure. Sure, David. The first question was would you agree that Lucentis from here on in is a
+declining asset given the multiple pressures on it?
+A - David R. Epstein `
+Yes. So, for Lucentis, we were happy to see growth, although modest growth now for the first
+two quarters of this year. The market for VEGF inhibitors continues to surprise in terms of
+demand. So, as patients are aging, as these products get increased use in the emerging world,
+we're seeing demand continue to increase. So that's the positive.
+On the other side, we see continued pressure from Bayer. And in addition, we see price pressure
+because payors trying to leverage off-label use of Avastin which is the negative. So, I wouldn't
+characterize it exactly the way that you spoke to. I'm going to take then the BKM question and
+then, Jeff, you can take the next one.
+So for BKM, I just want to say again the PFS data was statistically, significantly positive, which
+allows us to have the conversation about the subgroups where we saw very meaningful clinical
+data, and it's our belief in today's world now that there are diagnostic tests that if you can treat –
+select a population to treat, that is the right way to go, and that a drug like this could find very
+good use. So, I think until we have those conversations with the regulators, it's hard to really
+speak about where to go with that. Did you have more BKM questions or is that really what you
+needed?
+Q - `Andrew S. Baum, Citigroup Global Markets Ltd. `
+No. I think, David, you've answered it.
+A - David R. Epstein `
+Okay. Thank you.
+A - Jeff George `
+And, Andrew, with respect to your question on surgical equipment and the impact of capitation
+there, I really don't think it's a capitation issue. Well, that it may have a modest impact. If I can just
+explain a little bit about the surgical equipment business and the dynamics there, I think there's a
+couple of segments. The first is on SEIKO Emulsification Technology.
+We had a very successful launch of Centurion. It's been the fastest uptake in SEIKO history the
+last couple of decades. But we are up against a high water mark last year from Q2 to Q4. And so,
+there was a negative comp on SEIKO equipment in Q2. Secondly, on LenSx, this is really a source
+of the gap, and we do see more of a capitation impact there. The U.S. is reaching saturation. It's
+been a very strong uptake of femtosecond lasers in U.S. But in Europe and some of the other
+public pay markets, we don't have as much of the clinical outcomes data that we would need to
+justify, in some cases, the expenditure which can range up to $400,000 for these equipment.So our diagnostic platforms, Verion and ORA, are tracking really well nicely ahead of last year. The
+one other factor is on the refractive side where LASIK procedures have fallen off in the last few
+years as there's a vocal 2%, 3% that are unsatisfied with their outcomes, although we've been
+gaining share in the refractive market, and that'll help out the latter part of the year.
+The one factor I would say because there's a lot of focus on equipment and IOLs is actually the
+biggest category within cataract for us is our consumables business, and this business is up high
+single digit both in Q2 and year-to-date, which is offsetting the double digit decline we had in
+equipment and the low single digit decline in IOLs.
+A - Joseph Jimenez `
+And the only thing I would add is the Centurion launch continues to go well. So, we've reached
+penetration of about 20% globally, and that number keeps going up every month. So, that's an
+important piece in equipment.
+Next question, please?
+Operator
+Thank you. Our next question comes from Alexandra Hauber of UBS. Please go ahead. Your line is
+open.
+Q - `Alexandra M. Hauber-Schuele, UBS AG (Broker) `
+Thank you for taking my questions. Congratulations to a great result in Pharma and Sandoz. But I
+still have a few follow-up questions on Alcon as I try to put the pieces together. Just a follow-up
+on the previous question, I mean, for me, really the big surprise, negative surprise was cataract
+surgical equipment performance, equipment and consumables which is the delta of the total
+cataract surgery and the IOLs; that has been growing at double digit for about six quarters and
+now was down 5%. So, the consumables part you said has actually grown high single digits. So,
+that leaves the surgical part, and here, I do hear that LenSx is hitting a wall of saturation in the U.S.
+and in Europe, there is just no acceptance. Would that be right? And what if anything can change
+that?
+And I'm confused about Centurion because on the one side you're saying it's growing nicely, but
+on the other side, it's negative because of the comparable, so that means you're still selling, but
+you're selling less than prior quarters. Would that be the right way of looking at it?
+And then moving on to COGS, so if I just look at the dollar figure, you have dollar sales that are
+down 9%, yet your COGS are actually flat. So, have you got most of – it seems like I cannot really
+spot anything in your mix that's – in your product – in your portfolio that's growing strongly which
+could cause a big negative mix. Have you got most of your manufacturing in dollar terms? And if
+so, what can you address to do that?
+And then thirdly on Alcon, really, what does it mean for the medium-term outlook? I mean, I
+appreciate everything you're saying about innovation is going to change the sales trend, but the
+trifocals, you said that the meet – the (46:17) management is really not going to be able to bring
+that to the U.S. for a couple of years. So medium-term, is that probably still going to stay low
+single digit rather than mid-single digit for two years to three years? And on the margin, given the
+big hit on COGS, is that going to stay low 30%-s for a while?
+I have a quick – a very quick question on Afinitor in NET as well. Just, David, I was intrigued to seeIs that because of the long duration? And therefore, even if you're not newly diagnosed, do you
+expect patients to benefit from that?
+And just a very quick comment for Harry; a big debate on this GSK reconciliation, and for Roche,
+in the past, you have always given very nice bridges, how you get from Roche numbers to those
+numbers and you don't do that for GSK. We have to find the figures in seven different pieces of
+your half year report. So if you could do something similar for (47:14) going forward as you did for
+Roche, as you've always been doing for Roche, that would be very much appreciated. Thank you.
+A - Joseph Jimenez `
+Okay. Thanks, Alexandra. We'll start with Jeff on the series of questions that you had on Alcon.
+A - Jeff George `
+Alexandra, thanks for your questions, and, clearly, this was a disappointing quarter for us. Three
+primary factors are at work, just to reiterate, as Joe had mentioned, the challenges on the IOL
+front due to mix and to a secondary effect pricing, the CLC challenge and then the slowdown in
+Emerging Markets which was really driven by surgical equipment.
+Taking the equipment questions that you had, first off, I think that we're approaching saturation,
+still growth though from the LenSx perspective in the number of patient interfaces, that is, the
+disposable or consumable piece that goes along with LenSx. So, right now in the U.S., it's about
+35 per machine per month.
+If we can work that to get that up above 40 per machine, per month, 45 per machine per, month,
+that's a nice revenue source for us, because that's mid-90%-s gross margins for us. We'll
+ultimately have a positive mix effect. I think it's not fair to say there's no acceptance of LenSx in
+Europe. We are seeing good uptake of LenSx in a number of European markets. Italy, Germany
+have been stronger than, say, France or Spain, and we've got work to do there with clear plans in
+place.
+In terms of Centurion, it's typical that in the first year or two years of a launch you see a very big
+increase as the low hanging fruit; the early adopters are quick to adopt the technology. So, we
+reached – we'll probably do in total in the U.S. around 900 Centurions this year, which is
+comparable to what we did last year.
+The challenge is, of course, last year, there was nothing in the prior year base. And so, it was a
+big growth driver versus this year, it's going to be more of a wash. But we are, as Joe mentioned,
+very excited about the pull-through that we're seeing on consumables as well which are coming
+in very strongly despite the challenges in IOLs.
+With respect to the mix effect on COGS, I didn't get all of your question there. What I would say is
+we had a weaker quarter from a COGS perspective as we had really a mix challenge with the
+phasing issue in the U.S. Pharma business where the weaker allergy and otic seasons which are
+very high margins in the U.S. really negatively impacted our mix. And then, of course, with IOLs
+being softer, that of course, is a margin deterrent as well or a margin drag as well.
+In terms of mid-term, we clearly don't give guidance looking forward on margins. But what I can
+say is that while there are puts and calls, I think, on the challenges side, there's LOE pressure that
+we face in the next couple of years. On the positive side, there are some strong fundamentals
+that are working well for us that we have to accelerate. And frankly, even in a bad quarter, our
+ROS (50:12) was still over 30%.So clearly, in summary, not happy with the Q2 performance and we're going to continue to work
+on both our margins and our functional cost leverage. At the end of the day, as Joe had
+mentioned, this is really about strengthening innovation which won't happen overnight and it will
+take us some time.
+A - Joseph Jimenez `
+So, Alexandra, the best thing to do is to model low single digit to the rest of this year and then
+Jeff and I are going to work in terms of what we can do to jumpstart innovation and we'll give
+clearer mid-term guidance once we get to January at the end of the year. Afinitor for David.
+A - David R. Epstein `
+Okay. So just some background for the disease; so, this is metastatic neuroendocrine tumors.
+These patients unfortunately typically don't live very long with the current available therapy. Four
+months, five months, six months at best. In this trial, while I can't give you the exact numbers yet
+because it'll be presented at a major medical meeting, I can tell you there's a substantial
+improvement in progression-free survival. So, these patients will likely be on the therapy for a
+good period of time. And in addition, there are about 25,000 to 30,000 patients we estimate in
+the top seven markets. So, if you run the math, you end up with a sales potential in the ballpark
+range of $250 million to $350 million at peak just for this indication.
+A - Joseph Jimenez `
+And, Harry, can you just comment on the ability to do a bridge for GSK?
+A - Harry Kirsch `
+Yes. And thanks, Alexandra, for the request. And we were looking that we approve the
+disclosures so it's easier for you to find the relevant data on the GSK income from associate
+companies. I'm glad to see that the Roche way we do it basically is a good model. So, we will try
+hard to make it easier for you next time.
+Q - `Alexandra M. Hauber-Schuele, UBS AG (Broker) `
+Thank you.
+A - Joseph Jimenez `
+Okay. Next question, please?
+Operator
+Thank you. Our next question comes from Amy Walker of Morgan Stanley. Please go ahead. Your
+line is open.
+Q - `Amy L. Walker, Morgan Stanley & Co. International Plc `
+Good afternoon, team. Just a couple of questions left, please. The first on Sandoz, this might be
+a naive question, but I noticed that the contribution from Biopharmaceuticals leapt up to nearly
+10% from about 5% last quarter, and yet the pricing year-over-year was down more in quarter
+two than it was down in quarter one. So, that sort of went against my expectations for a mix of
+factors, if which you could maybe just explain how that works to me, please?The second question, just following up post the discussion on Alcon and margins, I understand,
+Jeff, you don't want to give margin guidance as such. But just for the next few quarters, given the
+difference in the margins in Q1 versus Q2 and the comments that you've all made around the
+triggers that you can use with pre-loaded IOLs and the trifocal launch, would you expect that to
+have a margin impact in the positive direction, no specific levers in the immediate-term or will that
+take longer to come through?
+And very lastly, if I may, please, just GILENYA, 26% constant exchange rate growth. David, can you
+just give us a bit of color there? Are you taking market share? Is the market growing very
+strongly? Just what's driving that 26% constant exchange rate growth? Thank you.
+A - Joseph Jimenez `
+Okay, Richard, on the price question?
+A - Richard Francis `
+Well, Amy, I didn't quite clearly hear the question, so if you could repeat it for me – Amy, I didn't
+quite hear the question that clearly, so if you could repeat it for me, that would be helpful.
+Q - `Amy L. Walker, Morgan Stanley & Co. International Plc `
+Sorry, Richard. I was just saying that the contribution from the Biopharmaceuticals is almost twice
+in the second quarter what it was in the first quarter, and yet the pricing impact seemed to have
+been more negative in the second quarter than in the first quarter. So I was just a bit confused
+about why we didn't get a less negative price above evolution given that Biopharmaceuticals
+seems to be a bigger contributing factor this quarter?
+A - Richard Francis `
+Okay. So if I can talk more sort of holistic about it, maybe I'll answer the question. So as we sort of
+move into the second quarter, we had obviously a product mix change with regards to the launch
+of Glatopa and some other products come through as well as continued growth of our baseline
+business. So that was one factor that affected the profitability. We also obviously continue to
+invest in the launches we have coming up, so that obviously impacts contribution.
+So overall, the growth we've seen in the Biopharmaceuticals of 57% versus quarter two last year
+was driven by good growth in the base business that we already have, and obviously the launch
+of Glatopa, and seeing this, moved the portfolio towards that newer pipeline which obviously has
+higher margins. So hopefully that answered the question.
+Q - `Amy L. Walker, Morgan Stanley & Co. International Plc `
+Thanks.
+A - Joseph Jimenez `
+Alcon margin.
+A - Jeff George `
+Yes. So, Amy, on the margin question that you asked, as we mentioned we don't give divisional
+guidance on margins, but I'll hit on the pluses and minuses. Looking at the second half of the year,
+since margins really largely are going to flow from sales and mix that we're seeing, I think on thelargest U.S. products in the U.S. in September, and then we also have the full year impact of the
+first quarter loss of Patanase patent protection.
+I think the surgical equipment, as I mentioned to Alexandra, to her question, was that a high water
+mark in Q2 to Q4 of last year. I think on the positive side, we have good momentum in our
+cataract consumables and vitreoretinal business, which are both growing in high single digit year-
+to-date, both of which are sizeable and a good bit bigger than equipment.
+I think that in CLC, we have positive share comps toward the back half of the year, and we'll see
+the impact of the new segmentation and packaging and pricing that we've rolled out in June. In
+terms of the impact on trifocal, I think that it remains to be seen in the uptake of the launches that
+we see here.
+Clearly, there is a positive from trifocal uptake, but it's a smaller number of patients that are
+getting trifocal treatment, the initial cases look good. There's a little bit of a positive pricing on
+monofocal from the pre-loaded, but as Joe had mentioned that's yet to launch, but should be
+Q3. And then, I think on the cost side, in terms of managing margins, when I look at Q2,
+marketing and sales costs were a little bit higher than usual since they included some provisions
+for bad debt, particularly in Asia on the R&D side, and that we're also investing – continuing to
+invest behind accelerated growth. On the R&D side, we've seen positive Phase II results on RTH.
+And so, as we can move now into Phase III there will be good amount of spend there.
+A - Joseph Jimenez `
+And, David, on GILENYA.
+A - David R. Epstein `
+Yes. So, thanks for pointing out; GILENYA, during the quarter is doing well, as you've said, 26% up
+overall worldwide, 34% in the U.S. and 18% ex-U.S. I guess what's happening, as the market
+continues to move to high efficacy and GILENYA is positioned at the highest efficacy oral product
+for multiple sclerosis, so what we're seeing is when it comes to new patient starts, we're getting
+incrementally more share.
+In addition, we're seeing increasing numbers of patients, still relatively small numbers but
+increasing number of patients coming off Tecfidera as the product, either the patients have side
+effects or perhaps they've had a relapse, and we're picking up a bigger percentage of the
+patients coming off Tecfidera, so all that's contributing to the nice GILENYA dynamic.
+Q - `Amy L. Walker, Morgan Stanley & Co. International Plc `
+Thanks very much.
+A - Joseph Jimenez `
+Next question, please?
+Operator
+Thank you. Our next question comes from Seamus Fernandez of Leerink. Please go ahead. Your
+line is open.
+Q - `Seamus C. Fernandez, Leerink Partners LLC `Oh, great. Thanks very much for the question. So, just quickly on the Sandoz business; you note
+the Dermatology, the strength in Dermatology. Can you highlight the pieces of Dermatology that
+are particularly successful? I'd be interested to know how the keratin launch is going as well on
+the Sandoz side.
+Incremental to that, as we look forward, can you talk a little bit about where you're capturing
+share with Cosentyx, particularly in the U.S.? I know you mentioned overseas, you're getting more
+first-line use because of payor dynamics, but just wondering where you see yourself capturing
+share with Cosentyx now and then going forward? And how much the dynamic within psoriatic
+arthritis and ankylosing spondylitis, how those labels could actually benefit the business?
+And then the last question, just in terms of the strong performance on gross margins in the
+Pharma business and then also in Sandoz; can you just walk us through a little bit how much did
+Glatopa actually contribute from a stocking perspective on the Sandoz side of the business,
+particularly as it relates to the gross margins? And then similar type of question on the Pharma
+business, how do you see gross margins progressing through the back half of this year with the
+uptake of Entresto? Thanks.
+A - Joseph Jimenez `
+Okay, Richard, Dermatology.
+A - Richard Francis `
+Okay. Thank you for the question. So, in focus on Dermatology, as you know, one of our
+strategies is to prioritize certain geographies, as well as certain therapeutic areas, and
+Dermatology is one of those areas we focus on. And as you quite rightly pointed out, we're
+getting good traction and good growth there. What is behind that, well, firstly across the whole
+portfolio we have in Dermatology, we're seeing volume growth. So it's actually across the
+majority of the portfolio, as well as we're seeing being able to hold price.
+Specifically though, you mentioned keratin, so talking about that launch, we're obviously very
+pleased with that launch. That's been tracking very well. We're continuing to see upside in both
+new prescriptions and total prescriptions. So pleased with the performance and looking for that
+to continue.
+On the margin side of the business, if I can touch on that question as well; so the margin is about
+the strategy again. It focuses on the product mix and the sales mix there so, Glatopa does play a
+part. But as Harry mentioned in his opening remarks, if you take away Glatopa from our business,
+we still have high single digit top line growth as well as double digit bottom line growth.
+So the base business is performing well, and that's down to the product mix which once again
+goes back to that strategy of focusing on the key markets which have good margins and good
+growth opportunities, as well as focusing on the products and the therapy areas which we also
+see good margin, and that strategy although earlier on seems to be paying dividends with the
+margin. Thank you.
+A - Joseph Jimenez `
+David?
+A - David R. Epstein `So, with Cosentyx, as I pointed out, in the U.S. market, most of these patients have been on
+previous biologics, at least two and quite a number of them three, which tells you initially the
+doctors are getting through some of the early access hurdles by arguing the patients didn't have
+a good alternative. We're seeing over time that moving to a little bit earlier stage and we would
+predict over time as physicians get more comfortable, they see the responses in the sickest
+patient, and as the access hurdles become overcome, you'll see earlier stage use.
+The business is coming largely from STELARA and from HUMIRA as you would expect. These are
+the products that are usually used for these patients, particularly in the second-line. Once we get
+the psoriatic arthritis indication, you would expect some halo effect on psoriasis as well. In fact, in
+Japan, we already have the psoriatic arthritis indication, and we're getting lots of positive
+feedback from Japanese patients who are making statements about how their arthritis is – for the
+first time in their life is now manageable or is actually gone after just a few injections.
+Ankylosing spondylitis is an entirely different market. It goes totally to the rheumatologists, and I
+think the connection with psoriasis will be fairly limited.
+A - Joseph Jimenez `
+Next question, please?
+Operator
+Thank you. Our next question comes from Graham Parry of Bank of America. Please go ahead.
+Your line is open.
+Q - `Graham G. Parry, Bank of America Merrill Lynch `
+Okay. Thanks for taking my questions. Firstly, one on Entresto and early reimbursement
+discussions; and I'm just wondering if you have any positive surprises in relation to NDC blocks or
+if your expectation is still for a measured rollout and initial difficult reimbursement in Medicare Part
+D?
+Secondly, if you could perhaps just talk us through all the moving parts you're thinking for the
+remainder of the year on margin phasing, particularly second half margins versus first half, and
+particularly with respect to launch expectations and funding.
+And then, thirdly on Glatopa, any comments on initial launch experience? And we've had some
+feedback from the market and doctors are actually marking scripts for Copaxone as dispense
+was written or deliberately switching patients to three times weekly to avoid them getting
+generic due to bioequivalence concerns being stopped by Teva. Have you seen any of that kind
+of resistance widely and how do you deal with it when you see it? Thanks.
+A - Joseph Jimenez `
+David?
+A - David R. Epstein `
+So, in Entresto, we launched July 7. So, at this point, I have no feedback from payors. Their
+processes take weeks or as we've talked about that in that past, sometimes, months. We would
+still anticipate that since this population is highly Medicare, about 65%, that those Medicare plans
+will take to six-plus months to make their decision. And then, as we move into 2016, then some of
+the access hurdles would begin to come off.Having said that, I can tell you that the tone of the conversations is positive, it's supportive.
+Certainly, the conservations with doctors is what I would describe as enthusiastic. Our sales reps
+are coming back with good stories about doctors calling them and really excited about the
+therapy. So, you're just going to have to give us time. I know everybody is paying attention, and
+they're trying to really model what the back half of 2015 would look like for Entresto, but it's really
+too early to say.
+A - Joseph Jimenez `
+And on the margin phasing...
+A - David R. Epstein `
+Oh, for the...
+A - Joseph Jimenez `
+...expectation.
+A - David R. Epstein `
+So, if you look at – we don't go into lots of detail about phasing for Pharma margin. I mean, the
+good news is that as I've said from a sales perspective, since we have now lapped Diovan, this is
+going to help our sales growth which would then provide us additional bottom line.
+Having said that, we have launch costs particularly now in Q3 for Cosentyx where we're gearing
+up a bit less for Entresto, which is probably less material this year, and that of course is a
+counterweight to the positive that will come through from the higher sales. Overall, we're looking
+forward to a good relative second half compared to the previous year.
+A - Joseph Jimenez `
+And, Graham, on a group level, obviously, in the first half of the year, we're up slightly or almost a
+full point actually in terms of our core operating income margin on a constant currency basis. And
+because of the outlook of sales, mid-single digit and operating income high single digit, you
+could expect that to continue at the group level.
+Glatopa?
+A - Richard Francis `
+Thank you, Graham. Thank you for the questions. So, to talk about the Glatopa launch, starting
+with we're very pleased with the launch. But I would also say that it's very early days and we're
+talking only a few weeks. We're pleased that we got products shipped within the first 24 hours
+and that was in response to very strong demand from the wholesalers. We've had already
+patients go through our patient hub and are on therapy. So, so far, the response we're getting
+from them, the stakeholders within the market, both patients, physicians and payors has been
+extremely positive.
+So, I haven't actually experienced any of the challenges you faced; so, so far, so good. But as I
+said, a launch is over months and years, not by just the first few weeks. Thank you.
+Q - `Graham G. Parry, Bank of America Merrill Lynch `A - Joseph Jimenez `
+Thank you. Next question, please.
+Operator
+Thank you. Our next question comes from `Kerry Holford, Exane Ltd. of Exane. Please go ahead. Your line is
+open.
+Q - `Kerry Holford, Exane Ltd. `
+Thank you. Yes, `Kerry Holford, Exane Ltd. at Exane BNP. Going back to Glatopa just quickly, when I look at the
+NRx data, the gains look impressive but I also noticed there seems to be some decrease in the
+market share for GILENYA, albeit small. I just don't know if you can talk about how you're
+positioning these two drugs? Are they sold by the same sales force in the U.S. market and how
+those reps are incentivized? Here, just coming from the angle of the new product launch, is there
+a risk that Glatopa gets a harder push than GILENYA at this stage and what risks could that lead to
+longer-term?
+Secondly, on tax, it was a little higher than I anticipated in Q2. Harry, I wonder if you could talk
+about what an appropriate tax rate would be going forwards. And then, David, lastly on
+respiratory, in the pipeline update I see you plan to start Phase III for QVM and QMF this year. I
+wonder if you might talk about the plans there, would you look at a full global program or given
+there's still some uncertainty on the U.S. respiratory priorities for Novartis, could you consider just
+looking at ex-U.S. regions for a study program then? Thank you.
+A - Joseph Jimenez `
+Yes. Since your question was more about from a Glatopa standpoint on GILENYA share, why
+doesn't David – David, why don't you start and talk about GILENYA share and also respiratory.
+A - David R. Epstein `
+Yes. So, just first to give you a background, so there are separate commercial efforts around
+Glatopa and for GILENYA in the two different divisions. We do work together where there are
+synergies. So, just to give you one example, in multiple sclerosis, it's important to have a patient
+support hub, and since we've built that with GILENYA, then Sandoz, of course, would also access
+and use that hub so that they can avoid those redundant costs. So, there's no risk of any kind of
+cross-contamination or distracting of field forces.
+In terms of GILENYA, I'd advise you don't look at the NRx's right now. So, if you take a look back,
+what happened is we had a huge spike-up and then it looks like we've come partially back down.
+It has absolutely nothing to do with the other products in the market. But we move from a blister
+pack to a 30-day bottle, and that distorts all the IMS data from new Rx's, so, it's not relevant. I
+would say, overall, for GILENYA, as I said earlier, we're actually capturing a bit of share in terms of
+new patient starts, so, somewhere in good shape there.
+In terms of respiratory, we did indeed make a decision to develop and Phase III QVM as well in
+the triple for asthma only. And we're going to take this program as an ex-U.S. program, so there's
+no U.S. development plan. And filing is roughly 2018 for this particular opportunity. Thanks.
+A - Joseph Jimenez `
+And, Harry, tax rate.A - Harry Kirsch `
+Yes. Thanks, Kerry, for the tax question. So, we have in quarter two the same as in quarter one
+which is a 14.7% core tax rate. And this is also our midpoint estimate at this moment for the full
+year of 2015. As you know, tax rates are always a bit complex to forecast and guide on but it's our
+midpoint, and we have kept it in quarter one and quarter two to that.
+It is an increase of 0.8 points versus last year quarter two and that is due to a shift of some of our
+profit mix to jurisdictions with higher tax rate. So, but used for the full year is a 14.7%. If there
+would be any update, of course, we would tell you in the next quarter.
+Q - `Kerry Holford, Exane Ltd. `
+Thank you.
+A - Joseph Jimenez `
+Next question, please.
+Operator
+Thank you. Our next question comes from Tim Anderson of Bernstein. Please go ahead. Your line
+is open.
+Q - `Timothy M. Anderson, Sanford C. Bernstein & Co. LLC `
+Thank you. A few questions. Receptos, which Celgene is buying, has a product that's a direct
+competitor to GILENYA. They tout two programs for their compound multiple sclerosis and
+inflammatory bowel disease. When I look at your development program for GILENYA, I don't
+really see much happening in inflammatory bowel disease. So, my question to you is, why are
+they going headlong into this area and you guys don't seem to be doing too much? Is this a
+missed opportunity for Novartis or do you think they are simply barking up the wrong tree?
+Second question is on Afinitor. It's kind of like the Lucentis question about the future growth
+prospects. Can you say that Afinitor is going to continue to be a growth product, not only are you
+going to face pressure in renal but even in the hormone receptor breast? You've got palbociclib
+moving into that second-line setting and it seems like the product could contract overall as we
+look out over the years.
+And then the last question is Entresto pricing in Europe. I'm hoping you can give us some
+direction. My understanding is that it may be priced at half or less of what it is in the U.S.
+A - David R. Epstein `
+Okay. So, I won't comment specifically on the other company's product or development strategy.
+We do have, as you know, GILENYA in the market for relapsing-remitting MS. We also have a
+product that I believe is similar to the other brand that you mentioned, BAF312, which is in a Phase
+III trial for secondary progressive MS. It'd be interesting to see what that data shows when we
+unblind the data. Companies often choose different indications in which to develop their drugs.
+In terms of Afinitor, indeed, the growth was very good the first half of this year. I would anticipate,
+I think all things considered, which is the negative pressure in renal, the event of the CDK4/6s,
+which we're already seeing some impact from them as well as the positives we're going to get
+from use for example in neuroendocrine tumors. Net-net, you would expect Afinitor growth toslow going forward, and that's built into our model already. And then, in terms of Entresto, first,
+let us get the recommendation for approval, and then we'll be able to talk a little bit more about
+our pricing strategy. Thanks.
+A - Joseph Jimenez `
+Next question, please.
+Operator
+Thank you. Our next question comes from Tim Race of Deutsche Bank. Please go ahead. Your
+line is open.
+Q - `Tim M. Race, Deutsche Bank AG (Broker UK) `
+Hello, gentlemen. Thanks for taking my question. Just one (1:13:21) question on China. Could you
+go into a little bit more detail of what you're seeing across the different business segments,
+specifically on China? We're seeing, obviously, across many different segments sort of a capital
+equipment people fear sort of rising and a bit of a slowdown. You seem to be suggesting that in
+Alcon, but could you talk about how patents are changing in Pharma and Sandoz as well and what
+to expect going forward, please? Thank you.
+A - Joseph Jimenez `
+Yes. I'll start and then division heads can jump in. We have seen slowing of growth in China,
+specifically across, I think, every one of the segments. So, what's happened is healthcare,
+because the Chinese government has increased the coverage in terms of ensuring that every
+citizen in China has at least some level of medical coverage, you can imagine that the expense
+from a healthcare standpoint has been growing. Just in Pharma, it's been in the mid-teens.
+And I think there's a conscious effort to slow it down a bit. And then, on top of that you have
+what's happening from an economy standpoint and a stated shift towards what they're calling
+sustainable economic growth which is leading to lower overall growth rates. So, we're starting to
+feel it. At the same time, we're a diverse enough company where those growth rates are still at a
+level that are accretive to the global growth rates and I don't see that changing, because you've
+still got high demand, just probably not at the rates that we've been seeing. Anybody?
+Okay. Next question, please.
+Operator
+Thank you. Our next question comes from `Florent Cespedes, Société Générale of Société Générale. Please go
+ahead. Your line is open.
+Q - `Florent Cespedes, Société Générale `
+Good afternoon, gentlemen. Thank you very much for taking my questions; three quick ones. First
+one for David on EXJADE JADENU franchise, could you share with us how do you see the trend
+going forward and don't you feel it could be a bigger product versus your initial expectations
+given the new formulation?
+My second question is for Richard on Sandoz respiratory; could you share with us the
+performance of the respiratory products, AirFluSal in Europe and could we have an idea of the
+contribution to the division?And my last question is for Jeff. Is it fair to assume that it is the right timing to think about some
+portfolio adjustments at Alcon such as bringing Lucentis from Pharma or maybe the contact
+lenses care that could go to the JV with Glaxo on consumer? Some thoughts on that would be
+welcome. Thank you.
+A - David R. Epstein `
+So, we are excited about the JADENU launch, as I pointed out and I think you're alluding to, the
+EXJADE that was not a particularly easy product to take. You had to dissolve it in water and it got
+stuck to the glass, et cetera, et cetera, so the new dosage form is a big step forward.
+If one would begin to model then increased compliance, then you would expect that the
+franchise would then accelerate. And we're seeing some of that already in the U.S. So, for the
+quarter, we did about, I recall, $262 million in net sales. That makes this product a blockbuster run
+rate today. And then it should continue to grow from there. So, we're already well ahead of what
+our initial projections were and I think the product should continue to show nice growth.
+A - Joseph Jimenez `
+And, Richard, on AirFluSal?
+A - Richard Francis `
+Thank you for the question. So, I think the question was around respiratory in Europe and then I'll
+bring it down to AirFluSal. So, respiratory as a franchise in Sandoz is at its early stages but growing
+very quickly. A big part of that is our pipeline and AirFluSal is one of our big products that has
+come out of that. And currently, we've launched in 16 countries across Europe but it's very early in
+launches in many of those markets, some only recently. Progression is good and we're very
+pleased with the feedback we're getting from the customers, both the patients and physicians.
+And we look forward to expanding the pipeline and expanding the areas where we market
+AirFluSal going forward. Thank you.
+A - Joseph Jimenez `
+Jeff?
+A - Jeff George `
+So, Florent, first on contact lens care. As I said before, I think this is a fundamentally good high
+margin business. There are strong synergies with our dry eye franchise and the palliative OTC
+segment, which is one of our biggest segments at close – around $0.5 billion which is really our
+Systane franchise that's been growing at upwards of 20% looking back the last three years, four
+years. And we've accelerated that growth. We have the opportunity really to be the category
+captain and really are the category captain inside of Walgreens and CVS, and so bringing to bear
+more FMCG-like capabilities I think is going to be important here.
+The biggest opportunity for us is in Emerging Markets, to accelerate our growth there given that
+most people are still on monthly and weekly contact lenses where contact lens solutions are
+needed whereas in daily use, they are really not needed as much. And we'll see the fruits of the
+new segmentation, pricing and packaging that we rolled out in June. So, I want to see how that
+evolves before we speculate on questions such as the portfolio one that you asked. I don't really
+have any comments on the Lucentis question.Look, I think we got a clear path in terms of how to accelerate the growth on Alcon and now we
+have to execute. We need to fill that pipeline. We need to jumpstart some of the programs.
+We're going to have to in-license in the three segments. And so, there's a huge amount of
+activity that we have to do to get Alcon's growth rate from 2% in this quarter up to a decent level.
+Q - `Florent Cespedes, Société Générale `
+Thank you very much.
+A - Joseph Jimenez `
+Okay. Next question, please?
+Operator
+Thank you. Our next question comes from `Michael Leuchten, Barclays of Barclays. Please go ahead. Your
+line is open.
+Q - `Michael Leuchten, Barclays `
+Thank you. It's `Michael Leuchten, Barclays from Barclays. Just a clarification question on Glatopa for Richard,
+please; taking everything into consideration, the inventory moves, the milestone payments and
+the pay-aways (1:19:54), did I hear you saying that net-net, that didn't actually contribute to the
+EBIT of the division such that we can take that number as an underlying number or did it actually
+have a positive effect?
+And then staying with Sandoz, there's a comment in your press release about restructuring or
+reorientation of the business in France. I just wondered if you could elaborate what that means.
+And then you decided to sell a manufacturing site in India, and I think you're moving that to
+Poland. Again, I was wondering if you could share some thoughts around that? Thank you.
+A - Richard Francis `
+Okay, Michael, thanks for your questions. So, going back to Glatopa; apologies if I confused you,
+but Glatopa has added to the business, both top line and bottom line. What I was trying to
+highlight is that it all wasn't about Glatopa in the base business to Harry's point earlier had actually
+grown high single digit in sales and have actually grown – leveraged on the bottom line as well.
+So, it has impacted, yes, but trying to highlight that the base business is performing well also.
+Talking about the restructuring that you mentioned there, we are – as we look to making sure we
+have a highly productive and efficient business moving forward. We've been looking at our
+network, obviously production in generics manufacturing is incredibly important and making sure
+we have highly efficient and cost-effective production.
+Because of that, as we've reviewed our network, we've decided to close three sites, two in
+Germany and one in India, which I think you're referring to. A difficult decision we had to make,
+but one that we believe is right for the business moving forward to ensure that we're competitive
+and can continue to drive profitability in this very competitive segment. Thank you.
+A - Joseph Jimenez `
+Okay. Next question, please.
+OperatorThank you. Our next question comes from `Keyur Parekh, Goldman Sachs International of Goldman Sachs. Please go ahead.
+Your line is open.
+Q - `Keyur Parekh, Goldman Sachs International `
+Good afternoon. Three separate questions, please. First, Joe, if you could just give us your
+thoughts on the upcoming litigation, I believe there is the whistleblower lawsuit that goes to a jury
+trial in November, if you could help us think about how we should monitor that and think about
+that in the context of the existing CIA that Novartis already has?
+Secondly, in context for David, David, if you can just help us think about what is the market share
+that you are getting in the frontline setting today for the BRAF/MEK combination versus the
+various IO agents and kind of how you see that playing out? And then thirdly, in the context of
+Farydak, how should we think about the potential here given the pending kind of daratumumab
+launch in similar indication? Thank you.
+A - Joseph Jimenez `
+Okay. Starting with the litigation, the upcoming litigation, and you've seen a lot of press about this
+and a potential fine. We strongly dispute the allegations by the Southern District of New York in
+the Specialty Pharmacy case. This is a case about patient adherence. And the facts, when you
+look at the facts, we believe that we've got a very strong case. So, I won't go into what our legal
+strategy is. But in the context of the CIA, it's irrelevant because we believe we have a very strong
+case. And as we go to court, the trial is scheduled for November. But when you look at the facts
+as they're presented, we're in quite a strong position.
+So, David, market share?
+A - David R. Epstein `
+So, MEK/RAF the combination is just now starting to get momentum in the U.S. now that the data
+has been made public with the COMBI-d data. And you have to remember that outside the U.S.,
+we don't have approval yet in Europe or Japan for the combination, so there's virtually no use
+there yet. So, we're in very early – very, very early days at this point.
+Regarding Farydak, Farydak was approved for a, what I would describe as a third-ish kind of,
+fourth kind of line population in myeloma. So, it's going to be used really when patients have
+used up other options. As a result, it'd be a relatively modest sized product; I would measure it in
+couple of hundred millions as a peak sales estimate. Thanks.
+Q - `Keyur Parekh, Goldman Sachs International `
+Thanks. And, Joe, if I could just follow-up on your comments, if I heard you correctly, you said the
+CIA is irrelevant to this case. In the instance that for whatever reasons the jury finds against you,
+can you help us understand why the CIA is irrelevant? And secondly, can you confirm if you've
+already taken any provisions against this? Thank you.
+A - Joseph Jimenez `
+The provisions, legal provisions for the company are shown in the Annual Report, so you can go
+there and identify that, but my point is that the facts are on our side in this case, and we're going
+to fight this, because when you look at what this is about, it's about patient adherence and
+making sure that these transplant patients get their medicine and making sure that the refills of
+those prescriptions are made.So, this isn't about any physician that is writing prescription, it's about a Specialty Pharmacy hiring
+a nurse to call patients who have transplant; they have a new kidney and ensuring that they're
+taking their medicine. So, I'll just leave it at that.
+Q - `Keyur Parekh, Goldman Sachs International `
+Thank you.
+A - Joseph Jimenez `
+Next question, please?
+Operator
+Thank you. Our next question comes from `Odile Rundquist, Helvea SA of Helvea-Baader. Please go ahead.
+Your line is open.
+Q - `Odile Rundquist, Helvea SA `
+Yes. Good afternoon. Three questions. Started on Pharma with Tasigna, you reported some
+positive data from ENEST first (1:26:23). I was just wondering where do you stand with
+ENESTfreedom and ENESTop and if you're still expecting a result in early 2016, and with that, how
+you switch to Tasigna patient even when GLEEVEC will lose patent protection. So, what's your
+maybe view on that?
+Moving to Alcon again, so in Emerging Markets and the slowdown of equipment, surgical
+equipment sale. So, I'm trying again to understand why is that and if it's related also to the
+penetration of cataract surgery in countries like China? Do you relate it to the change in coverage
+or also penetration in Brazil? I mean that's really two countries in which the penetration is very low.
+So, maybe if you can give me some thought.
+And also, I noticed that there is this impairment, intangible impairment. Is it related to Jetrea, and
+if it is, why is that? Is it because it's so low sales that you finally book an impairment?
+And maybe just last question on BKM120 and the respective mutation in what it seems to be very
+efficacious. I was just wondering if this PIK3CA mutation could also be found in other segments of
+the breast cancer population like the triple-negative population or is it really only for the hormone
+receptor-positive? That's all I've got. Thank you very much.
+A - David R. Epstein `
+So, to take Tasigna, you're correct. The (1:27:54) studies which were designed based upon a
+finding that patients who had very deep molecular responses on Tasigna, a portion of them could
+actually go off therapy and experience tumor-free remission. We initiated those trials. And there
+will indeed be data during 2016.
+I think your question is bigger about GLEEVEC versus Tasigna. I think the patients that are on
+Tasigna, at least all the evidence we have so far from other markets where GLEEVEC has gone
+generic is that patients that are on Tasigna tend to stand Tasigna, and that the market
+opportunity for Tasigna continues to grow despite the GLEEVEC generics. Regarding other
+indications in breast cancer and the like, I think it's something I'd have to get back to you on for
+the – for those other products.
+A - Joseph Jimenez `And, Jeff, Alcon?
+A - Jeff George `
+Odile, first to your question on the $119 million impairment; yes, that is reflective of the
+impairment on Jetrea, which is due to the lower peak sales assumptions than was originally
+assumed when this product was in-license back in 2012. With respect to your question on
+Emerging Markets, we did see a flat quarter in Emerging Markets versus the fairly consistent
+double digit growth that we've seen in the past few quarters.
+Asia, in particular, had a poor Q2 on the back of weaker performance in China and Southeast Asia
+which was driven by lower equipment sales as well as a bit of softness in Pharma as Joe alluded
+to in China. The one factor that I think is notable here in Emerging Markets is Russia which we
+hadn't addressed. The market did decline significantly though we continued to gain share in most
+segments of Pharma and surgical. Latin America was a bright spot with much stronger growth and
+very good growth in Brazil. We had a bit of phasing in Middle East and Africa.
+I think, in terms of reimbursement, I see strong opportunity for increased penetration in Brazil and
+across Asia, across Latin America. I think that we just had a number of challenges in the same
+quarter in Emerging Markets in Q2.
+A - Joseph Jimenez `
+Next question, please.
+Operator
+Thank you. Our next question comes from Steve Scala of Cowen. Please go ahead. Your line is
+open.
+Q - `Steve M. Scala, Cowen & Co. LLC `
+Thank you. I have a couple for David. First, the Afinitor slide on page 35 implies breast cancer
+sales, annualizing at just over $900 million. I think previously the guidance for breast cancer was
+$1.5 billion to $1.7 billion. I realize that probably now has changed. All things considered, what
+should that guidance be now?
+And then secondly, you noted Promacta has blockbuster potential. Is that a new view now that
+you have the asset? I don't recall you saying that before. Where will the growth come from and
+over what timeframe? Are these new opportunities or is this GSK missteps in the support of the
+product? Thank you.
+A - David R. Epstein `
+So, you're correct in terms of the outlook for breast cancer given some of the use of the
+CDK4/6s. It will be difficult to achieve what we hoped would be the $1.5 billion forecast. I don't
+have a new number for you. Suffice to say, we do think Afinitor, however, will continue to grow
+and be a quite significant brand for the company.
+In terms of Promacta, we've been excited about it and we're increasingly excited about it. It is
+one of the products that we said from the GSK transaction could become one of the blockbuster
+products for us. Q2 sales were about $116 million. So, you could argue we're almost halfway there.
+We just got a pediatric approval in chronic idiopathic thrombocytopenic purpura. We expect EUapprovals in SAA in the second half of 2015. There are other indications that are being worked on
+and the reality is particularly outside the U.S., GSK had virtually no meaningful oncology footprint.
+So, there's an opportunity to accelerate the use outside the U.S. So, we're pretty happy about it.
+Some of the trials that might make a difference in the future, so, just as a reminder, there is
+something called the ASPIRE trial. That's a Phase II study in patients with MDS. So, if the study is
+positive, and supports regulatory approval, that will allow us to reach so much broader range of
+patients than what we currently have in the label.
+There's also something called the SUPPORT trial. It's a combination trial. It's a Phase III study in a
+subset of MDS patients comparing Promacta to AZA, I'm sorry, plus AZA versus AZA alone. That
+would be an earlier patient population in the ASPIRE trial, and to the secondary end point that we
+can get overall survival. So, both of these could be meaningful additions to the opportunity for
+the drug.
+A - Joseph Jimenez `
+Okay. Next question, please.
+Operator
+Thank you. Our next question comes from Marietta Miemietz of Primavenue. Please go ahead.
+Your line is open.
+Q - `Marietta E. Miemietz, Primavenue Advisory Services Ltd. `
+Thank you very much. Quick question on RTH258 positioning; if eye drops with Lucentis like
+efficacy were to become available that can either replace Lucentis or significantly reduce the
+injection frequency, what proportion of the current VEGF market patients would still be interested
+in an RTH258 injection and how does that depend on a potential efficacy advantage? I was just
+wondering if you'd done any market research on that?
+And then, Jeff, I was just wondering if I could drill down a little bit more deeply into specifically the
+advanced technology IOLs. Could you give us the reported and constant currency sales growth
+specifically for the AT IOLs that used to be included in the press release?
+And can you tell us roughly how your volume market share in the AT IOL space has developed in
+percentage terms, in the first half of 2015, and whether you think the EU approval of PanOptix will
+be sufficient to reverse that trend in the second half of 2015. And then just quickly on the margin
+impact, given the very high premium price of the AT IOLs, is it fair to assume that the Alcon
+margin in the coming years would not exceed 35% unless the AT IOL franchise resumes
+significant growth? Thank you very much.
+A - Jeff George `
+So, Marietta, maybe first on AT IOLs, I don't believe that we've given guidance recently on the
+breakdown of growth. But let me kind of walk you through holistically what we're looking at. On
+the Toric side, we continue which is priced at about three times the price of monofocal. We
+continue to see very strong performance in the number of markets there. We have had
+competitive entry in the last year. We still hold over an 80% – I think about 80%, 81% share in the
+U.S. and good performance in Europe. ReSTOR is really the pain point, as I mentioned. That's on
+the multifocal side.And I think the trifocal lens PanOptix will be very important to regaining share in this market where
+we have lost share to trifocal from ZEISS in Europe. There is no trifocal in the U.S. I think it's
+certainly too early to write off the AT IOLs. I think you have a class effect on multifocals. But I'm
+fundamentally very positive on astigmatic correction with Toric, positive on the potential for
+trifocals going forward, provided we can really drive stronger growth in premium IOLs, we'll see
+the margin impact of that.
+On RTH258, I really don't think we've done any consumer research. I can go back and check
+regarding the drop form of anti-VEGF. I think a lot of it would really depend on efficacy. I think if
+there were a drop that people could take that had similar or better efficacy to Lucentis, Eylea and
+RTH, then people would take it. Hard for me to estimate how much of the market would go that
+way. What I can say is that we're excited not only about the Phase II primary endpoints being met
+versus Eylea and Lucentis in terms of efficacy, but also the durability of action that we see where
+there's the potential for about 2/3 of patients to have quarterly dosing.
+A - Joseph Jimenez `
+Okay. I think we have time for one further question.
+Operator
+Thank you. Our final question comes from Matthew Weston of Credit Suisse. Please go ahead.
+Your line is open.
+Q - `Matthew J. Weston, Credit Suisse Securities (Europe) Ltd. `
+Thank you, Joe. It's a follow-up, please. All the debate, no one has asked the question around
+how the current negotiating discussions are going with payors for the 2016 season. I understand
+that it's relatively early in the discussions, but I'd love some overhead comments from either you
+or David in terms of how you see the outlook for pricing in a number of your key categories going
+into next year?
+A - Joseph Jimenez `
+Okay, David, why don't you just start?
+A - David R. Epstein `
+Yes. So, Matthew, you are right. It is early. I can tell you that our relationships with the payors are
+sound. The dialogs are open. We do not anticipate anything significantly different than what we've
+seen in the past. And, obviously, we're also working through the discussions around making sure
+we can open up the formularies for Cosentyx and Entresto, which are our main efforts given the
+growth potential of those products in the number of patients in the U.S. market that are waiting to
+get access to these drugs.
+So, there's really not much else to say at this point. Thanks for the question.
+A - Joseph Jimenez `
+Yes, and I think, I think the same, if you think about the payor environment in the U.S., there are
+pockets of some pretty aggressive behavior, but we have not been at the brunt of that, and I
+think part of it is because of the time and attention that we spend with those customers and
+understanding trying to find win-wins for both. And we expect that to continue, so I don't think
+across any of the divisions we're going to – or at least we don't anticipate any major problem.So, thank you very much. I'd like to thank everybody for listening in, and we look forward to
+updating you at Q3.
+Operator
+Thank you. That will conclude today's conference call. Thank you for your participation, ladies and
+gentlemen. You may now disconnect.

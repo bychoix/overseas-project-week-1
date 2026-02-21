@@ -1,0 +1,971 @@
+Q1 2021 Earnings Call
+
+Presentation
+Operator
+Good morning and good afternoon, and welcome to the Novartis Q1 2021 Results Release
+Conference Call and Live Audio Webcast. (Operator Instructions)
+With that, I would like to hand over to Mr. `Samir Shah, Global Head of Investor Relations, Global Head of Investor Relations. Please
+go ahead, sir.
+`Samir Shah, Global Head of Investor Relations `
+Thank you very much and good morning and good afternoon everybody. Thank you for taking the
+time to join us on the Q1 results conference call. We appreciate that you are taking this time.
+Before we start, I just want to go through the safe harbor statements. The information presented
+today contains forward-looking statements that involve known and unknown risks, uncertainties
+and other factors. These may cause actual results to be materially different from any future
+results, performance or achievements expressed or implied by such statements. For a
+description of some of these factors, please refer to the company's Form 20-F and its most
+recent quarterly results on Form 6-K that respectively were filed with and furnished to the US
+Securities and Exchange Commission.`Vas Narasimhan, Chief Executive Officer `
+Thank you, Samir and thanks again for -- everyone for joining today's conference call. With me
+today I have `Harry Kirsch, Chief Financial Officer, our Chief Financial Officer; `Marie-France Tschudin, President, Novartis Pharmaceuticals, our President of
+Novartis Pharmaceuticals; `Susanne Schaffert, President, Novartis Oncology, our President of Novartis Oncology; `John Tsai, Head of Global Drug Development and CMO, our
+Head of Global Drug Development and Chief Medical Officer; `Richard Saynor, Chief Executive Officer, Sandoz, our Head of
+Sandoz; Tom Kendris, who is our Chief Legal Officer Ad Interim and Samir who you've just heard
+from.
+So moving to the next slide. What I'd like to do is give you an overview of our performance and
+then dive a little bit deeper into the four key areas as part of the overview section before
+handing it over to our business leaders. First and foremost, we feel confident in the growth
+outlook of the company, particularly given the momentum we're seeing in Innovative Medicines
+and the expected stabilization we foresee in the Sandoz business.
+From a productivity standpoint, when you kind of look for our forward purchasing, we continued
+our expansion of our core margin, and I'll say more about that in a moment. We had multiple
+important milestones from an innovation standpoint. Now I'll go into a little more depth as to
+some of the upcoming milestones and some of the updates we have in our Phase II and Phase III
+pipeline, which we view as one of the leading pipelines in the industry. And lastly, in ESG, we
+continued to or marks to being the sector leader within the pharmaceutical and
+biopharmaceutical sector as well as being a leader across sectors. Ranked number 2 in the
+access to medicines index and number one in sustainalytics, and I'll talk a little bit more about that
+in a moment.
+So going to the next slide. Starting with the growth outlook. Our key growth drivers really
+demonstrated that they're returning to momentum over Q1. We had strong performance of
+brands such as Entresto, Zolgensma and Cosentyx on the pharmaceutical side as well as a very
+good performance from brands like Lutathera, Kymriah and solid performance from Kisqali on the
+oncology side. In addition, Kesimpta is off to us a very strong start, and Marie-France will talk
+more about these -- the Kesimpta launch.
+Now when you take it together, our key growth drivers and launches now are growing 20% and
+amounting to 48% of our total sales, and we expect this number to continue to climb over the
+coming years, enabling us to deliver the mid-term growth we outlined in the Meet the Mark to
+Novartis management presentation we had last November. As a proof point, when you exclude
+forward purchasing, our Innovative Medicines business grew 3% in the quarter in constant
+currencies.
+Now moving to the next slide. We're also confident that we can continue to deliver the core
+margin expansion that we've committed too. In the near-term that would be in the mid to high
+30s, in the near-term, excuse me. And in the mid-term, it would be in the high 30s and when you
+look at our Q1 underlying performance when again you take into account forward purchasing that
+we saw last year, the core operating growth of plus 6% and core margin growth of a 1%, bringing
+us to 36.3% well on our way to getting to that high-30s goal. The drivers of that expansion were
+sales momentum on our key products as well as the continued productivity program in Novartis
+Technical Operations where our goal is to deliver USD2 billion in savings in the next few years and
+we continue to evolve our ways of working delivering savings from our newly created customer
+technology solutions organization, which integrates data and digital as well as Novartis business
+services to even accelerate the overall way of working inside of Novartis.So moving to Slide 8. Sandoz did have a difficult quarter, which was impacted by price erosion as
+forward purchasing and a historically low cough and cold season. The first thing to note is we
+were cycling an exceptionally strong prior-year quarter and you can see some of the figures here,
+but for example, the total sales of Sandoz was up 11% Q1 2020 and of course, this quarter we're
+down 13%. Now some of the underlying factors that we see impacting this, many of them are
+sector-wise, the price erosion of 10% which we saw across Europe and U.S. and our key markets. I
+mentioned the forward purchasing as well as weak demand in cough and cold retail as well as
+some of the impacts of the retention of the Aurobindo business in oral solids in the U.S.
+On a positive note, our Biopharma business continues to grow and continues to be a leader in
+many regions around the world. We expect the business to stabilize in the second half as the
+pandemic eases. We expect our biosimilars to outperform in the competitive European market.
+We expect to see our retail European business rebound and we also have an increasing number
+of launches both across biosimilars in geographies outside of the U.S. and Europe as well as in
+small molecules in the second half, so that'll be a key area of focus for us as we continue to get
+Sandoz back to growth.
+So moving to Slide 9. From a pipeline and innovation standpoint, it was a busy quarter, you're well
+aware of the approval of Entresto in patients with a below normal left ventricular ejection fraction,
+updates to Cosentyx label of approvals in Kesimpta. In terms of readouts, the VISION study read
+out positive on both radio PFS, rPFS as well as on overall survival and we look forward to
+presenting that impressive data in an upcoming medical congress.
+We had the positive readout of Cosentyx and juvenile idiopathic arthritis, which we now are
+moving towards filing and will continue to enable us to expand Cosentyx indication where we
+have a goal of getting to nine indications or formulations to enable Cosentyx to continue to drive
+dynamic growth over this decade. LNP Iptacopan had a positive readout in IgA nephropathy and
+we'll look forward to preventing that data in upcoming congress and we have already initiated the
+Phase III program. You'll remember that IgA nephropathy is one of the larger indications we have
+for this medicine. We also had the positive readout, which we have already stated in PNH and the
+Phase III started there, and we're expecting additional readouts which I'll talk about in a moment.
+We did have the results of Entresto in the post AMI setting, where it had a high hurdle trying to
+demonstrate superiority to Ramipril and a very fragile patient populations, these are patients who
+have recently had a myocardial infarction. Entresto had a consistent positive trend across all the
+primary and secondary endpoints, but did not meet statistical significance for superiority, did
+demonstrate a very strong safety profile and we'll look forward to discussing the data further with
+regulators in the months to come.
+And lastly, you're aware of the Canakinumab second line readout. So some other designations in
+submissions in the bottom of the slide, but I'd like to move to the next slide and take a little bit of
+time to go through some of the updates on our expected milestones across our key programs in
+lifecycle management pharmaceuticals and oncology. I already mentioned the Entresto and
+Cosentyx information, on Cosentyx, we are on track for the hydroxycarbamide superlative Phase
+III readouts in the second half of 2021.
+In Kisqali, importantly, we have completed enrollment of the adjuvant study in medium and high-
+risk patients and I'll spend a little bit more about that, but a readout in 2022. With respect to
+Leqvio, we remain on track for a CRL, a response to be submitted in the Q2, Q3 timeframe.
+We've also completed a tech transfer into our Schaftenau facility in Austria and are evaluating the
+best way to submit that response now with the FDA. And I think those are some of the key
+highlights on lifecycle management.Now turning to Pharmaceuticals of the portfolio. I've already mentioned on LNP023 some of the
+key milestones. I think the key thing here is that we're continuing to rapidly move across a broad
+range of indications into Phase III. The other highlight I wanted to mention is, Branaplam where we
+have completed the Phase I study and we look forward to providing that information in an
+upcoming medical congress. We have also completed discussions with the regulators to finalize
+the Phase IIb study design and plan to start that study in the second half of 2021.
+And then moving to oncology. I think very important, the Canakinumab studies remain on track in
+first-line and adjuvant. But as important in many ways now the Lu-PSMA studies in the early lines
+of therapy in hormone-sensitive prostate cancer have begun and we look forward to enrolling the
+studies rapidly with the planned readout in 2024.
+Now moving to the next slide, you probably will have seen that we've completed our in-licensing
+agreements for tislelizumab with BeiGene and we did have the readout of two important readout
+-- studies that will enable a submission over the course of this year, first and second-line non-
+small cell lung cancer at AACR, you can see the data here on the right with solid overall survival
+data. And then also in esophageal cancer, where the study has met its primary endpoint
+prolonging OS versus chemo and we'll provide that data release as well in an upcoming
+congress. So these studies will enable ex-China filings, which are on track for 2021 and we have 15
+potential registration enabling studies ongoing as well as a broad range of combination studies in
+the program.
+Now moving to the next slide, I wanted to close just by noting our commitment across the
+company in areas of high materiality for Novartis to advance our efforts in ESG in returning and
+building trust with society. I mentioned the ranking we have now in Sustainalytics. We're the only
+company among our peer set now ranked with a low risk in the Sustainalytics ranking also an
+access to medicines index, a Number 2 ranking, but we were very proud of our Number 1 ranking
+in product delivery. Our ability to bring our innovative medicines to patients most in need in low
+and low-and middle-income countries.
+Other highlights include agreement with Bill and Melinda Gates Foundation on bringing
+transformative therapies to patients in sickle cell disease as well as being included in the
+Bloomberg Gender Equality Index. And of course you're aware of our ongoing efforts in COVID-
+19 to provide our manufacturing capacity as well as to collaborate with Molecular Partners as well
+as our own in-house oral program for a pan-COVID oral protease inhibitor to hopefully bring
+therapeutics over time to help with the long-term controlled COVID-19.
+So that gives you a little bit of an overview. I'd like to hand it over now to Marie-France to dive a
+little bit deeper into Pharmaceuticals. Marie-France?
+`Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Thank you, Vas. Good morning, good afternoon. I'm pleased to update you on our Q1
+performance for Pharma. We had revenues of USD6.3 billion this quarter, and while the overall
+growth rate was affected versus Q1 2020, our growth drivers and launches are showing excellent
+momentum with 23% growth versus prior year. What is noteworthy is that half of our revenues are
+now coming from our growth drivers and launches. This is the result of clear portfolio prioritization
+and a relentless focus on commercial execution. We've also doubled down on early launch
+preparation and our investments reflect that.
+If we move to Slide 15, Cosentyx our largest brand delivered double-digit growth. As we said in
+Q4, we've seen an access change in one U.S. account, which has impacted volumes. Although therebate upside realized and the volume growth over time. Our overall access remains strong in
+the U.S. and continues to be a key pillar of our strategy. The other constant is that customers
+continue to experience Cosentyx as a tried and trusted complete treatment. Now that the shares
+have adjusted to the new access levels, we are back to our position that we will grow with the
+market in dermatology and outgrow the market in rheumatology.
+Ex-U.S., our focus is on accelerating volume growth. We're off to a great start in China, following
+our NRDL listing in March. In Europe, Cosentyx continues to be the leading originator biologic
+across all three indications. As we bring the newer indications to market, we expect some pricing
+concessions in Europe and that will only further enable volume driven growth. Full year, we're
+confident that the Cosentyx team can deliver double-digit growth based on our strategic pillars,
+focus on strong access globally geographic expansion and our leading industry approach to data.
+Beyond 2021, our ambitious lifecycle program provides further upside opportunities for the
+future.
+Slide 16, Entresto is doing extremely well with strong growth across the globe. In the U.S., we're
+seeing a convergence of events, physicians are adopting the ACC expert consensus
+recommendations for Entresto in first line, we're seeing recovery from COVID and enthusiasm
+around the expanded indication. It's great to see the growing confidence to go direct to
+(inaudible), which is reflective of the strong evidence behind Entresto.
+We're seeing all-time highs in NBRxs. The label in the U.S. now covers five out of six patients with
+chronic heart failure and this makes it easy for physicians to initiate appropriate patients. We now
+estimate that about 3.2 million patients are being treated with Entresto today. This is a big
+achievement and is a testament to the exquisite execution of the teams in the field. We now
+have 30% share of the HFrEF patients in the U.S., so there remain significant room to grow as
+70% of rEF patients are still on prior standard of care and we've only just started to promote in
+the pF population.
+If I move to Slide 17, Zolgensma had a strong quarter, which was driven by reimbursement wins in
+a number of European markets, while the U.S. continued its steady trend. As every new country
+initially adds a bolus of patients and then move into a steady state, you can expect to see some
+volatility in the quarterly sales pattern. We have new compelling data on Zolgensma's efficacy and
+pre-symptomatic patients. We're also initiating a new Phase III trial called SMART to strengthen
+the confidence for children up to 21 kilograms in EU. We're on track with our preclinical studies for
+the IT formulation, which would also allow us to bring Zolgensma to older children. Our five-year
+durability data confirms what is this medicine can offer in one single-treatment and this is what
+really sets Zolgensma apart and why we are relentlessly progressing our gene therapy agenda
+with two more INDs planned this year
+If we move to Slide 18, with Kesimpta we're bringing a high efficacy B-cell therapy to patients
+early in their disease. Our new PIRA data builds on the strong efficacy profile already shown in our
+pivotal trial. Kesimpta can reduce disease progression that happens independent of relapses by
+up to 60% when used early. We believe this is incredibly meaningful data for patients because
+PIRA actually accounts for the majority of progression. This data is unique in this early patient
+population. While the pandemic is still impacting the dynamic market and the prescribing
+behavior, all the metrics that are in our control are tracking positively. We're seeing more than
+50% use in first-line for switch, which is exactly aligned to our value proposition. The team has
+also done a great job on Access. In fact, the conversion from free to paid product is ahead of
+plan. This is reflected in the Q1 numbers, which also include a USD9 million revenue adjustment
+relating to Q4 2020 and why we now expect 65% of sales in the second half of the year.Recent data also shows that the IgG levels of patients on Kesimpta are maintained over time,
+which is important to fight infections, including COVID and reinforces our safety profile. Once the
+market bounces back, we expect strong uptake for this product based on the compelling product
+profile and the growing evidence base behind the brand. Remember that we designed this brand
+specifically for multiple sclerosis. As you can see from the data, we are achieving sustained
+depletion with the monthly dosing and were not seeing a rebound between doses. With the high
+and sustained efficacy and the opportunity for at-home treatment, Kesimpta has what it takes to
+fundamentally change how we treat multiple sclerosis.
+Slide 19, Leqvio was launched in Germany and Austria in February in a limited population of
+patients at very high cardiovascular risk. Physicians seem happy with the immediate drop they see
+in LDL-C levels and with the ability to have the sustained effect with only two injections per year. In
+Europe, we need the outcomes data, which we expect in 2026. So in the meantime, we want to
+advance discussions on population health approaches as our goal is to bring this medicine to a
+broad population as quickly as possible, and this way significantly lower the burden of ASCVD on
+patients and systems. The UK NHS agreement is our first such agreement and is on track for
+launch in Q3, more to come. In the U.S., we're on track to resubmit our file in Q2, Q3, while we're
+preparing our filing, we're also actively engaging with a large number of U.S. healthcare systems
+to lay the foundation for broad uptake.
+In summary, we continue to focus on executing our strategy, maximizing our growth drivers,
+delivering our launches, preparing our next big bets. Our growth drivers are doing very well. Our
+launches are gaining momentum and now these accounts for half our sales. As we see a more
+dynamic market environment, we'll continue to accelerate our portfolio shift and double down on
+patient HCP and health care system engagement in order to enable access to more patients
+faster.
+I want to thank the teams around the world who works so hard to achieve this every day. Over to
+Susanne.
+`Susanne Schaffert, President, Novartis Oncology `
+Thank you, Marie-France. So let's move to Slide 21, our oncology business has delivered solid
+performance in the first quarter with net sales of USD3.8 billion, broadly in line with previous year.
+Our key growth drivers continued to perform well, including Kymriah, Kisqali, Promacta/Revolade
+and Jakavi. Both our growth brands and recent launches together grew 15% versus previous year
+and contributed to almost half of the overall oncology sales, allowing us to more than
+compensate for the continued generic erosion of Afinitor and Exjade/Jadenu in the U.S. and
+Sandostatin LAR in the EU.
+The first quarter was marked by the continued impact of the pandemic on certain segments of
+our portfolio with a more pronounced effect on hospital-initiated therapies, our breast cancer
+portfolio and recent launches. Due to the pandemic, patients did not see their physicians at the
+same frequency and diagnosis and treatment initiations remained below pre-pandemic levels.
+However, we remain confident that patient visits to hospitals will resume and treatment patterns
+will normalize, leading to acceleration of growth in these segments.
+Moving to Slide 22. Just to remind you that we are the only pharmaceutical company which is
+pursuing four different cancer treatment platforms. These include radioligand therapy, cell and
+gene therapy, targeted therapy and immunotherapy, with an opportunity to combine these
+platforms for better outcomes. Today, I wanted to especially reflect on our progress with
+radioligand therapies. Since the acquisition of AAA in 2018, we have established strong globalexpertise in commercializing radioligand therapies supported by a specialized supply chain
+manufacturing capability across four radioligand therapy production sites.
+With Lutathera, our radioligand therapy for neuroendocrine tumors have gained a lot of
+momentum and in partnership with now 400 centers, we are able to deliver this life-saving
+treatment to more than 9,000 patients since launch. We have generated a unique skill set and
+experience in manufacturing, supply and commercialization of radioligand therapies, and we will
+leverage these to maximize the potential of our future launches in this space. On the
+development side, we are advancing four clinical programs in around 11 preclinical and discovery
+programs to identify the next wave of radioligand therapies for cancer. We continue to invest in
+our radioligand pipeline through the in-licenses of a library of fibroblast activating protein or FAP
+targeting agents. The investment into active oncology for development of alpha-based
+radioligand therapies and our most recent collaboration with Artios Pharma to discover and
+identify novel combinations of DNA damage response inhibitors with RSGs.
+Moving to Slide 23. Early in March, we were excited to share with you data from the VISION study,
+this Lutetium-PSMA in metastatic castration-resistant prostate cancer, and the trial met both
+primary endpoints of improved overall survival and radiographic progression-free survival versus
+standard of care. Just to remind you prostate cancer is the second most diagnosed cancer
+globally and in the majority of cases, patients unfortunately develop metastases by the time of
+castration-resistant prostate cancer diagnosis. There is significant unmet medical need in this
+population with a five-year survival rate of approximately 15% and there are very limited
+treatment options. The VISION study findings confirm that Lutetium-PSMA has the potential to
+become the targeted treatment for more than 80% of men with late-stage advanced prostate
+cancer. We intend to initiate discussions with regulatory authorities and prepare submissions to
+the FDA and EMA by the end of this year.
+On the commercial side, we are effectively preparing for the upcoming launch with a focus on
+hospital and community centers. More than 70% of prostate cancer patients are treated here,
+given the prevalence of the disease, we are working with treatment centers to better understand
+their operational needs for capacity expansion in order to administer targeted radioligand
+therapies. Additionally, we are raising awareness on the clinical relevance of PSMA and the
+potential value of targeted RSGs as a new mechanism of action in advanced prostate cancer.
+On the development side, the VISION trial findings are supporting our confidence in moving into
+earlier lines of advanced prostate cancer. We are planning a Phase III study with Lutetium-PSMA in
+the pre-taxane metastatic castration-resistant prostate cancer setting and in the metastatic
+hormone-sensitive setting. We anticipated both of these studies will start in the first half of 2021.
+Moving to Slide 24. Kisqali delivered solid performance in the first quarter with sales up 19%
+reaching USD195 million, driven by unprecedented overall survival benefit from two pivotal Phase
+III trials. We are very pleased to see Kisqali continued to grow strongly and gaining market share
+ex-U.S. especially on European markets. In the U.S., Kisqali maintained share despite the overall
+slowdown of the CDK4/6 market, driven by the suppressed diagnostics rate and overall
+decrease in new patient starts. We believe Kisqali has a unique profile supported by the longest
+reported median OS among all Phase III trials in advanced breast cancer reaching around five
+years in pre-menopausal patients. Therefore, we remain confident in the longer-term potential of
+Kisqali.
+On the development side, NATALEE adjuvant study in intermediate and high-risk population has
+completed enrollment ahead of plan and we are on track for final readout in 2022. So overall, weare confident with Kisqali resilient performance and what continues to be a challenging market
+environment.
+And with that, let me hand over to Harry.
+`Harry Kirsch, Chief Financial Officer `
+Yeah thank you, Susanne. Good morning and good afternoon, everyone. I'm now going to walk
+you through some of the financials for the first quarter as well as provide you with an update on
+our 2021 guidance. As always, my comments refer to growth rates in constant currencies unless
+otherwise noted.
+So Slide 26 shows the summary of our operational performance for the first quarter. As we
+indicated at the start of the year, quarter one growth was negatively impacted by prior-year
+quarter one forward purchasing, which amounted to around minus 3% points on sales and minus
+7% points on core operating income. This quarter also still had continued demand impact from
+COVID-19 particularly in dermatology, ophthalmology, our breast cancer portfolio and for the
+Sandoz retail and anti-infectives business. Free cash flow was impacted this quarter by the
+USD650 million upfront payment for tislelizumab in-licensing from BiGene. I will give more detail
+about free cash flow later in the presentation. With these caveats, you can see the changes in net
+sales and core operating income minus 2% points and minus 8% points, respectively, which
+flowed out into EPS and free cash flow.
+Turning to Slide 27, we have shown the change was prior year for sales, core operating income
+and core margins in the first quarter as reported on the left-hand side of this table. On the right-
+hand side, as we did a similar chart last year quarter one, we have illustrated what the underlying
+operational performance looks like, if we excluded the prior-year forward purchasing. Innovative
+Medicines had a solid underlying performance, sales grew plus 3%, core operating income, plus
+6% and core margin was up plus 1% point.
+Innovative Medicines' performance was driven by continued strong double-digit growth of our
+key growth drivers like Entresto, Zolgensma, Cosentyx and our oncology growth drivers partly
+offset by mature product declines of generic erosion. For Sandoz, we would still have seen a
+change in quarter, excluding prior year forward purchasing, Sandoz sales were still down minus
+9% and core operating income was down minus 29%. As Vas explained earlier, some of the key
+challenges for Sandoz were the pricing impact, historically low cough and cold season and softer
+retail demand as a result of COVID. At the Group level, underlying performance added up to plus
+1% of sales and core operating income declined minus 1%.
+Let's now go to Slide 28. One way of better understanding underlying performance, given the
+distortions caused by COVID over the last year is to compare to what you could call normal first
+quarter in 2019 with quarter one 2021. On this slide, we have shown what happened to Group
+and Innovative Medicines over the last three quarter-ones for both top and bottom line. We
+showed a CAGR for both, and you can see that for Group sales, CAGR was a solid plus 5% and
+core operating income CAGR was plus 11%. This is clearly driven by Innovative Medicines with the
+top line growing at a 7% CAGR and the bottom line even at 13% CAGR, which shows the strong
+operational performance of our Innovative Medicines division. Innovative Medicines' core margin
+increased by 300 basis points over the two years, which is a result of our good top line growth
+combined with very good progress on productivity programs.
+On Slide 29, you can see that free cash flow for the quarter was USD1.6 billion. The most
+significant reason as mentioned for this decrease was the USD650 million upfront payment to in-license tislelizumab from BeiGene and lower operating income adjusted for non-cash items,
+partly offset by favorable changes in working capital.
+Now turning to our full year 2021 guidance on Slide 30. We confirmed full year guidance both for
+Group and Innovative Medicines for sales and core operating income. For Innovative Medicines,
+we continued to expect mid-single digit sales growth in 2021. For Sandoz, reflecting the start of
+the year, we now expect sales to decline low- to mid-single digit revised downwards from the
+prior broadly in line guidance for Sandoz.
+Now as an exception to our regular guidance format and due to the impact COVID had on
+Sandoz quarter one results, we're also going to provide for this year the breakdown of core
+operating income guidance by division. We expect Innovative Medicines core operating income to
+grow mid- to high-single digits ahead of sales, and for Sandoz, we expect core operating income
+to decline low- to mid-teens. The key assumption for this guidance remains that we see a return
+to normal global healthcare systems and prescribing dynamics by mid of 2021. And in addition,
+we continued to assume that no Gilenya and no Sandostatin LAR generics enter in 2021 in U.S.
+Turning now to my last slide. Several of you asked for a bit more detail on quarterly phasing. On
+Slide 31, I've tried to explain dynamics that we expect to see in quarter two and for the full year,
+given the impact on COVID -- of COVID both in 2020 and 2021. As you recall, at the start of the
+year, we guided to expect quarter one sales to decline low- to mid-single digits and underlying
+sales excluding prior year forward purchasing to be broadly in line with prior year. This was the
+case, and as already explained, sales excluding prior year forward purchasing grew plus 1% in
+quarter one.
+For quarter two, we expect sales to grow mid-single digits benefiting from approximately plus 3%
+points of prior year forward purchasing reversal. For core operating income in the first half of
+2021, we expect it to decline low-single digits due to prior year lower cost base and investments
+in quarter two of 2021 to support the second-half growth.
+In summary, quarter one showed a solid underlying performance for Innovative Medicines,
+challenging for Sandoz, but allowed us to reconfirm our full year guidance. In quarter two, we
+expect to benefit from the reversal of further purchasing and some improved momentum in the
+U.S., given the speed of vaccinations in that key market. Our current and expected performance
+also allows us to reiterate our confidence that we will grow top and bottom line every year to
+2025 and meet external expectations.
+And with that, I hand it back to Vas.
+`Vas Narasimhan, Chief Executive Officer `
+Terrific. Thank you, Harry. I wanted to highlight before closing, we do have a catalyst rich period
+coming up for the remainder of this year. A number of submissions, as you see here on the chart,
+a number of important readouts that would enable submissions either this year or next year. So
+we'll look forward to keeping you up to date on these readouts as they happen over the course
+of this year and also present the data at major congresses.
+So moving to the next slide and in closing, I think you've heard now from all of us that we have
+confidence in our growth drivers and launches to continue their strong momentum. You've seen
+that underlying performance is starting to come through and momentum is picking up. Solid IM
+top- and bottom-line performance and even when you take into account the prior year
+purchasing, you really see our underlying performance come through. Our broad pipeline ofnovel medicines in Phase II and Phase III continue to progress well and we're confident in
+delivering our 2021, and more importantly, our longer-term top- and bottom-line growth outlook.
+So with that, operator, we can open the line for questions. I would ask questionnaires to limit
+yourself to two questions as we have a lot of people in the queue. Operator?
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Your first question today comes from the line of `Mark Purcell, Analyst, Morgan Stanley
+from Morgan Stanley.
+Q - `Mark Purcell, Analyst, Morgan Stanley `
+Yes. Thank you very much for taking my questions. So one on cardiovascular outcome studies,
+one on Kesimpta please. In terms of the ORION-4 study, I just wanted if there's anything more
+you can say about that delay from December '24 to 2026? And whether given you're still
+recruiting patients, the study, I think, is run by Oxford University, what is the options to add more
+patients to try and expedite the readout? The reason why I ask is that there's been a recent
+update for TQJ-230 and the HORIZON study is still on track to complete in March 2024. So I'm
+not sure what's unusual or otherwise about ORION-4.
+And then secondly on Kesimpta, Marie-France this one for you. Could you help us understand the
+latest NBRx share trends in the United States, and as the sort of patient flow comes back and
+your promotion responds in kind, where you feel the NBRx share should evolve during the course
+of this year? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Great. Thanks, Mark. So John, do you want to take the PV outcome study.
+A - `John Tsai, Head of Global Drug Development and CMO `
+Sure. Will do. Thanks, Mark, thanks for the question on Leqvio. As we noted in mid-Novartis
+Management last year at the end of the year that our expectations for Leqvio at that time was
+conclusion in 2025. We've seen a pretty significant impact, as you know, we're doing the study
+with the Oxford Group where the majority of our patients are recruited from the UK. And as
+we've seen both with COVID and then the additional variants with the impact of COVID in the UK,
+recruitment has been challenging, initially in December as we saw there was a uptick in COVID
+cases in the UK. And then subsequently throughout the first quarter of the year in the UK, there
+were significant impact of COVID. So based on the recruitment timelines, we actually have
+deferred the study results to 2026 because during that time, I think the health care systems were
+overwhelmed with taking care of COVID patients so it was very difficult to recruit these patients.
+As we've had discussions with the Oxford Group, I think recruitment is starting to tick back on
+track and we're working very closely in terms of that report out of the results in 2026.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah. Thanks John. Just one additional note, across other studies like TQJ, where we had a
+global footprint, we've been able to flex our recruitment around the world to maintain timelines.
+In this particular study, given the high proportion of patients in the UK NHS, so this was a bigger
+impact. We of course look at all ways to expedite the study in the meantime.On Kesimpta, Marie-France?
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So thanks for the question. The first thing to note is that our U.S. launch is progressing really
+well. And as I said in my opening remarks, the areas that are under our control are progressing
+really well. We talk about positioning, we talked about the first line, first switch at 50%, even of
+initiation which was very important for us and access where we already have 75% of commercial
+lives covered. So based on that, we saw that paid product is growing faster than expected and
+we're also looking at 65% of sales in the second half of the year. Previously we had said 75%.
+If I pivot to the NBRx, we're currently at 10%. But as you know, the dynamic market's still
+suppressed and we see hesitation to switch patients or to initiate patients on these cell therapies
+prior to vaccinations. As the market bounces back and as we see vaccination campaigns
+progress, I believe that we'll see a significant uplift in the NBRx for Kesimpta. We're also bringing
+in additional markets or Kesimpta traditional markets and you can also expect strong uptake
+based on the efficacy. As we said, we talk about one relapse every nine to 10 patient years and
+now we've got additional evidence that shows that Kesimpta reduces risk of progression
+independent of relapses by up to 60% in naive patients. So all of this points to a tremendous
+opportunity for patients and for this product.
+We're also very confident that we'll see a big expansion in the B-cell market. So currently, we see
+around 30% in the U.S. and we expect that number to get to 50% over the next couple of years.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Marie-France. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Graham Parry, Analyst, Bank of America from Bank of America.
+Q - `Graham Parry, Analyst, Bank of America `
+Great. Thanks for taking my question. So another one on Kesimpta share and the free versus paid
+for, I think you'd previously said is around 30% paid for and your aim is to get that to 70% by the
+end of the year. So if you could just give us an update on where you are now and where you
+expect that to be at the end of the year that drives the 65% number?
+And then secondly on Sandoz, just talking about stabilization in the second half of the year, but
+some -- if margins are down largely because of price, is there a risk that this just doesn't reverse
+thereafter. So perhaps help us understand what happens into 2022 and where are you in terms
+of the separation of Sandoz into the fully autonomous unit inside Novartis, I think you said it was
+probably around middle of this year that would be complete and is that the point to which you
+then decide whether Novartis remains the best owner of Sandoz? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Graham. First on Kesimpta back to you Marie-France.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So currently, we have about 2.4 thousand patients treated on Kesimpta. And as you pointed
+out, we have a 12-month bridging program. When we discussed this at the end of Q4, we wereactually looking at 30% paid with 70% free, that has radically changed. So it looks like we flipped
+those numbers and we are currently at 70% paid product. We expect that to get up to 80% for
+the rest of the year and that's why we've changed our percentage sales for the second half of
+the year from 75% to 65%.
+A - `Vas Narasimhan, Chief Executive Officer `
+Great. And then on Sandoz stabilization and dynamics, Richard?
+A - `Richard Saynor, Chief Executive Officer, Sandoz `
+Thank you, Graham. With 40, we assumed the level of price erosion going through the rest of the
+year. You could remember a lot of that's been driven because of volume declines we saw in Q1,
+and with volume declines you saw a stabilization in the market, service levels go up and what that
+means that the competition for price goes up as well. We assume that we'll start to wash through
+and wash out. If you go to the second half, we also assume that there'll be a normalization in
+demand, patients start returning back to hospital, elective surgery and we also anticipate a
+slightly stronger cough and cold season given that really had very little this season with social
+distancing. So there's a number of drivers and we've already assumed a level of price erosion
+going on through the rest of the year.
+I'll let Vas comment on the Sandoz in autonomy.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah. Thanks Richard. So -- and thanks Graham. On Sandoz, we've now successfully separated
+the manufacturing unit with links to our global manufacturing, and I think in most of the relevant
+areas, Sandoz's now enables to compete at the relevant cost structure and flexibility to be
+successful as a leading generics player.
+Our focus now is to get Sandoz, as we've stated, consistently to consistent mid-single digit sales
+growth and core operating margins that are in line with the top end of the peer set, which would
+be in the high 20%, and that's where our energy and focus is, a lot of that is getting to world class
+launches, biosimilars, getting our oral solids business and launches back on track within the U.S. as
+well as being ad market formation for key launches in Europe. And that's what really focused on
+at the moment.
+Thanks Graham. Next question, operator.
+Operator
+Thank you. The next question comes from the line of `Andrew Baum, Analyst, Citi from Citi.
+Q - `Andrew Baum, Analyst, Citi `
+Thank you. Couple of questions please. With inclisiran, you attained a pre-approval agreement
+with the UK, I'm wondering whether you have or will be entering in the similar agreements with
+European territory to your PD1 license from BeiGene? That's the first question.
+Second question is, could you talk to which sub populations VA Intermountain Health within the
+U.S. where you may be able to get on trade with tislelizumab that? And then finally, if you have
+the second to comment on how you look at the competitive outlook for the centers, given we've
+been surprised by ophthalmologist's feedback on tislelizumab ahead of anticipated approval?
+Thank you.A - `Vas Narasimhan, Chief Executive Officer `
+Great. Thanks Andrew. So both PD-1 questions in Europe and U.S. Susanne?
+A - `Susanne Schaffert, President, Novartis Oncology `
+Yeah, sure. Thank you Andrew. So our ambition is to provide global access to tislelizumab with in
+the broad array of indications. As you know, BeiGene is running a very broad development
+program and that is really our first ambition. We really want to establish tislelizumab in key
+indications where PD-1's are currently market and also pursue novel combinations as our portfolio.
+So really short-term, the focus is on getting first indications filed, we plan to file in non-small cell
+lung cell cancer and esophageal cancer, and we expect these to be submitted in the second half
+of 2021.
+On specific agreements, I don't want to comment. You have seen the data, we have very solid
+OS data presented at AACR and we believe that tislelizumab is a well differentiated PD-1. So in
+terms of sub populations, we of course want to make sure that we focus on the areas where
+tislelizumab is differentiated and I think the two data readouts show that I think there is still space
+for a strong PD-1. So that's for now and then we work through reimbursement agreements while
+we then prepare for launch.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Susanne. And then on Lucentis, Marie-France?
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So Lucentis did really well in Q1, it's growing 4% due to the steady performance in Europe.
+So there is some rebound. We can expect to see that to continue. And also the strong NRDL
+driven momentum in China, which is definitely where we're looking to see a good chunk of our
+growth this year. So for the remainder of the year, we expect to see Lucentis grow at low-single
+digits, and again with China being a major driver.
+In terms of the competition, just to remind you that Lucentis has really established in the market
+and we believe we'll continue to do well. One of the key drivers is just the very complete
+indication portfolio that Lucentis has and that newer products will not bring to market
+immediately.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Marie France. Thank you, Andrew. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Keyur Parekh, Analyst, Goldman Sachs from Goldman Sachs.
+Q - `Keyur Parekh, Analyst, Goldman Sachs `
+Hi, good afternoon. Thank you taking my good questions. Two please. One Vas, I know you kind
+of suggested that the Sandoz separation is kind of or the independent company is kind of on
+route, but please remind us conceptually the positives and negatives from a Novartis perspective
+of keeping Sandoz in-house kind of it's been a drag on your growth as long as one can
+remember. So just conceptually why does it belong within the Novartis equity story would be
+great?And then separately for Marie-France on Zolgensma. As we think about kind of the next few
+quarters, can you just remind us of the incremental countries you're going to be launching the
+product in and the size of the bolus opportunity in those countries? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah, thanks Keyur. So on Sandoz, I think a few considerations. One, historically and we continue
+to believe in certain markets there is, commercial synergies and having a broad portfolio across
+generics and Innovative Medicines. We of course continue to challenge ourselves and evaluate
+that, but we do have those agreements in certain markets and that depending on how healthcare
+systems evolve in the future, it could be an advantage to have one of the largest, if not the
+largest by volume generics company in the world.
+The other part of the story of course is biosimilars, where our manufacturing scale and know-how
+enables us as well as our development expertise enable us -- enables Sandoz to build a leading
+biosimilars portfolio than of course to company will benefit over time and we're hopeful that the
+Sandoz biosimilars portfolio can help us get Sandoz to that mid-single digit growth up on the
+margin spectrum and then contribute to the growth of the overall company. Those are I think are
+the two key considerations, there is of course the broader softer consideration that Sandoz
+serves hundreds of millions of patients and provides billions of doses to humanity, which is
+consistent with the overall purpose of the company to reimagine medicine.
+So on Zolgensma, Marie-France.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So in the U.S., our business is driven by the incident patients. So the growth ex-U.S. is
+coming from these recent reimbursement wins in Europe. For the rest of 2021, we expect the U.S.
+business to remain stable and to be continue to be driven by the incident patients.
+In Europe, we're working on securing reimbursement in additional countries. Right now, we've
+seen good uptake in Germany and recent reimbursement acceleration in smaller markets such as
+Czech Republic or UAE. If we look at the nature of the European markets, we also expect to see
+reimbursement on a rolling basis. What you can expect going forward, is the UK and Italy where
+we've now secured reimbursement and that will bring Zolgensma to additional patients. As we
+said before, the initial sorts of business in all of the launches comes from previously treated
+patients and over time that patient mix shifts to the incident population. Overall for 2021, we
+expect blockbuster status with Zolgensma.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Marie-France. Thanks Keyur. Next question, Operator.
+Operator
+Thank you. Your next question comes from the line of `Emmanuel Papadakis, Analyst, Deutsche Bank from Deutsche Bank.
+Q - `Emmanuel Papadakis, Analyst, Deutsche Bank `
+Thanks for taking the questions. `Emmanuel Papadakis, Analyst, Deutsche Bank from Deutsche Bank. Maybe a couple of
+product specific ones. Just on the Iptacopan Phase II, we're going to see the IgAN data relatively
+soon, obviously, perhaps you could give us any commentary around the conference. And just, I
+mean in terms of you sort of believe primary endpoint UPCR, should we expect to see aconsistent benefit on the key secondaries like eGFR and what would you regard as a clinically
+meaningful improvement on the primary and any key secondaries?
+And then maybe a question on (inaudible) 1.5, just your takes on any ramifications from some
+comparison data we saw at AACR. Can you just remind us of confidence on that program's
+potential and when we should be looking to see the first KRAS combination data or if you no
+longer believe that is the most promising combination, what we should be particularly anticipating
+in terms of the various combination studies you have ongoing at that molecule? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Emmanuel. So John, do you want to start on IgA nephropathy.
+A - `John Tsai, Head of Global Drug Development and CMO `
+Sure. Thanks for the question, Emmanuel. As you know, for Iptacopan we're looking at across a
+number of indications including IgA nephropathy, also C3 glomerulo-nephropathy as well as PNH.
+Specifically in IgA nephropathy, we do have a Phase II dose range finding study, which is ongoing.
+We've had an interim readout and based on that interim readout. We've already decided to
+advance into the Phase III studies. Those results will be coming out before the half of the year,
+the specific conference we -- the posters and abstracts have not been released, so we refrain
+from telling you exactly, but we are confident that those results will be presented before the first
+half of the year.
+And as I said, the Phase III has advanced as we move forward on IgA nephropathy, and the
+expected filing is based on conditional approval for proteinuria reduction at nine months. So
+these are the same results in the Phase II, which we have in the Phase III study. And as you asked
+about the secondary endpoint, these are the same secondary endpoints that we have in our
+Phase III study. The final approval which is expected to be in 2025 is based on the eGFR slope,
+and this was the Phase II study that we had in place and also is the endpoint also for a full
+approval expectation in 2025 based on results.
+So I think the second question that you had was around the SHP2, our SHP2 inhibitor and how
+should we be thinking about the SHP2 inhibitor as we move forward. As you know, SHP2 is
+tyrosine phosphatase and actually a really important note, as we look at the KRAS MAP Kinase
+pathway. And in preclinical studies what we saw was not only single agent activity, but also in
+combination with other agents. Our strategy for our SHP2 inhibitor is that we expect to go broadly
+in terms of a number of combinations and as we look at the approach that we're taking there's
+four potential areas that we're currently looking at. First is in combination with our own eGFR
+agent, this would be our third generation eGFR agent and this would be our first consideration for
+combination with our SHP2 inhibitor. Secondly is looking at the role of SHP2 in immune cells and so
+that consideration would be with PD-1 and we have a study ongoing with spartalizumab. Thirdly,
+we'd be looking at the MAP kinase RAS pathway as we look at the combination with potentially
+KRAS-G12C and also we have a study in place with Kisqali. And then fourth would be -- we
+currently have an early study in combination with dabrafenib, trametinib as we look at the
+treatment for BRAF-V600 mutant CRC patients.
+So we have high expectations in combination with our SHP2 inhibitor looking broadly in addition to
+the KRAS-G12C pathway. Thanks.
+A - `Vas Narasimhan, Chief Executive Officer `Thanks John. And maybe just to highlight again, we're not focused here on the single agent, I
+couldn't hear your question, Emmanuel, we really think the opportunity for SHP2 will be in
+combination and hopefully in combination with a range of agents and that data should come out
+over the coming 18 months.
+Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Matthew Weston, Analyst, Credit Suisse from Credit Suisse.
+Q - `Matthew Weston, Analyst, Credit Suisse `
+Many thanks. Two questions please. The first on U.S. tax reform. So Novartis like many in the
+pharma industry is a major beneficiary of transfer pricing. I'd be very interested in Harry's view of
+the long-term tax rate given the discussions that are being had or proposed by President Biden
+about changing the way multinational tax is calculated with minimum revenue-based metrics on a
+national approach. And I also, in the shorter term, if you could just give us some update as to the
+likely nearer term impact of anything we've learned from the near-term U.S. domestic Biden tax
+changes that would be extremely interesting.
+And then secondly, a product-specific question regarding the DARPin collaboration in COVID. Can
+you just give us an update on the project both in terms of the early clinical data that we've seen
+on the first DARPin, how the tech transfer is progressing to Sandoz and you're thinking as to
+when we might have something to file from that program?
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah. Thanks Matthew. So first on tax reform. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Hi, Matthew. So, as you know, this year, we guide to about 16% core tax rate. Last year, we were
+15.4%. So we saw -- you see in the mid-term, the 16% to 17% given the current tax loss.
+Now of course the Biden proposal of the U.S. part would not be a positive for anybody, if you will,
+right, from the tax rate standpoint. But our exposure to the U.S., if you will, is relatively low given
+that a majority of our IP and lot of substance is in Switzerland. And the other issue with all of this is
+of course that not many details are available, and therefore, I don't want to go into any
+speculations, because we don't know if and what will be, in the end, implemented. We don't see
+anything changing for this year or any time soon. At the moment, we have details of course we
+would come up with the respective scenarios.
+A - `Vas Narasimhan, Chief Executive Officer `
+Great. Thanks Harry. And then on the Molecular partner's collaboration, just to remind the group
+the idea here was to pursue the DARPin technology, which is a naturally occurring technology --
+naturally occurring protein-based molecule that acts in a completely different way to monoclonal
+antibodies over the similar effect. The first DARPin, I said that DARPin's for COVID showed very
+strong preclinical efficacy and preclinical models also against the variance, the, unlike to our
+partners Novartis collaboration, we've completed the Phase I study, which will enable a Phase II, III
+start shortly. We target a readout in the Q3 timeframe which we expect to enable an emergency
+use authorization.The -- if positive, the benefits of this approach would be one; the potential for a subcu injection
+versus IV, and two, because this technology can be produced in bacterial fermentation or used
+fermentation, I should say, much lower cogs for the medicine which would enable hopefully broad
+scale use, also much higher volumes could be produced versus mammalian cell monoclonal
+antibody. So a lot to still work through and figure out, but we're working through it now and
+hopefully the split study start and then the ultimate readout over the course of the summer.
+Thank you, Matthew. Next question, operator.
+Operator
+Next question comes from the line of `Richard Parkes, Analyst, Exane BNP Paribas from Exane BNP.
+Q - `Richard Parkes, Analyst, Exane BNP Paribas `
+Hi. Thanks for taking my questions. Firstly on Zolgensma, just -- in the U.S., I just wondered if you
+could talk a little bit more about where you are in terms of penetration of the incident SMA
+patient population. It looks like it's just under 60%, I wondered what were in there was for that to
+move higher based on screening improvements and maybe you could discuss that and where
+you are in terms of share amongst various treatment options in that population where that has
+been impacted by (inaudible) launch? Also or maybe you're talking about same physicians
+delaying starts due to COVID. I'm just wondering whether that's no longer the case?
+Then second question is, we've heard from some of the management teams that seem to be
+expressing some optimism, but a compromised solution on U.S. drug pricing could be achievable
+given the current balance of power in the Senate and I just wondered what Novartis' perspective
+on that was and your thoughts on what might happen in medium-term? Thanks very much.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah. Thanks Richard. So I'll just quickly take the Zolgensma U.S. question. For Zolgensma right
+now, the principal driver of business is newborn screening programs around the country, which in
+those screening program a very high nearly all patients tend to get Zolgensma. Right now,
+newborn screening is covering about 70% of newborn lives. We hope to get that number up to
+82% before the end of the year and that would be that the steady save driver for Zolgensma and
+then we continue to see some utilization in switch patients who are in the so-called prevalent
+pool are on an alternative therapy and then switched to Zolgensma. So we do believe we're at a
+steady state in the U.S. with some potential growth as newborn screening continues to expand
+over the coming years, and that's kind of how we think about the U.S. Zolgensma opportunity. As
+we stated in the presentation, we continue to work through the non-human primate studies to
+enable AVXS-101 intrathecal to be lifted off of clinical hold and then we would rapidly want to
+advance that program through Phase III studies. We have agreement with FDA on the design of
+that Phase III clinical trial.
+Now in terms of U.S. drug pricing, we're absolutely supportive of finding a path forward to enable
+broader and more affordable patient access at the pharmacy counter, which would likely include
+reforms to the benefit design in Part D as well as elements of the design in Part B. I think we saw
+the outlines of that potential agreement in the Grassley Wyden bill last year, but we are cautiously
+optimistic that we might be able to come to a thoughtful agreement that preserves the industry's
+ability to invest in innovation and then also enable broader patient access. But as you know, there
+are multiple moving parts, the situation is quite fluid. I think the big shift is that the industry is
+working to be part of the solution here, working actively with the relevant stakeholders to try to
+find a sensible set of legislations.Thank you, Richard. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Laura Sutcliffe, Analyst, UBS from UBS.
+Q - `Laura Sutcliffe, Analyst, UBS `
+Hello. Thank you. Firstly, excluding the impact of forward purchasing, you had both operating
+income growth and margin expansion this quarter and I realize this could be difficult to pick apart,
+but how much were you still benefiting from cost savings that you might not ultimately get to
+keep in the first quarter? And secondly, for the two ex-China filings you're expecting to make for
+tislelizumab this year, could you confirm whether or not you expect those to include the U.S.?
+Thanks.
+A - `Vas Narasimhan, Chief Executive Officer `
+So I think -- quickly on the second point, yes, they would include the U.S.. And then on the
+question on cost savings, will give it to Harry. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Thank you, Laura. So of course we had still some lower activity in quarter one. But when you look
+at the cost levels, they are pretty much in line even with prior year quarter one when the
+shutdown came mainly only in second half of March. So -- and then secondly, we are of course
+also driving new ways of working to keep the good things, if you will, of the situation to run the
+company more effectively and of course also our customer facing colleagues have a mix of tools,
+which were face to face is most effective and wanted, of course that happens, but also the virtual
+and other interactions. So I would say, most of the cost savings we can keep, on the other hand,
+some increased investments will happen in quarter two, and of course, all of that is part of our full
+year guidance.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Harry. Thanks Laura. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Simon Baker, Analyst, Redburn Partners from Redburn.
+Q - `Simon Baker, Analyst, Redburn Partners `
+Great. Thank you for taking my questions. Two please, if I may. Firstly on Zolgensma going back to
+the European situation, could you give us a little bit more color on where the growth was coming
+from in the quarter which -- from what you've said, it sounds like it's still the prevalent population
+in Germany given the timing of the UK and Italian reimbursed, but any color on that would be
+useful.
+And onto Cosentyx, perhaps you could give us your thoughts on the competitive landscape within
+psoriasis Cosentyx in light of the Bimekizumab data a few days ago? And secondly on Cosentyx
+also your thoughts on the Sigma debit card initiative to try and move people off Cosentyx and on
+to alternative products? Thanks so much.
+A - `Vas Narasimhan, Chief Executive Officer `Thank you, Simon. So first on Zolgensma growth. Marie-France?
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So when we look at the European business the incremental uptake has been mainly in
+Germany. And as I mentioned before, we've seen acceleration in some of the smaller markets,
+so Czech Republic, UAE and Qatar. We have not yet seen the uptake in the UK and Italy and that's
+what you can expect to see towards the end of the year. So as we said before, we will be moving
+from incidents segments to additional countries where you will see this initial bolus of patients
+and then they'll transition to an incident population is what you see in the U.S. So you can expect
+some volatility in the quarterly sales pattern because of course this is a one-time treatment. So
+every quarter we start again from scratch, but that's what you can expect to see. We're bringing a
+new countries, we have a number of countries that have Day 1 access agreements and we hope
+to bring about 15 countries with full reimbursement by the end of 2022.
+And then going...
+A - `Vas Narasimhan, Chief Executive Officer `
+And then on Cosentyx. Yeah, Cosentyx, yeah.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah So on Cosentyx, your two questions. So on the competitive overview. The first thing that I'd
+say is that we have to remember in this marketplace, so you referred to psoriasis. The biologic
+penetration remains really low, in fact, when we look at psoriasis we're talking about 15% of
+biologic penetration. And if we think about Cosentyx, we know that there are a lot of competitors
+out there, but we've shown efficacy across four indications. In psoriasis, our data shows that we
+clear skin in eight out of 10 patients and that we have strong efficacy across the axial fast
+spectrum. Remember, that two-thirds of patients are going to have some of these
+manifestations.
+One other point, I wanted to make is that we have five-year plus safety data and the bar is very
+high right now on safety, especially now. So what Cosentyx offers is a tried and trusted complete
+treatment. In addition to that, we have strong access, not only in the U.S., but across the globe.
+And so I keep talking about our three pillars in our strategy and it's exactly that, its strong access,
+early line access, that's going to allow us to grow volume and revenue in the U.S. and in the EU.
+We've got the geographic expansion in China with the NRDL that just came in March. So you'll see
+more of that in the rest of the year.
+Then we've got our complete profile and we continue to have strong residents in the
+marketplace with the data that we have. And of course in the future, our lifecycle management
+program. So we've shown that we can do well despite multiple competitive entries in the
+psoriasis space and beyond the psoriasis space and we're confident we can deliver double-digit
+growth in the year.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Marie-France.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+If I take your question on Cigna.A - `Vas Narasimhan, Chief Executive Officer `
+Yeah.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+So the next question was Cigna.
+A - `Vas Narasimhan, Chief Executive Officer `
+So, yeah. Please go ahead.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+So I think that's a question for Cigna. So what I'll say is that we're not going to change our
+commitment to physicians and patients. We believe that access should enable a clinical discussion
+between the physician and the patient, and that's why broad access is going to stay a core pillar
+of our strategy, but we will always balance that with the long-term value of the brands. We have
+fixed potential upcoming indication. So it's our obligation to think about what drives value today,
+but also what drives value in our future.
+Q - `Simon Baker, Analyst, Redburn Partners `
+Perfect. Thanks so much.
+A - `Vas Narasimhan, Chief Executive Officer `
+Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Wimal Kapadia, Analyst, Bernstein from Bernstein.
+Q - `Wimal Kapadia, Analyst, Bernstein `
+Great. Thanks very much for taking my questions. `Wimal Kapadia, Analyst, Bernstein from Bernstein. So currently first
+ask about the PSMA617 and the VISION study following the positive headlines in March. Just given
+the continued changing in the standard of care in prostate cancer, I just wanted to get your
+thoughts on the trial design and the implications for commercial potential. Should the real
+comparator provision have been (inaudible) in order to be a real clinical importance rather than
+the best standard of care, given the ZYTIGA and Xtandi no longer recommended in that setting.
+So I appreciate it's quite a fluid situation when it makes -- when it comes to trial design, but just
+your thoughts on commercial impact would be great?
+And then my second question is just on Ligelizumab and the upcoming Phase III readout in CSU.
+Just curious on your thoughts on your level of confidence for that readout later this year. How
+quickly could we actually see switching from Xolair, should we see positive data? And can you just
+provide some context on what proportion of Xolair sales come from CSU today? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah. Thanks Wimal and thanks also for your initiation of coverage and your very comprehensive
+report few weeks back. So first on PSMA-617, I will move to Susanne on the commercial potential
+on the trial design.A - `Susanne Schaffert, President, Novartis Oncology `
+Yeah. Thanks a lot. So maybe let me start with the trial design. So just to remind you what the
+setting was for the VISION trial. So it was in progressive metastatic castration-resistant prostate
+cancer with at least one line of prior androgen therapy and at least one but not more than two
+lines of taxane-based chemotherapy. And we started in this setting a standard of care is the best
+comparator, it's really a setting whether it's limited options and its setting of very high unmet
+medical need. So we believe it is very strong data, and I think the fact that we are really showing
+positive data on both radiographic PFS OS I think is demonstrating that. And as I said, the
+commercial potential in this area is the significant is prostate cancer is the second largest cancer
+indication. This certain of course is in late lines, but we still believe there is very high medical need
+and which isn't PSMA, they will offer a very, very attractive treatment option. And when you just
+look into the setting think again that the majority of these patients will be metastatic, have a very
+low survival five-year survival rate, so therefore, it is a significant pool of patients.
+A - `Vas Narasimhan, Chief Executive Officer `
+Maybe I'll just add. As we noted in the presentation, we've already initiated or will soon initiate a
+range of earlier stage prostate cancer studies, which will enable us, if successful to rapidly
+broaden the indication base for PSMA-617.
+So on Ligelizumab on the clinical program and our confidence, maybe John and then maybe
+Marie-France on the contribution of CSU and the ability to switch to Xolair. So John?
+A - `John Tsai, Head of Global Drug Development and CMO `
+Sure. Yep, thanks. Thanks for the question. As you know, we moved into Phase III program based
+on the Phase II head-to-head study that we had against Xolair, which was published in an New
+England Journal. Based on that Phase II study, what we saw was 42% symptom-free with
+Ligelizumab versus 26% in omalizumab which was a significant difference. And scientifically as we
+think about that, Ligelizumab recognizes a different epitopes on the IgE molecule for Xolair and
+that's the confidence that we have, and then more specifically binds on Epsilon effector cells and
+based on this fact we've moved into the two studies PEARL 1 and PEARL 2. We expect to get
+those readouts by the end of the year and the early part of next year as we continue accrue the
+endpoints.
+On the population and opportunity, I'll turn it to...
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah, we can go to Marie-France. Marie-France?
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Yeah. So the first thing to point out is that the biologic penetration in this market space is also
+really low. We currently estimate that less than 30% of patients are on Xolair and that's probably
+optimistic. And what we know is that we've got about 1.3 million CSU patients in the top 11
+countries that are still not adequately controlled. So this is a big opportunity, this product is
+showing to differentiate itself significantly and an opportunity for us to bring this product to a
+much broader population, which right now is really underserved with antihistamines.
+A - `Vas Narasimhan, Chief Executive Officer `Q - `Wimal Kapadia, Analyst, Bernstein `
+Thank you so much.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thank you, Wimal. If you could limit yourself to one question that would be great as we have a
+number of people in the queue. So next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Florent Cespedes, Analyst, Societe Generale from Societe Generale.
+Q - `Florent Cespedes, Analyst, Societe Generale `
+Good afternoon, everyone. Thank you so much for taking my question. So Susanne on Kisqali,
+Susanne how do you explain the difference on the dynamic of the U.S. versus Europe markets and
+why Europe is much more dynamic than the U.S. and how do you see the U.S. market breast
+cancer market dynamic going forward? Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Susanne?
+A - `Susanne Schaffert, President, Novartis Oncology `
+Yeah. Thank you, Florent. So as I said, Kisqali globally was growing 19% and as you rightly point out
+there was very strong growth ex-U.S., especially in the EU while sales were more or less flattish or
+slightly declining in the U.S. And I think the reason is really very different market dynamics that in
+the U.S. the market certainly is already quite penetrated with CDK46 inhibitors. And when you
+look at the impact of COVID, you saw that NBRx, for example, in February was down 16% and this
+has continued now since the pandemic has started and this is now already impacting TRx going
+down minus 4%. So of course, our growth would come from new patients and what's hard to get
+is less new patients coming in, while in Europe, overall penetration of CDK4/6 is much lower. So
+dynamics there are more active and therefore we could capture more patients there.
+So overall, as I said, Kisqali with the strong OS data, we feel is very well differentiated. We keep
+on focusing, executing our growth brands. And we remain confident also for the U.S. that when
+patients will come back and things will open up more that we capture again strong growth.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thank you, Susanne.
+Q - `Florent Cespedes, Analyst, Societe Generale `
+Thanks a lot.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Florent. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Richard Vosser, Analyst, J.P, Morgan from JPMorgan.Q - `Richard Vosser, Analyst, J.P, Morgan `
+Hi. Thanks for taking my question. Just a question on the ophtha brand erosion and just when we
+should think about that bottoming out and the growth of the ophthalmology franchise going
+forward? Thanks very much.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thank you, Richard. So on ophthalmology dynamics, Marie-France I guess also referring to front of
+the eye as well, I would note Xiidra and strong Xiidra performance as well really on the quarter.
+A - `Marie-France Tschudin, President, Novartis Pharmaceuticals `
+Right. I was going to mention that. So we do see -- obviously we've seen a huge impact in this
+space because of COVID. So there is a combination of factors. So we have seen some loss of
+exclusivity, which is obviously something that we anticipated over strat plan period. And then of
+course there was a COVID impact which really hit the entire ophtha portfolio, as you know,
+starting with the anti-VEGF which nicely recuperated during the year and you see them off to a
+solid performance across the board in 2021. We still see a suppression in the marketplace
+although that's starting to pick up and what I will point out is our front of the eye portfolio or
+namely in Xiidra we do see very encouraging data and we had to relaunch that brand as you
+know. But we also know it's a big market right, 32 million people with dry eye disease and only 1.6
+million of them are in the prescription drug. So we had a good quarter with Xiidra, 28% of NBRx
+share and it just shows that if you have the share of voice, if you have the right campaign, then it's
+worth investing in this space.
+A - `Vas Narasimhan, Chief Executive Officer `
+Perfect. Thank you, Marie-France and Richard. Next question, operator.
+Operator
+Thank you. The next question comes from the line of Tim Anderson from Wolfe Research.
+Q - Unidentified Participant
+Yes, hello. Thank you for taking the question. This is Richard Wagner [ph] on behalf of Tim at
+Wolfe Research. It's a question on Kisqali, could you speak about what you're seeing in the U.S. in
+terms of rebating in this oral oncologic category, our understanding is that the rebates are
+stepping up presumably that is driven by Pfizer trying to hang on to the market share. What's the
+outlook for the net price trends in this category and where -- how would those trends in particular
+impact Kisqali which does not have the volume of our brands and does not yet have the adjuvant
+data? Thank you very much.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Richard. So Susanne on Kisqali, our CDK4/6 rebating trends.
+A - `Susanne Schaffert, President, Novartis Oncology `
+Yeah, sure. So I wouldn't want to comment on that. Maybe let me just reemphasize what is our
+strategy. Certainly, we see that Kisqali has the best OS data and also has demonstrated now
+longest OS combining all the Phase III trials and that keeps us confident that if we focus continued
+on execution we will also see continued momentum. We get very positive feedback from HCPsand we see that they are changing now their treatment patterns that more and more are willing
+to list Kisqali. So I believe our focus needs to be and differentiation on continued execution of our
+growth brands, and therefore, I still believe Kisqali is important growth driver for us and I remain
+very confident in the brand.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thank you, Susanne. Next question, operator. I think we just have a few more left.
+Operator
+Thank you. Your next question comes from the line of (inaudible) from Cowen.
+Q - Unidentified Participant
+Hi. Thanks for taking the question. I'm curious on Entresto, it looks like the data in the post MI
+setting trending toward improvement despite missing the primary endpoint, but the readout is
+what sort of neutral on the slide. So I'm just wondering should we take that to mean that filing in
+that indication might still be on the table? Thanks.
+A - `Vas Narasimhan, Chief Executive Officer `
+Yeah, I'll just quickly take that. We need to discuss with the regulatory authorities and we'll
+present the full data in ACC, where you could see both the primary and secondary endpoints.
+And the question on the table, of course we demonstrated a positive trend versus an established
+standard of care in Ramipril, but it was a superiority study. So I think we'll need to work through
+with the regulators what's possible in terms of any sort of indication in the label or any data in the
+label, but we'll take those steps and we'll present the data at ACC.
+Next question, operator.
+Operator
+Thank you. And final question comes from the line of `Peter Welford, Analyst, Jefferies from Jefferies.
+Q - `Peter Welford, Analyst, Jefferies `
+Hi. Thanks for squeezing me in. Quick question on Sandoz again, I wondered is it possible to view
+to quantify the impact of the termination of the oral solids partnerships which I guess somewhat
+of a one-off and just thinking about then the Sandoz business and getting it back to growth in
+margins, how should we think about potential for disposing of parts of that business or slimming
+the portfolio, god, I know you've tried this before, but clearly to return to growth in margins, the
+other ways, slim down the sales line, is that even viable with the business portfolio that you have?
+Thank you.
+A - `Vas Narasimhan, Chief Executive Officer `
+Thanks Peter. Good to hear from you. And `Richard Saynor, Chief Executive Officer, Sandoz on the Sandoz U.S. business and the
+legacy -- the oral solids and dermatology business.
+A - `Richard Saynor, Chief Executive Officer, Sandoz `
+Yeah thank you. Thank you, Peter. So yeah, you're right, I mean clearly, we've terminated or
+ended a number of the partnership relationships and that's really washing through from the endoral solids business is really related to that, but hopefully that will wash out by the end of this year.
+And then really I see the U.S. business in sort of three distinct chunks, you have the core business,
+the injectables, the biologics and the ophtha business which really has a strong momentum and
+potential for growth as we launch new products going into the end of '22 and '23.
+We're currently looking at how we strengthen and stabilize the oral solids business once washout
+phase is cleared with both in-house developments and rebuilding that capability and then looking
+at also BD and M&A to strengthen it. And then the derma piece, already we've cleaned up a lot
+of the derma business we divested some of those elements over the last month and the
+remaining is relatively stable and accretive to the overall business. So a lot of moving pieces, but
+we've got a clear plan going forward.
+A - `Vas Narasimhan, Chief Executive Officer `
+Terrific. Thanks Richard and thanks everyone for your questions today. Maybe just to take a step
+back, I think it's worth noting, when you look at the longer-term growth profile of the company,
+our key again drivers; Cosentyx, Entresto, Zolgensma, Kesimpta are all demonstrating. They have
+the outlook and the potential to really enable us to grow consistently through 2025, as Harry
+outlined. On top of that we continue to expect to be able to bring inclisiran to broad groups of
+patients in the UK and the U.S. well ahead of the outcome study giving in inclisiran significant
+potential even ahead of the outcomes data, which we now expect in '26.
+With the Kisqali adjuvant and our continued efforts in Beovu, you have a broad range of products
+enhanced to drive that growth for the next few years. Then on top of that, you have a deep mid-
+stage pipeline where we continue to show progress, multiple assets that could be multi-billion-
+dollar potential assets to drive our longer-term growth. You see, already the first possibilities with
+Lu-PSMA and we hope to demonstrate with further readouts over the course of this year, the
+potential of that pipeline. Continued margin progression and aspiration and demonstration of
+leadership in ESG.
+So I think the story is taking a shape and we look forward to continuing to attract long-term
+investors to our company, to our stock and our overall vision to reimagine medicine. So thank you
+all very much for joining the call, and we'll look forward to speaking to you again soon.
+Operator
+Thank you. That does conclude your call or webcast for today. Thank you all for participating and
+you may now disconnect.

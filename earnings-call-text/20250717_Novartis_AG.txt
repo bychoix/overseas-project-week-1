@@ -1,0 +1,928 @@
+Q2 2025 Earnings Call
+
+Presentation
+Operator
+Good morning, and good afternoon, and welcome to the Novartis Q2 2025 Results Release
+Conference Call and Live Webcast. Please note that during the presentation, all participants will
+be in a listen-only mode, and the conference is being recorded.
+(Operator instructions). A recording of the conference call, including the Q&A session, will be
+available on our website shortly after the call ends.
+With that, I would like to hand over to Ms. `Sloan Simpson, Head of Investor Relations, Head of Investor Relations. Please go
+ahead, Madam.
+`Sloan Simpson, Head of Investor Relations `
+Thank you, Sharon. Good morning, and good afternoon, everyone, and welcome to our Q2 2025
+Earnings Call. The information presented today contains forward-looking statements that involve
+known and unknown risks, uncertainties, and other factors. These may cause actual results to be
+materially different from any future results, performance, or achievements expressed or implied
+by such statements. For a description of some of these factors, please refer to Form 20-F and its
+most recent quarterly results on Form 6-K, that respectively were filed with and furnished to the
+US Securities and Exchange Commission.
+Before we get started, I just want to reiterate what Sharon said, please limit yourselves to one
+question at a time, and we'll cycle through the queue as many times as we need to. And with`Vasant Narasimhan, Chief Executive Officer `
+Great. Thanks, Sloan, and thanks, everybody, for joining today's conference call. If we move to
+slide 4, as you saw earlier today, Novartis delivered another strong quarter. We had double-digit
+sales growth, core margin expansion, and this supported an upgrade to our full-year 2025
+bottom-line guidance. Sales were up 11% in constant currency, core operating income was up 21%
+in constant currency, and we also had important innovation highlights in the quarter, many of
+which I'll cover in the subsequent slides.
+Two, I wanted to highlight here OAV101 IT, we had submissions in the US and Europe, and we also
+had important milestones reached on Voltaflam in Huntington's disease, as well as a few others,
+which I'll cover. Our core operating income guidance was upgraded, and Harry will cover that in a
+bit more detail.
+So, moving to slide 5, our priority brands continue to drive robust growth, demonstrating the
+replacement power in our portfolio. Brands -- these brands were up 30% in constant currencies.
+Excluding Entresto, the portfolio is up 33%. I think some of the highlights for us included Kisqali,
+Kesimpta, Scemblix, Leqvio, also with a strong quarter, Pluvicto, as well as Fabhalta.
+So moving to slide 6, Kisqali grew 64% in the quarter, and we achieved TRx leadership in
+metastatic breast cancer, and very importantly, built strong momentum in the early stages now of
+our early breast cancer launch. You can see robust growth globally, but very strong growth in the
+US with that eBC launch.
+In terms of total brand NBRx, you can see here in the middle panel, we are now the market
+leader across all of the stages of the disease. And going by geography, in the US, we were up
+100% in quarter two. We have metastatic breast cancer leadership in both NBRx and TRx now,
+which I think is really encouraging. On the early breast cancer side of things, our NBRx share now
+has reached 61% with leadership in both the overlapping as well as the exclusive populations to
+Kisqali. Outside of the United States, we were up 25%. We've achieved metastatic breast cancer
+leadership in NBRx and TRx.
+The early breast cancer indication is now approved in Europe, China, and 18 other countries. And
+our first launch markets, I think, have shown us some really positive signals. They're following the
+US trajectory. Our Germany early breast cancer NBRx share is at 71%. And that also has supported
+strong performance in our metastatic breast cancer share, as well in Germany. Now, as you know,
+we have strong guideline support, Category 1 preferred NCCN guidelines, the only CDK4/6 with
+the highest ESMO scores.
+So I think altogether this really puts together a nice story for Kisqali to continue to be one of the
+key growth drivers for Novartis through the next decade.
+Now moving to the next slide. Kesimpta grew 33% in the quarter, and this was fueled by the
+continued strong demand growth we see for a self-administered B-cell therapy for MS. In the US,
+we were up 28%. We had TRx growth with 23%. We're seeing access improvements translating to
+fewer bridge and more direct to paid starts, which I think is really encouraging. Our opportunity
+still remains for the 50% of patients that are still on low efficacy therapies. Really in the US, our
+goal is to expand the use of B-cell therapies, and then within the B-cell class, continue to gain
+additional NBRx and TRx share.
+Now, outside of the US strong growth as well. We're leading an NBRx share in eight out of 10 of
+our major markets. Many of these markets prefer self-administered B-cell therapies. But here as
+well, we see a significant opportunity for further growth. We estimate that 70% of patients inEurope on disease-modifying treatments are not treated with B-cell therapy. So this clearly shows
+there's an opportunity to really expand the use of B-cell therapies and particularly Kesimpta.
+So moving to slide 8, the one important milestone for us in the quarter was Pluvicto returned to
+really I think, robust growth, which I think bodes well for Pluvicto as well as, more broadly, our RLT
+franchise. It was up 30% on the quarter, driven by the pre-taxing indication approval in the US.
+That launch is off to a strong start. We saw significant quarter-on-quarter growth, 40% in new
+patient starts. Sales were up 25%. We had a record high number of patient starts in June, and
+that was expected given that we have about a four to seven-week treatment lifetime from
+approval and patients being introduced to the therapy and then actually coming onto the therapy
+based on all the testing required.
+Now, the success factors for us in the US, both in the near term and long term, are increasingly
+getting put in place. We're seeing strong uptake in the community setting. 60% NBRx quarter-on-
+quarter growth in the community, 58% TRx in quarter two. We estimate that nine out of 10
+patients are now within 30 miles of a treatment site, with over 670 sites active, and we've seen
+40% growth in the number of sites over the last year. We believe we have the right footprint now,
+maybe with some limited editions, and really now focusing on driving additional depth in these
+sites, particularly within the urology setting, where we see strong uptake as well as I think
+targeted expansion in certain regions.
+We also saw over 50% of PSMAfore patients were with HCPs who had previously used Pluvicto in
+the VISION setting. I think shows as well that as we gain experience with VISION with PSMAfore,
+that will surely support the PSMA addition launch and then future RLTs in the future years.
+And then lastly, our ex-US growth continues in the VISION setting. Our growth is driven by Europe,
+where we're expanding the level of reimbursement in our key market.
+So, another word on Pluvicto on slide 9. We had earlier in the quarter the positive Phase 3
+PSMAddition study, which we believe will pave the way now for further expansion in metastatic
+hormone-sensitive prostate cancer. In the study, from a top-line standpoint, primary endpoint was
+met, statistically significant, and clinically meaningful benefit in radiographic PFS. We saw a strong
+positive trend in overall survival, and that will continue to mature over time, and that data will be
+presented at an upcoming medical congress. Now, for context, we estimate that incidence of
+HSPC is very much comparable to CRPC, though there is additional competition in the HSPC
+space.
+And as I mentioned on the previous slide, what will be absolutely critical is our breadth now that
+we've achieved in community oncology and urology, which will support both PSMAfore and
+PSMAddition. So, based on the FDA feedback that we've received, our submission is planned in
+the second half. We would plan to provide FDA the final rPFS analysis during the review, as well as
+an updated OS at that time point. But I think we feel like we're on a very solid track to get an
+approval now in 2026 for Pluvicto in this setting.
+Moving to slide 10, Leqvio grew 61% in the quarter, and we're on track now to exceed $1 billion in
+sales. In the US, our growth was 47% and we outpaced the lipid-lowering market. Our monthly
+TRx was at 56% versus a market of 35%. We're seeing more and more depth in our key priority
+health systems. These health systems are health systems we've been working on for many years
+to really expand the use of Leqvio as a way to manage cholesterol in their patient base. And we
+also are seeing a strong performance in the post-event patient population. We have new data
+from the V-INCEPTION study, and we've also seen some updated guidelines which support use inafter acute coronary syndromes. And we see this patient population and this group of physicians
+really interested in optimizing lipid-lowering and particularly the use of Leqvio.
+Now, interestingly, you can see here as well that we've had very strong performance outside of
+the US, 74% growth in constant currencies. It's driven broadly across the markets where we are
+approved, but particularly in China, where we see the continued out-of-pocket market expansion.
+So our goal will be to continue to build the evidence base. Our pediatric submission is underway.
+Our global V-MONO trial is to be presented at EAS, and we continue to look to expand Leqvio's
+use in the monotherapy frontline setting. And then we also will present the V-INCEPTION data as
+well. Those were recently presented as well at a recent medical congress.
+Moving to slide 11. Now turning to Scemblix, where we are now in the first phases of our launch in
+the frontline setting. We saw 79% constant currency growth. We're on track to exceed $1 billion in
+sales as well in Scemblix this year. We see really strong momentum in early launch, which I'll go
+through, and continue to have global leadership in the third-line setting. When you look at the
+middle panel here, you can see that from an NBRx share standpoint, across all lines of therapy,
+now Scemblix is the most widely used TKI in CML, which I think is really a testament to the
+strength of the data and the profile of this medicine.
+And then on the first-line setting at the bottom half of the panel you can see we've already
+reached 15% NBRx share and we're working hard to drive that up now rapidly over the coming
+quarters. Overall, we've achieved NBRx leadership, as I mentioned, across all lines of therapy
+outside in the US. Outside of the US, third-line leadership, and increasing early-line approvals. We
+have 48% total share in our key markets now, ex-US, and we see early line indications now
+coming online. We're approved in 20 countries, including China and Japan.
+We also continue to expand the evidence base so that hematologists know they have the data to
+cover all relevant CML patients. Recent data for Ask for Start and Ask to Escalate either have
+been presented or will be presented, and I think build out the overall portfolio of data for this
+medicine.
+Now moving to slide 12. Now, Cosentyx's growth moderated to 6% in quarter two, though we
+continue to expect mid-single-digit growth for the full year. When you look at it from a US
+perspective, we saw solid demand for our launches in the US, both HS and IV. HS continued to
+grow with 70% of the business from naive patients, and we continue to have leading NBRx share
+with 52% share in naive first patients, and 48% overall.
+In the IV setting, we've seen continued steady growth as well, with 17% volume growth quarter-
+on-quarter. What we are seeing as well comparable -- that we remain competitive in our core
+indications, psoriasis and AS, and PsA. In the US, we're the number one IL17 prescribed across
+indications, and that's supported by a long history of strong access, and outside of the US, we're
+the leading originator biologic in both Europe and China. Now that said, we are facing some
+geographic-specific short-term headwinds.
+In the US, we did see higher RDs in 340B and as part of the Medicare Part D redesign in the first
+half of the year. We do have a new competitor entry in HS, which is impacting us particularly for
+switches off of Cosentyx, and it is worth noting that we did have strong launch performance in the
+prior year, as well as a positive RD effect as well. And all of that is contributing to the slowdown
+we see right now in the US growth.
+Outside of the US, we see pricing impacts from the new indication. So as we bring the HS
+indication online, as is normal, we do have a price reset in certain markets, and then we grow offsaid, we fully expect to be able to maintain mid-single-digit plus growth over the coming years
+and remain fully confident in our $8 billion plus peak sales guidance for Cosentyx in 2029.
+Moving to slide 13. Now turning to Entresto, continue to see solid growth for this medicine, which I
+think has just been consistent now for many, many, many years. Did wanted to provide an update
+on the US situation. We fully met our expectation of a US mid-2025 LoE from a financial planning
+assumption standpoint. Our IP and regulatory litigation is continuing against a single generic
+company who we have not settled with yet, and who is currently enjoined from any launch. And so
+that is in place.
+Any later launch prior to the final outcome of these litigations would be at risk because we
+continue to prosecute our various cases that are ongoing. And so we'll continue to monitor the
+situation. If we have any material updates, we'll certainly provide them, and we'll certainly see
+now how the courts rule in our various cases over the coming weeks and coming months.
+And then outside of the US, we have continued strong guideline position, and we have balanced
+geographic sales. So it's important to note that in this brand, half of our sales are coming from
+Europe, China, and Japan, and that in Europe, we're protected through November 2026, and
+continue to look at ways to extend IP beyond that, and in Japan out to 2030, also looking for
+additional protection there as well. So Entresto will continue to be outside of the US Important
+contributor to Novartis' growth through the end of the decade.
+Moving to slide 14. Now turning to our renal portfolio now where we have three medicines either
+launched or in the pipeline. We're excited to see the progress we have on our ongoing launches,
+as well as new long-term data on Zigakibart, our anti-APRIL antibody.
+First up with Fabhalta, we saw steady growth in the US, high persistency, and compliance with this
+oral therapy. We see a good recognition that this is a medicine that's aligned for patients with
+persistent proteinuria and glomerular inflammation, and then C3G, as well as seeing positive
+early launch signals reflecting a high unmet need. And now we're approved in over 30 countries,
+including in Japan.
+Now Vanrafia, our endothelial receptor antagonist, important to note here we're seeing very
+strong HCP feedback, positive feedback, given that we have no REMS, and we are seen as a
+seamless oral add-on to the current supportive care -- standard of care. We're also seeing that
+we're exceeding our early targets for patient enrollment, and we've had solid early access wins in
+the first few months, now since launching.
+And then lastly, with Zigakibart, we announced 100-week data from our ongoing Phase 2 trial with
+40 patients, which represents the longest duration of treatment for any anti-APRIL antibody to
+date. In this trial, we showed clinically meaningful proteinuria reduction of 60% sustained eGFR
+stabilization, and no AEs leading to treatment discontinuation. So the BEYOND Phase 3 study is
+on track and nearly completed recruitment now, and we have a readout expected in the first half
+of 2026, which would give us our third medicine potentially for patients with IgAN and related
+conditions.
+Moving to slide 15, we're also announcing today that Remibrutinib demonstrated a clinically
+meaningful and significant benefit in our Phase 2 study in patients with food allergy. Here, the
+primary endpoint was met with patients tolerating a greater than 600 milligram peanut protein
+challenge at week four. We also saw safety results, which were consistent with the overall safety
+profile of Remibrutinib. And just to take a step back, we see food allergy as a significant
+opportunity and one in need for effective oral option.You know, food allergy represents has a global prevalence of 3% to 8%. It is over a $10 billion
+global market today. Allergen avoidance is seen as burdensome and unreliable. And generally
+speaking, I would say the current treatment options are limited. So to have Remibrutinib as
+potentially the first oral allergen agnostic treatment with a rapid onset of action could be really
+attractive for patients and physicians.
+So on the right-hand side, you can see the design of the study. We'll present the full results at an
+upcoming medical congress, and our phase III planning is well underway to advance the therapy
+as quickly as possible and build on Remibrutinib in CSU phase III now in CINDU, ongoing phase 3s,
+as you know, in multiple sclerosis and myasthenia gravis, and now food allergy as well. So really,
+an opportunity here to build out this medicine in a significant way.
+Moving to Slide 16. In the quarter, we also did present our interim Phase I, II data on YTB, our
+Rapid CAR-T for immune reset in a range of immunological diseases. But here in this study in
+severe refractory SLE. So you can see on the left-hand side, the composite endpoint of the
+SLEDAI-2K total score, you can see that we had a very strong result that was persistent and
+consistent out to one year.
+That improvement in overall disease activity, I think, is very compelling. And the safety overall was
+in line with what we see overall with our CAR-T experience. It's important to know we're quite
+rigorous in monitoring these patients and logging how we use IVIG and IL6. And I think in our
+estimation, this is very consistent with what we see in our experience with managing CAR T
+patients, and I think very compelling.
+You can see on the right-hand side, at screening, these patients had multiple systemic
+manifestations of the disease. And you can see when you get out to the 12-month time point, you
+can see again that we have resolved most of these patients see broad resolutions other than in
+proteinuria, which is likely due, given how severe these patients are and how refractory they are,
+to ongoing kidney damage that can't be recovered.
+So remarkable results, and because of the strength of this result, we feel confident now in our
+broad program, which you see on the next slide, slide 17, where we're advancing YTB in a range
+of autoimmune diseases. You can see here 7 plus ongoing programs. So you can see both Phase
+2 and the -- Phase 1, Phase 2 study in Lupus and Lupus Erythematosus. That's a pivotal study
+aligned with FDA systemic sclerosis, also pivotal study, myositis, also pivotal study, as well as AAV,
+also a pivotal study.
+And then we also have early-stage programs to look at refractory RA and Sjogren's disease as a
+basket study, as well as programs in relapsing MS, progressive MS, and myasthenia gravis. So our
+hope is to use this YTB as our first foray and strong foray into immune reset using a cell therapy.
+And then behind this, we have a number of programs that look at bispecific antibodies and other
+approaches to achieve immune reset. So very exciting data, and we look forward to keeping you
+updated.
+So moving to slide 18. So overall, our key innovation milestones are broadly on track. We're on
+track for the quarter three readout of Ianalumab in Sjogren's disease that we don't have either
+study data in house as of yet. And we continue to progress our other programs on track as well.
+So with that, let me hand it over to Harry.
+`Harry Kirsch, Chief Financial Officer `Yeah, thank you, Vas. Good morning, good afternoon, everybody. I will now talk you through our
+financials for the second quarter and the first half, which reflects continued strong performance
+of our growth drivers and overall portfolio. As always, my comments refer to growth rates in
+constant currencies unless otherwise noted. So starting on slide 20, net sales grew plus 11% in
+quarter two was per year, and core operating income grew 21%. Our core margin was 42.2%
+reflecting a 340 basis point improvement. And core EPS was $2.42, up 24%. And cash flow was
+even $6.3 billion, up 37% in US dollars.
+And then for the first half, also reflecting a very strong growth momentum with sales up plus 13%
+and core operating income up 24%. Core margin increased even a bit more, given quarter one
+370 basis points reaching 42.1%, and core EPS, as you can see $4.69, up 27% and free cash flow
+almost $10 billion.
+Speaking of free cash flow, I think on the next slide, it's a simple slide, but would say not the less
+quite impressive 46% increase in free cash flow in the first half. And as you know, cash flow
+always remains a key priority for us, as our ability to convert strong operating income growth into
+excellent free cash flow provides, of course, plenty of capacity to reinvest, pursue bolt-on
+acquisitions, and return capital to our shareholders through growing dividends in Swiss Francs as
+well as share buybacks.
+This brings me to the next slide, where I'm pleased to announce that we are initiating a new up to
+$10 billion share buyback program targeted for completion by the end of 2027. This follows the
+completion of our previous $15 billion share buyback program earlier this month and is part of our
+ongoing commitment to a balanced capital allocation. Importantly, this new buyback does not limit
+in any way our ability to pursue value-creating bolt-on deals and remains a key area of focus for
+us to continue to strengthen our pipeline in our four core therapeutic areas.
+A good example from the second quarter is the acquisition of Regulus Therapeutics, which adds
+an asset targeting the most common genetic cause of kidney failure worldwide in our renal
+pipeline. Alongside bolt-on deals, we of course continue to invest in our internal R&D engine, and
+beyond buybacks, our commitment to a strong and growing dividend in Swiss Francs remains
+strong, with the payout of $7.8 billion in the first half of our annual dividend to our shareholders.
+Moving now to slide 23 for the full year guidance. We continue to expect high single-digit sales
+growth. However, strong business momentum and good progress on ongoing productivity
+programs has led us to raise our bottom line guidance. We now anticipate core operating income
+to grow in the low teens, up from the previous low double-digit outlook. Some people asked us
+what is low teens, was low double digit.
+Low double digit we see in the range of 10%, 11%, 12% and then low teens in the 13%, 14% range.
+Embedded in our guidance is the assumption that Entresto US generic entry occurs mid of 2024 -
+- sorry, mid of 2025. However, I want to emphasize this only for financial forecasting purposes. Of
+course, we will continue to appropriately enforce our valid IP and regulatory rights that hopefully
+lengthen that assumption.
+As a reminder, US Entresto sales were $1.2 billion in quarter two, so each month of sales is worth
+$400 million for us. To complete our full year guidance, please note that we continue to expect
+core net financial expenses to be around $1 billion and our core tax rate to be around 16% to
+16.5%.
+Now let's move to our next slide. Yeah, so I want to talk to you throughout the phasing, we
+expect for the remainder of the year. Usually, as you know, we don't give such detailed quarterlydepending on interest or dynamics. I hope this is helpful to describe how our forecast scenario
+could unfold over the next couple of quarters should Entresto generic in the US enter later in July
+or August.
+Clearly, if we are successful in the ongoing IP and regulatory litigation, this forecast scenario looks
+different without Entresto US generics. So with this forecast assumption, for the second half, we
+anticipate mid-single-digit sales and bottom line growth to arrive at a guidance we have given for
+the full year after a very strong first half. However, the dynamics in quarter three and quarter four
+would be quite different. We continue to expect strong growth in quarter three based on
+continued momentum in our priority brands.
+And of course, if there would be a generic entry, there would be initially in quarter three a bit less
+of an impact, even though we would expect then multiple entries on Entresto. In quarter four,
+however, we anticipate a step down in growth on both top and bottom line, and this would reflect
+the full quarter impact of potential US generics -- address the US generics based on our financial
+forecasting assumption, as well as a quite large prior year growth to net adjustment.
+You may recall when we reported quarter four last year, we reported 16% but actually underlying,
+excluding out-of-period gross to net adjustment, was 13%. So quite a big on top line. And then, of
+course, the bottom line of that is like 2.5 times in terms of growth rates. Right? And therefore, if
+you would exclude this prior year one-time, we would have a quarter four the mid-single-digit
+sales growth, and a mid to high single-digit core operating income growth. I hope that was not
+too complicated. In case it was, we have, of course, the call to answer questions, or our IR
+colleagues will take you through it later in the week.
+Now, let's move to the final slide, where we outline the expected currency impact for 2025. If
+mid-July rates were to prevail for the remainder of 2025, we would expect the full year currency
+impact to be a positive 1 percentage point on net sales and a negative 1 percentage point on
+core operating income. And as a reminder, we always publish this -- these estimates on a monthly
+basis, assuming the exchange rates always move, would hold for the rest of the year. And it's on
+our website, which we hope that you will find that helpful.
+And with that, back to Vas.
+`Vasant Narasimhan, Chief Executive Officer `
+Great. Thank you, Harry. So, if you move to Slide 27. So in summary, Novartis delivered a strong
+quarter two double-digit sales growth, core margin expansion continuing. Now I think our tenth
+quarter in a row of being able to raise our guidance. Key launches are accelerating with
+consistent, strong execution. We saw that particularly with Kisqali, Scemblix, and Pluvicto, but
+broadly across the portfolio. We also continue to advance our pipeline with exciting readouts,
+including the Pluvicto HSPC readout, as well as now the Remi Food Allergy and the YTB readouts.
+And we've upgraded our full-year 2025 bottom-line guidance. But importantly, with our current
+outlook, we remain highly confident in our mid to long-term growth outlook, and this gives us the
+confidence as well to take on another $10 billion share buyback.
+Moving to slide 28. I did want to say a word about the announcement we made earlier today as
+part of an orderly transition, which we're always committed to.
+First, I want to thank Harry for his unwavering commitment, and with over 22 years at Novartis. At
+the end of this year, Harry will have completed 13 years as CFO, and I think truly one of the great
+leaders in the history of our company, being able to reshape Novartis into the Pure Play Medicinescompany we are today. So very grateful and very indebted to Harry for all of his amazing
+contributions.
+He will retire and step down from the ECN effective March 15th, 2026. And a warm welcome to
+Mukul Mehta, who will join us as our new CFO and will join the ECN effective March 16th, 2026.
+Mukul joined Novartis in 2003. He has done all of the key finance roles across the company, and
+after a rigorous selection process, was clearly the best leader we believe to lead Novartis into
+this next chapter.
+So, a big warm welcome as well to Mukul. So with that, I think we can open the line to questions.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions). We'll now take the first question. And your first question
+comes from the line of `Sachin Jain, Analyst, Bank of America from Bank of America. Please go ahead.
+Q - `Sachin Jain, Analyst, Bank of America `
+Hi there. Thanks for taking my questions. First one just on Sjogren's actually, if I may. Vas, thanks
+for confirming no data in-house. Wonder if you could just update on your level of confidence into
+a Phase 2 data 3Q. And can you just clarify whether you need both studies to be positive for a
+filing process? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah. Thanks, Sachin. So on Sjogren's, look, I think this is an incredibly exciting opportunity, but I
+think we should acknowledge that there's been no drug that's ever been demonstrating a
+benefit on -- statistically significant benefit on the S side. So, I think we go in with very strong
+Phase 2 data. We believe very much in the mechanism, but also acknowledging this is a tough
+indication, and so it definitely has risk going into the Phase 3.
+Now, in terms of whether or not both studies, I think that really depends on the data. We've had
+very robust discussions with FDA both on the primary endpoint and secondary endpoints. We
+have full agreement. So I think based on the data on the two studies will, and of course given that
+one study has a third dose level or dosing that's every three months versus every month, I think
+we'll have the opportunity to look at different statistical approaches, and then find the best path
+forward.
+So we're looking forward to getting to the database locks and then ultimately the readouts. And
+then, given that these studies are very close together, we would plan on informing the markets
+based on the results of both studies at the same time.
+Q - `Sachin Jain, Analyst, Bank of America `
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question, operator.
+OperatorThank you. Your next question comes from the line of `Shirley Chen, Analyst, Barclays from Barclays. Please go
+ahead.
+Q - `Shirley Chen, Analyst, Barclays `
+Hi, thank you for taking my question. So one on Cosentyx. So you called out a slowdown in
+Cosentyx uptake in China due to broader base healthcare spending tightening. So, can you
+please share more about how significant this impact is, relative to your assumptions? And
+whether it is affecting broader portfolio, and how are you adapting your China strategy to
+maintain growth in the face of increasingly constrained government pricing?
+And also something interesting that you mentioned on Leqvio's growth from out-of-pocket in
+China. Do you think it will be the case for your other products for the commercialization in China?
+Thank you so much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah. Thank you, Shirley. So for China broadly, we have seen over the first six months of this year
+a notable slowdown. Our China business last year was growing over 20%, and we saw very
+robust overall market growth as well. This year we have seen a broad at least on to the data,
+we're seeing a sector-wide slowdown in pharmaceutical spending, and we see our growth
+coming down as well. Now we continue to expect to see China grow for Novartis in the high
+single-digit to low teens range. So still very robust growth.
+We do see this, though, as I think a reset in the market, because a number of the policies that
+have been put in place to limit prescription spending, I think, will continue on for the years to
+come. So we continue to see China as a double-digit growth market for Novartis, but maybe not
+at the 20% plus range where we've been historically. So this is impacting the portfolio broadly,
+primarily medicines that are part of the NRDL listing, as you noted, not medicines that are private
+market, and particularly medicines that are higher volume medicines. We saw the impact primarily
+Cosentyx, Entresto, drugs like Lucentis. These were the medicines where we saw the largest
+impact through the first six months of the year.
+We expect this to stabilize in the second half, and then now off of this base, we'll continue to, as I
+noted, to see our business grow in that high single-digit to low teens plus range. Now, in terms of
+-- and this is fully factored into our midterm guidance, long-term guidance. So, no shifts in
+guidance because of this with respect to China.
+Now, in terms of Leqvio out-of-pocket, it has been, I think, a pleasant surprise to see how strong
+that uptake has been. And I think it does give us confidence that in the future, when we launch
+medicines of a similar profile, we can go out-of-pocket and then make a decision whether it
+makes sense to move into the NRDL listing at a lower price versus continuing in the out-of-
+pocket. I think that's an ongoing debate for us right now as to when we'll move Leqvio into the
+NRDL listing. But I think seeing that out-of-pocket market materialize in China, I think is also
+positive overall for the sector.
+Next question, operator?
+Operator
+Thank you. Your next question comes from the line of `Peter Verdult, Analyst, BNP Paribas Exane from BNP Paribas. Please go
+ahead.Q - `Peter Verdult, Analyst, BNP Paribas Exane `
+Yeah, thanks. `Peter Verdult, Analyst, BNP Paribas Exane from BNP Paribas. Vas, I'm probably the millionth person to ask you. I'm
+sure you're tired having to respond, but the sector is under a cloud, investor apathy is high,
+concerns more on pricing than tariffs. But is there anything you can share with us in terms of latest
+you've heard from CMS, HHS, your people on the Hill about what the administration is thinking
+about in terms of framework implementation, or when we might hear what they plan to do going
+forward on drug pricing in the US? Thanks.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Peter. And not at all happy to have these -- have that discussion because it keeps
+evolving on an ongoing basis. I would say broadly speaking that the conversations with the
+administration from the Novartis standpoint have been productive, very open dialogue trying to
+find solutions and the goal is very much to see how can we have the markets outside of the US in
+the OECD pay more for innovative medicines, which we fully support to really reward innovation
+and pay help support the R&D efforts of the industry as well as give patients in the US options for
+lower priced medicines.
+In our view, primarily through going more direct and cutting out many -- much of the 50% to 60%
+that goes to PBMs, 340B, all of the other elements in the system. And so that's where we're
+trying to find the solution space. We're moving forward with proposals. HHS is also evaluating our
+proposals, and we're looking at the different options. So I think it'll still be some time before we
+get to full resolution.
+But I'd say there's a strong desire within the administration to maintain US leadership in
+biopharmaceutical innovation and not cede that leadership to China or any other market. So I
+think that's very much high on their minds to ensure they get the balance right. And I think that's
+what we're continuing to work towards.
+I think we also have to do a better job educating more broadly about the fact that in the US, while
+there is a disparity in innovative medicine spend, overall, given that 94% of volume in the US is
+estimated to be generic medicines, and the US has the lowest generic prices amongst the major
+OECD countries in the world, that actually the US total drug bill, when it's appropriately volume
+adjusted, is actually lower than many of these countries overseas, most of the countries in the
+OECD.
+So we just have to keep educating about these dynamics, that the US system works extremely
+well. It rewards innovation during the patent period, but then is extremely effective at genericizing
+medicines as well. And I think that's something we need to do a better job of in educating
+policymakers. So, yeah, thank you very much for the question. Next question. Operator.
+Q - `Peter Verdult, Analyst, BNP Paribas Exane `
+Thank you.
+Operator
+Thank you. Your next question comes from the line of `Simon Baker, Analyst, Redburn Atlantic from Rothschild & Company,
+Redburn. Please go ahead.
+Q - `Simon Baker, Analyst, Redburn Atlantic `Thank you for taking my question. One on Cosentyx, please. Just wondering if you could flesh out
+a few elements from the slide. Firstly, can you give us any more color on the price volume
+dynamic so far this year? And also why -- if you could elaborate a bit more on the -- your
+comments on the competitive environment and why you see that as a temporary factor rather
+than an ongoing headwind? Thanks so much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah. So I'll give the price volume dynamics to Harry. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yeah. Overall, of course, in Cosentyx, we do have an impact, as we laid out due to the Medicare
+Part D redesign. So rebates go up as we contribute in the catastrophic phase versus the priority
+sign where we didn't do that. You know, the two brands, what you see is major -- mainly in our
+portfolios, Cosentyx and Kisqali. Obviously, Kisqali, the launch completely kind of overweights
+that, but Cosentyx, that it has some impact also.
+Of course, there's also then the effect that last year the HS launch really got momentum as of
+quarter two, so the comparable base is quite high.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Harry. And then in terms of the competitive entry, I think, Simon, the way we see it is
+often we've experienced this many times over the last decade with Cosentyx, is that when a new
+competitor enters, there is an initial impact, and then the market settles down into a new
+dynamic. I mean, when you look at it, Cosentyx, there's very strong frontline access across all of
+the relevant indications, including HF.
+The opportunity we see is, there while initially now during the launch of the competitor, that
+patients who were not achieving full control on Cosentyx monthly, let's say after nine months or
+one year, were switching off to the competitor product. And if you see the opportunity to
+educate more, there's the option to move to a bimonthly increase, in effect, increased dosing of
+Cosentyx to achieve disease control. I think as we do that we'll be able to moderate some of the
+switches off of Cosentyx.
+And then, second, we continue to see the opportunity where we have very strong performance
+in that first switch off of the NT, TNS. And there as well, I think we're going to continue to work to
+do better, and that will become, I think, a solid source of growth for Cosentyx and HS. Taken
+together, we continue to see HS as a $3 billion-plus market and Cosentyx as a brand that can
+deliver $1 billion of sales in HS, which gives us confidence overall in our $8 billion guidance -- peak
+sales guidance.
+Q - `Simon Baker, Analyst, Redburn Atlantic `
+Alright. Thanks so much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question.
+OperatorThank you. Your next question comes from the line of `Richard Vosser, Analyst, JPMorgan from JP Morgan. Please go
+ahead.
+Q - `Richard Vosser, Analyst, JPMorgan `
+Hi, thanks for taking my question. Just one more on Cosentyx. Just as we look out with that, I think
+mid single-digit growth that you implied to '29, how should we think about direct negotiation
+towards the end of that period? Do you think Cosentyx will get hit by that in terms of the IRA, or
+should we not be expecting that? Thanks very much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Richard. We factored IRA into all of our guidance. That'd be the first point. I think
+Cosentyx overall, we estimate to be about 30% of our sales are exposed to Medicare pricing. So
+certainly there will be an impact. But overall, we think it can be managed appropriately, and that is
+factored in as well into the guidance we have.
+I think overall, so with IRA, I think it was a net positive that the ORPHAN Cures Act was enacted as
+part of the recent reconciliation package, which enables medicines to have multiple rare diseases
+as part of without having to give up the medicine's exclusion from the IRA negotiation price
+setting. So I think that's a positive overall as well for the sector. All factored in, and at 30% we
+think manageable.
+Q - `Richard Vosser, Analyst, JPMorgan `
+Excellent. Thanks.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Michael Leuchten, Analyst, Jefferies from Jefferies. Please go
+ahead.
+Q - `Michael Leuchten, Analyst, Jefferies `
+Oh, thank you very much. Question on Fabhalta, please. It looks like the --
+Operator
+Apologies, Michael, we cannot really hear you. Your audio is really bad.
+Q - `Michael Leuchten, Analyst, Jefferies `
+Okay, I shall try again. Thank you. Question on Fabhalta. It looks like the IgAN as well to C3G
+performance is quite well. You've got Ziggybart [Ph] coming, but the way you frame the product
+and the opportunity still seems a little bit conservative. I was just wondering what are you looking
+for to maybe become a bit more optimistic about the performance of the overall franchise?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, I think overall with Fabhalta, we believe each one of these indications can stack up to be a
+billion billion and get us over to our peak sales guidance for this medicine overall. So I thinkthere's clearly the opportunity in IgAN where we position the medicine with a higher pricing that
+we've set just to get physicians more and more comfortable with using it in that later line setting.
+C3G, I think as well, good opportunity. PNH, we're seeing continued uptake as well. So I think
+we're very optimistic overall in the brand. So the intention was not to show a lack of optimism.
+More I think that this will be a steady climb. I don't think we're going to see a rapid influxion. It's
+going to take time. As we build out IgAN, as we build out C3G in PNH, as we work through the
+various vaccination requirements, I mean, every one of these things will have to be worked
+through.
+And then step by step, as we add more and more indications, we think we'll get to that significant
+peak sales that we've guided to.
+Q - `Michael Leuchten, Analyst, Jefferies `
+Thank you.
+Operator
+Thank you. Your next question comes from the line of `Emmanuel Papadakis, Analyst, Deutsche Bank from Deutsche Bank.
+Please go ahead.
+Q - `Emmanuel Papadakis, Analyst, Deutsche Bank `
+Thank you for taking the question. Perhaps I'll take a question on Remibrutinib, if I may. Intriguing
+to hear about the positive phase II in food allergy. Perhaps you could just give us an indication of
+how that compares to the Xolair data in the setting, and perhaps your willingness to go head-to-
+head in phase 3 to round out the profile?
+And then maybe just a reminder on your expectations. The speed of commercial CSU launch,
+assuming approval later this year, would also be helpful. Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Emmanuel. On food allergy, obviously, we'll present the data at an upcoming
+medical congress, but we see the results as very compelling relative to XOLAIR, particularly for an
+oral option in this setting. XOLAIR is an effective has been effective and successful in food allergy.
+But I think having an oral therapy very strong safety -- clean safety profile.
+And when we looked at the comparable cross-trial comparisons, we saw, I think pretty compelling
+overall profile. So we feel pretty good about that. I think the opportunity will clearly depend on
+how broad an indication we can ultimately get. And then over time, as well moving into the
+adolescent, more pediatric range with Remibrutinib. But yeah, I think overall favorably positioned.
+In terms of head-to-head studies, versus are all under evaluation. We got these results just a few
+weeks ago. So I think we're currently evaluating what is the optimal Phase 3 but also Phase 3b.
+Any additional studies we'll need to do to ensure Remibrutinib is appropriately positioned versus
+biologic.
+Now, in terms of CSU, we're quite excited. We think there's a significant opportunity here. When
+you look at Remibrutinib's profile, having a drug that is able to work after two weeks and then
+have this consistent ability over 52 weeks to manage the symptoms of urticaria CSU, I think it's
+very compelling. And so we expect both in the US and ex-US there to be strong patient and
+physician demand. So we'll see how the first months go. But I think it could be, hopefully, an
+attractive uptake in the early months. I'd also note, I mean, we're doing a head-to-head versusRemibrutinib to really show that in the early period, where patients want resolution, that we can
+demonstrate a stronger profile than a biologic.
+That will also, I think, be important data that we'll get out there as well. So we're investing heavily
+to make Remibrutinib as significant as possible, CSU, CINDU, food allergy. We have the HS study
+ongoing, we have the two MS studies ongoing. So we'll try to maximize this medicine over the
+coming years.
+Q - `Emmanuel Papadakis, Analyst, Deutsche Bank `
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question.
+Operator
+Thank you. Your next question comes from the line of `Harry Sefton, Analyst, UBS from UBS. Please go ahead.
+Q - `Harry Sefton, Analyst, UBS
+Thanks very much. I just wanted to follow up on NFN. So, how does the industry go about getting
+ex-US countries to pay significantly more? And presumably this wouldn't be on current products
+but only new product launches. So in this case with the consequences of this be fewer new
+product launches in markets that don't accept your price? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, I think it's all good questions, and I don't think there's a single easy answer. What I would
+say is in the medium to long-term, there's a few things that the industry is strongly advocating for,
+particularly with respect to trade negotiations. I think with the trade negotiations, we feel strongly
+that when you look at the percent of -- in a spend on innovative medicines relative to GDP, you
+see that the US is significantly higher than most of these OECD markets. So one, can we get a
+commitment from these key markets to increase their funding for innovative medicines as part of
+their overall government budget. And if we could get that into trade negotiations, that would at
+least set the bench, the actual pool of money available up. Then I think separate from that,
+there's a few specific policy changes that we continue to advocate for as part of the trade
+negotiation, but also independent of the trade negotiations.
+One is to end the practice of clawbacks for above-sector growth or above benchmark growth.
+Many European countries, when the sector grows faster than an artificially set growth cap, the
+growth has to get reimbursed back. The practice that when you have new indications which
+you've invested for that benefit more patients, that you face a price cut rather than at least price
+maintenance, much less a price increase, because you demonstrated more patients can benefit.
+So that I think there's clear policy solutions as well. Now, I think clearly depending on how the MFN
+policy, if it does get rolled out, or how it gets rolled out, there will be situations where we would
+have to leave medicines us, but also other company -- every other company in the sector, in the
+private market, and not go into government reimbursement.
+I would say that's likely where you'll see a shift in thinking. If there are markets that require you to
+go into the public market, then of course, you have to consider not launching in those markets.But I think all of this is TBD, and it all depends on the details of how the policies are created and
+set.
+Q - `Harry Sefton, Analyst, UBS
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question.
+Operator
+Thank you. Your next question comes from the line of `James Quigley, Analyst, Goldman Sachs from Goldman Sachs.
+Please go ahead.
+Q - `James Quigley, Analyst, Goldman Sachs `
+Great, thank you. My questions, firstly, congrats, Harry, on the retirement and all the best for the
+future. I've got a question on Pluvicto. So obviously you've highlighted some encouraging metrics
+following the PSMAfore launch, but how are you thinking about using earlier lines now you have
+PSMAddition. Patients tend to typically be a bit younger here, and a few carers we've spoken to
+have suggested that they may think twice about radioligand therapy due to potential impacts on
+continence and sexual function.
+Is this consistent with what you may be hearing, or could this be more of minority view? And are
+there any differences in geographic launch you're expecting in early lines? So maybe less worries
+in the us versus ex-US. And then related to that, how does the -- how could the actinium PSMA fit
+into which we just moved into phase 3?
+How could that fit into the market as you position towards early lines as well? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, James. So we haven't heard that feedback. Actually, Pluvicto's safety profile is quite
+compelling, I think, with respect to sexual function and chemical castration, I mean, that really is a
+consequence of some of the other hormonal therapies that these patients are on. So I think a
+question could become, could we get to a point where we get early enough, where you don't
+have that impact on patients. But Pluvicto itself, primary topics are generally speaking, salivary
+glands and bone marrow, and some of the hematologic side effects.
+And so I think we feel pretty confident overall. In fact, what we usually hear is that people are
+struck by how well tolerated Pluvicto is in various patient populations. Now I do think as we move
+earlier lines, there is more competition. So there will be, I think, different ways that Pluvicto might
+end up being used. But we expect that with the compelling rPFS data and as the rPOS data
+hopefully matures in the right direction, we have a very compelling case for a significant use.
+In HSPC where it's used on top of standard of care, and then of course in the pre-chemo and
+post-chemo settings in CRPC. So I think overall, I think we feel pretty confident that Pluvicto will
+continue on the peak sales guidance that we've laid out. Now ex-US, I think the topic in ex-US is a
+little bit different. You asked ex-US. Ex-US really comes down to the comparator choice. We've
+designed these studies very much with the US in mind. Depending on the geography or country
+in question, there is sometimes a request for different comparators, and then we have to decide
+is it worth doing those additional studies or not.Certainly, in the VISION population we've already launched in multiple European markets and
+preparing to launch in Asia. We think with the PSMAddition trial design, we have a very compelling
+case to have that launched. Probably the one where there's a little bit more geographic variability
+is the PSMAfore study.
+Now, in terms of the actinium, the current plan is to move that in the post-Pluvicto setting. So, for
+patients who are progressing on Pluvicto, then switch from a beta emitter lutetium to an alpha
+emitter actinium to see if we can obtain control or achieve control of the cancer. And then there is
+the question as well, if safety profile is compelling, could we go even earlier with an actinium-
+based PSMA? I mean, I think that is still an open question as to with lutetium, given the long
+history we have now both with Lutetium and Pluvicto, that we have a very compelling safety
+profile and safety understanding. I think with actinium still a lot to learn, figuring out what is the
+dose interval, what is the appropriate dose in different patient populations. It is as an alpha
+emitter can be stronger on certain tissues.
+So those are all things we're working through. But we have multiple PSMA actiniums in-house, and
+we're working through, what's the right approach. But the Phase 3 you see right now is in post-
+Pluvicto patients in the CRPC. I could see if we move it earlier in subsequent trials. Next question,
+operator.
+Operator
+Thank you. Your next question comes from the line of `Kerry Holford, Analyst, Berenberg from Berenberg. Please go
+ahead.
+Q - `Kerry Holford, Analyst, Berenberg `
+Thank you for taking my question. One on capital allocation. The new share buyback program, $10
+billion, it's clearly smaller than the size of your previous program and to be spent over a similar
+timeframe. So just interested to understand why you're more conservative here. Going forward,
+does this signal a growing appetite, perhaps for more business development over that time
+frame, or any other expected demands that will change on your future cash flow? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Kerry. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yes, thank you, Kerry. So, first of all, we are absolutely convinced of our five-year plan 5% sales
+CAGR, right? And with that, continued core operating income and free cash flow growth. So
+clearly strong cash flow. Last year $16 billion. This year already $10 billion the first half. So,
+continued very good cash flow growth. Now, $10 billion smaller than $15 billion. Recall the last two
+$15 billion programs we basically also started after we sold our roast egg at a very high price and
+got like $21 billion, $22 billion for it with a $14 billion profit at the time.
+And that, of course, was then also an element of that. So I would say we always kind of returning
+back to the prior $10 billion share buyback rhythm we had. And also, we want to have a balance
+here. We continue to look, of course, after bolt-ons, it's not for lack of trying, any risk averseness.
+We would like to find more bolt-on M&A opportunities to continue to further strengthen our
+pipelines.
+But we strongly feel that $10 billion over two-and-a-half years is a nice balance versus also BDNLallocation.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Harry. Next question.
+Operator
+Thank you. Your next question comes from the line of `Thibault Boutherin, Analyst, Morgan Stanley from Morgan Stanley.
+Please go ahead.
+Q - `Thibault Boutherin, Analyst, Morgan Stanley `
+Thank you. Just a question on YTB and the immune reset opportunity. So clearly strong early
+results. I noted that you are calling the phase 2 reading out from 27 as pivotal. So, if you could
+replicate similar results in that study. Are you confident you can file from '27? And then if you
+could just sort of frame a bit the opportunity. Should we think about this as for highly refractory
+patients? So more like a niche market, and would you have to wait for next generation? I think you
+mentioned bispecific, or could we already see a big opportunity with the first generation carcass
+[ph]?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, great question. So right now our assumption is in the four pivotal studies that with highly
+positive data in 2027, we could file. Yes, we could file based on that data. We would still have to
+do randomized Phase 3 studies, likely as well as follow-ups. But our expectation is if we could
+replicate this level of results, we would be able to file off of that data. So it does create the
+potential, the data-dependent and data-driven, for launches in the 2028 time period.
+In terms of the market size, we're continuing to starting now to really do more detailed work to
+figure out what proportion of patients would be willing to undergo the procedures needed for
+CAR, primarily the bone marrow ablation to create space for the engraftment of the CAR cells.
+So I think it's early days. Our hope is that this though very much is a multibillion-dollar opportunity.
+That across these indications, we create a multibillion-dollar brand, and that clearly, if we're able
+to manage the side effect profile and make it more accessible to a broader group of those
+refractory patients, could be even larger than that.
+That's certainly the aspiration and why we go so broadly. I think it's important to note, these are a
+group of patients that are no longer able to have any additional options or few additional options.
+They generally have relatively severe outcomes, and you're seeing almost the disease, if not
+completely reset, turned back decades by this kind of therapy. So it's really a remarkable result.
+So we're going to get a better understanding of the demand. But I would say it's a multibillion-
+dollar opportunity with the potential to be more based on how we see the Phase 3 results or
+phase 2 results play out.
+Next question.
+Operator
+Thank you. Your next question comes from the line of `Michael Nedelcovych, Analyst, TD Cowen from TD Cowen.
+Please go ahead.
+Q - `Michael Nedelcovych, Analyst, TD Cowen `Hi, thanks for taking my question. I have a question on the cardiovascular pipeline. At the meet
+management event late last year, Novartis expressed the ambition to have multiple arrhythmia
+assets in the clinic by 2025. And I'm just curious if you could give us an update on that effort.
+Thanks.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, great question. So we are progressing now. We are hopefully, we'll soon have the okay on
+an IND to move now into the clinic on a novel agent for control of AFib. So that would then enable
+us, hopefully for a first patient, first visit this year, and then we would hopefully have one or two
+additional agents. May not make it this year, maybe early next year. But the goal very much is to
+have a portfolio of agents targeting AFib and then, potentially, as well, ventricular arrhythmias.
+We've also signed a few licensing agreements for preclinical stage assets, which are also now
+advancing.
+There was an H-stack, and so we're looking at that to accelerate those as well. So we see this as
+an area where we have unique expertise. Probably one of the few companies still going after
+addressing cardiac arrhythmias, and obviously, if successful, market sizes here are quite large,
+and the opportunity to use a medicine versus using the device-based cardio version is quite
+compelling for patients.
+Thank you. Next question, operator.
+Operator
+Thank you. Your next question comes from the line of `Florent Cespedes, Analyst, Bernstein from Bernstein. Please
+go ahead.
+Q - `Florent Cespedes, Analyst, Bernstein `
+Good afternoon. Thank you very much for taking my question. A quick one on Entresto, please.
+Could you maybe remind us what is the next step for the US if the generic does not reach the
+market? When do you expect the appeal court decision? And could you remind us when is the
+next patent expiry and also your view on IRA? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, Florent. So, there's many -- there's three cases ongoing. So we have the current
+amorphous complex case, where we have a temporary preliminary injunction. We're fully briefing
+the court, and we very much are of the view that, that should be -- that preliminary injunction
+should be upheld. And then we would have an appeals case where we would continue to defend
+the amorphous complex patent.
+We have ongoing litigation on the FDA's label carve-out and whether that label carve-out is
+appropriate. And so that appeal is ongoing as well. We have the trade dress topic as well, where
+we continue to look at our options on the trade dress. And this is all with respect to one generic
+filer, given that all of the other generic filers have settled with us.
+So that's where we stand. Very difficult for me to comment on timelines. I think at this point we will
+see, and if there's a material update, we will update you accordingly. I think on the IRA topic, we
+continue to expect Entresto to phase the -- as planned IRA in 2026. We can say that the IRA
+pricing is in line with our current net pricing overall. So from a pricing standpoint, if we were able
+to maintain Entresto into 2026, given all the legal proceedings, our net pricing would continue toevery month that Entresto is on the market, independent of the IRA, broadly speaking, with some
+nuances, of course.
+Harry, anything you'd want to add?
+A - `Harry Kirsch, Chief Financial Officer `
+No, it was perfectly correct. Thank you very much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Perfect. Thank you.
+Q - `Florent Cespedes, Analyst, Bernstein `
+Thank you very much.
+Operator
+Thank you. Your next question comes from the line of `Seamus Fernandez, Analyst, Guggenheim from Guggenheim.
+Please go ahead.
+Q - `Seamus Fernandez, Analyst, Guggenheim `
+Thanks so much for the question. So, notice the update on HS as it relates to the Ianalumab
+opportunity. Can you just help us understand how you're thinking about the overall B-cell
+opportunity here in other conditions, particularly as it relates to Sjogren's disease, as we advance
+there? But also, do you feel that there is a unique opportunity from your learnings in that program
+for B-cell targeted therapies in HS specifically? Thanks so much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Seamus. So while we continue to pursue Remibrutinib in HS and Ianalumab, we
+didn't see the compelling results we had expected. The reason we had thought that there could
+be an opportunity is we do see BAFF upregulation in HS patients and HS lesions. So we thought
+there could be an opportunity there. But it's important to note that we did not have Phase 2 data
+or proof of concept data per se that really supported that it was more a hypothesis.
+And so it doesn't really shift our conviction on Sjogren's disease, on lupus nephritis, on SLE, or on
+the multiple ITP indications, and autoimmune hemolytic anemia indications that we have ongoing.
+So we continue to see those as all B-cell driven diseases. And where we think that tissue resident
+B-cells, which is particularly where Ianalumab targeting an anti-BAFF monoclonal lab antibody
+would be effective. Now, to your question more broadly, certainly we're learning a lot between
+Remibrutinib as an oral BTK, anti-BAFF with Ianalumab, our program on immune reset with YTB,
+our emerging programs on bispecifics, on truly trying to get to the next generation of B-cell
+management and B-cell control.
+Clearly, anti-CD20s have set the foundation here, but the opportunity here is as we get smarter
+about all of the B cell lineages and understanding which lineages we want to affect in different
+diseases. We have the opportunity, obviously, to have better and better disease control. So we
+definitely do learn a lot. We run many of these programs as basket studies to try to get as much
+information and data as possible.
+And as I said, I think we'll learn a lot in the coming years between ianalumab, the remibrutinibmedicines once we get medicines through pivotal studies. Thanks, James. Next question.
+Operator
+Thank you. Your next question comes from the line of `Rajesh Kumar, Analyst, HSBC from HSBC. Please go ahead.
+Q - `Rajesh Kumar, Analyst, HSBC `
+Hi there. Thanks for taking my question. Just in terms of capital allocation, appreciate that. You're
+doing a share buyback at the moment. How much during the same period would you allocate for
+M&A? And just thinking through the current valuations, clearly there would be assets which are
+complementary to your portfolio, which might be available at more attractive valuation right now.
+So, can you run us through the rationale of prioritizing a share buyback increase over capital
+allocation towards M&A at this junction?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks for the question, Rajesh. Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yeah, thank you, Rajesh. We are not prioritizing share buybacks over bolt-on M&A. We are
+constantly, and our team is -- we have an excellent BDNL and M&A team that has done over 30
+deals over the last two years. We're also happy to look at the bigger bolt-ons. If they're available,
+have great assets. So look, we have $16 plus billion free cash flow growing clearly as we go
+forward, and with the dividend level we have, we have only 1 times net debt over EBITDA.
+Our balance sheet has significant flexibility, and if you call it so, firepower. So if we find attractive
+asset at an attractive price that is creating a likely very good return for our shareholders, we will
+try to get that asset. So it's not for lack of trying. So we are not prioritizing share buybacks over
+bolt-on M&A at all. It is about how much can we find in terms of excellent assets that would
+support our 40-As.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Harry.
+Q - `Rajesh Kumar, Analyst, HSBC `
+Understood. Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Next question.
+Operator
+Thanks. (Operator Instructions). We will now take the next question. And the question comes from
+`Simon Baker, Analyst, Redburn Atlantic, Rothschild & Company. Please go ahead.
+Q - `Simon Baker, Analyst, Redburn Atlantic `
+Thanks for taking my second question. Vas, I just wanted to return to a comment you made about
+pricing outside the US and moves to stop clawback. There seems to be quite a lot of activity fromyour peers with respect to that in the UK at the moment, either directly or indirectly, to reform
+VPAG.
+I just wonder if you could give us an update on what you've been participating in and learning
+about potential changes in the UK. Thanks so much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Simon. There's been, I think, active engagement and we -- I think appreciate the UK
+government now actively looking at VPAG, which is the system they have in the UK to cap the
+pharmaceutical market growth, and then basically ask the industry to rebate back or refund back
+certain levels of growth -- beyond certain levels of growth.
+And I think there have been productive engagements and discussions. I think we're still trying to
+work through an agreement that we think actually achieves the UK's goal of building a vibrant
+biopharmaceutical sector, which is a stated goal of the government at the moment. as you know,
+it's a very challenging environment with Nice.
+And the overall reimbursement environment in the UK, where actually the reimbursement levels
+are almost at the level of middle-income countries, and uptake is quite slow. So our goal very
+much as an industry, is to get to a much better place. I think that's also the government's goal,
+and the question is, can we find common ground in these discussions? And so that's an ongoing
+process that, yes, I think many of us are involved in or trying to shape.
+Q - `Simon Baker, Analyst, Redburn Atlantic `
+Okay, thank you.
+Operator
+Thank you. Your next question comes from `Harry Sefton, Analyst, UBS from UBS. Please go ahead.
+Q - `Harry Sefton, Analyst, UBS
+Brilliant. Thank you very much for taking my second question. Just one on Pluvicto, please. So we
+saw an acceleration in growth in the second quarter over the first quarter, but presumably
+PSMAfore didn't really pick up meaningfully until the end of the quarter.
+So just want to get your thoughts on the expectation for further acceleration in the third quarter,
+and then maybe just also on the average doses for Pluvicto. I think to date, we've seen that being
+about four. Do you expect any difference in the earlier setting? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, absolutely. So, Harry, I think you're right that we saw the primary impact of PSMAfore. I'd say
+in the last four to six weeks of quarter two, when patients post the approval had gone through
+the necessary pre-treatment procedures to be able to ultimately get the treatment. So I think
+we'll hopefully see a continued acceleration now over the second half of the year. So, we -- I think
+we'd see steady, steady growth, steady acceleration. I don't expect to see necessarily, quote-
+unquote, hockey stick, but I think it'll be steady acceleration over the second half of the year,
+particularly as we get deeper into the community and get more and more of those community
+centers to move from a few patients then to hopefully multiple patients and then hopefully teams
+of patients on therapy in their clinics.In terms of the average dosing level, you're correct that in the vision setting, we were historically
+in the kind of 3.7 to 3.9 range somewhere, something like that, versus the six doses that are
+estimated. It's very early days, but we do see a positive trend up on the number of doses per
+patient.
+But I think we're going to have to have a couple more quarters. But we would expect that in
+earlier settings where patients tend to live longer, they tend to be healthier, may not progress as
+quickly, we hopefully will get closer and closer to the stated labeled dosing of six doses. And
+that's certainly the aspiration.
+And then hopefully in mHSPC we can certainly get there given the health of those patients. I think
+one of the other notable things as well is that in terms of the efficacy that we're seeing clearly
+going earlier, you also see a more robust effect, likely because you see a better, more consistent
+PSMA expression and perhaps fewer cells that have mutated away from PSMA expression.
+And so you see then, I think the robust efficacy we're seeing in PSMAfore and then the top line
+data on PSMAddition.
+Q - `Harry Sefton, Analyst, UBS
+Brilliant. Thank you.
+Operator
+Thank you. Your next question comes from the line of `Kerry Holford, Analyst, Berenberg from Berenberg. Please go
+ahead.
+Q - `Kerry Holford, Analyst, Berenberg `
+Thank you for taking my second question. A follow up one please. On something you mentioned
+earlier about in the context of US politics, you mentioned a desire to look at more options to go
+direct to patients. And I wonder if you can just be more explicit on what you're referring to here?
+Could this be something similar to that sort of DTC strategy that we see in place in Novo and Lilly
+in the obesity market? And if that's what you're thinking, which of your drugs would you see as
+best suited to that channel? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, thanks, Kerry. I think the -- yes, that's correct. I think the idea would be are there ways we
+could give patients access to our medicines at the -- what is in effect the net price in a way that
+does not disrupt the overall complexities of the US pricing system. So it's definitely something
+you have to be thoughtful about. But certainly, depending on our products, depending on the
+product line, you have gross to nets anywhere from 50% to 70%. And so giving those discounts
+direct to the patient as opposed to through the various intermediaries would be a very attractive
+option.
+But we're in the early days of evaluating. As you note, it's very product-specific. And we also have
+to evaluate the knock-on effects on best price and some of the impacts on other parts of the
+system. So we're evaluating it. And clearly, I think overall in the sector there's certainly, I think an
+evaluation as well to see if there's any approaches that we could work with HS to come up with.
+But that's certainly the idea we're moving towards. That's correct.
+Next question, our last question? Last question.Operator
+Thank you. Your final question for today comes from the line of `Sachin Jain, Analyst, Bank of America from Bank of America.
+Please go ahead.
+Q - `Sachin Jain, Analyst, Bank of America `
+Thanks, Vas. My follow-ups, another one on a US policy for me, Vas. So within the answer to the
+prior two questions, nothing that you describe as the Novartis solution involves a price cut, as I
+understand it, within the US portfolio. So just confirming that's correct. And is HS comfortable with
+that? The reason for the question obviously is the public commentary, the administration has
+been very vocal around industry coming to the table with a price solution. So I just wanted to
+confirm that was correct.
+And then the second one was, you said it could take time. Obviously, it's an unknown. But what's
+your best guess as to when this could get resolved? Is it in '25 or could this bleed into '26? Thank
+you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah, so I think on the solutions, I think again because of the nuance here between list price and
+net price, I think our goal is to get to for patients, which would perhaps be a, quote-unquote, cut
+to what the patient is paying. But we're very focused on out-of-pocket costs and improving the
+realized price for patients and figuring out how to reduce that. Because as you know, moving list
+prices around in the US system may not mean anything for or likely won't mean anything for
+patients.
+So I think a lot of the discussions we're having in a very productive way with HHS. How can we
+reduce the burden for patients out-of-pocket? And that's where all of our activity has been
+overall. Now, I think in terms of resolution, it's very difficult to say. I really have no idea. I mean, I
+think there's multiple efforts ongoing using different approaches that I think HHS is thinking
+through and we're trying to support as best we can. But impossible to say when exactly, because
+clearly doing any of these things requires significant shifts in rulemaking and some of the knock-
+on effects across the system, not at all straightforward to do overnight. So would require policy
+changes that HHS would likely have to make as well. And until the plan is clarified, I think even that
+process can't get started. So I think it's going to take time.
+We might have the beginnings of what we would want to do in the coming quarters, but then
+actually implementing it and then rolling it out will take certainly, I believe, will take time.
+Q - `Sachin Jain, Analyst, Bank of America `
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Very good. Well, thanks, everybody, for joining today's call, and look forward to updating you then
+in quarter three, or when we run into each other at various other conferences, meetings, et
+cetera. Thank you again.
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now
+disconnect.

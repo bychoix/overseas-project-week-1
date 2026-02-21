@@ -1,0 +1,1036 @@
+Q3 2018 Earnings Call
+
+Operator
+Good morning and good afternoon and welcome to the Novartis Q3 2018 Results Release
+Conference Call and Live Audio Webcast. Please note that during the presentation, all
+participants will be in listen-only mode and the conference is being recorded.
+After the presentation, there will be an opportunity to ask questions. A recording of the
+conference call, including the Q&A session, will be available on our website shortly after the call
+ends.
+With that, I would like to hand over to Mr. `Samir Shah, Global Head-Investor Relations, Global Head of Investor Relations. Please
+go ahead, sir.
+`Samir Shah, Global Head-Investor Relations `
+Thank you very much and good morning and good afternoon, everybody. Before we start, I just
+want to rekey the Safe Harbor statement. The information presented today contains forward-
+looking statements and involve known and unknown risks, uncertainties and other factors that
+may cause actual results to be materially different from any future results, performance or
+achievements expressed or implied by such statements. Please refer to the company's Form 20-F on file with the U.S. Securities and Exchange Commission for a description of some of these
+factors.
+In addition, just wanted to point out that the information presented in respect of the proposed
+Endocyte transaction may be deemed to be solicitation material. In connection with the proposed
+Endocyte transaction, Novartis and Endocyte intend to file relevant materials with the U.S. SEC.
+We urge you to read these materials, including a proxy statement of Endocyte and all other
+relevant documents filed with the SEC, when such documents become available and which will be
+available for free. The proposed Endocyte transaction has not been completed and there can be
+no guarantee that the proposed Endocyte transaction will be completed or that it will be
+completed as currently proposed or at any particular time.
+And with that, I'll now hand across to Vas.
+`Vasant Narasimhan, Chief Executive Officer `
+Thank you, Samir, and thanks, everyone, for joining today's conference call. We're very pleased
+with our performance in quarter three where we continued our journey with a leading focused
+medicines company, powered by breakthrough innovation in data and digital technologies.
+When you go to slide 4, you can see that our group performance was strong with sales growing
+6% in constant currency and core operating income up 9% in constant currency. Harry will go
+through the numbers in a bit more detail. We are also quite pleased with our innovation
+milestones in the quarter and I'll go through these in the upfront section, but with AVX-101 filing in
+U.S., Europe and Japan, BAF312 filed in U.S. and Europe, the approval of Kymriah in multiple
+geographies and the proposed acquisition of Endocyte, I think we are also demonstrating we
+have the innovation – power and the innovation momentum to continue to drive growth well into
+the future.
+So, if you go to slide 5, when you look at the underlying drivers for that strong performance, you
+can see that Cosentyx and Entresto continued to perform well. I'll go into each of those in a bit
+more detail, but I also wanted to point out our oncology growth drivers are tracking extremely
+well, Promacta, Tafinlar and Mekinist as well Jakavi and I'll say a bit more about Lutathera. It's
+become a bright – I think a real bright point for us as we now see this as a potential blockbuster
+medicine. And I'll show you a little bit more data about where we see Lutathera trending right
+now.
+Now, when you move to the next slide and you look at Cosentyx, I think as we've hopefully now
+shown, it's really established as the leading differentiated IL-17A inhibitor and had outstanding
+performance in the quarter. You can see the 37% growth, really strong momentum by Paul and
+the team across all indications and geographies. Importantly, we surpassed Humira in TRx and
+psoriatic arthritis in the United States. And then, we have recent five-year data, which, similar to
+what we've shown in psoriasis, show that in PsA and in AS, we showed sustained benefits
+complementing our long-term data, as I said, in psoriasis.
+I think that really builds out the profile of Cosentyx as the leading IL-17A inhibitor on the one hand
+in psoriasis and then in rheumatology, really being unique in the mechanistic approach it has in
+treating the underlying joint disease that are really prominent in these two conditions.
+By going a little bit deeper on psoriasis on slide 7, you can see that we continue to gain market
+share in psoriasis in a very competitive market. I think Paul could say more about this and there's a
+few reasons for this. One, we continue to believe that within the physician mindset and the payermindset, there are two classes here, they're thinking about in terms of the new drugs, IL-17A and
+IL-12/23.
+We are the leading IL-17A with some really important unique datasets, including that we can treat
+multiple manifestations of psoriatic disease, including scalp, nail, palmoplantar and joint
+involvement. And two-thirds of patients have those additional sources of the disease. And on top
+of that, when you look at our real-world evidence datasets we've been putting out into the
+community, they consistently confirm the safety and efficacy benefits of Cosentyx. So, we're quite
+pleased and really looking for Cosentyx to continue its strong trajectory into the coming years.
+So, moving to slide 8, Entresto as well had a very strong performance in the quarter, doubling
+versus Q3 2017. You can see both U.S. and ex-U.S. sales were nicely up. I think importantly here,
+we're starting to roll out datasets from trials that we began in 2015 to really build out the profile
+of Entresto. Both TRANSITION and PIONEER are taken together will hopefully enable us to really
+show that Entresto can be used in the hospital setting. The TRANSITION study has already read
+out and the PIONEER study will be something we'll be presenting as a late-breaker at AHA in
+November. That will enable us to ensure that patients are getting Entresto at the right time in the
+hospital.
+In addition, the PARAGON study continues as planned, following the interim analysis that we had
+talked about earlier this year with results expected in mid-2019. I would also note the PARADISE
+study, which is in pre-heart failure or post-MI patients is also enrolling according to plan. So,
+overall the Entresto picture looking strong and we continue to see solid momentum around the
+world with this medicine.
+I mentioned Lutathera and I wanted to show on slide 9 the kind of really explosive performance
+we're seeing now in Lutathera. It's off to a strong start in the U.S. You can see here number of
+doses per quarter and this trend is really, I think, very encouraging and we're now starting to roll
+out the medicine in Europe. In the U.S., we have 85 centers that are actively prescribing. We have
+70% coverage of the relevant lives. And in the UK now, we have 18 centers actively prescribing.
+And I think seeing the strength of the performance in Lutathera, feeling now that it's a potential
+blockbuster medicine, seeing this outperform our deal case, is part of the rationale when we
+come to the Endocyte deal for the confidence we had in taking the step to acquire Endocyte. And
+I'll talk more about that in a few slides.
+So, moving to Sandoz on slide 10, I think Sandoz continues to perform well in a difficult
+environment, both in the U.S., but also around the world. When you look at Q3 2018 performance,
+the U.S. impact continued of the industry-wide pricing pressure, but we were able to grow sales
+ex-U.S. at 2%. And importantly, our biosimilars portfolio is growing at 21%.
+And when you think about how we're going to drive Sandoz moving forward, a lot of it is about
+executing a strategy of transformation and shifting the focus to complex generics and biosimilars.
+We're well on our way to do that in the United States. We announced that our planned sale of the
+core Gx business to Aurobindo and then, we're also expanding rapidly biosimilars in Europe and
+Richard can speak more about that, but both Rixathon and Erelzi are performing well. We have
+the approval for our adalimumab biosimilar and our infliximab biosimilar. And I would note that we
+are in the market with our adalimumab biosimilars in four countries and we have a positive CHMP
+opinion for pegfilgrastim, which should enable a launch, we hope, in Q4, assuming approval.
+So, overall, I think in Sandoz, on the right track, challenging environment, but I think we're taking
+the steps necessary to put the division in a place where it can succeed.So, moving to slide 11, Alcon continues its strong sales growth and I think that's really the key point
+of the Alcon story. We need to keep generating that strong sales growth across segments and
+we did that in the quarter. You can see 7% sales growth in Surgical, 3% sales growth in Vision
+Care. Core operating income grew 1%, and we had always known that the margin story for Alcon
+this year was going to be a little bit choppy coming out of the trough 2017 margin.
+David Endicott is here and he can provide more perspective. But when you look at the year-to-
+date performance in Alcon, we have core operating income growing at 14%, the core ROS at
+18.6%. So, business is on the right direction and it's continuing its trajectory as we stated. And we
+remain confident, as Harry can discuss further, in the overall trajectory of the margins.
+Now, when you go to slide 12, just to say a word, in the quarter, we have a number of key data
+readouts and regulatory milestones and I don't want to go through all these, but a few I wanted
+to highlight on this slide. I will talk about AVX-101 and Endocyte specifically, but I did want to note
+that BAF312 was filed in SPMS in both the U.S. and Europe. We will be presenting the BYL719 study
+results at the President's presentation in ESMO over the weekend and we'll be holding an
+investor call around that, so everybody can understand better that data. And importantly, driving
+our in-line brands really across the various brands, whether it's Gilenya, Kisqali, Aimovig, Taf/Mek,
+we continue to generate data to support these important growth drivers at the company.
+Now, before moving off this slide (10:30), I wanted to give an update on ACZ885. Yesterday, we
+received a complete response letter from the FDA regarding the filing in cardiovascular disease.
+As we have said last year, we were focused all along on trying to get the hsCRP responder group
+as the primary driver in the label, so that we could make sure the relevant patient population
+would get treated and there will be appropriate access to the medicine.
+We presented our case to the FDA, the FDA has asked additional questions and I've requested
+additional data with respect to the responder population and we're evaluating now what would
+be the appropriate next steps. I would want to highlight that we continue on track with our
+ACZ885 studies in lung cancer, where we are enrolling studies in adjuvant lung, first-line
+metastatic lung and second-line metastatic lung and we're on track for readouts of those studies
+between 2020 and 2022.
+So, moving to slide 13, diving a bit more on AveXis, there's been a lot of discussion I think, given
+the competitive dynamics in SMA around the AVX-101 program. So, I wanted to again level set
+everyone on the extraordinary result that you see with this medicine in SMA Type 1. I think
+whether you look at the videos that are posted by the NIH Director or if you look at other
+testimonials for patients, this is a simply extraordinary medicine where you have patients who
+would otherwise be expected to die, many of them out now beyond four years of age
+developing normally.
+So, I think a few key points to highlight here. First, when you look at the baseline study
+characteristics, this was a severe population and I think whenever you're looking at results in SMA,
+it's important to look at the baseline study population, because there's a lot of variability in the
+baseline characteristics of these patients.
+When you look at the efficacy, we had 100% of patients alive and without need for permanent
+ventilatory support. And if you can imagine a parent wanting to treat their infant, they're certainly
+not going to want to take the risk that there's some percentage of patients that die with respect
+to a given therapy. So, we believe this is quite material and quite important when you look at
+treating infants for a devastating disease.We had 9 out of 10 achieve a CHOP-INTEND score of greater than 40 at 8 months, 11 out of 12
+greater than 50 during the 24-month study and 11 out of 12 achieving a sitting unassisted during
+the 24-month study. And when you look actually at the CHOP-INTEND scores, we're getting
+patients in the relevant period of time where you can measure CHOP-INTEND into the high-50s
+or low-60s for their CHOP-INTEND scores. CHOP-INTEND is less relevant after the first year of
+life, but I think that shows you not only the efficacy benefit from a mortality standpoint, but also
+the functional benefit you get with these patients.
+Strong durability, we continue to achieve major milestones, with this therapy out, beyond four
+years for the patients, we've been able to track two years in the reported data. I think again I'd
+want to highlight that those patients who – we've disclosed in previous congresses that are
+tracked for even longer than two years, only a portion of them have received other therapies.
+There's also a portion that have received no other therapies and continue to do extremely well.
+When you think about that mechanistically, we know that motor neurons don't divide. You have
+your maximal motor neurons as an infant. When you receive an IV gene therapy, you would
+expect all of the – most of the motor neurons we hope, perhaps all the motor neurons to have
+appropriate gene inserted. So, the mechanistic rationale for waning of effect is not there in our
+view.
+Now, there could be other things that happen as we do longer-term follow-up, but I think it's
+important that we stick to the science and stick to the data when you're looking at these kinds of
+medicine.
+Lastly, I would point out on the right-hand side, when you look at the speed of response, the
+speed of response is quite striking with respect to AVX-101 and other relevant therapies. I think
+that will be important for SMA Type 2/3 and I'll talk a little bit more about where we are in those
+studies in a moment.
+So, moving to the next slide, when you look at SMA Type 1, we have successfully filed now in U.S.,
+Europe and Japan, all are ahead of schedule, for SMA Type 1 with AVX-101. We have a potential
+approval, we believe, in the U.S. in the first half of 2019. We do have a Breakthrough Therapy
+designation there.
+In the EU, we have, we believe, the approval in mid-2019. We do have PRIME designation in the
+EU. And we initiated submission in Japan in mid-September. We anticipate the completion by
+year-end of the full file. And again, we expect approval in the first half, given that we have
+SAKIGAKE designation, one of the first medicines to receive this designation in Japan. So, we're
+quite pleased with the progress in SMA Type 1, a truly transformational foundational therapy for
+these patients.
+Now, on slide 15, that give you a little bit of an update on where we are on the trials, because I
+know there have been some questions and some misinformation regarding this. When you look
+at where we are, the START study, which is a long-term follow-up for the SMA Type 1 patients, we
+have 12 patients enrolled. When you look at the STR1VE study, which is the single IV dose
+confirmation study, patient enrollment is complete.
+When you look at the STR1VE EU study, we have six patients enrolled and it's enrolling very well,
+and we'd expect to complete enrollments shortly. When you look at the SMA Type 2 – Type 2/3
+study with intrathecal dosing, patient enrollment is complete. And when you look at the pre-
+symptomatic SMA studies, which are being conducted under the rubric of newborn screening, we
+have six patients enrolled and we're seeing very heavy demand for that study as well. So,altogether, clinical program is on track to continue to expand beyond SMA 1 into 2/3 and then
+eventually into newborn screening.
+So, going slide 16, I want to say a word now about – few slides about Endocyte, the acquisition we
+announced earlier today, which really builds on the earlier acquisition we've made with Advanced
+Accelerator Applications. As I've tried to articulate to all of you, we're on a journey to focus our
+company as a medicines company and within being a medicines company, along with our
+appropriate diversification in therapeutic areas to build leadership in three platforms, which we
+believe are advanced therapy platforms that will drive differential growth; cell therapy, we have
+Kymriah and then building beyond that; gene therapy, we acquired AveXis and are building out
+our portfolio there; and finally, in radiopharmaceuticals or radioligand therapy in this case.
+Now, when you look at the specific asset that we have here in Endocyte, which we would plan to
+bring into our Advanced Accelerator operations, prostate cancer is expected to be an $11 billion
+market globally in 2024. This medicine is expected to provide an additional treatment option for
+prostate cancer and I'll talk more about that, because I think there is some misunderstanding in
+some of the notes I've seen over the course of today as to what exactly we are treating here
+versus other therapies that are on the market. This is the first-to-market potential product in
+PSMA radioligand therapy.
+The enrollment of Phase III has been initiated and is on track. FDA feedback, which we reviewed,
+is very clear that radiographic PFS can be used as the endpoint, which should enable a relatively
+rapid, we believe, timeline for the Phase III study. It's a significantly de-risked profile. When you
+look at the Lancet paper that's been published on the strong Phase II data, there's extensive
+preclinical data as well as various other Investigator Initiated study data that we've reviewed,
+which gives us confidence in the overall profile of the medicine.
+Now, importantly, this expands our nuclear medicines platform following launch of Lutathera. It
+gives us a second radioligand therapy. It allows us to eventually move this PSMA-617 therapy into
+earlier lines of therapy and then we have opportunities to expand the platform in the future. One
+thing not noted in the slide, this also would enable us to have new manufacturing capabilities that
+we could then apply to our radioligand portfolio in the future.
+So, when you go to slide 17, what exactly do we talk about here? And this is, I think, a very
+important point and I hope investors will take a moment. This is a therapy, as is the case with
+Lutathera, where we link a radioactive particle to a ligand and this ligand has high specificity for a
+given tumor cell type. In that way, we can target the radiation directly to the relevant cancer. So,
+it's a very targeted approach. We do that with – in neuroendocrine tumors and here we do it with
+PSMA and prostate cancer. This high-affinity targeting allows us to really manage – I think improve
+the efficacy and also manage the safety profile.
+Now, other therapies available in the market are simply infusions of radium that are actually just
+used for bone metastasis, not for metastatic prostate cancer. So, as you look at your benchmarks
+for what are the appropriate sales potential, please ensure you're using relevant benchmarks
+when you do this. Now, once this is bound – the particles are bound together, they get
+internalized and you would expect that the cancers then ultimately respond and that's the
+response that we've seen.
+Now, when you look on the data on slide 18, you can see here, in the Phase II study, we had a
+strong PSA response, which we think is a relative measure, you can see on the left-hand side. We
+had a solid trend in these patients who had failed multiple lines of therapy in PFS as well as in an
+overall survival. And we've seen similar data from other smaller study sets in IITs as well.So, when you go to the next slide, you can see the Phase III VISION trial, which is currently
+enrolling, takes a 2-to-1 randomization, takes patients with metastatic prostate cancer. They have
+to have a positive PSMA scan and then have had a prior taxane or a prior novel androgen axis
+drug. And after that then they're randomized into either the PSMA drug or to best supportive
+care and then we'll see. We have 750 patients enrollment initiated and, as I said, FDA has agreed
+to the endpoints on both primary and secondary.
+So, when you go to slide 20, you can see that some of the deal characteristics. We're certainly
+happy to answer any questions, but I think it's relatively straightforward. We funded through cash.
+We don't expect dilution with respect to this deal. We expect it to start contributing to group
+sales in 2021.
+Our overall financial expectations is the medicine has a blockbuster potential and if we are able
+to get it into earlier lines of therapy, we can have even higher sales potential with this medicine,
+which would generate an attractive IRR to the company. And of course, all of this is subject to the
+appropriate approvals from Endocyte shareholders and the relevant regulatory agencies.
+So, if you go to slide 21, the expected next steps for the deal, of course we'll continue to
+generate the data and provide additional information as it becomes available. We have filed a
+proxy statement – we will file the proxy statement with the SEC and we are hopeful to have
+closing in first half of 2019 subject to the various considerations.
+So, moving to slide 22, last slide before I'll turn it over to Harry, we are going to hold an R&D and
+investor update on November 5. I will have a deep dive on AVX-101. We'll have some of the key
+scientists there. So, investors can speak to the team directly on where we are in that program.
+And then, we'll have a number of other detailed updates on a range of programs. A few that – I
+would want to call out that are beyond what we traditionally talk about, QAW039, our CRTh2
+antagonist for severe asthma, where we now start to move towards study readout. We really
+want to make sure everyone understands that what we believe substantial potential is for this
+medicine.
+We will go through our multiple sclerosis portfolio, BAF, ofatumumab as well as the status with
+respect to Gilenya. We'll provide you all the RTH258 two-year data and continue to demonstrate
+the profile of that medicine as well as provide an update on the oncology late-stage portfolio,
+building off of the BYL presentation, we will make this weekend and provide an update to you
+early next week.
+So, overall, I think a really strong performance and I'll hand it over to Harry to give you some more
+perspective from a financial standpoint.
+`Harry Kirsch, Chief Financial Officer `
+Thank you, Vas. Good morning. Good afternoon, everyone. So, as usual, my comments refer to
+growth rates in constant currencies unless otherwise noted.
+So, on slide 24, you see the summary of our quarter three and year-to-date performance. We
+continued to deliver a good growth with quarter three sales up plus 6% and year-to-date sales up
+plus 5%. This performance drove accretive bottom line growth as well. So, core operating income
+was up 9% in the quarter and 7% year-to-date.
+As you can see, our free cash flow grew plus 10% the first nine months to $8.8 billion, driven by
+this very strong operating performance. Year-to-date operating income grew 3% and it's drivenby the quarter three operating income declining 13% as we recognize charges for ongoing
+restructuring programs and the impairment of Alcon's CyPass.
+Turning to slide 25, we see here the quarter three and year-to-date core margins of the group at
+each division. Strong sales uptake in Innovative Medicines drove margin expansion for the division
+and the group. Innovative Medicines' margin was up plus 2.1% points in the quarter, bringing year-
+to-date margin up 1.1% to 32.4% of sales. Group margins improved by 0.8% points in the quarter
+at plus 0.5% points year-to-date, driving the margin to 27% of sales.
+Slide 26, I wanted to have a quick view on the AIcon's sales and margin progression over the past
+few years based on September year-to-date numbers for each of the years. As you can see,
+investments in 2016 and 2017 were necessary to stabilize and then grow again to top line. In 2018,
+the strong sales growth is driving margin expansion. Year-to-date core margin improved by over 1
+point to 18.6% of sales as compared to a trough margin year in 2017. We have always said we
+expect some quarterly fluctuations in the margin for AIcon and David Endicott clearly can give you
+some further flavor on that.
+In quarter one 2018, the spending was lower and in quarter three 2018, AIcon increased
+investments behind some key brands. In quarter four, typically margins are lower each year
+compared to the full-year margin due to increases in equipment sales as hospitals finalize their
+purchases before year-end. Hence, it's always important to look at year-to-date and full-year
+numbers. Clearly, we expect 2018 full-year core margin to be up versus 2017 full year and then
+full-year margin growth in each of the following years.
+Importantly, mid to long term, AIcon remains committed and on track to achieve margins in line
+with the medical devices industry, i.e. in the range of low to mid-20s. The margin expansion is
+expected to be driven by continued strong top line growth, improved gross margin and cost
+leverage.
+On slide 27, just back to the guidance, we are increasing our group sales guidance to grow mid-
+single digit, so at the higher end of what we said before, given our year-to-date 5% sales growth
+and we expect that to continue at a nice level in quarter four. This is driven by the strong
+performance of the Innovative Medicines division where we also can revise up the full-year
+guidance to grow in the mid-to-high single-digit range.
+This guidance includes – also when you look at the core operating income, we reconfirm our core
+operating income guidance as issued in January, expect it to grow in the range of mid to high-
+single digit and as I mentioned earlier also in the year, the guidance includes AveXis R&D and
+prelaunch investments and, as you see, this guidance also very consistent with our year-to-date
+performance where we grew sales plus 5% and core operating income plus 7%.
+On slide 28, just a quick update on the expected currency impact, assuming mid-October rates
+would hold for the future. On full year of 2018, the currency impact is expected to be flat on both
+sales and core operating income. As you can see here, the strengthening U.S. dollar has a
+negative impact on half two, offsetting the positive impacts we have seen in half one.
+Should currency stay at the current level throughout 2019, we see a negative effect of minus 2%
+on sales and minus 3% to minus 4% on core operating income for full-year 2019 results. Please,
+as always, pay close attention to this as you build your models and as most of you know, we are
+always updating the expected currency impact each month on our website.
+And with that, I turn back to Vas.`Vasant Narasimhan, Chief Executive Officer `
+Thank you, Harry. And when you go to slide 30, I think just reiterating what we've already told you,
+we delivered strong accretive growth in the quarter and are pleased with our momentum there
+and continue on track towards stated goals with respect to margin expansion and top line growth.
+Innovation momentum is continuing in the company. We progressed our advanced therapy
+platform strategy with the agreement to acquire Endocyte and we're on track our full year
+guidance.
+So, with that, we can open up the line for questions.
+Q&A
+Operator
+We have the first question in the line. It's from the line of `Graham Parry, Analyst, Bank of America Merrill Lynch from Bank of America
+Merrill Lynch. Please go ahead. You are now unmuted.
+Q - `Graham Parry, Analyst, Bank of America Merrill Lynch `
+Great. Thanks for taking my questions. So, firstly, on Cosentyx, could you give us an update on
+your contracting into 2019? And have you seen less rebating needed to attain first-line positions
+or is Ilumya and the prospect of ixekizumab launch next year skewing that contracting at all?
+Secondly, on your SMA franchise, could you just give us the best guess on timing of filing in Type
+2/3? Can you file 2020 on the back of the strong data? And also, at WMS, there was some data
+on branaplam, which seem to show worst CHOP-INTEND scores than we see with the Roche oral
+agent or AVXS-101, but there was dose reduction and discontinuation of the trial temporarily. So,
+perhaps you could help us understand how you think that data compares to the other agents in
+development and in the market and where it fits in your overall strategy going forward.
+Third is biosimilar Rituxan. Could you explain when you expect to refile and why you haven't re-
+filed that yet?
+And last one, just an update on AFINITOR. Looking at court dockets, it looks like you've settled
+most of the litigation and IPRs there. Could we see some protection there beyond your prior
+March 2020 guidance? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Graham. So, first on Cosentyx contracting, Paul.
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+So, Graham, thank you for the question. Yeah. I mean it's too earlier to announce where we stand
+for 2019, but the conversations progressed, as we would have hoped, through the summer.
+There is definitely – and more interesting dynamic versus a positive (30:58) dynamic, because
+we're a significantly larger asset than we were at this time last year when we went into this. So,
+we have more leverage.
+We're also very pleased with how we got pickup in volume in first-line. So, we'll be open-minded
+and thoughtful as you'd expect as we go into 2019. But I'm very comfortable with the outlook for
+us as we transition into next year.A - `Vasant Narasimhan, Chief Executive Officer `
+So, with respect to SMA, I'll just quickly confirm, on AVX-101 Type 2/3, our current stated filing
+objective is in 2020.
+Now, with respect to branaplam, LMI, I'll turn it over to John.
+A - `John Tsai, Head-Global Drug Development & Chief Medical Officer `
+Yeah. Can you repeat the question regarding LMI?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Well, John, it was regarding our overall plans with respect to LMI in our portfolio.
+A - `John Tsai, Head-Global Drug Development & Chief Medical Officer `
+Yeah. We continue to advance LMI according our original plans. We look at exploring opportunities
+in terms of combinations with our AveXis-101. So, our current plans are to continue to explore our
+opportunities moving forward in this space.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And I think, Graham, on LMI, I mean we had some early studies, right, that I think were disclosed
+at WMS. But we feel good about the overall profile. I would say that our hope is that gene therapy
+will be foundational and I think the question of whether or not supplementation will be required at
+all is something that clinical trials will ultimately have to determine. But orals will certainly have a
+role for patients who have antibodies at baseline or patients who have maternal antibodies prior
+to being able to get a foundational gene therapy is how we sort of overall see this space
+evolving.
+Now, with respect to biosimilar Rituxan, Richard?
+A - `Richard Francis, Chief Executive Officer-Sandoz `
+Thanks for the question. So, obviously, we've been working closely with the FDA and had
+discussions on our path forward for our rituximab. We are currently awaiting the written feedback
+just to clarify the next step. So, once we have that, we'll come back to you and let you know.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And then, finally, with respect to AFINITOR, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yeah. Sure. Hi. It's Liz Barrett with Oncology. AFINITOR, we do expect generic competition in
+Europe in the beginning of 2019 and then limited generic competition the end of 2019 in the U.S.
+And beyond that, we really just can't give (33:15) any other information.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Liz. And thanks, Graham. Next question?
+OperatorThe next question comes from the line of Andrew Baum from Citigroup. Please go ahead.
+Q - `Andrew S. Baum, Analyst, Citigroup Global Markets Ltd. `
+Thank you. A couple of questions. Given the appointment of a new Chief Legal Counsel and
+given your focus on upgrading the standards, which Novartis hold as compliance, I would imagine
+you'd be seeking to close out the numerous ongoing investigations, particularly in the U.S. with
+the Diovan (33:45). Could you give us some indications of what kind of timing we might expect in
+order to reaching closure here? And if there's anything you feel you can add at all on financial
+settlement I'd be interested, but I understand that may be challenging.
+Second, in relation to Tasigna, which was obviously lighter than, I think, the Street was looking for
+the quarter, could you break down exactly why that was? Was it a discontinuation as a function of
+the data? Was it increased rebating or prior authorization or other factors? That'd be helpful.
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Andrew. So, with respect to the first question, we're pleased that we have Klaus
+Moosmayer joining us as Chief Ethics and Risk Officer from Siemens. He has a deep expertise in
+managing global organizations and really elevating their capabilities on ethics, risk and
+compliance. And of course, we are thrilled with Shannon Klinger our Chief Legal Counsel, as well
+now, being elevated up on the team. So, I think overall we have the right team in place.
+Now, in terms of the various litigations around the world, I can't provide, I think, specific details.
+What I would say is we are looking to try to accelerate closing these matters, so that we can
+move forward, given the new culture at the company, which is one that on the one hand wants to
+be much more empowered and curious for our people and on the other hand wants to have an
+uncompromising approach with respect to integrity, ethics.
+And so, I think once we have better clarity on any of those matters, we'll give you information, but
+certainly, my aspiration is to try to close off these matters, so the company can move ahead in its
+new strategy and new direction.
+Now, with respect to Tasigna, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yes. Hi. Actually, there are several factors that contributed to Tasigna decline. I think it's really
+important first to note that we actually had growth in markets except for the U.S. and the
+emerging growth markets. Emerging growth markets really are phasing. So, the majority of the
+decline is in the U.S. There were three factors that contributed to that. One is actually there was
+reduction in inventory. So, that was about half of the decline in the U.S.
+And then, to your point, it was around the TFR. I think the great news for patients that we
+delivered at ASCO and presented was around patients' ability to come off drug and I think that's
+something that both physicians and patients are excited about, but as patients come off, we
+didn't replenish the funnel at the same rate and so we've seen some of that.
+And then, the third factor is really around competitive pressure in the market and what we've
+done. And I think the most important thing is, in reaction to that, we're really refining our
+messages to focus on efficacy both in first-line and in second-line, because you've also seen an
+increase in imatinib generic. So, we want to focus our message and those failures beyondSo, I do think that we feel like the decline will stabilize and we will return to growth in 2019. So, it's
+not something we expect to continue.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Right. Thanks, Andrew. So, next question, please?
+Operator
+The next question comes from line of `Matthew Weston, Analyst, Credit Suisse Securities (Europe) Ltd. from Credit Suisse. Please go ahead.
+Q - `Matthew Weston, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Thank you very much. Three questions, if I can, please. The first on AveXis launch dynamics, Vas.
+Clearly, you've set out the timeline that points to the middle of next year. Can you give us some
+comfort around the manufacturing supply that should be available at launch if you were to see
+three global approvals?
+And also, given expectations for launch timings, the drug sometimes go awry. Can you give us
+your view as to how you see the rollout? Is there a strong bolus that you expect will very rapidly
+get rolled out or this is something where reimbursement dynamics and really the first gene
+therapy out there means the uptake will be slower?
+Secondly, on VOTRIENT, another drug in oncology where we saw a slowdown in 3Q, Liz, would be
+interested in whether there was anything specific behind that dynamic.
+And then, finally, Vas, on Endocyte, the one thing that slightly surprised us, the deal is structured
+as a merger rather than as a tender, which often suggests there are competition concerns. And
+so, it's whether or not you're prepared to comment as to whether or not you expect competition
+commission scrutiny and whether that's around that CAR-T platform or whether that's around the
+lutetium platform and how you see that playing out.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. Thanks, Matthew. So, first on AVX-101 supply and then the global rollout, I'll hand it to Paul.
+Paul?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+Yeah. So, it's been a great pleasure to get to know the AveXis team in more detail and one of
+the real impressive things beyond the science has been their commitment to world-class
+manufacturing and on a significant scale. And as we got deeper into being credible partners with
+them, it's quite clear that we can match with the IV in SMA 1 whatever the demand may be. So,
+we're comfortable there.
+In terms of rollout, really it'll be – we've gone for the breakthroughs in all three jurisdictions, as
+Vas said, and as they go online, we'll be there to match the demand. And as for boluses, I think
+you mentioned, whilst there is a little bit of a bolus, I am sure we again are ready to treat
+whatever presents and supported by physician and payer.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And I would note as well as we get further along with AVX, it's important to note that the
+intrathecal dose is significantly lower than the IV dose and then supply considerations becomeWith respect to VOTRIENT, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yeah. With respect to VOTRIENT, we're actually where we expected to be at this time. I think it's
+important to note that the dynamics of what's happening in RCC, particularly in the first-line
+treatment with the approval of the I-O, I-O (39:35) in May and as well as the impending data
+that's coming at ESMO around the I-O (39:42) TKI data. And so, I think it's fair to say that in the
+U.S. and Europe, we expect to continue to see some declines, which is exactly what we projected.
+I think it's also important to note that we are seeing very strong growth in Latin America, Japan
+and emerging growth markets and recently received reimbursement in China. So, we actually
+have some growth markets. They are not (40:01) offsetting the decline that we are seeing in U.S.
+and Europe, but it is showing strong growth in other markets.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And then, lastly, with respect to Endocyte and the structure of the deal, Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Thank you, Matthew. So, there are no specific concerns here, just a structure that both parties
+agreed upon to do a one-step merger versus a tender offer. So, nothing specifically to read into
+that.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Okay. Next question? Thank you, Matthew.
+Operator
+Your next question comes from the line of Tim Anderson from Wolfe Research. Please go ahead.
+Q - `Timothy Minton Anderson, Analyst, Wolfe Research, LLC `
+Thank you. On Cosentyx, second biggest drug now, a competitive area and we've got the J&J
+ECLIPSE trial supposed to report out fairly soon head-to-head versus your drug. Can you talk
+about how J&J, the sponsor of that trial, may have optimized that trial to increase the odds that it
+hits? And also, your expectations on the odds that it will be a positive file? And if it does happen,
+what's going to be Novartis' talking points in defensive Cosentyx? And are you going to say it
+won't have any real commercial impact on the product?
+And then, the second question, just to clarify on formulary positioning for Cosentyx, you guys kind
+of got beat up earlier in the year when you rebated, you changed the rebate structure on
+Cosentyx to try to get out of the rebate trap on first-line psoriasis. Has that had success in
+moving you up into first-line access? And what do you expect on that particular front in terms of
+access restrictions in 2019?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yes. I think for both of those, ECLIPSE and the formulary situation, to Paul. Paul?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `So, thank you for the question. When you sit down with dermatologists in the clinic, clear is clear.
+And this debate about my (42:05) is a little bit less relevant.
+Now, it matters to patient outcome and of course the study may read out, you would expect a
+well-organized competitor to pick its moments to be able to make sure that they have some
+differentiation. Our confidence in not worrying too much about the outcome is because we think
+it'll be mainly a campaign or marketing message. Maybe it will add to the dataset. Maybe it'll tell
+us more about their medicine (42:35).
+More importantly, I think, is worth evaluating the ARROW study, the more mechanistic study that
+we have in play. Because the real unanswered questions in dermatology are about the extra
+manifestations. I'm thinking (42:50) one of our backup slides, you can see on the Venn (42:51) that
+we care greatly about advancing the understanding – slide 33, accelerating the understanding
+and advancing the understanding for the dermatology community.
+And two-thirds of these patients have other complications where predominantly IL-17A is the
+driver. So, you have to recognize that the real news will be ARROW. Yes, there will be some
+marketing impact I'm sure of ECLIPSE (43:17) depending on how it reads out, but we're
+comfortable with that.
+As for the rebating and for looking – let's look (43:24) back first, it's the last two years that we've
+said that we will be thoughtful about our rebates on Cosentyx and that we trade access enough
+(43:31) to grow volume faster than the additional rebate and run a successful business. And I think
+we've proven clearly that we've done that. And very pleased, by the way, with our Q3
+performance.
+We don't dig deeper and share data on the first-line setting, but it performed exactly as we
+hoped it would do. And it sets us up very nicely for 2019. I said in answer to a question earlier, I
+think from Graham, that we have got ourselves set up very nicely for 2019. Whilst we haven't
+advertised what we've achieved, we're confident with the position and the strategies deployed in
+last couple of years.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Hey. Thank you, Paul. Thanks, Tim, for the questions. Next question, operator?
+Operator
+Next question comes from the line of `Richard Vosser, Analyst, JPMorgan Securities Plc from JPMorgan. Please go ahead.
+Q - `Richard Vosser, Analyst, JPMorgan Securities Plc `
+Hi. Rich Vosser, JPMorgan. Thanks for taking my questions. Just a question on the Endocyte deal,
+first of all. First of all, could you give us some help in terms of a proportion of prostate cancer
+patients that express their PSMA protein on them? And also, thinking about the initial indication
+that – you are doing the Phase III trial and it looks like it might be post taxane. So, does that mean
+you have to fail Taxotere first? Just some thoughts on the positioning there.
+And perhaps you could give us an idea of whether the royalty payments still stand to AVX post
+the transaction (45:01) stand. And also, on the manufacturing, you talked about that being
+important. Perhaps you could update us and think about the capacity that it brings along with that.
+And second area, just thinking about the CRL on generic Advair, perhaps you could update us
+there.And final question on Alcon, you've hopefully (45:25) given us a 2023 timeframe for margins in
+Alcon to hit the low to mid-20s, but perhaps you could give us an idea or the pace of that
+improvement in margins. Thanks very much.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. Thank you, Richard. So, the – our first question on just the overall landscape for prostate
+cancer PSMA, et cetera (45:47), Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yeah. Sure. About 70% to 80% of patients express PSMA. And to answer your question directly,
+yes, in the trial that we have shown you, you do have to fail at least one taxane. It doesn't have to
+be Taxotere, but it has to be one taxane. And I think our goal is, in the future, to move it earlier
+into the treatment paradigm. So, we will begin to think about that post-close. And I don't think
+we're commenting as far as the royalty is concerned at this point.
+And then lastly, around the manufacturing, there's different types of manufacturing. There's direct
+and indirect and the method that they have is really – just gives us the capability of being able to
+generate less waste and have a more purified therapy. So, we're looking at how we leverage that
+technology and that expertise over to AAA.
+And, yeah, I think from that perspective, that sort of answers the question on what we think is the
+benefit of the manufacturing. They are currently using a CRO. So, I think that our ability post-close
+to look at the total manufacturing and see the best way forward was we'll look at that post-close.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And it's certainly our aspiration to drive that synergy, given the capability we have within AAA to
+reach patients eventually all around the world through our supply chain.
+Next to CRL on generic Advair, Richard?
+A - `Richard Francis, Chief Executive Officer-Sandoz `
+Thanks for the question. So, really, to reiterate what we said on the previous earnings call, we've
+had good discussions and communications with the FDA. We believe we understand what is
+necessary to get generic Advair to the market and we stick with the timeline as we
+communicated earlier where we see this come into the market at the back end of next year.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. And then, with respect to the pace of Alcon margin improvement, David?
+A - `David J. Endicott, Chief Executive Officer `
+Yeah. I'd just start with saying that the 2017 is – sorry, just starting with 2017, obviously the trough
+year, 2018 will be up, 2019 will be up on that. We haven't really commented on the pace, but we
+intend to have our Capital Markets Day in November and December, we'll have an opportunity to
+take you through the margin progression, how we see that. It obviously moves a great deal on
+our products like our AT-IOLs, our manufacturing productivity and then leveraging our cost
+structure. So, we feel good about where we're going long term.
+A - `Vasant Narasimhan, Chief Executive Officer `Great. Thank you. Thanks, Richard, for the questions. Next question, operator?
+Operator
+Next question comes from line of `David Evans, Analyst, Kepler Cheuvreux SA (UK) from Kepler Cheuvreux. Please go ahead.
+Q - `David Evans, Analyst, Kepler Cheuvreux SA (UK) `
+Thanks very much for taking my question. It's `David Evans, Analyst, Kepler Cheuvreux SA (UK) from Kepler Cheuvreux. Just on
+Lutathera, the initial launch, as you point out, has been excellent and certainly faster than I think
+probably most people would have modeled. Could you possibly just give us a little bit more of a
+view on the shape of the launch, how you expect that to look? Are there any kind of sticking
+points in terms of getting access to centers and training centers up or should we expect a typical
+fast linear pharma oncology launch in the U.S.? And equally, Europe, I would imagine, should be a
+lot slower. Is that fair? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So, on Lutathera launch, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yeah. Sure. I think you've said it appropriately. I think we are seeing what you would normally see it
+in a traditional pharma launch. And I think that we were very pleasantly pleased with that. We have
+over 85 centers in the United States, as Vas showed earlier, and we expect that to continue. So,
+we don't – I would say you could look at it like you would a traditional model. And I think in Europe,
+you're correct that we do expect a slower uptake at the centers.
+It is really important to note that it could take up to a year for a center to really understand and
+be prepared for this therapy. So, I think the team is doing a phenomenal job. We're also just
+starting to see reimbursement in Europe. So, while – (49:43) and we do expect it to be slower
+than the U.S. So, I think the majority of the revenue going forward over the next period will mainly
+be coming from the U.S., but we're really pleased with the uptake so far.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And also Liz's team's plan is to get this global over time as well. So, next question, operator?
+Operator
+Your next question comes from the line of `Florent Cespedes, Analyst, Société Générale SA from Société Générale. Please go
+ahead.
+Q - `Florent Cespedes, Analyst, Société Générale SA `
+Good afternoon, gentlemen. Thank you very much for taking my questions. Three quick ones.
+First, on AFINITOR, could you give us more color on why the product declined in Q3 versus the
+slight growth in H1? Is it due to the fact that we are approaching the end of its patent life?
+Second question on canakinumab, could you give us – could you share with us a little bit more
+regarding the requirements from the FDA? Is there a new large outcome trial needed in cardio
+for the future of this product in cardio or could you provide the data or more information to the
+FDA based on the trials available so far?And last question for Richard on Sandoz Europe. Europe looks a bit soft this quarter. After a 7%
+growth in H1, there is only 1% growth in Q3. Is there any reasons behind that? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Florent. Liz, on AFINITOR?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+AFINITOR is really driven by the CDK market and our breast cancer market. So that's what's
+driving the performance there. As you see in the United States, since the CDK market has actually
+penetrated more, we saw a leveling off of AFINITOR, but now that you're seeing the increase of
+penetration of CDK in Europe and other markets, then you're seeing a subsequent decline in
+AFINITOR. So, we expect the same dynamic to likely happen as the CDK market begins to
+penetrate in earlier lines in those markets as well.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And then, John, with respect to the canakinumab CRL?
+A - `John Tsai, Head-Global Drug Development & Chief Medical Officer `
+Yeah. Regarding the canakinumab CRL, as we saw from the CANTOS trial, we knew that the
+patients who achieved hsCRP less than 2 received the most benefit. And as we continue, we had
+discussions and we received the CRL yesterday and we are continuing to explore additional
+information based on the information that we received from the FDA and we'll have further
+understanding as we move forward.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Yeah. So, we'll provide updates on that as we go. And then, Richard, on the EU generics?
+A - `Richard Francis, Chief Executive Officer-Sandoz `
+Yes. Thanks for the question, Florent. So, yeah, there was a softening of the performance in the
+European business and let me sort of outline what drove that. So, firstly, it's worth noting that we
+did lap our bio launches that we had in quarter three last year. So the prior year was a pretty big
+year for us with the launches of Erelzi and Rixathon.
+And then, on the retail side, you're aware that with valsartan (52:48) and so that had an impact on
+us as well as some seasonal buying patterns, which are constantly varying across quarters and
+some years and so we felt the impact of that.
+Now – so, I remain confident about the European business. It has performed well and going
+forward obviously, we have a number of launches coming up in the near term. This week, we
+launched adalimumab into Europe and then number of markets, as Vas mentioned, as well as
+we're optimistic about pegfilgrastim coming to European business pretty soon as well as
+infliximab. So, I hope that answers your question, Florent.
+Q - `Florent Cespedes, Analyst, Société Générale SA `
+Great. Thank you very much.
+A - `Vasant Narasimhan, Chief Executive Officer `Thank you, Florent. Next question, operator?
+Operator
+Your next question comes from line of `Steve Scala, Analyst, Cowen & Co. LLC from Cowen. Please go ahead.
+Q - `Steve Scala, Analyst, Cowen & Co. LLC `
+Thank you. Several questions. Kymriah in follicular lymphoma, the filing has been delayed. The
+company previously has said manufacturing issues were not delayed filings. Is there a change in
+that?
+Secondly, Paul, you previously have said thousands of Type I patients would want AVXS-101 up on
+lunch, which implies multibillion dollars in revenue in 2019, fueled by, as you have said previously,
+time is neurons. The answer to Matthew's question was a bit more muted than that very positive
+portrayal in the past and I am wondering if you could amplify.
+And then lastly, for Richard, biosimilar Humira in the EU, what do you think the slope of adoption
+will be? For instance, can biosimilars get 25% molecule share in the first year or more? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So, I think first on Kymriah, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+No. In Kymriah, we're (54:33) currently are manufacturing. We've just announced a slowdown on
+trials, but we have not noticed any ending of a trial or expecting that we would delay any trial
+because of the manufacturing. So, I think that's the only thing we want to add at this point.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So, I mean our aspiration is to keep FL as well as the other T-cell NEH (54:52) cancers on track
+with respect to Kymriah. Paul, on Type I SMA?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+So, Steve, I'm sorry if I was somewhat muted. It was my intention. I was trying to respond to the
+manufacturing question which I'm comfortable with. The SMA community is desperate for gene
+therapy. We do believe it's going to be foundational across all SMA types. Our first indication will
+be in newborns and we expect to have a significant demand for that patient population and we
+will be ready to match that demand.
+I should have perhaps mentioned earlier about our North Carolina manufacturing site that we
+made a big investment in to triple our capacity. So, we're preparing very well for whatever is
+there and we do hope that there is a significant number of patients as much for the patients as
+for the business.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Paul. And biosimilar Humira? Richard?
+A - `Richard Francis, Chief Executive Officer-Sandoz `Yeah. Steve, thanks for the question. So, to answer your question about what market share and
+what penetration there will be, I think it's an interesting question and what I would say is if you
+look at the – historically, every biosimilar that comes to the market in Europe I think changes the
+adoption and moves it upwards. And we saw that obviously last year with rituximab come into the
+market and you see the penetration levels there.
+So – and we've also got obviously a few competitors coming to the market with us. I think that
+drives me to be optimistic about the biosimilar penetration over the first year and also stand with
+(56:24) with that. I won't get too specific about numbers, but I do feel the European market is
+ready for this and most definitely the health authorities need to be looking at opportunities to
+save money. So, very positive.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Richard. Thanks, Steve. Next question?
+Operator
+Your next question comes from line of `Eric le Berrigaud, Analyst, Bryan, Garnier & Co Ltd. (France) from Bryan, Garnier. Please go ahead.
+Q - `Eric le Berrigaud, Analyst, Bryan, Garnier & Co Ltd. (France) `
+Yes. Good afternoon. Three questions, please. The first one relates to margins in pharma and
+Sandoz and the way sales to other segments and other revenues are contributing to the margin
+increase in the quarter, could you maybe, at least for Innovative Medicine where it contributed
+more than 100 basis point out of the 190 basis point, explain what is behind, especially the sharp
+increase in other revenues and also sales to other segments, if there's been any shift from
+corporate into the various divisions, because it looks like there is a double-digit increase, whether
+there is a significant decrease in corporate?
+Second point on Lutathera, perhaps again, three questions, first to understand how is it used and
+whether it's very late in lines, like second, third line. Mainly second, why there's no impact on
+Sandostatin, as I guess it's additive to Sandostatin? And then, maybe to remind us what your
+plans are to move it in earlier lines in the future.
+And third, on Sandoz Europe, again, just to understand how the trajectory of the biosimilars could
+be in year two, because we can understand that now rituximab for instance in Europe is getting
+into the second year. So, how does it look like? Are you able to increase volume? Are you facing
+significant price decrease? Are you keeping your market share? Because we see the brand name
+still going down, but if it looks more flat for the biosimilar, then probably there is some
+explanation behind it. Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+First, on the other revenues, Harry?
+A - `Harry Kirsch, Chief Financial Officer `
+Yes. So, on the other revenues, as you mentioned, mainly driven by Innovative Medicines, this is
+basically profit split and royalties behind Aimovig and Xolair. So from that standpoint kind of
+margins, it's true-up from the profit split where we have marked in sales efforts (59:02) in the
+SG&A line and then some true-up and limited royalties on other revenues as well as Xolair
+royalties from U.S. profit split.So that's the main part driving the other revenues up. There is no change in the structure of how
+we really work with (59:20) corporate and respective divisions. We have seen – you may have
+seen this in the corporate line that vaccines, IP-related royalties have come down significantly and
+therefore an increase in the corporate cost line and core corporate expenses.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Harry. Lutathera, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yes. Sure. Lutathera is indicated for second-line in neuroendocrine tumors and that's where our
+growth is and as traditionally seen and typically seen in this market, obviously some of the
+patients initially have been through even more than the two lines you've seen the layer line, but
+we do expect to become standard of care in second-line.
+They haven't seen any impact on Sandostatin, because a couple things happen with the dynamics
+of Lutathera is one, you do have to come off of Sandostatin temporarily, but the trials were done
+followed by Sandostatin. So, once the Lutathera treatment is complete, the patients go back on
+to Sandostatin and I think that we believe that Sandostatin will continue to be first-line standard of
+care, but we are considering looking in investigating Lutathera in earlier lines of therapy.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And lastly, Sandoz (01:00:38) Europe, Richard?
+A - `Richard Francis, Chief Executive Officer-Sandoz `
+Yeah. Thank you for the question. So, (01:00:43) your question is sort of how we should think
+about the growth rate. So, firstly, I'd like to sort of point out, obviously there, for the quarter, we
+had a 21% growth rate in biosimilars. Now, of that, the base business, which you sort of call the
+non-launch business in Europe, also performed very well.
+And we continue to see a good uptake on both rituximab as well as etanercept. As we move
+forward, I still think there's good opportunity to continue to keep growing these products.
+Obviously, the biosimilar penetration hasn't maxed out, but at the same time, we do see some
+fighting back of the originator and that generally is in the form of prices. So, that gives some
+variability, but we still see these as growth brands as we move into next year.
+So, hopefully that answered your question.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Richard. Thanks, Eric. Next question, please?
+Operator
+Your next question comes from the line of `Michael Leuchten, Analyst, UBS Ltd. from UBS. Please go ahead.
+Q - `Michael Leuchten, Analyst, UBS Ltd. `
+Thank you. Two questions please, one on Aimovig, for patients that are coming off the free drug
+program, I wondered if you had any data to show what happens to those? Are they all converting
+into commercial? (01:01:53) any color would be helpful even though it's early days.And then questions on Alcon, given the CyPass withdrawal, I was wondering how you measure
+the potential impact on Alcon surgical given that the business has spent a lot of time rebuilding
+trust with the physician's community and surgeon community. Is there any way you can quantify
+touch points, any collateral damage for the business if any? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. Thank you, Michael. Paul, on Aimovig?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+So, firstly, we're delighted with the uptake of Aimovig in the U.S. and indeed it reads across very
+nicely to what we think will happen in Europe. That is rolling reimbursement in Europe. The
+unprecedented demand bodes well for the choices made.
+We're not sharing data yet for the conversions. I think you'll appreciate clearly that our objective
+early on in the launch was to give physician and patient the earliest opportunity to use the meds
+in unencumbered, find out if they're a responder and just how great a responder and that's
+proven out to be exactly as we thought with the significant uptake.
+It's also worth mentioning as well, because as we get through the end of the year and into next
+year and we start talking about or our partner will start talking about, the U.S. dollar sales, that we
+are running both a hub at the high touch for neurologists and a retail approach. So we feel that
+we'll be unique in offering both channels to get drug to patients. So we feel good about how
+we're going to convert and when we're going to convert, but I'm not going to share that data
+right now.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. Thank you, Paul. And now, CyPass situation, David?
+A - `David J. Endicott, Chief Executive Officer `
+Yeah, on CyPass, probably the best way to think about the impact is long-term relationship with
+the surgeons. I think we feel really good about what we did around how we handled this. It was
+done with a lot of scientific advice from folks we know well, but also in conjunction with the
+agencies.
+We've exposed all the data at ESCRS. We'll show it again at AAO. We've made it available to
+people on our website. And obviously, we continue to work with the agencies around the world to
+do the next thing we can to see what we can do around the product long term.
+The important part on this is that the Surgical business grew 7% in the quarter. It also continues to
+benefit from a lot of our AT-IOL push, which I think kind of is your best metric on how we're doing
+with the surgeons. I think surgeons appreciated our proactive and assertive response to the
+signals we saw.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Great. Thank you, David. Thank you, Michael. Next question, please?
+Operator
+Your next question comes from line of `Kerry Holford, Analyst, Exane BNP Paribas from BNP Paribas. Please go ahead.Q - `Kerry Holford, Analyst, Exane BNP Paribas `
+Thank you. Yes. Just two questions left for me. Kymriah, just interested to get your view on the
+sales ramp so far. How has that delivered versus your internal expectations? Are you comfortable
+with the current consensus forecast for over $200 million next year?
+And also, just to understand why you've taken on board the third-party manufacturing on this
+asset in China with Cellular Biomedicine Group, is that to supply the local market totally
+(01:05:12)?
+And then, on Gilenya, just following the positive IPR ruling last July, just can you remind us of the
+next steps here in terms of timeline? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thanks, Kerry. On Kymriah, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Let me – sure (01:05:26). Thanks for the questions. On Kymriah, where we are today, to be
+honest with you, we're actually above our expectations given the manufacturing challenges that
+we've had. I think that's actually response to physicians really being excited about the opportunity
+to bring Kymriah to their patients.
+So it's hard to tell where we would be if we didn't have the challenges, but I think that what we've
+seen is that centers have continued to order Kymriah despite this and because they really think
+it's important for their patients to get Kymriah. So, the good news is we've actually been able to
+deliver the therapy to most of the patients. So we're really pleased to be able to bring this
+therapy to patients.
+On China, as you say, it's because we do need to have manufacturing in China based on China
+law and we also expect that they'll be able to assist us in gaining access to patient population in
+China. So, I think what you've seen over the last few months is we've expanded our footprint for
+cell therapy manufacturing around the world. I think that, that shows that we are committed to
+providing access to this important medicine around the world.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Maybe I'll just add on Kymriah. When you look longer term, I mean we really see this as a long-
+term play and we're quite confident in the profile of the medicine, which is why we invested in
+resolving the manufacturing issue in the U.S. We announced a deal with CELLforCURE in France.
+We announced we will be building a facility here in Switzerland. We announced the China facility to
+really give us the global supply chain that we need.
+And the reason we do that, as Liz points out, is Kymriah has a pretty unique profile we're learning.
+It's a profile that hits the sweet spot between strong efficacy and solid safety. It can be used in
+the outpatient setting. And when you think longer term about this evolution of this space, it's
+really going to be about moving to earlier lines of therapy where the T-cells are less exhaustive
+and you can generate stronger responses and you want a very safe profile medicine in order to
+be able to do that.
+So, our aspiration with this is to get across T-cell NEH (01:07:25) cancers, get into earlier lines,
+have global manufacturing scale and be able, then, to really make this into a significant medicineNow, with respect to the Gilenya IPR, there's no new updates from what we have told, I think, you
+in the last quarter. We have filed the lawsuits against the relevant parties. We're awaiting now the
+next steps with respect to the various court cases and what these various parties might do. As
+soon as we have any further updates, of course, we'll keep you all aware.
+Thank you, Kerry. Next question, please?
+Operator
+Your next question comes from the line of `Seamus Fernandez, Analyst, Guggenheim Securities from Guggenheim Securities.
+Please go ahead.
+Q - `Seamus Fernandez, Analyst, Guggenheim Securities `
+Well, thanks very much for the questions. So, just a couple here. I don't know if anybody asked
+any questions on Aimovig yet, but just interested to know a little bit of how we should be thinking
+about the evolution of gross to net and pricing in this area. Obviously, we're seeing some
+spectacular uptake of the products, but there is speculation and awareness that a lot of free drug
+is obviously entering the market, because payers have not really supported yet. So just
+wondering how Aimovig is going to evolve in terms of gross to net pricing in the U.S. and how you
+feel, once that occurs, how the market is likely to shift in terms of the uptake.
+And then the second question is actually on QAW. I noticed that the first two trials that Novartis
+has reading out for QAW are on FEV1. The benefits that we've seen on FEV1 so far have been
+somewhat limited with the antibodies. Just trying to understand how your team has actually
+managed to or is managing those trials for success, given what we've seen on the FEV1 endpoint
+in the high eosinophil type area. So, thanks so much for the questions.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you, Seamus. So, on Aimovig, Paul?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+Yeah. I think clearly, I'm not going to comment on the gross to net and in fact just to be clear,
+Amgen take the lead on that decision ultimately in the U.S. I don't think we should get confused
+about free drug and trialing with what that means ultimately for gross to net.
+Again, we were launching several months ahead of competition that were coming thick and fast.
+Again, we wanted to make sure patients got to try it. It wasn't about coverage or commercial
+insurance. It was about trial. And you'll have also seen as recently as yesterday an update from
+Express Scripts about the fact that we are already part of their plan. It wasn't just recently. It was
+from the beginning.
+So we know over time that the volume has to be converted to commercial patients and we feel,
+again, very confident in how to do that and we have the plans in place to do it. So, I probably
+wouldn't have much to add, I think, that's apart from that (1:10:30).
+A - `Vasant Narasimhan, Chief Executive Officer `
+And John, on the QAW pivotals?
+A - `John Tsai, Head-Global Drug Development & Chief Medical Officer `Yeah. Thanks for the question, Steven (sic) [Seamus]. Regarding what we saw in Phase II on, as
+you know, fevipiprant or QAWs are the only DP2 antagonists to show improvement in FEV1
+asthma control and reduction in sputum eosinophils. And we have our ongoing Phase IIIs, which
+are LUSTER-1 and LUSTER-2. We expect to see results in the second quarter of next year and we
+have that currently powered at greater than 90% for 40% relative risk reduction in the rate of
+moderate-to-severe asthma exacerbation. So we're looking forward to seeing the results in the
+exacerbations for next year.
+A - `Vasant Narasimhan, Chief Executive Officer `
+And just to be clear, where we try to position QAW is really ahead of the monoclonal antibodies
+and we know we need to show exacerbation reductions that will enable that to happen. But our
+absolute aspiration is that this drug will demonstrate it can be used before biologics and also will
+then be used in children, where we also have a program to ensure that there's pediatric dosing
+available over time, so that we can really cover the space of severe eosinophilic asthma.
+So, thank you, Seamus. Next question, please?
+Operator
+Your next question comes from the line of Marietta Miemietz from Primavenue (01:11:48). Please
+go ahead.
+Yeah. Thank you very much for taking my questions. It's Marietta from Primavenue (01:11:55). Just
+a few points of clarification left really. One is following up on Kerry's question on Kymriah. I mean
+how should we think long term about pay-aways to third-parties? In terms of China, should we
+think of your partner as more of a glorified CMO (1:12:12) or as someone who gets meaningful
+royalties or something potentially even approaching a profit split? And as we look into the really
+long term and think about Kymriah potentially being a mega blockbuster, what sort of royalty rate
+pay-away should we assume for the various regions?
+Also couple of questions on the Endocyte deal, please. The first is in terms of the positioning. I
+understand that it's going to be much broader than the radiopharmaceuticals currently going into
+prostate cancer. But ultimately, in the bone met space, is my understanding correct that you
+would still be competing, because you wouldn't be giving two radiopharmaceuticals, one treating
+just the bone mets and one treating effectively the bone mets plus something else?
+And then, the second question on that is also – I mean, given somewhat checkered history of
+radiopharmaceuticals and prostate cancer, would you say that you don't expect any similar
+problems for your product, because it's much more of an Endocyte product, because it's much
+more targeted or are there any particular learnings for your own clinical program, in particular, any
+tumor settings or patient segments that you won't go after?
+And then, just a small point of clarification on AveXis-10. So, Vas, your earlier comment that gene
+therapy is likely to be foundational, were you saying that you expect orals to show lesser efficacy
+in the vast majority of patients and therefore the gene therapy should remain or should become
+standard-of-care for the foreseeable future? Or was that comment really just related to the pent-
+up demand in the bolus patients and you're effectively saying that you think if you look at the
+cumulative commercial opportunity longer term, most of that will have gone to the gene
+therapies before the orals actually hit the market? Thank you very much.
+A - `Vasant Narasimhan, Chief Executive Officer `So, first on Kymriah global, Liz?
+A - `Elizabeth Barrett, Chief Executive Officer-Novartis Oncology `
+Yeah. Sure. I mean I think the way that you should look at it is that we're committed, as Vas
+explained, to bringing this important therapy around the world. I don't think that there's any
+additional royalty or other things that we have to think about beyond what we already know.
+On the CBMG and partnership in China, I think we look at it very much as a partnership. They will
+be manufacturing for us and they will also work with us to gain access there. But we're not
+expecting any type of profit-share there.
+So, I think that pretty much answers that question. It's really important, again, as Vas said before,
+to understand that we're in the long game with cell therapy and particularly with Kymriah and
+we've seen and we feel like our – the key stakeholders, physicians and patients are excited about
+Kymriah. And we actually continuously get requests from around the world to have access to this
+medicine. So, it's important that we do it, but we also do it in the right way, and we're planning to
+do that.
+Moving to the prostate and to Endocyte, I do think there's, again, a little bit of a
+misunderstanding. This therapy is for all patients to treat prostate cancer. I think that's the most –
+the clearest way that I can explain it. It's not to treat a side effect or any other part of prostate
+cancer. It's to treat prostate cancer.
+And what's happening in prostate cancer, I think, it's really important to think about the evolution
+of what's happened in prostate cancer. With antiandrogen therapies, particularly the novel
+antiandrogen therapies, are moving into the non-metastatic setting. So you're seeing the need
+for more therapies in the metastatic setting. And so we see that this will be an important
+medicine for all prostate patients with PSMA, which as I noted before, is about 70% to 80% of the
+patient population.
+I think we've demonstrated through the launch of Lutathera that we can bring this important
+therapy to patients and that physicians and centers and nuclear medicine physicians are
+interested in and excited about bringing these types of therapies to patients. So, I think, we felt
+very good about the prospects for the prostate cancer area. It's a large market, and these
+patients are in need of additional therapies.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Maybe if I could just...
+Q - Operator
+Can I just clarify – sorry – can I just clarify on that point because I thought that the vast majority of
+metastatic patients, the first metastases that develop or the main metastases are the bone met.
+So are you basically expecting to be as good on bone met as other therapies but have the
+broader application? Or would the (01:16:51) separately?
+A - `Vasant Narasimhan, Chief Executive Officer `
+Let me try it one more time, Marietta (01:16:56). So when you think about radiopharmaceuticals
+that's traditionally conceived, you're infusing a radioactive compound systemically, IV, and those
+radioactive compounds have certain affinities. So radium has infinity in places where there's
+calcium, so radium builds up in the bones. But you have systemic side effects, and you don't havea very targeted approach to all of where you find the relevant cancer because this is really
+infusing a radioactive agent.
+Radioligand therapy, which is what we do with Advanced Accelerator Applications and what we
+do here with Endocyte, links a scientifically well-understood ligand that's specific to – a specific
+cancer that links to a radioactive particle through conjugation chemistry. In the case of prostate
+cancer, there is a well-understood antigen called prostate-specific membrane antigen, PSMA,
+which is used as a diagnostic and ultimately used for treating the cancer.
+So what our aspiration is, based on all the science that we understand, is that these PSMAs are
+overexpressed on prostate cancer cells, so wherever you find prostate cancer in the body, you
+will be able to treat with radioligand therapy as that's conceived by Endocyte. So, our expectation
+is we will be able to work well in bone mets, but more importantly we will work well for anywhere
+in the body that you find prostate cancer. And then we hope to create overall survival benefits
+and progression-free survival benefits in the indication of prostate cancer.
+Q - Operator
+All right. That's clear (01:18:36). Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+Thank you. And then on AVX-101 as a foundational therapy, I mean, really what we believe, and
+we have to ultimately generate the data to show this in SMA 2/3, but on SMA 1, we've clearly
+shown this is the foundational therapy, potentially lifelong, clear and compelling efficacy,
+remarkable efficacy. And so far what we've seen over in outpatients (01:18:57) beyond four years
+consistent effect.
+Now in SMA 2/3, we have the studies running. Mechanistically, we believe, correcting the SMA 1
+gene fundamentally is what you want to do here and that's what we're trying to do with this and
+that should enable the speed of action and the hopeful clinical benefit that you want to see in
+SMA Type 2/3. We need to show that but then we believe gene therapy would become
+foundational in those patients as well.
+I think we always have to remind ourselves here that this is an absolutely terrible disease. You
+meet patients who have this disease, if you meet their parents, this is an absolutely devastating
+condition. So, having benefits that are quick, saving what motor neurons are available still in the
+body, enabling function, has a huge, huge impact. So, when we look at this from a distance, it
+starts to say, well, these things look all very similar. Actually these differences matter massively to
+the patients involved. And so, I think, that's what we believe will ultimately carry the day with
+respect to one-time gene therapy for these patients. So, next...
+Q - Operator
+Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So, next – last question?
+Operator
+The question comes from line of the `Keyur Parekh, Analyst, Goldman Sachs International from Goldman Sachs. Please go ahead.Q - `Keyur Parekh, Analyst, Goldman Sachs International `
+Thank you. I have two questions, please. The first one, Paul or Vas, how would you categorize the
+recent pricing comments from J&J on kind of the inflammation market? And secondly, just more
+broadly on the pricing theme, kind of can you talk a bit about what you're seeing as it relates to
+kind of the IL-17 part of the market and kind of then on the migraine side, we, obviously, we saw
+headlines from Express yesterday, choosing to leave off certain products off that category.
+(01:20:51) describe for us what you're seeing in that market?
+And then secondly, as I look at your early stage clinical trials, it feels like you got a bunch of assets
+now for looking at NASH, how would you categorize your interest in that space? And then
+conversely, what's quite unique is not a lot of IO assets on your early stage clinical trial, is that
+now a de-prioritized area from your perspective or are they just kind of further along? Thank you.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So with respect to pricing in IL-17 and CGRP, Paul, any comments you'd want to make?
+A - `Paul Hudson, Chief Executive Officer-Novartis Pharmaceuticals `
+I'm not aware of any comments that have been made externally. I think, just a couple of
+observations. We work very hard at affordability and to make sure that those that need the
+medicine get the medicine. I think that's where our priority is. And I think we have been shown to
+be skillful in our work with payers and PBMs alike, so I, perhaps, have nothing more to add than
+that.
+A - `Vasant Narasimhan, Chief Executive Officer `
+So, on NASH, we have a lead compound called LJN452 tropifexor, which is a FXR agonist
+synthetic, which, we believe, has a best-in-class profile, we've completed two steps of the Phase
+IIb study. We're now in a final dose escalation. We believe because of the profile of the product,
+we can avoid pruritus, we can avoid LDL elevations and get the dose, effective dose much higher
+than other established therapies.
+Given that we have that product, we've announced collaborations with a few external parties on
+combinations as well as our own deal with – for emricasan for Conatus, where we have a
+combination trial ongoing as well as rights to some of their compounds. We also have an alliance
+with Allergan to do a combination trial there.
+Our belief is in having that linchpin molecule for – in having the FXR will enable us to hopefully
+combine with multiple other agents. We play a long game here. We know there's many other
+companies in Phase III, but we think understanding the underlying biology and then having the real
+best-in-class agent is the way forward in NASH, so stay tuned as we get more results.
+With respect to IO, I wouldn't say there's a change in strategy. What I'd say is we, in observing the
+external environment, have held IO – or IO assets to a very high standard, and we want to ensure
+that we see either single-agent activity or a situation, where we're confident that the activity we
+see can be attributed to our IO compound.
+I would note with canakinumab, we have a pretty large Phase III IO program that is validated
+based on studies and analysis of a 10,000-patient study published in The New England Journal of
+Medicine, where we're in adjuvant lung cancer first line and second line lung cancer. We, of
+course, are also in CAR T-cell therapies.We continue our work across the full range of IO assets that we brought in. I think, by last count,
+we have either tied or leading number of IO assets that are in the early stage clinic. But from my
+perspective, we want to hold them to a high bar. We want to really ensure we see single-agent
+activity and then in combination really be sure that the additional agent is giving a benefit so that
+we're really creating value for patients and for the health care system.
+So, I think that's the last question. I appreciate everyone joining the call, and I, of course,
+appreciate your interest in investing – all of you who invest in our company, we appreciate your
+support. So thank you again, and have a great day.
+Operator
+Thank you for joining today's call. You may now disconnect your handsets.

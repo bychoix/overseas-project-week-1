@@ -1,0 +1,970 @@
+Y 2020 Earnings Call
+
+Presentation
+Unidentified Speaker
+Thank you for taking time to participate today despite your busy schedules. We would now like to
+begin Toyota Motor Corporation's financial results announcement for fiscal year 2020. In order to
+prevent the infection of the new coronavirus and also based on the guidelines provided by the
+government, we have decided to hold this announcement online. And for the venue of our
+announcement, we have minimum staff standing by. And in order to secure the -- for
+announcement clarity, we have decided to provide the sound without using masks.
+Now we have two sections today, session 1 will begin 1:15 up to 2, and the session 2 will begin
+from 2:10 to 2:55. There will be a 10-minute break in between.
+I would now like to introduce our session 1 participants. We have our operating officer, `Kenta Kon, Chief Financial Officer, Chief Officer, Accounting Group & Fellow, Advanced R&D,
+also operating officer, Masayoshi Shirayanagi.
+Now, we would like to begin by providing an overview of our financial results.
+`Kenta Kon, Chief Financial Officer, Chief Officer, Accounting Group & Fellow, Advanced R&D `
+Hello, everyone. Thank you for joining us today. I am `Kenta Kon, Chief Financial Officer, Chief Officer, Accounting Group & Fellow, Advanced R&D. First and foremost, we would like
+to convey our deepest condolences to those who have lost loved ones to COVID-19 and wish all
+those who have been affected by the virus, a speedy recovery.
+We also wish to extend our sincere gratitude to the healthcare professionals and officials, who
+are on the front lines for their tireless work. We also would like to express our heartfelt
+appreciation to our customers around the world, who chose us as well as our shareholders,
+dealers and suppliers, who support us.Now, I would like to discuss Toyota's financial results for the fiscal year, which ended in March
+2020. Compared to the previous fiscal year, consolidated vehicle sales decreased by 19,000
+units to 8,958,000 units. This was a result of decreased sales, mainly in Asia due to market
+deterioration in Thailand, India and Indonesia. This includes a sales decrease of 127,000 units
+caused by COVID-19.
+Consolidated financial results for the fiscal year were net revenue of JPY29,929.9 billion;
+operating income of JPY2,442.8 billion; pretax income of JPY2,554.6 billion; and net income of
+JPY2,076.1 billion. Due to the spread of COVID-19, net revenues were decreased by JPY380
+billion, and operating income were decreased by JPY160 billion.
+Using slide six, I would like to explain the factors, which impacted operating income year-on-year.
+Firstly, the effects of foreign exchange rates decreased operating income by JPY305 billion.
+Secondly, cost reduction efforts increased operating income by JPY170 billion. Thirdly, marketing
+efforts decreased operating income by JPY90 billion. And finally, a reduction in expenses
+increased operating income by JPY45 billion. As a result, excluding the overall impact of foreign
+exchange rates, swap valuation gains and losses and other factors, operating income improved
+by JPY125 billion year-on-year.
+As for the breakdown of negative impact of JPY160 billion caused by the spread of COVID-19,
+JPY100 billion was due to a decrease in volumes of vehicle sales and JPY60 billion was due to an
+increase in provisions for financial service business.
+Now, I would like to elaborate on operating income for each region going from the left hand side
+to the right hand side on slide seven. In Japan, operating income was down JPY121.8 billion year-
+on-year to JPY1,568.5 billion, mainly due to the impact of marketing efforts.
+In North America, operating income was JPY289.5 billion, up JPY145.4 billion compared to the
+previous fiscal year, mainly thanks to marketing efforts and reduction in expenses. In Europe,
+operating income was up JPY19.6 billion year-on-year to JPY140.7 billion, mainly result of
+marketing efforts. In Asia, operating income, including that of consolidated subsidiaries in China is
+down JPY66.9 billion year-on-year to JPY386.8 billion due to the effects of ForEx rates caused by
+depreciation of the Chinese yuan and appreciation of the Thai baht. In other regions, operating
+income decreased by JPY6.9 billion year-on-year to JPY82.6 billion. This was largely due to the
+effects of ForEx rates.
+Next, let me explain our consolidated subsidiaries and equity method affiliates in China, as well as
+our financial services business. As for our China business, operating income of consolidated
+subsidiaries decreased by JPY16.2 billion year-on-year to JPY134.4 billion. Excluding the effects of
+ForEx rates caused by depreciation of the Chinese yuan, operating income increased by JPY30.9
+billion year-on-year.
+Equity and earnings of equity method affiliates was up JPY13.1 billion year-on-year to JPY118.1
+billion, largely, thanks to marketing efforts.
+Regarding financial services, operating income was down JPY32.6 billion year-on-year to
+JPY309.7 billion. This is mainly due to an increase in allowance for doubtful accounts.
+Next, I'd like to explain our return to shareholders. We have decided to make the year-end
+dividend on shares of common stock JPY120 per share, thus the dividend on shares of common
+stock for the fiscal year will be JPY220 per share, which includes the interim dividend of JPY100
+per share and the payout ratio for the fiscal year will be 29.9%.We always endeavour to pay dividends in a stable and sustainable manner using the consolidated
+payout provision of 50% as a benchmark. Considering our earnings performance, we have
+decided to pay the same dividend amount as the previous fiscal year. We will continue to aim to
+create stable and sustainable dividends.
+As for the share, the purchases, we have decided not to repurchase our common stock as a form
+of year end shareholder return. Amid growing sense of uncertainty in the global economy, we
+would like to apply with the (inaudible) our cash reserve to sustain the automotive manufacturing
+industry to pursue competitiveness and continue our activities towards achieving the new mobility
+society together with all our stakeholders. We would appreciate your understanding and
+cooperation.
+Now I'd like to -- now going to discuss the outlook for the full fiscal year ending March 2021.
+Please note that we will adopt IFRS beginning from the first quarter of the fiscal year ending
+March 2021, therefore, the consolidated forecast is calculated in accordance with IFRS.
+Consolidated vehicle sales for the fiscal year ending March 2021 are expected to be 7 million
+units, down 1,958,000 units year-on-year. At this moment, state of emergency and lockdowns
+have likely been implemented in many countries due to the progression of the COVID-19.
+Although it is difficult to foresee the future and the situation varies by regions and countries, with
+(inaudible) being in the floor we have assumed that sales will gradually recover to 2019 level by
+year end to next year. We are not able to provide region sales breakdown, as it is difficult to
+foresee future spread of infection and progress risk [ph] containment.
+Next, let me explain the full year consolidated financial performance. We have assumed the
+foreign exchange rate to be JPY105 per dollar and JPY115 per euro. Based on this, our forecast of
+the consolidated financial performance are net revenue of JPY24 trillion; operating income of
+JPY500 billion. Forecast of other items have yet to be determined.
+I like to explain the factors, which will impact operating income year-on-year. Firstly, the negative
+effect of ForEx rates will be JPY430 billion, as we have assumed that yen will appreciate against
+the US dollar and euro. Secondly, we anticipate drastic decrease in volume of the vehicle sales will
+have a negative impact on operating income of JPY1,500 billion.
+The effect of factors other than vehicle sales will be even. Although, this includes the effects of
+cost reduction, marketing efforts, changes in fixed cost, product mix and by [ph] destination mix,
+we are not able to provide detailed analysis. While strengthening the TPS and refining [ph] cost at
+all levels, we remain committed to thoroughly differentiate ourselves into mobility company and
+to continue sowing the seeds for the future results (inaudible).
+This conclude my presentation. I thank you very much for your attention.
+Questions And Answers
+Operator
+(Operator Instructions) Mr. Suzuki [ph] of Chunichi Newspapers. We will now switch over screen,
+so when yourself is on the screen, then please start your question, please. We are now switching
+the screen. Your patience, please. Mr. Suzuki, please.
+Q - `Yoshiyuki Suzuki, Analyst, Chunichi Newspaper `
+I'm Suzuki from Chunichi Newspapers. Thank you. I have mainly two questions. My first question isAnd also about your forecast for the next fiscal year. As you have explained, at the end of this --
+the ended term, you had the COVID-19 impact. And therefore with how you have ended, how do
+you evaluate the results? For your forecast of the next fiscal year with the uncertain visibility with
+the coronavirus impact, there are many companies, who have refrained from making
+announcements of forecast for the next term. However, how have you come up with the basis for
+the calculation to come up with the forecast?
+And my second question will be for the current sales situation. In China market, we see that
+recovery is quicker than other markets and sales is recovering. However, in the other -- so for
+Toyota, compared with your competitors, it seems that your recovery of sales is faster than
+competitors. And even for the domestic market, there is a big drop in the domestic demand. But
+compared with other competitors, I think Toyota's sales drop is not that big. So how do you see
+this -- how do you see the current situation?
+A - `Kenta Kon, Chief Financial Officer, Chief Officer, Accounting Group & Fellow, Advanced R&D `
+Thank you very much for your questions. First of all, regarding your question about the results of
+the FY 2020 financial results. With the COVID-19 impact that I have explained earlier, including
+those, we have seen a drop in volume, also, we have seen a drop in both revenue and also profit.
+And if you have your slide at hand, if you can open to slide six, please. This is the analysis of the
+consolidated operating income, the ups and downs, the plus factors and the negative factors.
+And among these factors, excluding the -- looking at the center square box that says, excluding
+the overall impact of foreign exchange rates and swap valuation gains and losses, this was a
+positive JPY125 billion. And we shouldn't be talking on hypothesis basis, but if we did not have the
+COVID-19 impact, this number would have been an improvement of JPY285 billion.
+For the past few years, -- this area, where we exclude the overall impact of foreign exchange
+rates and swap valuation gains and losses, we had a determination to always be on the positive
+side. And we have made profit improvement activities and actually improved private -- profit. And
+even considering those activities, this plus JPY125 billion has been a significant improvement.
+And for the past few years, we have been able to continuously make positive improvement in this
+item, and it is thanks to everyone's support. However, we're very grateful that we maintained this
+positive improvement. And also for the expense reduction efforts and also investments, we have
+been proactively making investments for the future.
+However, even though there are positive investments for the future, I think this is an opportunity
+to look back and review on whether there are any areas that we should be reviewing and see if
+there's a waste [ph]. So that will be a challenge that we'll be taking on. And repeating myself,
+making profit improvements for continuous years has been a good thing. That would be my
+response for your first question.
+And for the evaluation of the next financial fiscal year, as you have said, it is going to be very
+difficult to foresee the sales volume and also the financial performance. And in this environment,
+we have decided to make a forecast. And for our actual business activity side, it is very difficult to
+see -- it is very invisible. And we have consulted with our President of Toyota, and we were saying
+that it would be very difficult to come up with the forecast.
+However, we said that we do need to have a certain kind of standard criteria, so that we'll be
+able to manage the abnormality values. So in order to do good management, we believe that it's
+necessary to have a criteria. And also, we are in the automobile industry. We're an OEM here inthis industry. And this industry has very wide supporting businesses. So we thought that there is a
+necessity for us to show a forecast as some kind of criteria as we move forward.
+That was the reason why we decided to make an announcement of the -- this year's forecast.
+However, as you had said, it is very difficult to do a clear forecast. And therefore, that is why we
+have made this type of forecast. And also compared by year-on-year from April to March -- April
+to June, there will be about a drop of 60%, from July to September would be a drop of around
+80% year-on-year and October to December, year-on-year, 90%. This is our estimate of our
+market situation compared to the past term. That is the basis of our calculation.
+And also, we did not look just as a -- from a short term profit perspective. We looked at what we
+need to stop, what we need to change, what we needed to continue to do. Those are the
+perspectives that we held in reviewing our various activities, not just stopping or changing certain
+activities that we have been executing, we have -- are looking from the perspective of something
+that we'll continue to do. This will be from the perspective of making investments for the future.
+So this is all reflected into our forecast that has been announced.
+And further details, usually, we do provide further details on geographical breakdowns. However,
+we're not able to do at this -- at this point of time. We're very sorry for that. So that will be the
+situation for the -- this running terms forecast.
+And also for your next question about the China market. Compared with other competitors, so
+your question was that, we are somehow holding on. And as we have said correctly, China
+market, the April results have been about slightly over 100% year-on-year. So for the automobile
+sector industry, the market has been below. But I think compared with the drop in the market, I
+think we have done -- our results were good.
+I think this is because mainly with the hybrid models, new models has been accepted by our
+customers in the market very well, Corolla, Levin, RAV4. Also in this February, we have launched
+Wildlander, a new model for this year. Those new models have been accepted by our customers
+in a positive way. I think this is one of the reasons.
+And for the domestic market, yes, it is a very tough situation. But as we have entered May, we
+have moved into selling all models at all channels. This initiative has started. Therefore, if there is
+-- we have been able to create a structure where -- if there is a customer, who wants a certain
+model, they will be even more accessible. And Kinto as new subscription service has also started.
+We're trying to provide various and more opportunities and options for customers to select from.
+So that is my understanding of the current situation. That will be my response. Thank you.
+Q - `Yoshiyuki Suzuki, Analyst, Chunichi Newspaper `
+Thank you.
+A - Unidentified Speaker
+Thank you very much, Mr. Suzuki. And next question, please.
+Operator
+Mr. Izaova [ph] of Nikkei Shimbun. Please it's your turn. Please wait for just a moment until your
+screen will appear on the screen. We are switching the screen, please be patient for sometime.
+Mr. Izaova, please.
+Q - Unidentified ParticipantI'm Izaova from Nikkei Newspaper. Thank you for this opportunity. I have two points. In the major
+countries, what are taking place for the individual markets, I don't think you have the details and
+the result of analysis, but North America and Europe, in those major markets, what is the trend for
+the cars markets? And also North America, there are parts (inaudible) priority for us and also
+China, Southeast Asia, these nations are sending their parts to North America. And there's a
+breakdown of the supply chain because of the COVID-19. Do you have that already? And if there
+is a concern, what is your reaction?
+And second question about the financial, about the cash reserve. Now in April (inaudible) billion
+was the equipment line that you have secured according to the mass media. But do you think that
+the current cash reserve is enough? So what is your idea including your action to supporting the
+suppliers? So I'd like to ask your comment on the cash reserve if it's enough or not, including your
+support to the suppliers.
+A - Unidentified Speaker
+Thank you very much for your question. First of all, major markets, trend in the market that you
+have asked to me, first of all, to look at the each region in a separate manner seems to be very
+difficult as of now. However, for North America, first of all, in May, starting from May, the lockdown
+regulation is released as of today, and also the starting of the (inaudible) in North America were
+started already.
+And after COVID-19 is over, since the local economy seems very strong as of today, and also
+there's supporting activities and the measures taken by the federal government, in the early
+phase of the -- this year, it may return to the normal condition.
+And also Europe, you can say the same thing for Europe as well. There are economic measures
+taken by the government. So after July, the sales will recover in Europe. This is an assumption. So
+in the early period of the 2029 [ph] the situation in Europe will return to the condition of the
+previous year.
+And also, you have asked the cash reserves condition activity. So 1,150 billion [ph] -- 1,215 billion
+[ph] commitment line is what we have as of today. And as of now cash reserves is in shortage
+according to our analysis. Therefore, for monozukuri and for automotive industry itself, we have
+to protect the automotive industry for the continuation of the business. And that means that wide
+ranging suppliers and partners, we're having the business with.
+So with these people, with these stakeholders, we have to continue our monozukuri activities
+firmly to the future. So while some of our partners are suffering from the shortage of finance, we
+have to help them. And then the cash on hand or cash reserves as of today, is it enough or not?
+We don't think it is in shortage as of today. So I hope, I have answered your question. (inaudible)
+and thank you very much.
+And so supply chain -- our supply chain or breaking down of the supply chain. In the COVID-19,
+there seems to be (inaudible) at the time of the East Japan related earthquake visualization of
+the supply chain has been searched with the structured business scheme of the supply chain
+visualization. So with this visualization of supply chain, I think we're better now. We'll take -- we
+took two weeks for identifying the suppliers with a problem, but it is now being reduced to half a
+day (inaudible).
+And also, due to the business improvement for instance, having the support from the suppliers,
+prevention of the accident and also the alternative supplier identification, and also return to the
+normal position, for these activities, we have reported ourselves on a day-to-day business. Andsingle concentration in China used to be the problem. And with the China, which suffered a lot
+from the COVID-19, we were able to secure the supply chain with the alternative suppliers also in
+China.
+And also when we're not able to support the venture in China with the significant activities, we
+have to struggle, but how we solve these problems, which may take place in the future. Again,
+we have no perfect answer. But together with the suppliers, we -- we'll discuss more, so that we
+can be ready for any accidents.
+Thank you. Thank you, Mr. Izaova. Next question.
+Operator
+(inaudible). We'll be switching the screen. When you see your face on the screen, please begin
+your question. We're now switching the screen over, a moment please. Mr. Yamasaki-san [ph], Mr.
+Yamasaki, do you hear us. Can you turn your camera on, please? Yes, I think we are ready to
+receive your question.
+Q - Unidentified Participant
+Okay. This is Yamasaki speaking from (inaudible). I have two questions. My first question, with the
+impact of COVID-19 for the term ending March 2021 and including that this year, would there be
+an impact in your new model launch plans? For 2019, April to June financial results, you said that
+until 2021, you're going to introduce 18 [ph] new models. So I believe that was your past new
+model introduction plan. So was there any change to that? That's my first question.
+My second question is about R&D expenses. And you've mentioned that you're going to continue
+your investments for the future. Regarding Woven City project and plans, do you have any
+changes to this? And in addition, regarding Woven City, what is the total amount of investment
+that you are considering? That will be all for my questions.
+A - Unidentified Speaker
+Thank you for your questions. Starting with the new model launch plans, if there is -- if there is a
+change or not with COVID-19, well partially when we have looked in the future new model plans,
+there will be some projects that will be delayed than the original plan. There will be some delays
+in some projects in the development activities.
+And for the new model launches, we're going to take this as a -- this timing as an opportunity,
+and we view what else we have done in the past as business as usual. So for our full model
+changes, minor changes in our refinement, small change projects, we're doing a total review of
+whether we should do it or not. I'm sorry, but at hand, I do not have the details of the original 18
+new model launches, how it is going to be changed. So I'll not be able to give you the details. But
+I don't think that there is a significant change in the -- from the original plan. I'm sorry, I'm just
+talking based on some assumptions, but that is what I can say now.
+And for your -- the R&D expenses, if there are any changes with the Woven City project
+investments, with the Woven City project, among -- from your question, so before, as I've
+explaining, I have said that we're not going to review what we should stop or change, we're
+going to see what are the projects that we should be determined to continue to do.
+And regarding Woven City, this would be something that we'll see through until the end. It will be
+in the third category of what we also continuing to do. So with the -- compared with theneeds of the customers and related to that, there may be changes. But for the large part, there
+will be no significant change.
+And for the amount of investment, we're now working on the details of the plan. Therefore, I'm
+sorry, but I do not have any detailed numbers that I can provide you today. So that will be all for
+my response. Thank you.
+Yamasaki-san, thank you very much.
+Next question, please.
+Operator
+We'll move to [ph] to Mr. `Sean McLain, Analyst, The Wall Street Journal, please? So when your face is seen on screen, please start
+your question. We're now switching the screen over, a moment, please. So Mr. `Sean McLain, Analyst, The Wall Street Journal,
+please?
+Q - `Sean McLain, Analyst, The Wall Street Journal `
+Hi, `Sean McLain, Analyst, The Wall Street Journal from The Wall Street Journal. Apologies for the question in English. Two
+questions. First of all, if I could ask about your projections in operating profit for the current year.
+Why is it so low? It seems that your results for this past year were doing well. You seem to
+believe that Europe and the US are recovering sales-wise and China seems to be recovering.
+Why is your projection so pessimistic?
+And then secondly, if I could ask specifically about North America, in your manufacturing plants,
+you've started to resume production. By when do you expect to be back up to full speed and full
+production? That's my questions.
+A - Unidentified Speaker
+Thank you very much for your questions. Starting with our forecast for the operating profit for the
+running term, why is it still so forecasted at a low level for Europe and United States if we're
+seeing some recovery, isn't it too low from the recovery that we're seeing now. I think that was
+your question -- your first question. And for the forecast of operating profit, we said that we
+forecasted at JPY500 billion. And the basis of the volume of sales, so we see it as 7 million units
+on consolidated basis, and it is about a 20% decrease year-on-year.
+And for China through the Lexus retail sales, regarding this activity, we assume that it will be a 8
+million sales basis. Because last year it was -- the result was about a little over 9.4 million. So it will
+be a drop of about 1.5 million units. And for China's market, as we've said, in March, we've seen
+80%. And in April, we've seen 100% of year-on-year results. That would be the result of our sales.
+And we do also see that we're going into a recovery. And also for the United States, for April
+sales, we thought that it would be ending quite low. But from there, from our expectation of what
+we have expected, it was a little higher than we had expected. But as I've said earlier, going
+forward, we cannot foresee, we cannot be for certain that which will be the months that we can
+see a good recovery. That is why this is kind of a temporary promise or forecast that we're
+placing right now.
+As you have said, yes, Europe and United States, the operations are beginning gradually, and
+we're seeing signs of recovery. So for those recovery that we see, we would like to securely
+capture those opportunities, so that we can improve this forecast from the forecast level that we
+have announced.And regarding North America, we have seen the start of the operational plans for some plants.
+And your question was how long will it take for the full blast production. And for -- on reopening
+some of the productions, we have been discussing with -- about the safety guidelines with the
+federal government. And also we have taken care to consider the safety and healthy -- health of
+the workers in the plant. So that would be the big pre-condition to start the operation. And by
+making sure that those measures are in place, we have started slowly to resume.
+So at this point of time, we're not really sure when we'll be in full speed for production. It is very,
+very difficult to say as of now. But our assumption is that we believe, April will be the bottom and
+day by day, we will recover. And -- and by the end of the year, in the beginning of the new year,
+we believe that we'll be in normal operation mode. So that will be all for my response.
+Thank you very much, Mr. `Sean McLain, Analyst, The Wall Street Journal.
+Next question, please.
+Operator
+Ms. Takita [ph] of Bloomberg, please. Again, please wait until time when your screen is shown.
+We're switching the screen, please wait just a moment. So Ms. Takita, your question, please. Ms.
+Takita, your question, please.
+Q - Unidentified Participant
+Ms. Takita from Bloomberg speaking. Ms. Takita (inaudible). I am Takita from Bloomberg. I might
+be repeating the same question, but I'd like to ask about the supply chain management. With
+COVID-19, supply chain is somewhat damaged, and the government is supporting the industries
+to return to the homeland or home nation for the manufacturing activities. So what is your
+acceptance of this issue? And also what kind of activities you are promoting for your supply chain
+management in the middle of the COVID-19? This is my question.
+A - Unidentified Speaker
+Thank you. I'd like to answer your question. So you have given us just one question.
+Operator
+Ms. Takita [ph], you've asked just one question.
+Q - Unidentified Participant
+Yes, I did.
+A - Unidentified Speaker
+So as you said, for the cutting down of the supply chain, there was much confusion this time. And
+in each region, I should say, how we maintain and allocate the production volumes in each of the
+regions is what we have to deeply consider for the future. Because too much concentration in
+one single place will pose a risk, which we have understood from this COVID-19.
+So alternative production management having come out on single production places will be
+needed in this COVID-19 situation. And also a communication bridging between the different
+manufacturing places will become important, together with the capability to find out the
+alternative production, alternative suppliers as quickly as possible. There is a support from thegovernment. Therefore, whether or not you can use the support from the government efficiently
+is something that we'd like to deeply [ph] consider for the management of supply chain.
+Thank you very much, Ms. Takita. And next question, please.
+Operator
+From Financial Times (inaudible). We're now switching your screen. When your face is seen on the
+screen, please begin your question. We're now switching over the screen, patience, please.
+(inaudible) question, please.
+Q - Unidentified Participant
+This is (inaudible) speaking from Financial Times. Thank you. I'd like to ask about the used car
+market in the United States. For the used car value, I hear that the drop is very significant,
+equivalent to the drop that we have seen after the financial crisis. So how are you viewing this
+drop in the used car market?
+And for your models -- and now you've seen a lot of disruption in the supply chain with COVID-19
+and receiving this COVID-19 crisis for the safety of your workers in the production plant, I think it is
+a big challenge to secure their safety. And in this kind of environment, whether the production
+operation will move toward further automation? That would be my second question. Do you
+foresee that?
+A - Unidentified Speaker
+Thank you for your question. First regarding your question about the US used car market and the
+drop in the used car value, and what kind of impact will that have on our financial service business.
+As you've rightly said, in April the used car market prices have dropped significantly. For us,
+especially the US market, we have a large financial company, TMCC. And in our the -- the term
+that is running, a certain wish, we've included reflected assumptions that there would be some
+drop in the used car prices. When the used car prices drop, the -- these residual value will also
+drop. So it is from a financial terminology, But the residual value loss will be increased with the
+drop in the used car prices. That is what we expect.
+And going one term before, for the ended term in March, and we were closing the financial
+results, we've already seen some signs of that happening. Therefore, last term for the term
+ended March 2020 for the financial service business, we had some -- the provisions to be
+prepared. And in the financial service business, there was JPY60 billion impact from the COVID-
+19. That was the explanation that I've made. So this is from the bad debt and non-performing
+debts, and also the residual -- residual loss provisions increase. That is the impact. And so those
+are reflected into the current plan for this running term.
+And for your second question, hold on, please. For your second question about automation at the
+plant, whether it will progress further at the plants. And as we do assume that the society after
+this COVID-19 case will become toward more societies, where we try to reduce contact, physical
+contact as much as possible. And therefore, in our company, we're having -- it's not that -- it is not
+that we're discussing this -- from this opportunity. But from before, we have been discussing
+about what will be the appropriate areas to automate. So it will be discussed in that -- those
+discussions. Thank you very much.
+We have some more questions, but because of the time limitations, we can entertain just one
+another question.Operator
+From Nikkei (inaudible) your screen to come on the stage. Then, please be patient. We're
+switching the screen. (inaudible) please.
+Q - Unidentified Participant
+Thank you. (inaudible) R&D and how -- to what extent you're doing the remote work in the R&D
+activities. And of course, different from the real manufacturing world, maybe you'll have some
+communication problems, when you try to promote work from home for the R&D activities. That's
+one thing.
+And also with the COVID-19, something you have to change -- something you have to stop, you
+have explained about those activities. But in the recent past, 3.2 million fuel cell pumps recalled
+by Denso took place. So Toyota is famous for quality and Toyota car is famous for quality.
+However, as of now, you have a problem that the quality actually taking place. So what is the
+problem according to your analysis in terms of the quality of your products?
+A - Unidentified Speaker
+Thank you very much. So your first question, (inaudible) R&D against the target. So in designing
+and in R&D, to what extent we're doing through remote work with the work from home? So this
+was your question. And in reality when it comes to the office workers, especially for R&D or
+designing, the work from home is heavily promoted as of today already. And of course, you have
+to have own vehicle evaluation to the last minute of the R&D. We still need that classes [ph].
+However, we have CAT as a design tool, which can be used now remotely very efficiently. So this
+kind of process is going on very rapidly as of today. Therefore, designers and R&D engineers are
+able to handle this function even at home. So I do not know the actual percentage of the remote
+work for the R&D or designing activities, but I think it's going on very heavily.
+And of course the face-to-face communication, looking down on the same drawing paper at the
+last part of the drawing, but how much visualization or how much work from home can be
+remoted is something that we're trying and discussing very deeply in each of the company.
+And your second question, the things to stop, the things to continue or change with the COVID-
+19, and you talked about what happened to the quality of the Toyota vehicle. So I think the change
+we're wanting to stop. We need these activities. But the thing that you can never stop is the
+activities about the quality because the quality is important for the customers. And this idea never
+changed. And as for the report that you have mentioned, we're very much sorry that we have
+given the inconvenience to our customers. But our quality first philosophy never changed and will
+never change in the future. Thank you. This is the end of my discussion.
+Thank you very much (inaudible). And this is the end of the first part of the announcement of the
+financial performance and forecast. After the break, we will be starting the second session from
+2:10. Thank you.
+We now would like to begin the fiscal year 2020 financial results second section of the press
+conference of Toyota Motor Corporation. I would now like to introduce our attendees for today,
+our President, `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative; Operating Officer, `Koji Kobayashi, Chief Risk Officer & Director; and Operating Officer, Shigeki
+Terashi.
+So I'd like to start with remarks from the President.A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+Hello, everyone. Today, based on our financial results and forecast, I would like to share with you
+my thoughts on how Toyota intends to confront the COVID-19 crisis. Since my appointment as
+President in 2009, Toyota has faced numerous crises. In overcoming them, I believe that our
+company has been able to gradually strengthen its corporate composition.
+Please have a look at the changes in our earnings structure from just before the global financial
+crisis to the present. In the three years just before the global financial crisis, while operating
+income increased due to favorable exchange rates and increased vehicle sales, our earning
+structure, excluding the effect of foreign exchange rates, was not good by any means due to a
+large increase in fixed costs. I think that was a period during which the speed of expanding the
+size of the company was faster than that of developing our people, which partly led to our recall
+crisis later.
+In the year immediately after the start of the global financial crisis, vehicle sales decreased by
+1.35 million units, for a year-on-year decrease of approximately 15%, to which was added the
+impact of the strong yen, resulting in our falling JPY461 billion into the red. The four years just
+after I became President was a time when our entire company faced an overwhelming need to
+respond and unite to overcome numerous crises, such as the global financial crisis, the massive
+recall crisis, the Great East Japan earthquake, flooding in Thailand and the so-called Six Hardships
+in Japan, including an ultrahigh yen.
+Over these four years, we were able to bring the number of vehicles sold back up to the levels
+we had before the global financial crisis. At the same time, by drastically reducing R&D expenses
+and capital expenditures, we were able to shrink our fixed costs. And despite the ultrahigh yen of
+an exchange rate of JPY83 to the dollar, we achieved an operating income of JPY1,320.8 billion.
+However, because we stopped everything to stop the bleeding, including investing in the future,
+we ended up still needing some time to strengthen our company composition in a true sense. It
+was a period in which we lost weight and became slim, but also lost necessary muscle.
+In the most recent seven ears, our fixed costs increased due to investment for accelerating the
+making of ever-better cars and due to investments in response to CASE. However, it was a
+period in which we strengthened our composition, while absorbing the costs of these
+investments through such means as cost reduction.
+In the first three of those years, although we aimed to strengthen our true competitiveness
+during what we called an intentional pause, my self-assessment was that, I was not able to obtain
+sufficient results. Our intentional pause made me keenly feel the difficulty of carrying out reforms
+in normal times.
+At last year's financial results announcement, I was asked if Toyota faces any challenges. And I
+replied, it would be, the fact that there is a sense within the company that Toyota is doing fine.
+There was a consciousness within the company, which had taken hold over many long years that
+Toyota was doing fine, and there was a corporate climate in which things were thought about
+based on that premise. I sense that what led me to earnestly engage in reforming these things
+was my own intentional pause.
+With a once-in-a-century period of profound transformation coming on top of that, over the past
+few years, we came to feverishly engage in both a fight to bring back what makes us Toyota and
+completely redesigning Toyota for the future.During that period, as we believed that management would have to change first to change the
+company in an uncharted era, we took various measures to fundamentally revise our executive
+and organizational structure, including the introduction of an in-house company system,
+establishment of our Seven Samurai, which is the President and six Executive Vice Presidents
+structure, and discontinuance of the post of Executive Vice President. Our revisions covered not
+only people actively filling post, but also our advisor system.
+When it came to communicating with our employees, such as during labor consultations in the
+spring, we made genuine efforts to achieve true mutual understanding. Labor and management
+at Toyota share a common foundation, which is the company hopes for the happiness of its
+employees, and the labor union hopes for the growth of the company.
+And now in this period of profound transformation, earnestly hoping for the happiness of our
+employees, we decided to further address hitherto common practices, such as raising base
+wages and implementing uniform wage increases. The company and labor union are holding
+thorough discussions as part of our strive to fundamentally reform how we work. Each time such a
+reform has been carried out, I have heard people both inside and outside the company say, you
+don't have to go that far. I have even been told that I was over-instilling a sense of crisis. Even so,
+I have continued on because I want to be able to pass the baton to the next generation in a way
+that I consider ideal. That is my ardent wish.
+I think that bringing back what it is that makes us Toyota is equal to spending time on the past. I
+want my generation to be the last to spend time on the past. I want the next generation to be
+able to spend time on the future. That's exactly why I hope to plant seeds for the future. This is
+what I consider to be the ideal way to pass the baton to the next generation.
+Based on this desire, for the future, I have been actively advancing the building of partnerships
+through alliances. We have also changed our company's thinking about alliances. Our basic stance
+is that alliances are not for taking control of partners based on the logic of capital, but rather for
+respecting each other and for cooperating through work with like-minded partners. As a result,
+within an extremely short period of time, we have been able to establish a network with many
+partners, including those from other industries.
+When it comes to cooperation within the Toyota Group, based on our new home and away
+strategy, we have largely changed our thinking from becoming strong as an individual company to
+becoming strong together as a group. Also with undergoing a complete redesign into a mobility
+company in mind, we are also engaged in recomposing our assets, such as by revising our cross-
+shareholdings and selling underutilized real estate.
+Summarizing our initiatives over the past several years, I think I can say that we have freed
+ourselves from hitherto theory and have started constructing a theory for a new Toyota in a new
+era.
+And now I would like to touch on our forecast for the year to March 2021. In the current COVID-19
+crisis, although we forecast a decrease in vehicle sales of 1.95 million units, for a year-on-year
+decrease of more than 20%, which would be greater than the decrease during the global
+financial crisis, we forecast a profit, with an operating income of JPY500 billion. Although this is
+our forecast at this time, if we are somehow able to achieve this level of earnings, I believe that it
+would be the result of our having been able to strengthen our corporate composition.
+From now, I would like to talk about something that Toyota has insisted on and committed to for
+many years. I am referring to developing -- defending to the very last our system for domesticwith Japan. Toyota plants in Japan have served as mother plants that support Toyota's global
+production. It can be said that Toyota's domestic production system is the foundation for a global
+Toyota. However, this is not something simply left up to fate, nor is it something that can be taken
+for granted.
+Based on our conviction that we need monozukuri and a place to hone competitiveness that can
+drive global production in Japan, we have, indeed, held fast at all costs to protect our domestic
+production, no matter how severe the economic environment has been, including the ultrahigh
+yen.
+We did this not only to protect the Toyota, but also to protect the enormous related supply
+chains and the jobs of the people involved as well as the fundamental technologies of Japan's
+automotive industry and the human resources, who have the skills to support such technologies.
+Along with COVID-19, people around the world are facing a state of not being able to get what is
+needed when it is needed. There was a person, who called this situation the mask phenomenon.
+According to such person, most face masks could not be produced in Japan. Making better
+products at a lower cost. This is the foundation of monozukuri. However, I think that only aiming to
+make something at a lower cost can give this rise to this kind of phenomenon.
+There is another basic element to monozukuri. It is making things means making people. People
+are not costs. People are the source of continuous improvement and a driving force for the
+growth and development of monozukuri. As COVID-19 infections spread, many monozukuri
+companies have started to produce medical face shields and protective gowns, as well as
+medical masks and other items.
+We, too, are making medical face shields in the United States using 3D printers. And we have
+extended such efforts to other parts of the world, including in Japan and in Europe.
+Furthermore, when it comes to items that we cannot produce on our own, such as ventilators, we
+are providing support by applying TPS to improve productivity. I believe we can do these things
+because we have insisted on having a system for domestic production of 3 million vehicles, and
+because we have preserved monozukuri in Japan.
+What we have been defending to the very last has not been 3 million vehicles. What we have
+been continuing to protect have been people, who have acquired the techniques and skills that
+enable them to make what is necessary when the world needs it. We are proud that we have
+been continuing to protect in Japan places in which such human resources can work and be
+cultivated.
+Even as we are now facing the COVID-19 crisis, there is not the slightest bit of distortion or
+wavering in this belief. That said, however, there is something that I ask everyone to understand.
+To continue to protect a certain thing and to keep doing what we are doing is by no means easy. I
+sense that there seems to be much talk about a V-shaped turnaround. Sacrificing employment,
+sacrificing domestic monozukuri, by deciding to stop various things, an individual company can
+turn its results around.
+Far from criticized, it bothers me that such action often seems to be praised. Well, that's not right.
+This is how I feel. Regardless of how big or how small they might be, there are many companies
+in Japan that have clenched their jaws and protected their human resources, who had techniques
+and skills, no matter how tough times were or more importantly because times were tough.I believe that now is exactly the time what we need in a society that can support such companies.
+I humbly request that you support companies that have supported Japan and Japan's economy
+through monozukuri.
+In concluding, I'd like to talk about what I currently consider to be the dearest of all things.
+Because our session here today is to explain our financial results, I have talked about how the
+corporate composition of Toyota has grown stronger, as we overcame numerous crisis. But over
+these years, not once have I ever thought that I want to make Toyota into a strong company.
+I believe that I have helmed Toyota with a wholehearted desire to make it a company that can be
+depended on by people throughout the world and a company that is necessary. I think that what
+is important is thinking about why we should become strong and about how we go about
+becoming strong. For us to be useful in the world, I believe that we must become stronger
+together with our partners throughout the world.
+During Golden Week, I received a letter from a certain person. In it was written the following,
+while taking a walk around a pond, I saw birds, turtles, fish and the like, scurrying about. All living
+creatures, other than human beings, are going about life as before. Only human beings are
+running about in confusion. Perhaps this is a good opportunity to change our perception of the
+world, being a theater in which human beings play the leading role.
+I feel exactly the same. This crisis made me think about something. It made me think about how
+we as human beings and as companies should live our lives, with Earth, with society, with all
+stakeholders, live together. Just as in the case of a hometown or home country, that means
+taking care of a home planet in the course of conducting corporate activities. And there is
+another thing, one that many people have been reminded of. It is the feeling of appreciation for,
+of course, for all the people on the front lines of the medical sector protecting our lives, but also
+for all the people, who are supporting our everyday routines.
+When what we take for granted ceases to be a matter of course. We notice that nothing is a
+matter of course and that we have things, thanks to someone, somewhere working hard. We
+want to create a relationship in which people can say thank you to each other and can thank the
+Earth. Companies and people need to think seriously about how to live and then change what
+they are doing. It could be that we have all been given a great chance, and that chance might be
+the last one.
+Toyota is a global monozukuri company born in Japan and raised in the world. I believe that our
+mission is to provide goods and services that make people throughout the world happy, or in
+other words, to mass produce happiness. To achieve that, I believe that it is necessary to cultivate
+Toyota people in the world, who can wish for and take action for the happiness of those other
+than themselves.
+That means developing human resources that have, what I like to call, a you perspective. This is
+what I will devote my own heart and soul to for the COVID-19 era and post-COVID-19 era. And I
+view this as also being a part of earnestly engaging in the Sustainable Development Goals, or
+SDGs, for which international society is aiming, with the stance of no one will be left behind.
+There is no crisis that humankind cannot overcome. For us to overcome the COVID-19 crisis
+together, Toyota is ready to do whatever it can to make itself of use. We humbly request your
+continued support.
+Thank you very much for your attention today.A - Unidentified Speaker
+From here, we would like to entertain questions.
+Operator
+(Operator Instructions) Now, Yamada-san [ph] from NHK, please. We will be switching the screen,
+so when you see your face on the screen, may you start with your question. Thank you for your
+patience. We're now switching the screen. One moment, please. So Mr. Yamada, please.
+Q - Unidentified Participant
+I'm Yamada from NHK. I have a question to President Toyoda. First of all, for the financial results
+for the term ending in March, how are -- your thoughts about it? And also currently, many
+companies have refrained from giving a forecast for the running term. However, you have made
+the forecast. And how are you -- what is the basis of the forecast? How are you forecasting this
+year?
+And another question is currently, we are in the COVID-19 crisis, which is an unprecedented crisis
+for all of us. And for this era, together with this crisis, so we have the once-in-a-century profound
+transformation times, how are these going to change Toyota? Or on the other hand, what are the
+things that you are not going to change? What is that you have to protect? Can we -- can I ask
+these two questions, please to President Toyoda?
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+Thank you for your questions. Starting with your first question, now regarding the assessment or
+my thoughts on the financial results for the ended term, and also we did announce the forecast
+for the running term, but what are our thoughts behind making -- announcing the forecast? So for
+this first question, now we have been able to make the announcements of the financial results, as
+we have planned originally. And being able to do this, we would like to extend our gratitude to all
+the related people. If it was a normal year, we take it for granted that in this timing, we'll make
+our financial results, and then in the following month, we'll do a General Shareholders' Meeting.
+So this is the kind of taken for granted schedule that we have for -- on our business calendar.
+However, with the COVID-19 crisis, things that used to be taken for granted cannot be done as it
+had been. So thinking about that, being able to make these announcements, as we have planned
+originally, I have a deep appreciation for all of the people involved, including the employees of
+the company. And now with that, to summarize my thoughts on the financial results, like CFO, Mr.
+Kon, has mentioned in section 1, as a result, we have dropped sales volume, and also we have
+both dropped revenue and the profit. So that has been the result.
+But important point for us, the important challenge was TPS and also to be working on cost. And
+with these activities running, we have been able to clarify our issues and challenges. And because
+these challenges are now identified, we believe that we can make further progress in these
+activities. However, this kind of a COVID-19 shock to say, it is much a larger type of shock that we
+received compared to the global financial crisis.
+However, in our forecast for the running term, we're going to make efforts, even though there is
+going to be a large magnitude of a drop in -- for the volume of sales, we are going -- have
+forecast that we'll secure profit to be in the black. And we have hopes to become the leader to --
+for the recovery of the economy going on after COVID-19 shock. I think we are now prepared to
+start those activities from here. So in that sense, the financial results that have -- we haveannounced, we have been able to be at a starting point to have Toyota be re-borned into a new
+Toyota. I think we are now on the starting point to start that change.
+And now for the -- our thoughts on why we have made announcements of the forecast for the
+running term. Actually, we had a lot of discussions internally about whether or not we should make
+an announcement of the forecast. But we are an OEM. We are a maker of cars. And if we can only
+have our activities and if our customers place an order of cars.
+So thinking about this cycle, if we start to give the forecast and if we make the cars, then business
+will start to move and this society, the business community and communities will be -- start to
+move. And also, the automotive industry, there is a large impact of the wider business activities.
+There is even a figure 2.5 that will be the impact that the automobile OEMs' activities make.
+And because we are in this kind of position and because we are in this kind of very tough and
+difficult situation, we want to organize what we know as of now and be honest in showing what
+we can, so that it can become a criteria to move forward. And having a certain criteria, I think the
+related automobile industry companies and the related industries may be able to prepare
+somewhat having a certain criteria. So that is why we decided to share a criteria.
+And up to -- and we believe it's important to timely share the information that we achieved and
+our understanding that we have in the time of uncertainty. And with the criteria, we want to
+manage forward by managing the abnormal values, and we want to unite people to make our
+challenges moving forward. So that would be my answer for your first question.
+For your second question about the COVID-19 crisis that added to the once-in-a-century
+profound transformation period, what is the impact to Toyota? Is there going to be changes to
+what Toyota needs to stop or change? For this question, actually for myself, I have, upon
+receiving the guidelines from the government of refraining from going outdoors, I have
+personally taken measures to avoid moving outside the borders of the prefecture.
+So I have been in an executive training center that is in Aichi Prefecture and not in the main office.
+And so -- and then I was able to reduce 80% of my moving time and also 85% of the people I
+meet and also reduced 30% of the time that I've used for meetings, and also reduced 50% of
+the documents that was prepared for meetings. That is the figures surrounding myself.
+So up to now, when my employees and my company have an appointment with me, they will be
+preparing documents to brief me. And also, if it is someone in upper position, they will have their
+subordinates prepare that document. And that document, when it arrives to myself, those data
+would be something that is one weeks or two weeks before. And we use that kind of old data to
+have discussions.
+But now using net meetings, Internet meetings, web meetings and TV conferences, we are able
+to discuss and consult more in a timely manner using information that we have now. And by this
+change, I've seen that we produce half of the documents that we used to prepare. So with this
+reduction, I hope that the reduced efforts will be used for the future of Toyota to shift our
+resources to focus more on what is necessary to prepare for Toyota's future. I think we'll be able
+to do that as we have experienced this kind of a change. And also, I was in -- so I was in this
+training center in Aichi Prefecture.
+But for the overseas CEOs, also people for the overseas companies, who are in abroad outside
+of Japan and also the top executives of other companies, I was able to frequently contact them
+more than before this crisis. Up to now, I thought that it would be rude if I don't have a go andvisit these people for myself and travel to meet them. And because of this feeling, I try to as
+much as possible have a face-to-face meeting and visiting these people that I wanted to meet.
+But if I work in that way physically, with the physical limitations, we'll all be able to have only one
+appointment with a very important person in other [ph] company. But having these kinds of web
+meetings, I'm able -- people were able to spare about 10 minutes, anyone will be able to spare
+me about 10 minutes. So I'm able to have more meetings and more talks with the top executives,
+top people of other companies as well and also my company. So I think this is an opportunity for
+us to change significantly on what we can change. And also, we can identify things that we'll
+further accelerate to promote changes. I think we will be able to do this by this -- with this
+opportunity and we'll be able to do that with more speed.
+So for your question about what are we going to continue to protect? And my answer will be it
+will be the real world. We have the genba with the shop floor. Like the genba, the site that we
+work at, that is the real world. And at the real world, we have been accumulating a lot of
+experiences and skills and knowledge. So whether -- no matter how much we may transform
+further to -- may go toward digitalization, there will be a site, a genba, that people will be
+working. So utilizing our strength, our real world, we are going to further develop our necessary
+human resources and become a company that will be relied on and depended on by others. So
+that will be my answer to your question. Thank you.
+A - Unidentified Speaker
+Thank you very much, Mr. Yamada. Next question, please.
+Operator
+From Nikkei Newspaper, Mr. Omoto, please. And again, please wait until your face is shown on
+the screen. We're now switching the screen. Thank you for waiting. Mr. Omoto, please.
+Q - `Yukihiro Omoto, Analyst, Nikkei Newspaper
+Omoto from Nikkei Newspaper. I have two points. Number one, as you said in your presentation,
+so far, you have overcame several crises, and COVID-19 is the current crisis. And your past
+experiences overcoming the other crisis, including what you have learned, what is your learnings
+from the past crisis to overcome this crisis of COVID-19? And in terms of the COVID-19, what is
+your prioritized area in managing the company in overcoming the crisis of the COVID-19? Thank
+you very much.
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+Number one priority we're learning is that I am not panicking. I am managing the company very
+efficiently and steadily. Now 10 years as a President after the financial crisis, as a President and as
+a top executive, I was managing the company. And during these 10 years, no years were
+peaceful. Every year, year-on-year, we have witnessed and experienced a large drastic change or
+event about 1 in 100 years now.
+Looking at the 10 years, no one expected that my presidency will continue for 10 years. I didn't
+either because when I became a President, here's my impression. When I became the President,
+no one was -- accepted me happily as new President in and outside of Toyota. There are just a
+few people, who accepted me happily. And Genba people of TMC were the only exception. They
+were happy to receive me, especially those people, shop office people, never wanted to change
+their way of doing the business. This is my own impression when I became the President.And in the 11 years as a President, I had to overcome many different crisis. I had to respond to
+many crisis. And result (inaudible), I managed to show the direction for the future or for the
+company. And because of this, even in the administration and engineering people, even in the
+office people, some people started to show their sympathy with what I have said. Some people
+started to develop acceptance to my Presidency.
+And then now, as of today, I am creating the opportunity to show my appreciation to those
+people, who were slow in accepting me and who is now accepting me. So I think the company is
+rather stable, not panicking at all. But the financial crisis triggered Lehman Brothers shocked. We
+had to stop so many things to enjoy the surplus again. And currently, we're having the impact of
+more volume decrease compared to the financial crisis. But still, we are making the profit, and we
+can make investment for the future. We can make the investment for the advanced R&D. So that
+means that we now have a good communication by which we are able to say thank you to each
+other in the company.
+So to show the appreciation to each other in the company means that people in the company are
+working for not only themselves, but for the other people, not themselves and this should not
+change at all. Now the crisis and also the -- prioritize the tasks in the crisis. Now the first priority is
+decided by the priority that we have at Toyota, first, the safety, second, the quality, and third,
+volume, and fourth, profit-making. But with the time changes, this priority might have to be
+limited. However, amid this crisis, this traditional priority of Toyota continues to be very important.
+And based upon this priority that we have developed so far, we'll try to develop the Toyota
+people, and this is very important. And as I said already, this financial announcement will make a
+starting point for us to change Toyota into a new Toyota. Therefore, at this time, to be accepted
+by the new age -- in the new age, Toyota will continue growing as a company, which will be
+dependent on by the people in the world. So this is a new start for Toyota, and this is the
+opportunity for us to make or to start that transition into a new company. And with this philosophy,
+I'd like to continue working on Toyota.
+A - Unidentified Speaker
+From here, in order to receive as many questions from as many people as most possible, we
+would like to keep your questions to one question per person. Next question, please.
+Operator
+Yasuhisa Shimashita-san [ph], please. We will be switching the screen now. If you -- when you see
+your face, please start to ask your question. Mr. Shimashita, please.
+Q - Unidentified Participant
+Thank you very much for the opportunity. I've been able to hear very -- was impressed remarks.
+So since my question is restricted to one, I'd like to ask about the vehicle that will be used for
+private transportation not for public usage. So I think in this current situation, we might have a
+change in how we acknowledge and utilize cars from a macro perspective. And also for the way
+to sell cars, I think there's already a focus on how cars are sold online. And if that changes as well,
+you'll need to have more tools. You won't be able to sell cars with textbooks to -- with paper
+books and also telephones.
+So what are your sort of thoughts on that? If it is that cars are used as a tool, maybe that's fine.
+But if it's GR or Lexus, maybe people will be hesitant to purchase that if we might not have to be
+prepared enough to sell remotely or online in order to move people's heart and then to sell it. Soon the sales side, is there any ideas that is on your mind that you'd like to work on? Or any
+thoughts or things that you have to change for selling vehicles going forward in the future?
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+Thank you very much for your question. So after I make a comment, since I have the Operating
+Officer, Mr. Terashi, next to me, from an engineer perspective, I will ask him to make some
+additional comments. So I will start. First of all, with -- by experiencing this COVID-19 crisis, going
+forward, I think we will be moving more rapidly toward a society that has less physical contact.
+However, when we achieve a physical contactless society, it doesn't necessarily means that cars
+will all be driven by autonomous driving cars.
+I think we'll still have the need to enjoy driving vehicles and also be able to live in an rich way. That
+means so fun to drive cars. So drive that will be good and not so good drivers and fun to drive
+cars. So that kind of autonomous driving car is what I want to target. So more personal mobility
+needs will be heightening, as you said and several years ago, I have declared that we'll be
+changing Toyota from an automobile company into a mobility company. And I think this change
+that we are aiming for is becoming more closer to reality.
+And at the beginning of this year, we've made an announcement -- public announcement of our
+project, Woven City. And Woven City is a project or a demonstration, a trial that will place people
+in the center. And with this, once again, we will take a look at the word move. It is about moving
+people from place A to B, but also move is about moving people's hearts. So -- and if people
+moves from a certain destination to a different destination, me -- I want to have cars that will
+move people's hearts together.
+And on the sales side, and the same timing, for Toyota's domestic dealers, from all dealers, we
+have started selling all models in all dealer channels. That means for all Toyota dealers in Japan,
+all of the models can be purchased. So this is one initiative we started. And also Kinto, we have
+the fixed cost subscription model -- subscription service. So we're trying to prepare various
+options for customers to select from.
+And like Shimashita-san [ph] has mentioned Internet or online sales, we are considering what will
+be appropriate for cars like GR and Lexus. I believe these kinds of cars will need a certain story
+that to sell together. We need to share a story about the joy of these cars. So more than the
+actual specifications of these kinds of vehicles, we want to share a story, so that everyone can
+share, enjoy and also happiness of owning such a vehicle.
+And I'd like to have Mr. Terashi, next to me, to add some comments.
+A - `Shigeki Terashi, Chief Competitive Officer, Chief Project Officer & Director `
+This is Terashi speaking. So I'd like to make some additional remarks. So like President Toyoda
+mentioned, in this crisis, we have all experienced about what it means to stop moving. When
+people stops moving, I think everyone has experienced this character. And we do see that there
+is limitation. It's just the virtual world, and we can still -- we have the real world that is enriching our
+lives. I think this is something that we have all experienced amid this crisis.
+And thinking from this perspective, I think that using vehicles in many ways, to have diverse ways
+to use cars, not just moving people and goods, is going to be wanted by society. But as a flow of
+the society, we are moving toward the CASE type of business, the technologies that will enrich
+people's lives. I think these technologies will further be developed as a fact.And just for your reference, a year ago, we provided the hybrid patents free of charge, and one
+year has passed since this attempt. And the current situation is that the hybrid itself is something
+that many people want to use. And at the point from 2024 to 2025, there is about an annual
+amount of 500,000 hybrids that we are signing contracts on to provide. So thinking about these
+numbers, I think we understand what kind of difficulty or struggle people are having on related
+and how technology is related. And we want to have more partners, like-minded partners, so that
+we can cooperate and work in these type of areas as well. So that is all from my side.
+Q - Unidentified Participant
+Thank you. And looking forward to having continued discussions with you. Thank you.
+A - Unidentified Speaker
+Shimashita-san, thank you very much.
+Now, it's time to stop, but I think we can extend the time and I would like to welcome the next
+question.
+Operator
+So Mr. `Hans Greimel, Analyst, Automotive News of Automotive News. When you see your face on the screen, please start
+your questions. We're now switching the screen. Thank you for your patience. We're now
+switching the screen. Mr. `Hans Greimel, Analyst, Automotive News, please.
+Q - `Hans Greimel, Analyst, Automotive News
+I'm `Hans Greimel, Analyst, Automotive News from Automotive News. Thank you for the opportunity. And may I ask my
+question in English?
+A - Unidentified Speaker
+Yes. Please -- please ask your question in English.
+Q - `Hans Greimel, Analyst, Automotive News
+I'm very impressed by your commitment -- Toyota's commitment to 300 million capacity or
+production in Japan, Toyota is truly an anchor of the national economy here. But as a proponent
+of this home planet philosophy, can Toyota make maybe, today, make a similar commitment to
+some of the other markets, where you are an anchor of the economy, for example, the United
+States, where last year, you produced about 1.2 million vehicles? Is Toyota ready to make a similar
+commitment to the capital and the personnel and the human resources development that you've
+invested in these other countries, especially the United States, where you are an adopted
+hometown player?
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+Thank you for your questions. So I would like to respond in Japanese. So it will be translated over
+the line. So currently, Toyota's production is around 9 million units. And how that come to here is
+that in the initial phases, it was all done by domestic production in Japan, and we have exported
+to the other markets. That is where we started. So just confirm that it is simultaneously
+transported.
+And I think at the beginning of 1980s, from that period, overseas production has advanced. AndSo that is the current state that we are in. And in that situation, for models, we want to have to
+produce models that will be sold -- in the market that will be sold. So thinking from this
+philosophy, that is how we have come to increase the overseas production ratio.
+And for us, in all of the markets that we enter, we aim to become the best-in-town automobile
+company in all of the communities, in all of the regions, this is how we execute activities, and
+Japan is included and also in US, Europe, China, Asia, in Africa, South America. When we are
+blessed with the opportunity to produce cars in those regions, we aim to become the best in
+town company, so that everyone will be happy that have Toyota in their community. And with this
+kind of thinking, and when you think about in automobile, even if we build a final assembly plant in
+the region, at the same time, we'll have to build the supply chain.
+So the procurement foundations will have to grow together with our plants. That is a necessity for
+us to have production. And at the end, thinking about the -- so that will end up in 3 million units in
+domestic production and the rest made in overseas. Including the parts procurement, I think we
+have yet more to go in order to become the best in town in all these regions.
+For US, (inaudible) we have given out, for Camry, for major mass production, even for the parts
+procurement rate, the local parts procurement rate, it is a car that has the highest procurement
+ratio of parts. And even NASCAR, which can only enter cars that have American made cars, we
+are able to participate in the NASCAR races because we have such a high localization rate for
+cars that we manufacture in the US and overseas. So this is the way that we are thinking.
+So in Japan, we had a large continued increase of volume in Japan, but we've now seen a shift to
+overseas production. But there is a line that we want to protect. And that is why we have been
+announcing our 3 million criteria. But for overseas production, rather than committing to a certain
+volume amount, we want to first think about what and how we can become the company
+necessary for that region, for that market and to become a company that can be depended on,
+relied on as an automobile company in that country and region. So that will be our priority.
+And then as a result, maybe our volume will be increasing for the production volume in that
+market. And we hope that will be a happy thing for the regions that we operate in. And we hope
+then we'll both be happy in moving in that direction. So that will be my answer.
+A - Unidentified Speaker
+Thank you, Mr. `Hans Greimel, Analyst, Automotive News.
+Thank you. Next question, please.
+Operator
+From Yomiuri Newspaper, Mr. Isozumi, please. Again, please wait for your face to be shown on
+the screen. We're switching the screen. And Mr. Isozumi, please. It's your turn.
+Q - `Tadashi Isozumi, Analyst, Yomiuri Newspaper
+Isozumi speaking. Thank you very much for this opportunity. As the President said Toyota is now
+reborn into a new company. This is the starting point. And here is my question. As to your [ph]
+debt investment or how to spend the money, would you change this activity now the year ending
+in March 2021, 1 trillion versus billion [ph] is the R&D. With the profit and revenue going down,
+you're keeping the same level of the investment as the previous year. So I would like to ask you
+the reason why you do so?And also, in terms of the content of breakdown of the investment destination, is there any
+change? And also, you have many huge projects, for instance, smart city, Woven City. And do you
+see any changes to this type of investment into the already started project Thank you very much.
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+So we're now making Toyota, a new Toyota. So any change to the contents of our activities,
+especially investment. Recently, we have started to seed for the new Toyota. And for this kind of
+new projects, we continue pushing the accelerator pedal. But Mr. Kobayashi, next to me, may
+have a different answer. So I'd like to invite Kobayashi-san to give an answer to your question.
+A - `Koji Kobayashi, Chief Risk Officer & Director `
+So I'm Kobayashi, thank you very much. Now before the financial settlement announcement,
+executives made a discussion so many times, including the President himself. And the year
+ending in March 2021, we'll have a JPY500 billion, which point a deficit, when we were in the time
+of the financial crisis. Now 11 years of Akio's Presidency has seen so many events. And if you look
+at the breaking point, it is now getting better. And the President is the only person who has the
+experience of the financial crisis. So somewhat we had to stop the discussion. And now growing
+concern, we have talked about, and anything which you cannot stop is this kind of investment for
+the future.
+We cannot stop this investment for the future because this is one of the things, which we have to
+continue forever in the future, which has to be supported by our money. At the financial crisis'
+time, JPY3 trillion is the cash on hand. However, we have JPY8 trillion cash on hand. Now to look
+over the company, this is smaller because Apple has JPY20 trillion. So of course, the companies
+will experience ups and downs. But anything for the future will be necessary because to have a
+continued growth for the future, we'll make a contribution to the society.
+And this is a philosophy by President `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative, which we are following as executives. So you
+have talked about the Smart City, Woven City project and also R&D investment or the investment
+into testing, these will never be changed. However, well, I am having a keen eye on how much we
+spend. So if we see any waste for spending, I will cut it, so that we can have a better prioritization.
+At the time of the COVID-19 crisis, our prioritization is more better than the past. So looking for
+the future, we'll have more discussion among the top executives, so that we can have better
+prioritization on how much we spend for what.
+A - Unidentified Speaker
+Thank you, Mr. Isozumi.
+I'm sure that, we still have lot of questions, but since we are over our scheduled time, we would
+like to just receive the last question.
+Operator
+Mr. Osada from Chunichi Shimbun Press, Chunichi Newspaper, please. We'll switch this slide and
+when you see your face, please began your questions. Mr. Osada, please.
+Q - `Hiromi Osada, Analyst, Chunichi Shimbun
+I'm Osada from Chunichi Newspaper. Thank you very much for this opportunity today. I also want
+to ask a question from the perspective of change. Earlier in the President's remarks, you have
+mentioned that now is the chance and opportunity to change actions. So currently, in this COVID-19 era, we're talking about the new normal or a new way of life. And I think Toyota's -- one of
+Toyota's philosophy is genchi genbutsu, so that will be going to the actual site and looking at the
+actual goods. Will this change? And also in last year's financial result announcement, President
+Toyoda, when asked a key question of what is the threat or challenge of Toyota, and President
+responded that it will be the way of thinking that Toyota is all right. So in this era of new challenge,
+new norms, what is the challenge of Toyota?
+A - `Akio Toyoda, Chief Executive Officer, Chief Branding Officer, President & Representative `
+That's a very difficult question that I received at the very end. Well, for Toyota, is our genchi
+genbutsu philosophy, going to the actual site, looking at actual goods, I believe that we need to
+make a clear definition of this once again. Up to now, we placed importance on, first of all, go to
+the actual site, go to the genchi. So it was done as a matter of course. Even if we look at
+products, we'll always have to look at the product and place it in front of our own eyes. So no one
+questioned this up to now. But in the past month, we have been looking at products more
+through images on the screen. This was a new thing for me.
+And what I felt was that when I -- what is the timing that I'm confirming the product? At what
+timing is the people consulting me and asking for my comments. So I think for -- at certain stages,
+it is fine to see the product through the screens. And there will be always times that you'll have to
+see the actual product. I think the line between this has become more clearer with the past
+month experience.
+And even for this, for example, I had to -- if you have to go to make an apology, for example, if
+you have to have consultations with a certain person, I think in these kinds of cases, you'll need to
+have a face-to-face contact, be able to understand the emotions, the temperature of how you're
+feeling. These kind of incidents -- these kinds of cases, it will be necessary to go to the site to
+see the person, see the product.
+When you look at a product, going to the actual sites, going to genba, what is important is to fuel
+the change point, what has changed, understanding what has changed is important. So if I have to
+look at a product through the screen, then I will confirm what is the change point that people
+want to show me. Also how do people look like? What are -- how are their eyes looking like? How
+are they feeling?
+Some things can be only felt when you are at the genba. So for those kinds of things that you will
+need to feel from the actual products, actual people, then that will be -- should be done at the
+actual site, the genba. So I think we need to review our definition. I think we should not just that
+we do genchi genbutsu everywhere, but we need to clarify what it's necessary to do genchi
+genbutsu and what we don't have to.
+Also last year, I did say that the threat for Toyota will be the thinking that it is all right. Well, now a
+new threat, I would say, is that -- well, rather than saying it's a threat, for myself, currently I am
+staying very calm. And there are many people making their utmost efforts, and I'm seeing,
+including the office workers, seeing the efforts. So I have more opportunities to say thank you to
+the people around me.
+So rather than see things as a threat, from making comments and from the actions that I take, I
+hope that there will be more opportunities for me to say thank you to the people who are making
+efforts. But if the opportunity for me to say thank you goes down and when I start to be
+complaining to myself more often than now, I think that will become a time, where I see more
+threats.So including the way I work, I want to create a relationship in the company, also build relationship
+with the suppliers and the dealers, also the relationship with communities, so that I can say thank
+you to all these friends and partners. So that's what I'm aiming for through my work and actions.
+So rather than the threat, I want to explain about the expectations that I have. That will be my
+comments -- that will be my answer. Thank you.
+A - Unidentified Speaker
+So this is the end of the second part of the financial result announcement meeting. Thank you for
+your time, for a long time.

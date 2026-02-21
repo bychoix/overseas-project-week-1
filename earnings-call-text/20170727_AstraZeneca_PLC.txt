@@ -1,0 +1,956 @@
+Q2 2017 Earnings Call
+
+Operator
+Good afternoon. Welcome ladies and gentlemen to the AstraZeneca's Half Year 2017 results
+Analyst Conference Call. Before I hand over the call to `Pascal Soriot, Chief Executive Officer & Executive Director, AstraZeneca, I'd like to read
+the Safe Harbor statement.
+The company intends to utilize the Safe Harbor provisions of The United States Private Securities
+Litigation Reform Act of 1995. Participants on this call may make forward-looking statements with
+respect to the operations and financial performance of AstraZeneca.
+By their very nature, forward-looking statements involve risk and uncertainty, and results may
+differ materially from those expressed or implied by these forward-looking statements. The
+company undertakes no obligation to update forward-looking statements.
+There will be an opportunity to ask questions after today's presentation.
+We will now hand you over to the Chief Executive Officer, `Pascal Soriot, Chief Executive Officer & Executive Director, for the call is about to
+start.
+`Pascal Soriot, Chief Executive Officer & Executive Director `
+Good afternoon, everyone. `Pascal Soriot, Chief Executive Officer & Executive Director here. Welcome to the first half results conference call
+and webcast for investors and analysts. We're in Cambridge in the UK in our global headquarters.And we have people on the phone and the webcast. As always, the presentation is available on
+AstraZeneca.com for you to download.
+Please turn to slide two. This is our usual Safe Harbor statement.
+Please turn to slide three. Today, we plan to spend about half an hour on the presentation, and
+then leave almost one hour for Q&A. We have lots to talk about today and it's very important for
+us to put all of today's news into context. If you want to ask questions on the phone, you can get
+in the line already now by pressing star one. There's also an option to ask questions online as
+part of the webcast.
+As we would like to provide everyone with an opportunity to ask questions, please limit to one
+question per person. This will make it fair for everyone. Thank you for your help here.
+Today, I'm joined by `Marc Dunoyer, Chief Financial Officer & Executive Director, our CFO; `Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs,, our EVP for Global Products and
+Portfolio Strategy, Global Medical Affairs and Corporate Affairs; `Jamie Freedman, Executive Vice-President and Head of Oncology Business Unit, EVP for
+Oncology, the Oncology Business Unit; and `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical, our EVP for Global Medicines
+Development and our Chief Medical Officer.
+Please turn to slide four. This is our agenda for today.
+And I would like to ask you to move to slide five. These are the highlights for the first half. On our
+conference call today, we'd be making comments on our financial performance using core
+reporting metrics and at CER, at constant exchange rates, which are both non-GAAP measures.
+So with the formalities behind me, I'll now kick off. In summary, the business performance for the
+first half of 2017 was in line with expectations. Total revenue declined as anticipated and reflected
+the tail impact of CRESTOR's and SEROQUEL XR's U.S. loss of exclusivity and some phasing of
+externalization revenue. On the other hand, sales from growth platforms increased overall. They
+now account for 70% of total revenue. Emerging Markets were at 6%. Within this region, China
+continued to perform well. And we saw the launch and the first phase of Tagrisso. Outside China,
+there were impacts from the economic and geopolitical situation in some countries.
+Our Respiratory business continued to be impacted by U.S. Symbicort, while the medicine
+remained a global leader in its class. And for new CVMD, Brilinta continued with its high-growth
+and in diabetes, Farxiga continued to be the world leader in its class, despite subdued U.S.
+performance due to price pressure on managed care access. But overall, Farxiga delivered very
+good results. Japan was up by 6%, and actually accelerated in Q2. Tagrisso expanded on its
+impressive global launch and recorded the first sales in China, as I mentioned a minute ago.
+Finally, earnings per share, we are underpinned by continued cost management and other
+operating income.
+So please turn to slide six. The pipeline news flow continued since the last results announcement.
+We were, of course, disappointed by today's MYSTIC progression-free survival result and we now
+have to wait for overall survival data in the first half of 2018. But we were pleased by a number of
+successes including the PACIFIC trial. Let me cover a handful of news items.
+First of all, Imfinzi news include the strategic and early U.S. launch in bladder cancer, as well as the
+early positive PFS results obtained from the PACIFIC trail. Earlier today, we provided an update on
+progression-free survival from MYSTIC, where there is no PFS benefit and we need to wait until
+first half of 2018 when we expect to get the full picture of the clinical profile with the overall
+survival final analysis. On the other hand, we met the single primary endpoint of progression-free
+survival in the FLAURA trial for Tagrisso, which we're very pleased by when you see the growthcoming from Tagrisso in the first half. We think we now got clinical data to unlock more value for
+patients in AstraZeneca and to help our ambitions in lung cancer.
+Next news is Faslodex; it obtained approval in first line breast cancer in the EU and in Japan. And
+Lynparza was accepted for review in the EU and in Japan in second line ovarian cancer based on
+the SOLO-2 trial. Unfortunately, Bydureon for type-2 diabetes didn't show statistically significant
+reduction in cardiovascular event in the EXSCEL outcomes trial. But the safety profile of this
+medicine was reconfirmed.
+In the Respiratory, Bevespi was accepted for a review in the EU for the treatment of COPD. We
+need to wait for the STRATOS-2 trail of tralokinumab to fully characterize the clinical profile for
+severe uncontrolled asthma. Outside our main CRP areas, our externalization efforts were
+boosted by the approval of Kyntheum for psoriasis, for partnerships with focused dermatology
+companies like Valeant in the U.S. and LEO Pharma in Europe, who have been able to bring this
+medicine to patients in needs of better therapy.
+Given our strategic focus on the three main key areas, AstraZeneca is not able to provide the
+same support to a dermatology medicine as our partners are underpinning the strategic rationale
+for the decision to externalize. There are more pipeline milestones that Sean will speak to later.
+He will also cover to these news in detail.
+Please turn to slide seven. When we look at new AstraZeneca, we continue to see growth.
+Product sales grew by 4% and more underlying. `Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs, will get back to this later. As we
+move forward, and very soon exit the patent cliff for CRESTOR in the U.S., we will start to see this
+growth become more visible, and we look forward to keeping you updated on this journey.
+I will now move to slide eight. As we begin returning to growth our focus on commercial
+execution will increase. A good example is today for instance, Brilinta and also Tagrisso. We've
+now also launched Qtern in Europe, and of course, Imfinzi in the U.S. At the end of the year, we
+anticipate the launch of benralizumab, our first biologic medicine in respiratory disease to treat
+severe uncontrolled asthma. On the news flow side, we were able to add more tick marks for
+Imfinzi approval and the exciting data from the PACIFIC trial in stage III unresectable lung cancer. I
+believe this is an indication that is still underestimated and has a lot of potential, and we'll be by
+ourselves in that indication.
+We also recognize, however, that the MYSTIC PFS results are disappointing. And that we now wait
+– we need to wait until first half of 2018 before we get the final OS data, and therefore, the full
+picture of the clinical profile of Imfinzi in lung cancer and the combination. On the other hand,
+today's news from the FLAURA trial for Tagrisso is very encouraging and it supports our focus on
+lung cancer and the benefit we can bring to patients. There's a lot more pipeline news flow
+expected over the remainder of the year.
+In summary and despite some disappointments and some successes, together with
+management team, we're very committed to delivering our return to growth and to deliver the
+value and the benefits of the pipeline to patients in need around the world. I have to say that I'm
+very impressed by the progress we've made. And we would like to thank every colleague in the
+global AstraZeneca network for their contribution. I'm very proud to be the CEO of this company.
+I look forward to continuing on our journey. And I would like to say that, I'm very, very committed
+to seeing this implementation of this strategy through.
+Speaking of our journey, please turn to slide nine. I'd like to touch on the collaboration that we
+have announced earlier today with our partner Merck. The primary purpose of the collaboration isinhibitor of choice. This collaboration affirms Lynparza is the leading PARP-inhibitor for IO
+combinations and also with the leading PD-1 in terms of clinical trials ongoing. Jamie will elaborate
+on this further in his section. But essentially the collaboration will also enable further studies to be
+initiated faster than we could have done ourselves and in broader patients population.
+In a nutshell, we actually partner products where we believe we can create more value with our
+partner. And here, there is a clear benefit in partnering with Merck, who is a very strong company;
+a company that shares our focus on science and has a strong IO presence. And in combining
+Lynparza with Keytruda on the one hand and the avelumab on the other hand, we believe we can
+make Lynparza a much bigger product. The total deal value is well set to $8.5 billion, which we
+consider very attractive for Lynparza. And just as a short reminder, $8.5 billion for half of this
+asset, which four years ago was written off in the books of the company, we believe is actually a
+reflection of the valuation that a very respectable company is actually able to see in Lynparza. And
+we believe together with our partner at Merck, we can make Lynparza a big product.
+With this, I'll now hand over to `Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs,. Mark, over to you.
+`Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs, `
+Thanks, Pascal. And I'm pleased to be here again to update you on a growth platform. So let's
+jump right in. Next slide please. I'll cover our non-growth – our non-oncology growth platforms,
+and then hand over to Jamie to cover New Oncology. The growth platform, as Pascal mentioned,
+demonstrated overall growth in the quarter, despite the continued headwinds in Respiratory. And
+the combined revenue of our growth platforms represented an impressive 70% of total revenue
+in the first half. Momentum was seen in Emerging Markets in Japan and in New Oncology.
+Next slide, please. Starting with Emerging Markets. We continue to deliver in line with our long-
+term performance target of mid to high single-digit growth in product sales. In fact, when you
+take out the revenue from divestments, growth in the half was more than 10% across Emerging
+Markets. And growth in China of 8% in the half was mainly driven by new products, new launches
+of Forxiga and Tagrisso and on the strong performance of Brilinta. Importantly, for our long-term
+business, we've seen five of our medicines added newly to the Chinese National Reimbursement
+Drug Listings, one of the best performances of any company in China and including, most
+importantly, Brilinta.
+Outside of China, we continue to see headwinds in Saudi Arabia and Venezuela due to
+challenging economic environment in those countries. But other parts of the Emerging Markets
+performed well and notably, Middle East and Africa with growth of 28% in the first half of the year.
+Next slide, please. The Respiratory franchise sales continue to see challenges in the half, with
+downward pressure in the U.S. being slightly offset by Emerging Markets and established rest of
+world performance. As expected, with Symbicort, we continue to see challenges with global
+product sales down 10%, is reflecting price headwinds in the U.S. and competitive dynamics in
+Europe. We do not see a lessening competitive pricing pressure going forward, however,
+Symbicort continues to lead volume share in ICS/LABA class globally. In the U.S. and Europe,
+Symbicort product sales declined by 19% and 10%, respectively.
+Symbicort Emerging Markets delivered growth of 4%, with Symbicort China sales up by 18% in the
+half. We've launched an extensive Symbicort campaign to highlight its strong differentiation
+versus competitors. The campaign focuses on the 39% greater reduction in exacerbation versus
+Seretide and SABA, a seven times improvement in asthma controlled days versus baseline
+standard of care. In fact, this was achieved with a 25% lower ICS dose in Seretide and SABA.Next slide, please. Touching briefly on Bevespi and the U.S. launch is going well, with new-to-
+brand prescriptions almost at 15% after only six months. The performance is ahead of what you
+would expect to see, a before to market launch. And actually, right now, we're the only
+LAMA/LABA growing market share in the U.S. While the growth of the LAMA/LABA class continues
+to be below expectations, we still believe it has an important role to play with COPD patients.
+And we continue to believe that Bevespi offers a unique proposition with the Aerosphere
+technology supported by a differentiated clinical profile. As a reminder, Bevespi is the first of our
+portfolio of new products launching on our new pMDI platform utilizing the co-suspension
+technology that enables consistent delivery of one and more medicines from a single pMDI.
+Next slide, please. In New CVMD, sales were up 4% despite intense competition with the strong
+performance in Emerging Markets offsetting slower U.S. performance. Brilinta delivered product
+sales of almost $0.5 billion in the half with 28% growth, notable performance seen in the U.S. and
+Emerging Markets, including China. The overall diabetes franchise exhibited a softer half with
+sales down 4%, U.S. sales declined by 9% as a result of intense pricing pressure and competition
+for market share. Farxiga maintained a 40% volume market share globally, and it continues to be
+the leader in volume market share.
+With product sales of $457 million in half and 22% growth, as Pascal highlighted. Farxiga continued
+to deliver strong growth in Europe and Emerging Markets with sales up 24% and 83%,
+respectively. In the U.S., Farxiga product sales were down 1% due to managed care access and
+affordability programs and a competitive market. Moving forward, we're working to optimize our
+affordability programs in the U.S. As we wait for CV outcomes data from the DECLARE trial, the
+CVD-REAL study has already demonstrated the CV benefit for the SGLT2 class and Farxiga in a
+real-world setting. These data have been well shared and accepted by the medical community.
+We continued our efforts highlighting the overall benefits of Forxiga, which include excellent
+glucose control, weight loss, blood pressure and a proven tolerability profile.
+Next slide, please. And finally, touching on Japan. We continue to grow with product sales up 6%
+in the half driven by Tagrisso and Forxiga. Forxiga is the leading SGLT – leading with the SGLT2
+class in terms of value sales and the class itself is exhibiting strong growth in Japan. Our diabetes
+business in Japan was up 21% in the first half. And as I mentioned, we continue to have great
+success with Tagrisso in Japan.
+At this point, I'll turn it over to Jamie and he will tell you more about that and the rest of our New
+Oncology portfolio.
+`Jamie Freedman, Executive Vice-President and Head of Oncology Business Unit `
+Thank you, Mark. Hello, everyone. I'm going to cover the Oncology franchise. This quarter is the
+first quarter since 2010 that we've achieved $1 billion in product sales. This is the 20% growth
+since the previous year. For the first half, we've achieved $1.9 billion in sales, which is 19%
+improvement since the previous year. This is primarily driven by four products, Faslodex, which is
+an older product, has seen renewed growth due to expansions into first line. We just found out
+yesterday actually that we got approval in Europe for the FALCON trial, which is first-line
+metastatic breast cancer. We hope to hear soon about the U.S. And we've also seen combination
+use in second line with CDK 4/6 inhibitors. This is 16% growth and about $250 million in sales for
+the quarter.
+For New Oncology products, we're halfway to achieving our goal of six new medicines by 2020.
+Three have already been delivered. Tagrisso has shown very strong growth globally, particularly,
+in Asia. Imfinzi, we initiated our strategic launch in May 2017, and I'll cover that in more detail. Andwhich is the second line maintenance setting for ovarian cancer that was very impressive and
+more recently for metastatic breast cancer with BRCA mutation.
+Next slide, please. So Tagrisso has shown strong growth quarter-on-quarter. This is primarily due
+to Emerging Markets and established rest of world. In Japan, we've had the highest testing rates
+of all at about 96%. In China, we had the fastest launch in the history of AstraZeneca in May, with
+sales starting to pick up. In Europe, we've seen more reimbursements, most recently in Italy for a
+total of 14 markets in Europe with partial or full reimbursement.
+And in the U.S., we're starting to see testing rates for T790M mutations in second line increase
+due to education around ctDNA/plasma retesting. We previously reported the first line results in
+phase I that had an impressive progression-free survival of 19.3 months. We just announced today
+the results of FLAURA, which is the pivotal trial in first-line EGFR mutant non-small cell lung cancer
+that were positive and you'll hear more about that from Sean.
+Next slide, please. For Imfinzi, we received accelerated approval in second line bladder cancer
+and launched in May. We've only been on the market for a couple of months, and we've already
+seen 35% share of voice, which is second to the other competitors. This is really a strategic
+launch to set us up for Stage III unresectable non-small cell lung cancer based on the positive
+PACIFIC trail where we met the primary – the progression-free survival end point, which is the
+primary endpoint of the trial. We anticipate regulatory submission in second half of this year. This
+is a tremendous opportunity for us with about 100,000 Stage III lung cancer patients where there
+is no other PD-1 on PD-L1 inhibitor. This has the potential to be a blockbuster and we're two to
+three years ahead of the competition.
+Next slide, please. With Lynparza, we remain a global leader. We were the first on the market with
+ovarian cancer, now there is competitors. And we are the first to announce positive results in a
+second indication for a PARP inhibitor, which is metastatic breast cancer. We've seen steady
+growth, particularly in Europe. In the U.S., we've see some headwinds as a result of still having the
+fourth line indication in ovarian cancer. And we have a very high pill burden.
+SOLO-2 results in the second line maintenance setting were submitted for regulatory submission.
+And we hope to hear back in the third quarter. And as a result of that, when we can launch, we'll
+be able to reduce the pill burden from 16 capsules a day to four tablets a day, and also be in a
+second line maintenance setting, which would make us very competitive. We have a very
+favorable safety profile.
+Our development program with Lynparza is extremely robust. The goals are to move to earlier
+line setting with the SOLO-1 trial reading out at the beginning of 2018 that will position us in first-
+line maintenance of ovarian cancer. Eventually, we're going to have the OlympiAD results that will
+put us in the adjuvant breast cancer setting. And then we have additional indications with
+pancreatic cancer and prostate cancer.
+We have several combination trials underway with VEGF inhibitors, including bevacizumab and
+cediranib that will expand the activity of Lynparza beyond BRCA mutation. And then beyond that,
+we have an extensive DDR portfolio to combine with Lynparza that will put us in different
+segments of different diseases, as well as the immuno-oncology combination.
+Next slide, please. Pascal mentioned earlier that we entered a strategic collaboration with Merck.
+And this is a critical partnership that we believe will maximize the value of Lynparza, by combining
+two immuno-oncology agents, one a PD-1 inhibitor Keytruda, which is one of the leading immuno-
+oncology agent as well as Imfinzi. And the goal behind it is to enhance activity in the BRCA mutantpursuing this not only with IO but DDR and VEGF inhibitors and this is something that Merck will
+participate in with us as well.
+Next slide, please. The goal again around the partnership is Merck has the most number of clinical
+trials in immuno-oncology with 39% in multiple indications. That's shown in the light green
+segment. And in the darker green segment is Imfinzi, also very active in clinical trials. The two of
+us together would have by far the most clinical trials with immuno-oncology. And by partnering
+with each other and combining with Lynparza, we should maximize the value of Lynparza.
+Next slide please. So in summary, around the Merck collaboration, we combined the capabilities
+of two main oncology players. We established Lynparza as the preferred PARP inhibitor backbone
+of PD-L1 and PD-L1 inhibitors. It accelerates Lynparza development with Keytruda. We maximized
+the potential number of treatment options. And as Pascal mentioned, the total value of the deal
+is $8.5 billion.
+And with that, I will hand it back to `Marc Dunoyer, Chief Financial Officer & Executive Director to cover finance.
+`Marc Dunoyer, Chief Financial Officer & Executive Director `
+Thank you, Jamie, and hello, everyone. I'm going to spend the next few minutes taking you
+through our financial performance in the first half. So if you could please turn to slide 25. As usual,
+I will begin by showing you the reported P&L numbers before turning to the core performance.
+Total revenue declined by 9% in the half with product sales impacted by geological effect of the
+CRESTOR and SEROQUEL XR losses of exclusivity in the United States. Externalisation revenue
+declined by 1%. As previously highlighted, we expect a sustainable and ongoing proportion of
+external revenue at a high of 34% in the first half to increase over time.
+Please turn to slide 26. If we now turn to the core performance, we can look further down the P&L
+and see that our gross margin in the half was stable at constant exchange rate at 83%. This
+reflected the mix of sales and the growing influence of specialty care medicine, together with the
+impact of the losses of exclusivity and the resilience of some legacy medicine in established
+markets. Important to note that we do not anticipate such a high gross margin over the full year,
+given the phasing of supply cost and some non-repetitive benefit that will not be seen in the
+second half.
+Core R&D costs declined by 4% in the half, and core SG&A costs declined by 9%. These
+reductions reflected our focus on cost discipline, and supported a full-year commitment of
+keeping core R&D cost broadly stable and reducing core SG&A cost. Again, we do not anticipate
+such a reduction in core SG&A cost over the full year as we saw in the first half. Core other
+operating income and expense more than doubled in the half, partly reflecting the level of
+disposal activity as well as a milestone receipt from Pfizer.
+The core tax rate in the half was 19%, in line with the 16% to 20% range we continue to anticipate
+for the full year. As Pascal mentioned a moment ago, the increase in core EPS in the half was
+primarily driven by continued focus on cost as well as the increase in other expense and income.
+If you could please turn to slide 27. This familiar slide illustrates the important progress in reducing
+our operating cost base. As I've just mentioned, core R&D cost declined by 4% in the half,
+whereas, core SG&A decreased by 9%. One example of what we're doing is prioritization,
+making sure that we have the right people and resources focused on the best medicine and
+opportunity. We also recently launched a Global Business Service organization, which over timewill increase the level of integration and allow us to focus on cost further. We remain committed
+to continue reducing our operating cost base this year.
+Please turn to slide 28. Turning to our operating profit margin, you may have noticed that we have
+achieved 30% plus margin for a number of consecutive quarters. This has even been before the
+overall pipeline delivers in the way we anticipate. We also know that our gross margin is being
+supported by the growing influence of specialty care medicine sales. Core R&D investment is not
+targeted as a ratio to product sales, and core SG&A cost has the capacity to reduce further, we'll
+recognize the long-term operating leverage opportunity. However, depending upon the success
+of the pipeline, we would also want to retain some flexibility to invest in high return pipeline and
+lost opportunity. In short, as the big patent cliffs cycle ends this year and as the pipeline delivers,
+new AstraZeneca has a potential to deliver the growing margin, while keeping some flexibility on
+pipeline opportunities.
+Please turn to slide 29. To conclude, I want to reiterate the 2017 guidance, which is at constant
+exchange rate. I expect the low to mid-single digit percentage decline in total revenue. Core EPS
+is anticipated to decline by low to mid-teens percentage. Outside of guidance, the total of
+externalization revenue and other operating income is still expected to be ahead of that in 2016.
+As I mentioned, sustainable and ongoing income is expected to increase as a proportion for the
+externalization revenue in 2017 and beyond. We anticipate that core R&D will be broadly in line
+with 2016, and as I just mentioned now, we plan to reduce core SG&A cost this year. As
+highlighted before, (28:38) performance between quarters can be expected to continue with
+year-on-year comparison beginning to ease in the second half, particularly, as we begin to lap the
+impact from the loss of CRESTOR in the United States.
+Finally, you have seen our capital allocation already before and they remain unchanged. We will
+continue to strike a balance between the interest of the business, our financial creditors and our
+shareholders. After providing for investment in the business, supporting the progressive dividend
+policy and maintaining our strong investment-grade credit ratings, we will keep under review any
+potential investment in value enhancing and immediately earning accretive opportunity.
+With this, I will now hand over to Sean.
+`Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Thank you, Mark. I will run through the late-stage pipeline events occurring since the last results
+announcement, today's important news and highlights of recent data presentation. Then I'll wrap
+up with a look at our upcoming news flow.
+Please turn now to slide 31. As in Q1, it was an equally busy three months, where we mostly saw
+progress in each therapy area. Imfinzi got U.S. approval in bladder cancer, our first biologic and
+our first immunotherapy. The PACIFIC trial met its progression-free survival primary endpoint
+during a planned interim analysis, and we're now very excited to be working with regulators to
+bring Imfinzi to patients with Stage III unresectable non-small cell lung cancer.
+As you saw, MYSTIC did not show benefit on PFS. And we now will await the final overall survival in
+the first half of 2018. This is a disappointment for us. But as we've said on several occasions, we
+need overall survival to fully qualify the clinical profile of the IO medicines, which is why we refined
+the MYSTIC trial design.
+Further in lung cancer, Tagrisso met its primary endpoint in the first line FLAURA trial. Lynparza had
+regulatory submission acceptance in the EU and Japan for second line ovarian cancer. In type 2diabetes, Bydureon met the primary safety objective in the cardiovascular outcomes trial, but did
+not reach statistical significance in showing superior CV benefit over placebo. These data will be
+shared at the ASP later this year.
+Further on data readouts, we had some mixed news with tralokinumab not meeting its primary
+endpoint in severe uncontrolled asthma, although the study did provide valuable information
+regarding potential in a sub population of patients expressing a specific biomarker. These
+learnings have been incorporated into the second Phase III study of tralokinumab STRATOS 2.
+Staying on Respiratory, we had regulatory submission acceptances of Bevespi for COPD –
+acceptance of Bevespi for COPD in the EU. Last week we learned that our partner, LEO Pharma,
+received European approval for Kyntheum, formerly known as brodalumab and marketed as Siliq
+in the U.S.
+Please turn to the next slide. In June, we took our science to ASCO and shared 100 abstracts,
+including updates on Lynparza, Tagrisso and Imfinzi. We shared the OlympiAD data from Lynparza
+in BRCA-mutated metastatic breast cancer, which made the plenary session. We also shared
+health-related quality of life data in ovarian cancer from SOLO-2.
+For Tagrisso, we shared encouraging data from AURA3 for patients with EGFR, T790M mutation
+positive non-small cell lung cancer and CNS, strengthening the case for Tagrisso's move to first
+line EGFR mutated lung cancer and its ability to cross the blood brain barrier.
+And for Imfinzi, we highlighted the data included in our recent approval for bladder cancer and
+further non-small cell lung cancer data from study 1108.
+Please turn to slide 33. As you all know, a large unmet medical remains in non-small cell lung
+cancer. This slide illustrates the depth and breadth of AstraZeneca's commercialized and late-
+stage potential medicines in this disease area, expanding the EGFR-mutated tumors with small
+molecules like Iressa and Tagrisso and addressing the non-EGFR and non-ALK mutated tumors
+with Imfinzi and tremelimumab. AstraZeneca's ambition is to provide a treatment option for as
+many patients with non-small cell lung cancer as possible.
+Over the past three months, we've received three major data points. PFS for PACIFIC and
+MYSTIC, and we're waiting for the overall survival for both trials. Then we received the positive
+results from Tagrisso in the FLAURA trial with only one primary endpoint progression-free survival.
+We're working on regulatory submissions for PACIFIC and FLAURA at the moment, and we hope
+to bring these two opportunities to patients as soon as possible.
+Please turn to slide 34. This slide highlights the status of the three recent news items and the
+progress that we have made in non-small cell lung cancer to-date. First with the positive
+progression-free survival readout from the PACIFIC trial with Imfinzi in Stage III non-small cell lung
+cancer, we'll make regularly submissions as soon as possible this half. We believe this is a very
+meaningful opportunity.
+Second, we have announced the MYSTIC PSF data. We are disappointed that the combo of
+Imfinzi and tremelimumab and Imfinzi alone monotherapy did not show a benefit on progression-
+free survival. I will come back to this in a moment.
+Third, we had the good news from Tagrisso that met its single primary endpoint in the first line
+FLAURA trial, not only with trial statistically significant, but also clinically relevant. The two positivenews items will increase our presence in lung cancer across stages and key segments of the
+markets. This is good news for patients and for the company as well.
+Please turn to slide 35. As just discussed, MYSTIC did not meet its progression-free survival
+endpoint, both for the combo and monotherapy and both at the 25% PD-L1 expression cut point.
+We are continuing the trial to assess overall survival for both monotherapy and combination
+therapy, which are the remaining primary endpoints.
+We expect these readouts to come in the first half of 2018. And as we have previously
+mentioned, all trials of this nature have interim analyses built into the statistical analysis plan,
+however, we do not comment on the exact timing of those interims.
+We remain confident that overall survival is the best measure of efficacy in immuno-oncology and
+look forward to keeping you updated with our progress.
+Turn now to slide 36. As a reminder, there is more to come beyond progression-free survival for
+MYSTIC. We recently saw positive readout for PACIFIC and we're currently studying either Imfinzi
+or Imfinzi plus treme in six other randomized-controlled trials. Studies include ADJUVANT, with the
+disease-free survival endpoint to PEARL first line trial in the Asian patient population, as well as
+POSEIDON with chemo combination with IO therapy. AstraZeneca's commitment to immuno-
+oncology remains strong and non-small cell lung cancer is at the forefront of our overall strategy
+in oncology.
+Please turn to slide 37. Concluding on immuno-oncology, here is a familiar slide including our trials
+in head and neck and bladder cancers as well as non-small cell lung cancer. KESTREL has been
+moved into the first half of 2018 due to a slower-than-expected event rate, causing a slight
+timeline movement from the end of 2017. Next year we will have final overall survival data from
+both MYSTIC and NEPTUNE as well as results from DANUBE in bladder cancer.
+Next slide, please. Looking now beyond immuno-oncology, I wanted to highlight the additional
+news items in our overall oncology portfolio that we expect to share between now and the end
+of 2018. Acalabrutinib, where we're looking to update you on our next step. As a reminder, we
+generally communicate regulatory submission acceptance once we have heard back from the
+regulatory agency.
+Faslodex continues to make strides in first-line breast cancer and regulatory approvals for
+Lynparza in second line ovarian cancer and regulatory submission in first-line breast cancer are
+forthcoming. Similarly, opportunities for moxetumomab in leukemia and selumetinib in thyroid
+cancer round out the broad range of news items that you can expect to see from AstraZeneca in
+the next few quarters.
+Next slide, please. Moving away from Oncology for a moment, I wanted to highlight some of the
+important science happening in our CVMD therapy area. At ADA, we recently shared additional
+CVD REAL finding, supporting the benefit of SGLT2 inhibitors over other oral antidiabetic
+medicines in both all-cause mortality and hospitalization due to heart failure. Also, data on
+DURATION-7 and DURATION-8 showing added benefit when combining Bydureon with either
+Farxiga or basal insulin. At ESC in August, with our partners the Timi Group, we will share new data
+from the PEGASUS trial in high-risk PMI patients and at EASD in September, AstraZeneca will
+participate in an EASD-sponsored discussion panel, on SGLT2 inhibitors as a novel treatment for
+type 1 diabetes, as well as present the exciting 24-week data from the DEPICT-1 trial of Farxiga in
+type 1 diabetes.Further, we announced today that the DECLARE trial timeline is being moved forward to the
+second half of 2018 from 2019 previously. With that I'd like to end with a snapshot of upcoming
+news flow from our late stage pipeline.
+Next slide, please. As you can see from this slide, 2017 will continue to be a busy year and activity
+will continue into 2018. We've now broken 2018 into first and second half. Before the end of 2017,
+we expect to receive U.S. regulatory decisions on Faslodex in the first line setting, Lynparza in
+second line ovarian cancer, the Bydureon autoinjector and benralizumab for severe uncontrolled
+asthma. We will also be submitting Lynparza in breast cancer, Tagrisso in first line EGFR mutated
+non-small cell lung cancer based on today's news, and of course, Imfinzi based on the PACIFIC
+trial in Stage III unresectable lung cancer.
+There is certainly still the potential for a fast market opportunity with acalabrutinib. Please note
+my previous comments on when we generally announce potential regulatory submission
+acceptance. In 2018, we expect the final MYSTIC OS data, plus a number of other news items,
+including Lynparza in first line ovarian cancer based on SOLO-1 and first data readouts for the IO
+trials, KESTREL and EAGLE in head and neck cancer. We'll also see data on PT010 in COPD.
+Starting this time next year, we'll begin to see readouts for lupus and bladder cancer, and have
+the potential for quite a few regulatory submissions before the end of 2018.
+Thank you all for your continued support and thanks to all the hard-working people who come to
+work at AstraZeneca every day to make this happen.
+Now, I'll hand back to Pascal for closing comments.
+`Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Sean. So let me summarize. First of all, the first half was in line with expectations. New
+AstraZeneca grew product sales by 4%. Our financials are on track, and we reconfirm our
+guidance. Second, the pipeline is advancing at pace with 12 new potential medicines in Phase III
+under registration. The Oncology pipeline in particular is progressing. Tagrisso and Lynparza are
+ahead of expectation. We recognize, of course, that the MYSTIC news are a disappointment. But
+we also need to see the positive surprise with the PACIFIC trial, which is a very large opportunity
+that will belong to us for a period of time.
+We're looking forward to sharing further news flow that we think has the potential to mark a
+meaningful step-change for AstraZeneca, in particular the details of the PACIFIC and the FLAURA
+Phase III trials in lung cancer, which we hope to present very soon.
+We'll now go to the Q&A. For people on the conference call, please remember to press star one
+to ask a question. We will also take written questions from the webcast. Can I please remind
+everyone to limit questions to one to be fair to everybody? Thanks in advance. And perhaps we
+can now take the first question from the conference call.
+Q&A
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+And I think the first question would go to Tim Anderson at Bernstein. Tim, go ahead.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Thank you. Over the last many weeks, you had suggested that you would provide a fair a bit
+more in your top line release for MYSTIC than a normal top line release. But to me, it seemspretty scant on details given the materiality of it. And I'm hoping you can say at least whether
+there was a trend on PFS and whether it might have just been the powering issue? And kind of
+related to this, is there a working hypothesis for why the monotherapy with durva didn't hit on PFS
+25% and above? Are you confident that that's not an indictment of the PD-L1 approach versus the
+PD-1 approach?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Okay, Tim. Thank you so much, Sean, I think it's for you, this one.
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yeah, okay. Tim, thank you for the question. With regard to what's been disclosed here, we
+actually have disclosed more than we usually do. Usually, we – in the high level results, we disclose
+just the outcome positive or negative of the primary endpoint that's being evaluated at the time.
+And we did that. That primary endpoint was the Imfinzi-treme combination for PFS in tumors
+expressing tumors cells greater than 25% PD-L1.
+We also then went on – we didn't formerly test the secondary endpoint because obviously once
+you fail with primary, you aren't recycling that power, and we did, however, because we know it's
+relevant to everyone to get a sense of what happened with the monotherapy in that same
+patient population. We want to say that we did not meet the criteria had we've been able to go
+on to monotherapy that would have made that positive. So that we think is quite a full and
+transparent disclosure.
+With regard to the design of the trial, we are very confident that the trial was adequately
+powered to show a clinically meaningful PFS benefit. With regard to confidence, going forward,
+the PFS endpoint has not been a very reliable endpoint for predicting benefit in immuno-
+oncology. There are certainly cases where it has been positive and in line with overall survival.
+But there have been multiple cases, particularly, in second line non-small cell-lung cancer, where
+progression-free survival has not shown a benefit but when you continue to overall survival, the
+benefit is shown. That is in fact in part, why we changed the clinical trial design of MYSTIC to
+elevate overall survival to a primary endpoint to allocate the majority of the power to overall
+survival, and also increase the size of the trial to enable that.
+Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+And then on PD-L1 as a general approach?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+PD-L1 is, at this point in our minds a validated therapeutic approach in non-small cell-lung cancer.
+We talk about the specific data, unfortunately, without yet having a venue which to actually share
+with you. But we have conveyed our confidence that it's a clinically-meaningful benefit, and it will
+mean Imfinzi is brought to patients with non-small cell lung cancer.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+I would only add actually, Tim, that you cannot really – we cannot actually say PD-1 and PD-L1 are
+different. I mean, new volume have been first line and also didn't show a PFS benefit. So the – I
+think there is viability from studies to studies. That's probably the best we can say. But I don't
+think we have evidence that there is difference between PD-1 and PD-L1.Q - `Timothy Minton Anderson, Analyst, Sanford C. Bernstein & Co. LLC `
+Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+We'll move to `Richard Parkes, Analyst, Deutsche Bank AG at Deutsche Bank. Richard, go ahead.
+Q - `Richard Parkes, Analyst, Deutsche Bank AG `
+Thank you. My question, I've got a bunch on MYSTIC, so I'm going to skip those and ask
+something about FLAURA. I just wanted if you could talk about the context in which you've
+gauged clinical meaningfulness of the FLAURA data. I wanted to see if you've taken into
+consideration, obviously, the option physicians have to see when it comes to Tagrisso in the
+second line setting. And obviously, that sets a high bars to what needs to be demonstrated to
+make this maybe clinical practice-changing data. So I suppose my question is, is this data likely to
+be practice-changing as well as clinically meaningful? And could add as well, when would we
+expect survival data from FLAURA to mature?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Richard. So maybe, Sean, if you want to comment? And also later on, Jamie, if you have
+anything you want to add from an sort of payers and clinical practice viewpoint?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yes so, obviously, reporting with high-level results is again a bit scant for us to give you details.
+We found a highly statistically significant, and we believe, clinically quite meaningful difference in
+progression-free survival, it an endpoint that is in a first line setting is a robust regulatory endpoint
+And we do have an interesting design to the trial in that patients who got the standard of care
+first generation, if they have a T790M mutation on their progression, they within the trial have the
+option of crossing over to Tagrisso. So as time goes on, we're going to be able to really
+characterize this better. But we're quite confident in the results we have now.
+With regard to timing of overall survival, overall survival is a key secondary endpoint. The primary
+endpoint was PFS that has been met. We will continue to follow for a couple of key secondary
+endpoints. The second progression, PFS2, as well as overall survival. We can't give you a timing
+on that now because the trial, it's an event-driven and it's quite immature.
+It takes a while for that endpoint to actually mature because there are not only the option of
+going to Tagrisso if you have a T790M mutation, but for all patients who progress on the trial
+there is the option of chemotherapy in a second line setting. And I'll let Jamie comment as well.
+A - `Jamie Freedman, Executive Vice-President and Head of Oncology Business Unit `
+Yes, in terms of the sequencing, why we believe it will be used in first line as opposed to second
+line indications to develop the T790M mutation, you'll recall that about half the patients do not
+develop the T790M mutation. And so they wouldn't be eligible for Tagrisso if they waited till
+second line. So that's one point. Second point is, some patients actually don't make it to second
+line because of death.
+So we believe the clinically-meaningful result will play into why it should be prescribed. And the
+third is that, it crosses the blood brain barrier and treats and we believe, prevents brainmetastasis, which is another reason to use it upfront because a significant number of patients will
+present with brain metastasis in the beginning. So we feel confident that it will be used in first
+line, and it will be a great option for oncologists.
+Q - `Richard Parkes, Analyst, Deutsche Bank AG `
+Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Jamie. Next question is from Andrew Baum at Citi. Go ahead, Andrew.
+Q - `Andrew S. Baum, Analyst, Citigroup Global Markets Ltd. `
+Yeah, good afternoon. Could you confirm that there was the interim overall survival analysis at the
+time of the PFS? And that did not meet the hurdle and the trial is ongoing until the next interim?
+Am I correct in my understanding of that?
+And second, perhaps you could comment, given the change in outlook potentially in relation to
+MYSTIC, how it impact your cash flows? How that impacts both dividend strategy as well as the
+anticipated run rate for R&D for the company?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Let me just quickly address the second one and you can address the first one, Sean. The second
+one, Andrew, is when we do our plan, as you know, we do our risk-adjusted plan. And then what
+has just happened in the last recent past is we have adjusted the PACIFIC in our forecast close to
+100%. Of course, it's not approved yet, so until it's approved to 100%, it's close to it and when
+you see the data, I'm sure you will agree with us that the chance of approval is very good and the
+impact of this data set will be large.
+So, we've gone from a relatively low probability of success in our plan, because PACIFIC was not
+guaranteed, of course, to close to 100%. So this is going to be a substantial opportunity, same for
+FLAURA. On the other hand, of course, we will have to adjust MYSTIC in our forecast, ups and
+downs. Of course, we would have preferred to have everything going positive, but ups and
+downs overall, we believe, we can continue to secure the dividend, and if Marc later on wants to
+add anything, he will but I think we – at this stage we see no reason to find – to feel that the
+dividend is not secure. Sean, do you want to cover the first question?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Sure. I think, as you know, Andrew, we don't comment on interim analyses, when they would
+occur, whether and what the outcome is. So, I can't really comment on it other than to say, yes,
+there are interim analyses and, yes, there is an independent data monitoring committee that
+looks at interims and as well as the safety and conduct trial as it's ongoing.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you. So we should move to question online, maybe. I think that's going to be for you, Sean,
+can you please walk us through all the hypothetical reasons why an IO drug that didn't show a PFS
+benefit, could show an OS benefit, especially as you don't seem to believe in pseudo-
+progression with the checkpoint inhibitors? And the question is from Steve Scala at Cowen, for
+you Sean.A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yeah, okay. So all of the hypothetical reasons, probably not, but I can probably get through some
+of the major ones. So pseudo-progression is one of them. It's not to say that we don't believe in
+it, but we do think it's uncommon. It could contribute inflammation around the tumor that is
+marked as progression, but actually represents an immune response to the tumor and may in
+fact be beneficial. I think perhaps the thing that we wondered about most is the speed of onset
+of IO therapies, such that you may find that tumor has some time to grow before the full effect
+has taken. And then you will get a progression scored. But when that immune response comes,
+you get a benefit down the road that shows up in overall survival.
+I think, it is important to recognize, these are post-talk explanations for very real data that we've
+seen repeatedly in second line head and neck cancer – and at least – and also in second line non-
+small cell lung cancer and also in head and neck cancer where trials have shown overall survival
+benefit that were not indicated earlier with progression-free survival. There were two other
+questions I think in Steve's e-mail? One was what percent of patients – one was about the
+interim, Marc already answered that. The other one was what percent of patients in MYSTIC had
+greater than 25% tumor cell PD-L1 expression. So the MYSTIC percentage was consistent with
+what we had said before, which was about 40% to 45% first line patients have that level of PD-L1
+expression and that's what we saw.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+One thing I would add, maybe Steve, to what Sean said in terms of why you can get an OS
+benefit when you can see a PFS benefit, it's not only theoretically reasons, there is evidence of
+the fact that it happens, there is about seven studies, in fact, where an OS benefit was shown
+when there was no PFS benefit. And out of these studies, five are – sorry, four are in lung cancer,
+so there's a quite a lot of evidence where that not meeting a PFS endpoint doesn't necessarily – I
+mean, not meeting it doesn't mean that you may not hit the OS endpoint. So we have to be
+patient and wait for this overall survival result. So we go to `Sachin Jain, Analyst, Bank of America Merrill Lynch at Bank of America. Sachin,
+go ahead.
+Q - `Sachin Jain, Analyst, Bank of America Merrill Lynch `
+Hi. Thanks for taking the question. I'll take a question on the Lynparza deal if I may? You've
+referenced access to Keytruda on multiple times. Can you just talk about the need to access
+Keytruda relative to any changed confidence in Imfinzi durvalumab?
+And related, I wonder if you could just frame sort of the various aspects of this deal, what was the
+main driving factors, the financial attractiveness of the $8.5 billion and securing externalization
+revenue for a period of time versus an NPV increase in Lynparza, just to frame that debate for us?
+Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Sachin. The question is – the answer is very simple is that as I said before, we partner
+assets when we believe that we can create more value with – whether the partner, i.e. we
+increase the NPV of the asset. So, of course, you can imagine, it's much more obvious to see that
+we can achieve this when it relates to an asset that is non-core. Because we have no capability,
+no presence, and therefore, a partner that has expertise in the field will do better than we would.
+It is less obvious to see when it relates to cost (56:23) that I believe we're going to show this with
+(56:29) methodology with Celgene. Of course, we have to deliver positive clinical results. Butthat's sort of the obvious part. But if the combination works, I have absolutely no doubt when I
+look at how fast we're progressing with this program and how well we're doing with our partners,
+I have no doubt that we will create more value with them than we would have ever been able to
+do on our own.
+As it relates to Lynparza, same story and then here that brings me to your first question, here the
+value creation essentially comes from the increased effort that will be both to combining Lynparza
+with PD-1 and PD-L1. We have total confidence in durvalumab, but we are also realistic. I mean,
+durvalumab will not get 100% share of the immuno-oncology market, pembro is a great product.
+Merck is a great company. They are going to get a share of this market.
+And therefore, combining our efforts, the durva effort if you will with the pembro effort to
+combine with Lynparza, clearly, will make Lynparza bigger than if we were trying to do that by
+ourselves simply with durva. So that's really the logic behind it, ultimately a bigger NPV.
+So I'll move to `Simon Baker, Analyst, Exane Ltd. of Exane. Simon, go ahead.
+Q - `Simon Baker, Analyst, Exane Ltd. `
+Thank you. Thank you for taking the question. And just continuing on from where Sachin was
+asking on the deal with Merck. The two schools of thoughts in the market this morning, one
+suggesting that the size of the potential payments would indicate that the consensus
+assumptions for Lynparza have been significantly underestimated and others believing that you
+are giving you a long-term value for short-term cash. Now the difference between those two is
+the nature of the contingency on these payments. I wonder if you could give us a little bit more
+color on how and when the $6.2 billion or so of contingent payments are triggered. Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+It's a good question. Thank you for attracting everybody's attention to the fact that I personally
+think half of the value that – sorry, the value we'll receive for half of the asset is actually the – even
+the secure values is more than what is in the consensus for the totality of the asset. So essentially,
+we have created value beyond what is in the consensus today. But Simon, to answer your
+question more specifically, I'll hand over to `Marc Dunoyer, Chief Financial Officer & Executive Director.
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Simon, thank you very much. So, you have seen the upfront of $1.6 billion. You have seen the
+options, short-term options for $0.75 billion. So that's $2.35 billion. And then you have the $6.15
+billion of contingent, approximately one-third is linked to regulatory milestone and two-third is
+linked to sales milestone. So, of course, it comes over time.
+Q - `Simon Baker, Analyst, Exane Ltd. `
+And just one very...
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+We actually disclosed the – more detailed schedule and also some guidance as to how we will be
+accounting for these various payments over time.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `We move to a question online. And I think `Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs,, this time this is more going be for you. It's
+an e-mail from `Jo Walton, Analyst, Credit Suisse Securities (Europe) Ltd. at Credit Suisse. And it relates to U.S. primary care particular diabetes,
+Farxiga, and Respiratory, and the impact of price pressures. So the question here is that, this price
+pressure and this reduction, is it a result of a deliberate policy to save promotional dollars. I
+assume Jo is implying that we are sacrificing the price to save promotion? Or is it impacted by
+patent expiries and competition, patent expiries that are set to annualize out so when – and then
+– and so when might the decline be. For you, Mark.
+A - `Mark Mallon, Executive Vice President, Global Portfolio and Product, Global Medical Affairs, `
+So our focus – wherever we're trying to get medicines to get them to as many patients as we
+can. So first thing I would say is, we're not trying to minimize or reduce promotional efforts and
+exchange for lower prices by far so we're trying to get the right combination to get this to as
+many patients as we can.
+In terms of the dynamics in the marketplace, I think as we've seen in many places of the world,
+we've seen this in Europe. I mean I think realistically we're going to see rising pressure in
+countries and the U.S. is no different, try to find ways to balance the cost of the business (61:08).
+I think some of the things like generics or analogs add pricing pressure and so when those come
+in, you have an increase in pricing pressure, and over time it will stabilize. I think it's hard for us to
+say, some of the different factors in each market when that will happen. Right now, what we're
+focusing on is, making sure we're getting the medicine to as many people as we can, being able
+to leave when we have great medicines like Farxiga and Symbicort which we are and making the
+case for the value of the medicines and bringing most importantly new medicines that are going
+to make a difference, and have a higher value. So we've launched Bevespi. We've got
+benralizumab launching soon in Respiratory. We're waiting for the DECLARE study coming and will
+also demonstrate the value of Farxiga. We've got new products like (61:54) coming, all of these
+have I think high value to payers and to patients because the value they can provide.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Mark. We should go back to Jeff Holford at Jefferies. Jeff, go ahead.
+Q - `Jeffrey Holford, Analyst, Jefferies LLC `
+Hi. Thanks for taking my questions. So I wonder if you can comment first on the relative level of
+crossover that you think you're going to see or are seeing in the MYSTIC study? And then just
+how that impacts your confidence and ability to hit on overall survival following hitting on
+progression-free survival? And then if you could just make a very quick comment on why you
+seem to be taking a bit longer than expected to get acceptance of the filing on acalabrutinib, I
+thought we would have had an update on that by now? Thanks very much.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Jeff. I mean, I'll ask Sean to cover both of those questions. We can't comment. We
+can't give you the details on the cross over, but we can be confident that it doesn't impact so
+much the OS, but go ahead actually.
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yes. We can't give – what we're reporting today is high-level results. And there's a lot more detail
+for us to look at as we look at the detailed information in the trial. We remain confident thatclinically meaningful benefit with the monotherapy or with the combination, but we can't
+comment on the rest of those details, of course, crossover goes both ways in these trials. One is
+that if you get chemotherapy and you progress on it, you could crossover to PD-1, PD-L1 agent.
+The other is that if you get one of the IO arms and you progress, you can get treated with
+chemotherapy because you will be chemotherapy naive. So that will benefit the overall survival on
+those arms.
+Moving on to the acalabrutinib acceptance for on target for what we had hoped in terms of
+acknowledgment of acceptance and timing of submission. So I'm not quite sure what to say
+about the expectation that may just be that your expectations are different than ours?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Yeah. I mean, on this one we're totally inside the normal range of 60 days between submission
+and acceptance of filing. And we, of course, do not confirm when we have filed. I can only tell you
+we are within the normal range that you would expect.
+Q - `Jeffrey Holford, Analyst, Jefferies LLC `
+That's very helpful. Thanks.
+Operator
+We move to `Vincent Meunier, Analyst, Morgan Stanley & Co. International Plc at Morgan Stanley.
+Q - `Vincent Meunier, Analyst, Morgan Stanley & Co. International Plc `
+Hello. Thank you for taking my questions. I mean, one question back to the Merck collaboration. I
+mean, how would you intend to allocate the $1 billion or $1.6 billion upfront payments. Do you
+want to return that to the shareholders, maybe doing a bit of buyback or would you prefer to
+make bolt-on acquisitions or just invest that in the business?
+And related to that question, I mean, do you consider potentially acquiring more IO candidates to
+de-risk the IO portfolio, because one may say that if you just have one PD-L1 drug, which is the
+core of your IO portfolio and if you have a problem like MYSTIC, the entire portfolio then is at risk
+and maybe better to have different assets. So would you consider buying more assets in IO?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks for the question, Vincent. I mean first of all, I think it's good to start with reminding
+everybody that durvalumab works, and it works very well. I mean, we have (65:50) but
+importantly, we have the PACIFIC study and it's unfortunate, it's just the timing, so jus the norm,
+we haven't shown you the results, certain details, but when you see the results you will agree with
+that that it certainly works well. So, there is no issue with durvalumab per se.
+In term of having more targets, of course, frankly, we have lots of those. So I have to say, first of
+all, we have to wait for OS as far as lung cancer and the mono and the combo. Then we have
+additional studies in combination in other indications, bladder, head and neck. So that's for the job
+at treme combination.
+And then we have quite a number of new targets. So net-net is, we're not planning to acquire any
+of our targets. At least that's not the intent at this point. I mean, if something came up that was
+very attractive, we may do it. But that's – we don't feel the need for that.In term of what we're going to do for – with the cash, there's no intent to do any share buyback at
+this point. We will use that to reduce our debt and continue to sustain the dividend, and also, of
+course, take some of these and invest it in our business. So we'll basically continue to do what
+we've been doing. Essentially, the financial aspect of this collaboration is discussed. It enables us
+to continue doing what we're doing. And then certainly should give everybody confidence that
+the dividend is not at risk at all. In term of the pipeline of new targets, Sean, anything you wanted
+to add?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yeah. I just – there – it's a very rich pipeline. I'm not exactly sure what we would acquire from the
+outside. I mean, obviously, the deal that we did with Merck gives Merck access to one potential
+combination partner, Lynparza. In addition, a second partner selumetinib MEK inhibition, we also in
+the pipeline have the GITR agonist, the Ox40 monoclonal antibodies from MedImmune CD73, a
+variety of potential combination partners; it's a very rich pipeline.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+So, of course, it's a very attractive financial construct, but the most important piece is going back
+to Sachin question, the most important aspect of this collaboration is the creation of additional
+value. The increase in NPV, of Lynparza NPV and the collaboration with a company, Merck, that
+shares our value, shares our focus on science, and certainly, a company we've collaborated with
+very successfully in the past and that we look forward to working with again in the next few weeks
+and months. So moving to `Seamus Fernandez, Analyst, Leerink Partners LLC at Leerink. Seamus, go ahead.
+Q - `Seamus Fernandez, Analyst, Leerink Partners LLC `
+Thanks very much for the question. So my question is just one. Can you guys categorize the
+percentage of profit that the externalization strategy will contribute to your earnings this year?
+And then separately, as we look at the externalization strategy, how sustainable is that over the
+next, call it, three to four years? Because I think, again the sustainability of the dividend with a
+50% cover is one question. But the sustainability of the dividend relative to your current cash flow
+dynamics, given the core EPS dynamics, I think is a key question for investors right now? Thanks.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks Seamus. I'll ask Marc to answer to that question. But we – I don't think we want to answer
+percentages, give you percentages. What we can do is, reconfirm the guidance and the element
+that we put in the guidance that related to externalization. Marc, do you want to cover this and
+the cash flow?
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Yes, I want to repeat the two indications that we have provided, that for 2017, the sum of external
+revenue and other income will be greater than the equivalent in 2016. And the other indication we
+have provided is that the path that is sustainable and repeatable is going to grow over time.
+These are the two indications we have provided. And where we stand today, we have – we are
+reconfirming these two guidance.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks Marc. So moving to Keyur at Goldman Sachs. Keyur, go ahead.Thank you for taking my questions. I just want to try and understand the source of your comfort
+around your ability to pay the dividend? If I understand your numbers correctly, you generated
+$338 million in cash flow from operations in the first half of this year. Your dividend payment is
+$3.6 billion a year. And you owe a $1.5 billion to Acerta at 2018, if not before that. What drives your
+confidence in generating enough cash flow to cover the dividend given your debt is already 50%
+higher than where it was December last year? Thank you.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Just make a couple of quick comments, and then Marc can be more specific. I think you have to
+consider the growth that will come out of Tagrisso for instance and very, very profitable growth.
+This is a product that has very strong clinical data, including in first line. And we'll generate very
+strong growth over the next two to three years and as I said, very profitable growth because
+there is no competition in that segment at this stage.
+Second is, should not underestimate the growth that will come from PACIFIC. Not as big as
+Tagrisso as a whole, but certainly a substantial opportunity. And again, no competition for the
+next couple of years in that specific Stage III unresectable lung cancer. And then China is growing
+rapidly. I mean we've reported an 8% growth rate. For the underlying growth rate, if you adjust for
+divestment, is in fact, 17% in China. So as soon as we get out of this divestment part, we'll return
+to this very high growth rate in China. So we have a business that is starting to make a difference
+in China. It's very big.
+So those are all – and the platform, the growth platforms are all growing. We believe that this is
+certainly going to drive sales, but also profit improvement. We have had massive headwinds in
+the last two, three years with patent expiry. Those very soon will be behind us. Marc, do you want
+to be...
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Maybe two additional information. First of all, this is, we have a pattern of cash flows, which is
+different between the first half of the year and the second half of the year. So we have projection
+for second half 2017, which are going to be much better than the first half of the year. And then
+on the table that you were quoting, which is page 44 of our press release, there is a
+reclassification of disposal of intangible assets, which goes from, I would say, the top of the table
+and goes to the investing activities. So, in fact, you have – you should count also those $728
+million together in a way with $338 million. This being said, we have just announced today a deal
+that is going to bring in substantial amount of cash. So that should help us with all the cash needs
+of the company.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Marc. So we move to question from James Gordon at JPMorgan. James, go ahead.
+Q - `James D. Gordon, Analyst, JPMorgan Securities Plc `
+Thanks a lot for taking the question. The question was about confidence in top combos versus
+CTLA combos. How does the MYSTIC PFS result impact your confidence in showing a significant
+OS result in MYSTIC and also to the (74:24) studies? And just your relative confidence in CTLA-4
+versus PARP as a combo approach? Thanks very much.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `Q - `James D. Gordon, Analyst, JPMorgan Securities Plc `
+PARP.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+All right. Sean, maybe you want to comment on this. I mean, the confidence for MYSTIC, we have
+clearly to wait until we see the final OS analysis. But as I said before there, quite a number of
+studies that have shown an overall survival benefit, without showing a PFS benefit, and very
+strong overall survival benefit ultimately in lung cancer. We also have our own internal data. And in
+some of those data we'll present in Q4. We're looking at what is the best way to present this
+data. We have internal data showing, in separate study, looking at some of the aspects that gives
+us confidence. But in the end, until we have the final OS analysis, we really cannot say much. Do
+you want to comment about this Sean?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yes, I guess, two things I would say, starting with CTLA-4 which is so much more mature
+hypothesis being tested. We're really awaiting the outcome in MYSTIC. Again, I'll add, these are
+things we've been saying for over a year, but we do believe overall survival is more, it's obviously,
+clinically meaningful but also the one that better shows benefit from IO therapies.
+MYSTIC is designed to show Imfinzi plus treme versus standard of care chemotherapy or Imfinzi
+monotherapy versus standard of care chemotherapy. So that's how we get a positive trial. I think
+then it's a more complex equation about level of additional benefit if seen for the CTLA-4
+combo, and then benefit risk when we figure out whether there is a possibility of moving forward
+and changing practice and getting registration. That's a matter of waiting. The two don't. The
+PARP combo and the CTLA-4 combo with PD-1, PD-L1 really don't inform each other. They're very
+different therapeutic hypotheses with CTLA-4 basically removing an immunosuppressive signal,
+and hopefully intensifying the activation of the immune system against the tumor.
+PARP is very different derived from the observation that high mutational burden seen in the tumor
+seems to correlate with greater sensitivity to immunotherapy agents, and as well, homologous
+recombination, repair defects and other DNA repair defects correlating with the high mutational
+burden and then how in PARP do you enhance that effect in the context of IO. So they are very,
+very different, I would say, really unrelated mechanisms. And so there probability of success is
+very much not informative of each other.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thanks, Sean. `Jack Scannell, Analyst, UBS Ltd. at UBS. Jack, go ahead.
+Q - `Jack Scannell, Analyst, UBS Ltd. `
+Two questions. I guess, you have – you set out your capital allocation principles and you've also
+said you have a risk-adjusted plan. Does that effectively mean that thoughts about capital
+allocation in practice change when the risk adjustments in the plan change? So investors shouldn't
+expect to see any changes in dividend policy or externalization revenue or so forth unless or until
+we saw more data on the various lung programs, for example?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Hopefully, I get your question, Jack, but may I don't, in which case you please, please come backall of projects, we risk-adjust them and that's what we use to a long-range forecast and look at
+our long-range sales profit and cash flow forecast. So what we're going to do now with those
+results is, we're going to put, let's say, 100%, (78:39) hopefully, of PACIFIC into the plan, the
+same for Tagrisso including first line. And then will adjust MYSTIC.
+The PFS endpoint in our long-range plan had a low probability in our plan because we've always
+believed, as we told you, we always believe that it is an OS game more than the PFS game. And
+that's why we put the majority of the statistical power in the OS analysis. So in our long-range
+plan, we had lower probability for the PFS endpoint to readout.
+And so now we're moving to OS. So what I was saying earlier is, we do our long-range plan with
+all these elements. From what we can see today, there is no reason for us to change our long-
+range forecast, including our cash flow forecast, and therefore, to have a different approach to
+our dividend policy.
+Of course, the next six to eight months will be very informative because the competitive
+landscape will clarify. As you know, there is a number of other studies that we'd readout.
+Depending on the outcome of this competitive studies and also the outcome of our own ongoing
+studies in other indications and into next year, the OS analysis, until then, it would be difficult to
+be clear on the total potential for (80:00) but based on what we know today, I think what I said
+earlier is that we have no reason to have a different view of our future. Does it answer your
+question or did you have anything else in mind?
+Q - `Jack Scannell, Analyst, UBS Ltd. `
+No, thanks. There's terrible echo in my line, which may have made my question less coherent
+even than usual. But actually you answered it precisely. Thank you very much.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+`Jo Walton, Analyst, Credit Suisse Securities (Europe) Ltd. at Credit Suisse. Jo, go ahead.
+Q - `Jo Walton, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Thank you. My question is about the turning point for AstraZeneca and longer-term margin. Mark
+showed us a slide showing really very stable 30%-odd margin. Of course, some of that's being
+helped by disposal gains within that. So it isn't all truly operational from an underlying perspective.
+I wonder if you could confirm whether you think that 2018 still will be the turning point year. And
+what sort of operating margins do you think would be a sustainable level given the mix of
+business that you would expect to have in the next few years, really fancy new drugs, but also a
+growing emerging market presence. So I wonder if you could just help us on that longer-term
+margin objective.
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Thank you, Jo, for the questions. Regarding the operating margin, I think we have said and we
+said this I think several years ago that the profit will grow slightly faster than our sales. And we
+also said that from 2018 onwards, we would return to growth. So I think these two elements stay
+the same.
+At what level the operating margin will stabilize? I think maybe a bit early to comment. But I think
+over time, as we move towards specialty care and oncology taking greater share in our business,the operating margin is definitely going to increase.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Marc. You should not conclude by the way that the Emerging Markets business is a low
+profitability business. It is a business with quite a reasonable profitability actually and it's growing.
+What has really been a burden for us in the next two years is patent expiries and losing products
+that were incredibly profitable like CRESTOR, NEXIUM that were at the end of their last cycle, with
+limited promotion and big scale, and therefore, very profitable.
+At the same time, as we had to invest in rebuilding our pipeline and rebuilding our future. So
+that's really what has been a burden more than the Emerging Markets that are actually growing
+and delivering reasonable profitability.
+But as Marc said, as we move forward and certainly our specialty care business grows, we're
+launching benralizumab at the end of the year or early next year. And then we launch future
+products, the margin should over time improve. But it's too early yet to give you a target as to
+what that margin could be when it's still more understanding of what the pipeline looks like.
+Should we move to `Emmanuel Papadakis, Analyst, Barclays Capital Securities Ltd. at Barclays? Emmanuel, go ahead.
+Q - `Emmanuel Papadakis, Analyst, Barclays Capital Securities Ltd. `
+Thanks for taking the question. Can you hear me?
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Yeah.
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Yeah.
+Q - `Emmanuel Papadakis, Analyst, Barclays Capital Securities Ltd. `
+Apologies. A couple of follow-ups. One is for Marc, if we could perhaps pin down and touch
+further on cash flow. I think when I asked the question with the Q4 results, you had indicated 2017
+would be in line with 2016 on cash flow from operations. And it's clearly running significantly below
+that right now. You said H2 will be better but perhaps you could confirm that comment you made
+earlier?
+And then the second was for Pascal, just a follow-on from your comment that, I don't know
+whether it was intentional, I think you just remarked that the PACIFIC opportunity would not be as
+large as Tagrisso, and if I recall correctly, your 2014 un-risk guidance for what was in $991 million
+(84:03) was around $3 billion. So perhaps you'd just like to clarify that or quantify that? Thank you
+very much.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Let me try this one, and Marc maybe you can cover the cash flow question. Hopefully, I will
+address your question Emmanuel, otherwise let me know. But what I meant to say is that PACIFIC
+is a large opportunity, but Tagrisso as a whole is a bigger opportunity. We see Tagrisso being now
+with the kind of data we have a $4 billion-plus opportunity, including first line, and it could go even
+beyond that if we have a successful ADJUVANT outcome.So PACIFIC is large. The Stage III unresectable lung cancer is not as large as the Stage IV lung
+cancer, but in the near term there will be no competitor, because we are the only product with
+data in that setting. So it's a large opportunity for us. But still smaller than the sort of $4 billion we
+see in PACIFIC. That's what I said. Hopefully that addresses your question. And Marc, you want to
+cover the cash flow?
+A - `Marc Dunoyer, Chief Financial Officer & Executive Director `
+Yes, I can only say that as I indicated earlier on, the pattern for cash flows between the first half
+and the second half is very similar between 2016 and 2017. And as far the overall for the year, we
+estimate today, as I indicated earlier, that it would be of similar quantum for 2017 as for 2016. So
+similar pattern, similar numbers.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Yeah. So Emmanuel, did I cover your question regarding the potential of Tagrisso. Maybe one
+thing I could also add is that, two, three years ago, we gave an indication of the potential of
+Tagrisso, and then we had a forecast in our plan for Tagrisso, but the forecast we had in our plan
+was a risk-adjusted forecast.
+And as we have progressed two things happened. First of all, the risk has been removed, and the
+positive success is now close to 100% for all those indications. And two is the product profile has
+improved. We now have very good data in first line. We have data in brain metastases. The
+product penetrates the blood brain barrier. We didn't expect that three years ago. We hoped it
+might be the case, but we didn't have the data. So we didn't have that in our product profile.
+And finally, the competitors have left the scene. So, essentially as we progressed, the product
+has looked better. The competitors have disappeared. And the probability – the risk has been
+removed. So, all of that has driven Tagrisso up and up and up. So now it is very large.
+So we move to Mark Purcell at Redburn, who is asking us an e-mail question. Please could you
+explain your confidence in MYSTIC overall survival data reading our first half 2018 as opposed to
+full year 2018? Is this based on even rates (87:17) which was seen relatively late, we scheduled
+that in Keynote 21G. Sean, for you?
+A - `Sean Bohen, Executive Vice President of Global Medicines Development and Chief Medical `
+Sure. So the anticipated readout is based on event rates with a level of maturity that triggers the
+final overall survival analysis. And the reason that we're refining it is because we're getting closer
+and we're better able to estimate when we'll – to narrow down from 12-month period to a six-
+month period. It doesn't – it's not an inference from another trial, it's just standard clinical trial
+design and execution.
+A - `Pascal Soriot, Chief Executive Officer & Executive Director `
+Thank you, Sean. So we'll now actually end the Q&A. And I would like to thank you very much for
+your great questions and conclude again. And just kind of summarize where we are again for you.
+First of all, first half financials are in line with expectations our New AstraZeneca sales grew by
+4%, our financial is on track, we reconfirm our guidance. Pipeline, very importantly, the pipeline is
+advancing at pace to have new potential medicines in Phase III and under our discretion.
+And very good our pipeline in oncology is progressing as Tagrisso and Lynparza looking really
+good. In particular this recent Tagrisso news make us very confident that it is going to be the bigproduct. We're hoping it would become.
+On the IO front, MYSTIC, of course, is a disappointment. But please consider the number of
+studies that have had PFS endpoint not met, but still deliver OS benefits. So let's wait a little bit
+longer.
+But we do recognize MYSTIC is certainly a disappointment, but we also have to recognize that
+PACIFIC was certainly not expected. It's a positive surprise and it has a lot of potential and a very
+profitable potential. I would like to underline this and considering the limited competition in that
+segment.
+We're looking forward to sharing further news flows over the next few weeks and months. And
+we think that we have the potential to reach a meaningful step-change for AstraZeneca in the
+next few months. In particular when we present the details of the PACIFIC and FLAURA phase III
+trials in lung cancer.
+So thank you again for your support and your interest. Have a good rest of the day.

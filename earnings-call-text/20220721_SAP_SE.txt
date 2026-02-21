@@ -1,0 +1,710 @@
+Q2 2022 Earnings Call
+
+Presentation
+Operator
+Good day and welcome to the SAP Q2 2022 Earnings Conference Call. Today's conference is
+being recorded. At this time, I would like to turn the conference over to `Anthony Coletta, Investor Relations, Chief
+Investor Relations Officer. Please go ahead sir.
+`Anthony Coletta, Investor Relations `
+Thank you and welcome everyone. Thanks for joining us today on our earnings call to discuss
+SAP's Q2 and first half 2022 results. On our Investor Relations website you can find the deck
+supplementing today's call. With me today are CEO, `Christian Klein, Chief Executive Officer; and CFO, `Luka Mucic, Chief Financial Officer, who
+will make opening remarks. `Scott Russell, Customer Success, who leads our Customer Success Organization is also
+with us for Q&A.
+Now let's do the safe harbor. During this call we'll make forward-looking statements, which are
+predictions, projections or other statements about future events. These statements are based
+on current expectations, forecasts and assumptions that are subject to risk and uncertainties that
+could cause actual results and outcomes to materially differ. Additional information regarding
+these risks and uncertainties may be found in our filings with the Securities and Exchange
+Commission, including but not limited to the risk factors section of SAP's Annual Report on Form
+20-F for 2021.
+Unless otherwise stated all financial numbers on this call are non-IFRS. Loss rates and percentage
+point changes are non-IFRS year-over-year at constant currencies. The non-IFRS financial
+measures we provide should not be considered as a substitute for or superior to the measures
+of financial performance prepared in accordance with IFRS.
+And with that, I'd like to turn over to Christian.
+`Christian Klein, Chief Executive Officer `Yes. Thank you, Anthony and thanks to all of you for joining today. This has been a good quarter
+for SAP despite the challenging political and macroeconomic environment. Our cloud and total
+revenue have exceeded market expectations and are progressing faster than we expected at
+34% and 13% nominal respectively. Our top line cloud performance is clearly ahead of plan,
+further accelerated by the current macroeconomic environment and currency tailwinds.
+Customers are actually turning to us now more than ever to help them address their most
+pressing concerns, business model transformation and process automation, supply chain
+resilience and sustainable operations. We see demand for SAP technology continuing to increase
+with an increased focus on transforming and automating mission-critical business policies and the
+core functions of an enterprise. As we have seen in previous economic pullbacks, companies that
+balance cost efficiency measures with strategic investments in technology are more resilient and
+better able to offset margin pressure. We are also seeing a powerful snowball effect from our
+platform and ecosystem businesses as the adoption of SAP solutions accelerates.
+Let's take a look now at some of our top line numbers for Q2. In Q2, we hit the major milestone
+of cloud revenue becoming our largest revenue stream for the first time. Cloud revenue was up
+24% at constant currency and up 34% at nominal levels. Current cloud backlog growth
+accelerated at 25% and now exceeds EUR10 billion, another first. Current cloud backlog for SAP
+S/4HANA hit a record 87% growth and stands at EUR2.3 billion, driven by continued strong
+adoption of RISE with SAP. In addition, S/4HANA cloud revenue growth continue to accelerate at
+72%. Customers are choosing us for the power of our integrated portfolio. First, core ERP, second
+the SAP Business Technology platform. And third, our best-in-class solutions. Our strategy is
+focused on investing in and capitalizing on the integration of these assets. This provides
+unmatched superior solutions for our customers and extensive cross-sell opportunities for SAP.
+I'd like to now provide an update on our strategy execution. Since we initiated our transformation
+almost two years ago, our performance is well ahead of plan. SAP has always been
+acknowledged as the category leader for ERP. Now just as SAP invented ERP decades ago, we
+are leading the ERP transition to the cloud. This has led to over EUR2.2 billion of current cloud
+backlog for SAP S/4HANA as I mentioned earlier. The momentum we are seeing today
+increasingly comes from the power of being a platform company. Our business technology
+platform now has a one way exceeding EUR1.4 billion, and there are more than 14,000 customers
+using the platform.
+Turning to our core line of Business Solutions. They are all growing by double-digits in both cloud
+revenue and current cloud backlog. We see customers increasingly choosing to adopt the full
+portfolio from SAP given the enhanced value from our integrated solutions. For example, many of
+our customers opt for our Intelligent Spend solutions to achieve cost savings across their entire
+direct and indirect spend, as well as travel and expense and third-party workforce. The potential
+for cross-selling is tremendous. In Q2 we saw RISE with SAP being across and upsell catalyst with
+more than 85% of RISE deals including additional cloud solutions. And 77% of RISE customers
+adopting the SAP business technology platform.
+We have also entered key new growth markets. Recognizing that no business can succeed in
+isolation, we pioneered a new approach in building the SAP business network. The SAP business
+network allows customers to connect real-time across their suppliers in industry specific networks.
+This boosts transparency and provides the resilience so desperately needed in today's
+environment. Our new sustainability portfolio complements the SAP Business Network, enabling
+transparency across value chains, helping our customers to meet regulatory requirements and
+contribute to a sustainable future. Underpinning this leadership position is our business
+transformation as a service offering, RISE with SAP.Since RISE with SAP was launched at the beginning of last year, we have seen the offering going
+from gaining traction to gaining momentum, to becoming the preferred choice for our customers
+as they move to the cloud. RISE with SAP helps customers with the hardest part of their transition,
+re-designing how their companies want. We offer our customers so much more than a technology
+transition. RISE with SAP helps them first, to redesign their end-to-end business processes.
+Second, transition to a new agile ERP in the cloud. And third, innovate on the platform to design
+their own custom solutions.
+In Q2, RISE customers included Moderna, ABB Information Systems, RWE, HeidelbergCement and
+Bridgestone. Moderna's pioneering vaccine is helping the world overcome the COVID-19
+pandemic. They selected RISE with SAP to support their ambitious growth targets through
+scalable, automated end-to-end processes across research and development, sourcing and
+distribution and support functions. RWE, the leading German utility company is adopting RISE with
+SAP to support its international expansion and its sustainability initiatives as part of its Growing
+Green strategy.
+The success of RISE with SAP in turn drove strong performance across our line of business
+applications including S/4HANA. We see continued costs and upsell momentum, which means we
+continue to create about 2.5 times the value from a customer after they have adopted RISE with
+SAP. We now have around 20,000 S/4HANA customers, up 15% year-over-year with more than
+60% of our customers being net new. We are also seeing strong momentum for S/4HANA in the
+cloud, with approximately 6,000 customers and over 600 wins in Q2. We are seeing increasing
+traction in the mid-market and in the start-up community. For example, the French unicorn
+Doctolib is an online and mobile booking platform that helps users find doctors and make
+appointments. They selected S/4HANA Cloud as an easy to implement, robust, scalable solution
+providing fast time to value.
+Now our order entry growth for S/4HANA cloud and on-premise clearly exceeded 30%,
+demonstrating significant gains in market share. SAP's business technology platform enables
+customer innovation and infrastructure integration. This quarter the global leader
+HeidelbergCement decided to move on their on-premise ERP on Orcale to S/4HANA Cloud on
+Azure. They will be using SAP's Business Technology Platform as an integration and development
+platform to provide access to SAP services. Our sustainability solutions have taken on an even
+more important role given the energy crisis. ERGO Group, one of the largest insurance groups in
+Europe has chosen SAP to help them navigate the highly regulated sustainability expectations of
+the financial services industry, of course, in Germany. ERGO aims to open new sustainable
+business practices, create climate neutral business operations and create transparency
+throughout its business by reporting in accordance with the international guidelines set out by the
+GI [ph].
+Our Intelligent Spend and Business Network division has taken on new meaning as companies
+plan for continued inflationary pressures and a need to diligently manage cost. Wins this quarter
+include BeiGene, the leading biotech company specializing in anti-cancer drugs. They chose SAP
+Ariba to quickly build a cloud-based procurement management platform to support different
+languages and regulations around the world in addition to improving efficiency.
+Turning to our customer engagement portfolio. Positivo Tecnologia, a Brazilian technology
+company is using SAP CX solutions to automate their marketing campaigns based on customer
+behavior analysis. This will enable them to personalize their customer engagements and create
+more opportunities for customer cross-sell, up-sell, conversion and retention. In Q2, ASUS the
+global leader in personal computer, monitors, graphics cards and (inaudible) shows SAP success
+factors to bring its vision for employees to life. The solution will provide a one-stop servicesupported by data analysis and insights. SAP Signavio, part of our business process intelligent
+portfolio is going from strength to strength. Corning, which is one of the world's leading
+innovators in material science selected the full SAP Signavio suite to drive governance and
+collaborative process management excellence as they transform their ERP systems. Customers
+this quarter also include Moet Hennessy and ALTANA, the German chemical company.
+I'd like to spend a little time talking about our outlook. We are entering the second half of the
+year with very strong cloud pipeline. Given our strategy maps directly onto our customers most
+pressing challenges, we see the shift from CapEx to OpEx spend combined with currency
+tailwinds completely offsetting the top-line impact of our Russia exit. On the bottom line, we are
+adjusting our guidance based on two one-time impacts. First, our intended full withdrawal from
+Russia. Second, in the current macro environment, our customers are shifting to the cloud faster
+than expected, as they continue to move from upfront capital expenditure to recurring
+operational expenditure. This leads to an additional transactional impact on our short-term
+profitability with clear mid-term upside as our cloud strategy continues to pay off. We are
+managing a significant portion of these one-time impacts with additional measures around
+discretionary spend.
+Looking beyond 2022, we are clearly ahead of plan to deliver upon the promise we made in
+October 2020 when we announced our new strategy. We are confident we will achieve double-
+digit operating profit growth in 2023 while keeping the promise of flat to slightly declining
+operating profit through 2021 and 2022 versus 2020. And we are well on track to achieving all the
+performance goals for our 2025 mid-term ambitions.
+On the bottom line, the investments we made over the last two years, put us in a good position
+to deliver double-digit profit growth starting next year. Very importantly, we also have a strategic
+initiative in place to consolidate and simplify our portfolio. This will result in increased focus on our
+core (inaudible) solutions, providing even stronger synergies across our suite of solutions,
+complemented by potential acquisitions in our core. We will provide an update on our 2025
+ambition in the next quarters once we have more clarity on the macroeconomic situation.
+In summary, this has been a good quarter. We made significant investments during 2021 and the
+first half of 2022, which now enables us to further scale our execution. Our strategy is perfectly
+aligned to the challenges our customers are facing and we look forward to helping them come
+out of the current environment stronger and more resilient.
+Thank you again for joining us today. And I will now hand over to Luka to talk through our results in
+more detail. Luca?
+`Luka Mucic, Chief Financial Officer `
+Thank you, Christian. Yes, there are definitely many topics affecting businesses worldwide today
+and creating a challenging environment. Nonetheless as Christian said, delivered a good quarter,
+proving that our strategy is working and our solution portfolio is meeting customer demand. Our
+portfolio is more relevant than ever for our customers and the transformation to the cloud
+continues to deliver them even more exciting opportunities. We are helping them transform their
+businesses, create more resilient supply chains and accelerate their sustainability efforts.
+In the second quarter, we saw robust double-digit cloud order entry growth with a particularly
+strong momentum in North America and Latin America. The trend towards larger cloud
+transactions also accelerated and deals with the volume greater than EUR5 million, contributed
+48% to our cloud order entry in the quarter. This was again driven by our RISE with SAP offering.from S/4HANA and our Business Technology Platform. To reiterate, we continue driving strong
+top line growth and cloud revenue became the largest revenue stream up 24%. Our current
+cloud backlog exceeded EUR10 billion for the first time and was up 25%, accelerating from the
+23% growth that we saw in the first quarter. Again the war in Ukraine had a dampening impact of 1
+percentage point on that growth rate. S/4HANA current cloud backlog was up a record 87% and
+contributed more than EUR2.2 billion to the overall current cloud backlog, becoming the biggest
+contributor.
+At our Financial Analyst Conference, we introduced a new disclosure to reflect the evolution of
+our strategy. Our SaaS and PaaS portfolio combined grew an impressive 26%. And breaking it
+down, SaaS cloud revenue was up 24% and PaaS cloud revenue was up 40%. The strong cloud
+growth was primarily driven by an outstanding contribution of S/4HANA Cloud, Qualtrics, the
+Business Technology Platform and SAP Signavio. In addition, we also saw strong double-digit
+contributions from our other SaaS offerings including, Concur, which continued its path of
+recovery and grew by 20%.
+Fueled by this cloud revenue momentum as well as the strong growth in services revenue, our
+total revenue was up 5% in the quarter. Our cloud revenue performance was strong across all
+regions in the second quarter. EMEA increased by 27%, Americas by 22%, and APJ by 26%.
+Germany had an outstanding cloud revenue performance. While the US, Brazil, Japan, India and
+Switzerland were particularly strong.
+Let's now take a look at the bottom line. Starting with gross margins. Due to revenue mix effects,
+our total gross margin decreased by 30 basis points to 73%. Very importantly our cloud gross
+profit growth of 28% was supported by continued upward trend of our cloud gross margin. Year-
+over-year it expanded by more than 2 percentage points, and reached 72%. And that is despite
+increased investments into our next generation cloud delivery program. Our non-IFRS. operating
+profit was down by 16% to EUR1,680 million, mainly driven by reduced contribution from software
+licenses revenue as well as significant bad debt expenses related to the war in Ukraine. In
+addition, we incurred restructuring expenses of EUR130 million mainly due to the exit from Russia,
+impacting IFRS operating profit, which was down 32% to EUR673 million. Excluding the direct
+impact of the war in Ukraine, IFRS operating profit would have been down 3% and non-IFRS
+operating profit down 10%.
+Let me now turn to EPS and cash flow. The decline of earnings per share that you saw in the
+quarter reflects a contribution to financial income by Sapphire Ventures, which was EUR1 billion
+lower than over the same period last year. Our IFRS effective tax rate was up 42.5 percentage
+points to 62.2%. This was mainly due to the reduction in tax exempt income contributed by
+Sapphire Ventures and an additional increase of non-deductible expenses in the context of share-
+based compensation and restructuring expenses related to the war in Ukraine. As compared to
+that, our non-IFRS effective tax rate was only up 10 percentage points to 29.3% as it was
+unaffected by the increase in non-deductible expenses.
+Our free cash flow for the first 6 months came in at approximately EUR2.81 billion [ph]. The year-
+over-year decline is mainly due to the reduced profitability in the quarter and impacts from
+working capital caused by our continuous move to the cloud. In the second half, however, we
+expect a more favorable cash flow due to lower cash taxes and increased profitability. We are
+therefore reiterating our free cash flow outlook of above EUR4.5 billion for the year.
+On the tax line, we are updating our full-year 2022 IFRS effective tax rate guidance to 34% to
+38%. This adjustment mainly results from an updated projection of non-deductible expenses and
+the lower expected 2022 financial income contribution of Sapphire Ventures given current marketconditions. As the updated non-deductible expenses are not included in non-IFRS, we continued
+to anticipate a full year non-IFRS effective tax rate of 23% to 27%, but now expect to be at the
+upper end of this range.
+Let's now turn to the outlook. As you've seen in today's release, we are reaffirming our revenue
+outlook for the full year. We are updating our operating profit outlook range to reflect the
+expected operating profit impact of approximately EUR350 million from the war in Ukraine and a
+potential continued marked decline of software licenses revenue due to the current macro
+environment. Finally, a few words on sustainability and some strategic initiatives. We continue to
+make progress on the sustainability front as both an enabler and the exemplar. We have the
+biggest positive impact through our solutions and we have announced new innovations in the SAP
+Cloud for sustainable enterprises solution. For example the enhanced SAP Product Footprint
+Management solution helps customers reduce product carbon footprints at scale.
+Further, Taulia announced a partnership with EcoVadis, who will provide ESG ratings for Taulia's
+sustainable supplier finance solution. We have also achieved positive milestones around diversity.
+For example, women in management have increased further to 28.8%. Demonstrating further
+positive impact, our SAP.iO Foundries has achieved its goal of supporting 200 companies in its
+portfolio that are managed or founded by underrepresented individuals earlier than expected.
+So in conclusion, the results of this quarter once again prove that our strategy is resonating,
+confirmed by our current cloud backlog performance. In our discussion with customers, we are
+clearly seeing that they look to strategic investments in technology to help them solve their most
+pressing business imperatives. We are now ready to capitalize on our substantial growth
+investments of the last 18 months by delivering sustained growth and profitability expansion. This
+makes us confident that we are making strong progress towards our mid-term ambition. And
+based on our strong cloud momentum and favorable currency development, we expect to
+provide an update to our ambition in the upcoming quarters.
+Thank you. And we will now be happy to take your questions.
+`Anthony Coletta, Investor Relations `
+Operator, please open the line.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions). We will now take our first question from `Frederic Boulan, Analyst, Bank of America from
+Bank of America. Please go ahead.
+Q - `Frederic Boulan, Analyst, Bank of America `
+Hi, good afternoon. Fred from Bank of America. Two questions please. One is around what's
+driving the change around license deceleration, any specific end markets size of clients that you
+can point to and what has changed versus to one when you gave that unchanged guidance
+considering we already had a fair amount of concern on end markets?
+And secondly, if you can touch around pricing. We have a high inflationary environment across
+your geography. Can you share with us the actions you're taking to pass that on to a degree. And
+if you can split that between cloud maintenance and license? Thank you.
+A - `Christian Klein, Chief Executive Officer `Yes, so let me first take the question right away on pricing. And indeed, I mean what we are
+seeing is also across the world high inflation, and of course increasing cost. But at the same time
+what we're also having a very sticky cloud business. And with that actually of course, we will -- we
+are planning to offset some of these cost increases we will see with additional price increases.
+And we are just in the planning for that, and we will release our new price schedule then in the
+upcoming weeks and months. But definitely of course we will and have to react to this inflationary
+pressure and maybe Luca you can comment on the profit outlook.
+A - `Luka Mucic, Chief Financial Officer `
+Yes, absolutely. So first of all, in terms of the momentum that we are seeing on the software
+license side and I will invite Scott also to make some comments around that. I mean, we were
+always in our planning for the full year, even on normal conditions we were assuming a negative
+software license performance in Q1, given that the prior year Q1 was very strong with double-digit
+growth. And so, that was for us back then not a strong signal of something deteriorating
+fundamentally. What we see now in Q2 is actually on the one hand, a strong acceleration of the
+transition to the cloud that you see us in a very strong S/4HANA results that Christian has talked
+about. And that is not to the detriment of the total order entry for S/4HANA as Christian has also
+said with clearly more than 30% growth combined across cloud and on-premise, we are clearly
+gaining market share here. But the shift has become really more pronounced. And that's why we
+had the decline of 38%.
+And it's a combination, I would say, of this accelerating shift because in the current environment
+the customer preferences for OpEx versus CapEx investments is clearly further increasing. And
+certainly in some markets also macro concerns. Broadly speaking, I would say, and Scott perhaps
+you can add some flavor on it, we see a very constructive demand environment in Americas and
+in Asia. In Europe, it's a little bit of tale of two cities, the closer you get to Russia and Ukraine, so
+in our Middle and Eastern Europe region there we clearly see a lower kind of conversion of
+pipeline to actual closings, and the rest of Europe was actually very solid quarter as well in
+particular on the cloud side of the house.
+So when you take all of this together indeed after Q1, we left our guidance unchanged because
+we were focused on our ability to absorb the impact from the Russia exit as a direct impact. And
+when you take a look at that we have now reduced our guidance for operating profit at the
+midpoint by EUR250 million. The impact from Russia is actually EUR350 million alone. So we are
+actually absorbing a good part of that. But you see now the indirect impact of the stronger shift
+from on-prem to cloud that comes along with it outside of Russia, and that is something that we
+have now come better to appreciate. And therefore it made sense for us to de-risk the outlook
+for 2022. But we now feel very confident that this outlook is safe and supports the continuation of
+the shift that we have seen in the first half to also extend into the second half.
+Perhaps Scott any color or commentary around the momentum and also this shift that you're
+seeing in the market.
+A - `Scott Russell, Customer Success `
+Yes, sure, Luka. In addition to what you described around the shift from the CapEx, the OpEx and
+the market conditions, what we've seen in the market since the launch of RISE is the willingness of
+companies to move their mission critical workloads to the cloud run by SAP. You now take the
+current environment, the need of a safe, secure, reliable, scalable platform that allows them to
+accelerate and grow is more relevant than ever, which means the demand continues to increase
+for RISE with SAP and S/4 in the cloud, but that correspondingly means the demand combinedwith the other factors that Luka described has reduced. And we can see that as a validation of the
+strategy and acceleration of the strategy.
+So whether you're Baker Hughes oilfield or ABB Information Systems or the Defense Logistics
+Agency or many others, these big organizations, let alone the 60% net new customers, their
+acceleration to move to a platform that they're looking at not for one year, two year, three years,
+they're looking five years, ten years out in their decisions that they're making here and they're
+looking for that scalable cloud platform. So I see it is a positive, but it is certainly an accelerated
+shift.
+A - `Anthony Coletta, Investor Relations `
+Thank you. And we'll take the next question please.
+Operator
+Next question from `Amit Harchandani, Analyst, Citi Investment Research (Europe) from Citigroup. Please go ahead.
+Q - `Amit Harchandani, Analyst, Citi Investment Research (Europe) `
+Thank you. Hello, everyone. `Amit Harchandani, Analyst, Citi Investment Research (Europe) from Citi. Two questions if I may. My first question is
+with regards to the cloud momentum in the context of macro. Now you've talked about obviously
+strong secular drivers underpinning your portfolio. But if there was to be a stronger recession
+going into 2023, do you have any views on how do you think your cloud growth is likely to trend?
+What is the sort of discussions you're having with customers? Yes, they see a need for it today,
+but do you see that changing going forward? And the reason I ask this is because typically in the
+past recessions that we have had, cloud was a small part. So would be keen to know your
+thoughts on the same.
+And the second question I have is with regards to your operating margin performance, we have
+seen two quarters in a row where the strength in the cloud seems to have been offset by a
+weaker-than-expected operating margin outcome. Can you talk about what drove it on the OpEx
+side, particularly the sales and marketing expenses. And if you see merit in potentially giving
+better maybe quarterly guidance on operating margin as we go forward to reduce this lack of
+understanding? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Yes, so let me take the first question on the outlook for cloud for the second half, but also for
+2023. And of course when you have conversation these days with our customers, I mean, first
+what we clearly can confirm is that our cloud pipeline compared to three months ago actually
+increased. So we see stronger demand. And why is that? It's not necessarily only the move to the
+cloud. When you talk about SAP, and when you talk about RISE with SAP, it's about, you know, is
+the CEO willing now to stop the business transformation of a car manufacturer or for retailer or
+utilities, the answer is clearly, no. They want to continue full-speed to build more resilient digital
+business models when it comes to new license model, when it comes to more intelligent pricing,
+quoting, when it comes to re-skilling the workforce. This is all SAP, this is all RISE with SAP and
+there is no slowdown.
+The second one, of course when we look into our portfolio and into the pipeline, oftentimes
+these days companies see less of a demand challenge but a huge supply chain challenge. So also
+there, it comes to resilient supply chain. So SAP Business Network, what can we do with IBP with
+our leading supply chain solutions to make these supply chains more resilient. Also there thepipeline is up, and then when you -- utilities, oil and gas, and others, of course everyone wants to
+also transform into a more sustainable enterprise. And there we have new technology, we are
+offering a green ledger. And also that is of high demand. So when you would ask me today, we
+see a very robust pipeline. I see also no signs of a slowdown in the cloud with regard to our SaaS
+portfolio, with regard to our PaaS portfolio. So on that side, we are very confident.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, and perhaps just to complement this with two factors. Let's not forget that many of SAP's
+stronghold industries, I think will not so much be subject to recessionary risk. I mean, we have the
+E&G industries obviously as a stronghold, we have pharma as a stronghold, with Moderna what
+we have seen now. We have all of the others essentially as well, we have retail as a stronghold.
+So I think that gives us also good support in addition to the strength of the portfolio. And the
+other point is the backlog as well. As I've talked about I think now for a number of quarters, not
+only do we see a significant surge in our current cloud backlog and the continued strength there,
+we actually had significantly higher growth rates in terms of Cloud TCV than the annualized
+contract values for a long time now since the advent of RISE with SAP.
+And so, this gives us already a very strong coverage through what we have contracted and what
+will come in guaranteed into the current cloud backlog of future quarters. And of course also into
+the revenue line, and that's an additional safety net that you don't necessarily already see in the
+current cloud backlog.
+Now quickly on your operating margin topic result, I think that's a valid point. But we have started
+actually since the beginning of the year, I've already given some commentary around seasonality
+including actually also the impact that we have to expect from Russia in Q2. And I am happy to
+expand on this. First of all in the quarter, in the first half year, you are absolutely right, the sales
+and marketing ratio has been significantly up, why? Because we have front-loaded investments
+and we were always clear about that. I said that on the Q4 call that we have to expect negative
+profitability in the first half and then improvements in the second half year. You want to actually
+have your territories covered so that you can drive for the strong growth that we have expected,
+and that's exactly what has happened.
+So we added almost 3,800 heads on the go-to-market front year-over-year in the first half year.
+And obviously that comes with incremental expenses there, but that was planned and that will
+actually moderate in the second half year and certainly for 2023, we expect a further reduction in
+the sales and marketing ratio. Let's also not forget that COVID is pretty much behind us when it
+comes to customer engagement. So on the marketing side of the house, we have returned to
+physical events with Sapphire coming back. Yes, it costs a bit more than a purely virtual event, but
+I can ensure you, that it also drives significantly more pipeline. And so, from that perspective,
+that's a worthwhile investment that we see -- we will see the pay off on with the continued
+momentum on the revenue front.
+So, I think it's important that I use this opportunity to give you then also some more color
+commentary around how you should think about the second half year. I mean, on the CCB and on
+the cloud revenue side, it's essentially pretty much what I shared also as expectations in our Q1
+call. And after Q4, so we continued to believe that we will exit the year with CCB growth rate that
+is similar to the one that we saw in Q4, 2021. I am also reasonably confident that we will be able
+to absorb the impact of Russia as a part of that. And it should be a pretty steady road from here
+on, that we see in the second half year.
+On the cloud revenue front, it's quite similar. So you should expect quite stable growth from whatare still expecting negative operating profit. And then a return to positive operating profit in Q4
+making then the room for the return to double-digit growth in 2023. Why is that so?
+Well, first of all, because as we said the front-loaded investments that we made, means that we
+will start to scale profits in particular towards the end of the year, we will have really digested the
+impact of the war in Ukraine in Q4. In particular we will have released most of the employees that
+we still retain in Russia by then. And that will of course be relief on the operating profit line as
+well. The comparables on the expense side will become a lot easier because last year Q4 we
+had already very significant hiring and significant investments in pipeline generation and so on as
+well as we anticipate close of our pending divestiture in Q4, and that will of course provide help.
+Please remember, last year we had the Fioneer joint venture set up in Q3. And of course, we
+don't have a comparable event in Q3 of this year. Hopefully that helps to understand the dynamic
+a bit better.
+Q - `Amit Harchandani, Analyst, Citi Investment Research (Europe) `
+Thank you, Christian. Thank you, Luka.
+A - `Anthony Coletta, Investor Relations `
+Thank you. Next question please.
+Operator
+Next question from `Adam Wood, Analyst, Morgan Stanley from Morgan Stanley. Please go ahead.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Hi, afternoon Christian, afternoon Luka. Thanks so much for taking the question. Just first of all
+maybe on the assumptions for the second half on the profitability side. I mean, you've alluded to
+the shift to cloud and macro having an impact. Are you basically assuming a continuation of the
+situation in the second quarter, ie, a little bit of weakness in parts of Europe, getting the licenses
+and that continued cloud strength also impacting licenses for the second half or have you also
+made the assumption that as more macro cycles go that weakness could spread to other parts
+of Europe and maybe some other parts of the world on licenses. And so there's a little bit of
+incremental caution. So just in terms of what you're assuming, particularly on the macro side for
+second half of this year.
+And then maybe secondly, as we look forward into next year, again I think most investors I speak
+to are expecting the recession or certainly a slowdown. Could you maybe just talk a little bit about
+how you would manage the cost through that maintaining investments versus as you say, already
+starting to focus on discretionary spend. And is there a level of growth where it would be
+impossible for you to grow at double digit next year as the current guidance suggests? Thank
+you.
+A - `Christian Klein, Chief Executive Officer `
+Yes, let me take this. So, first of all, on the second half guide, yes, we -- actually we don't see the
+software license to cloud transformation only happening in parts of Europe. This is actually
+something, which is already happening at a global level. And we expect in our guidance that it will
+continue to happen at the same pace as what we have seen in Q2. And obviously against this, we
+are running already with our cost flex program and productivity program that you have alluded to.
+And that of course means that we are taking out expenses in discretionary areas. We havethis down. And because we have actually already made the significant moves with close to 5,500
+additional employees in the last three quarters. And so, we are well set up to continue to
+capitalize on the growth opportunities without kind of adding on the investment front to the same
+extent.
+The only exception here would be the continuation of our cloud delivery harmonization program,
+which is well underway now. We have a very clear line of sight now that will complete in the first
+half and then we'll make room to yet another significant step up in cloud profitability. So from that
+perspective, we feel that we are appropriately covered, that the guidance is safe now because
+what we saw in Q2 on the license side was not confined to only parts of Europe, but was actually
+a broad-based trend that we saw.
+And in 2023, look, I mean, we have said that we are committed to a double-digit growth over the
+2022 numbers because that question might be asked -- let me answer it proactively right away.
+Yes, and that would also include the divestiture. So whatever one-time gain we derived from that
+in 2022, we would build off the double-digit growth for 2023 on that basis. Frankly we see
+ourselves set up very well with the investments that we have made now. We certainly don't see
+the need for additional investments in 2023 at the same levels of headcount increases as we saw
+in the last two years to drive for those numbers. And there will be a very significant natural benefit
+from the ending of the cloud delivery harmonization program.
+Just to give you a view here. In Q2, we had more than EUR100 million in investments tied up in
+the cloud delivery harmonization program. They expect similar amounts in the second half year
+once this has tapered off. Of course that is already a very big help. So I would say, if we continued
+to assume a difficult, but not a doomsday macro environment for 2023, we're extremely
+confident that we will drive for the double digit growth.
+A - `Luka Mucic, Chief Financial Officer `
+And Adam, maybe also just let me summarize it from a strategy perspective. When we look back,
+I mean, we started this transformation 2.5 years ago, and Scott, I guess it's fair to say that last
+year it took a bit of time until really RISE took off. And we had good software quarters, a bit better
+than expected. Now this year also because of the macroeconomics, we're actually a bit below
+plan. But what we see is now on the cloud, we have a super resilient business. I mean, once
+you're going into this project and you're moving the ERP to the cloud, you're transforming, you
+are not going away, (inaudible) are super high. And also the backlog now we built up with the
+platform, Nestle just celebrated a BIGO Live. Now we are co-innovating on the platform building
+new apps surrounding the core.
+So, we see new businesses also for the customers we already closed. If you would have asked
+me two years ago, will all line of businesses go double digit? Not all were in the shape and form
+of today. Also that one super resilient now, good quos, gaining market share back in
+procurement, success factor, the core is developing really well. And now with the, you know, the
+little bit weaker software license business, I mean, for 2023, that gives us a higher recurring
+revenue share, that gives us even more confidence that we're going to make the double-digit
+operating profit growth because we are actually clearly on plan, if you take out Russia on the
+profit side, we have a more resilient, more recurring revenue base and the cloud actually
+performs well ahead of plan, I would say.
+A - `Christian Klein, Chief Executive Officer `
+And perhaps just a last comment, you see that resilience also in our support revenues, which aredeclines. So also their the stickiness is extremely high. And we have actually again had very, very
+nice multipliers in terms of software support to cloud conversions, actually this quarter around the
+3x mark, which is quite remarkable. And I don't see this going away or changing anytime in the
+foreseeable future either.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Thanks for the details. That's very helpful.
+A - `Anthony Coletta, Investor Relations `
+Thank you. We'll take the next question please.
+Operator
+Next question is from `Johannes Schaller, Analyst, Deutsche Bank from Deutsche Bank. Please go ahead.
+Q - `Johannes Schaller, Analyst, Deutsche Bank `
+Yeah, thanks for taking my questions. And Christian you were very clear on the strong pipeline on
+the cloud side, but then if we look at Qualtrics and also some other software peers, there is a bit
+of commentary that deal cycles are maybe lengthening and things -- it's tougher to get decisions
+done really. So I just wanted to check with you, I mean, is Qualtrics really the exception here in
+your portfolio? And are you pretty confident that deal cycles are not lengthening in the rest of
+trial portfolio from what you see right now?
+And then second question just for Luka, given the cloud investments are not really going to
+expand further into the second half, how should we think about the cloud gross margin
+trajectory? I mean, can we stay around that 72% level into the second half or how should we think
+about that? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Yes, let me start with the Qualtrics question and (inaudible). I mean with Qualtrics, the last two
+years we built more and more integrated (inaudible) packages how we call it, where we can
+embed Qualtrics into business processes of our core applications. And you have seen how they
+have accelerated their growth. They are still on a high growth. And in the second half of the year,
+further packages will come, the integration on the product side, we will launch a few more
+scenarios around RISE for EIT, where you can track and trace how is the sentiment with regard to
+the transformation. We're going to built in Qualtrics into our procurement portfolio, so high
+growth areas where we see a lot of opportunities to attach Qualtrics.
+So actually I am very confident. The deal cycles, when I look at RISE and S/4HANA, let's start with
+the flagship product. The conversations are now going more around, I have certain parts of my
+businesses where I see huge optimization potential. Yeah, so can we go on procurement faster?
+What can we do on billing a automation, I want to launch new OpEx related license models.
+Christian, can we move into that angle? Okay, fair. We are very flexible commercial wise in RISE,
+let's go into these areas first. A delay, maybe a shift of priorities, yes, but not a delay. And again,
+it's very important, we are not only doing here a shift to the cloud. Only with the shift to the cloud,
+I would say, maybe the business case will not look as strong in such a macroeconomic time. But
+with everything around with the resilience which comes with our products, this is not a discussion
+yet to stop any kind of deal cycles or actually delaying projects. And so, this is where I'm also
+gaining a lot of confidence just talking by my -- to my peers. Scott?A - `Scott Russell, Customer Success `
+Yes, look, I just give you a bit more color to what you described, Christian. The first is, we are not
+just moving workloads, we're enhancing capabilities. And when they choose SAP, they're choosing
+an enhanced capability, they need a business that can manage inventory levels at different than
+what they did before. They go from just in time to just in case. They are moving the ability to be
+able to manage multiple supplies in real time because of disruptions to their supply chain, that's
+an enhanced capability. So what we are seeing in the deal cycles at volume is a sharper
+prioritization about the transformation plan, which is exceptionally good because that means
+we're very clear of what outcomes need to be delivered in the cloud by when. But it is not about
+delay of deal cycles, it's more about sharper transformation plans, which of course RISE with SAP
+brings as a part of the service.
+So that would be an overall statement. And it obviously then between all of the different
+categories, which are all growing at that double-digit growth, each of them will have a sharper
+business priority because businesses need to be clear about the outcomes that they're giving,
+that gives us confidence because even in good times, SAP is strong, but in difficult times we're
+even stronger.
+A - `Christian Klein, Chief Executive Officer `
+Yeah, and just to add on that then to answer the question on the cloud margin. So first of all, I'm
+very pleased with the progress that we have made in 2022 despite the headwinds from the
+increasing investments in the cloud delivery harmonization program. The 2.3% cloud margin
+increase was actually a bit more than I would have expected. So we are now ahead of plan. And
+when I take a look at the second half year, the investments will further slightly increase in the
+second half year. But on the same side, I mean, the cloud revenue growth is also very strong.
+So while I have at the beginning of the year said that we will look at a flattish cloud margin
+development for 2022, I think it's now likely that we will end up with a slight increase in the cloud
+margin already in 2022. And then obviously with the investments tapering off in the first half year,
+actually our cloud exit margin end of 2023 should be significantly higher than the 72% that you're
+highlighting or that you have been asking about. The more important topic is that our absolute
+cloud profit is actually getting more and more ahead of our original planning, because of the
+success in our cloud momentum and the great success of S/4HANA in particular. And I think that's
+the bigger story to watch out for. And one that we are certainly ahead in terms of where we
+thought we would be from a mid-term ambition perspective as well.
+A - `Anthony Coletta, Investor Relations `
+Very good. Thank you. Next question please.
+Q - `Johannes Schaller, Analyst, Deutsche Bank `
+Very clear. Thank you.
+A - `Anthony Coletta, Investor Relations `
+Yeah.
+Operator
+We will now take our next question from `Mohammed Moawalla, Analyst, Goldman Sachs from Goldman Sachs. Please goQ - `Mohammed Moawalla, Analyst, Goldman Sachs `
+Great, thank you very much. I have two questions please. The first one maybe for both Christian
+and Scott. As we look at SAP sort of cloud portfolio, it's pretty broad. And I will be curious to
+understand the more kind of defensive lower ASP aspect of the mix of the portfolio versus
+perhaps more discretionary aspect. I know S/4HANA momentum is pretty strong right now. But if
+we were to move to a more cautious or even a more severe macroeconomic scenario next year,
+how do you sort of assess the risks of the different sort of pieces of the discretionary versus the
+more defensive aspects of the portfolio going forward and impacting kind of backlog growth and
+revenue growth in the cloud?
+And then the second one was for Luka, you know you talked about kind of the heavy investment
+this year, but as we think about cost flex, you know, in the past SAP has shown a significant ability
+to reflect cost to protect margin. So in the context of your sort of expected double-digit EBIT
+growth next year, how do you sort of see the scope to kind of flex the cost base to kind of hit
+that target even in the absence of say, with growth slowing? Thank you.
+A - `Scott Russell, Customer Success `
+So maybe I'll start, Christian. And then you add comments. So on the first question around the
+portfolio and what's discretionary? The interesting businesses have different views about what's
+discretionary and what's not, but I'll try to give it at a macro level. First of all, this is one of the
+advantages of SAP in our breadth of our portfolio. We're one of the only organizations, I would
+argue, the only company that is able to provide solutions that are able to enhance the customers,
+whether it's solving employee challenges and retention of their workforce, whether it'd be
+solving their supply chain disruptions, whether it be about managing their green line,
+sustainability, managing their contingent labor. So our breadth really helps us because each
+business will be faced with specific challenges, but through the relationship they can expand.
+Having said that, what we are seeing is the macroeconomic situation. Christian speaks a lot about
+the ability to be able to manage your supply chain disruptions, your ability to be able to source
+and manage your supplier base in a very diverse and real-time environment, they are consistent
+and strong. And so, the core part of the portfolio we see really strong demand and pipeline
+going forward. And I don't expect that to change because even in a difficult environment, those
+needs become more apparent than ever. But then within the other parts of the portfolio, for
+example, some businesses are much more focused on the core HR operations, which success
+factors provides, but they might not look at discrete solutions that they would consider to be
+discretionary. So they focus a lot more on the core capabilities, if they've got decisions to be
+made about finite operational OpEx spend.
+What I would say is clear, in past macroeconomic difficult environments or uncertainty, there was
+always pressure on IT spend. I do not expect that to be the same as in go-forward. Technology
+spend continues to be a priority for companies as they need to be able to resist and manage the
+disruption and take advantage of opportunity. And that's why our pipeline continues to look
+strong across the portfolio and gives us confidence in the outlook.
+Christian?
+A - `Christian Klein, Chief Executive Officer `
+And I mean, when you look into a business case justifying to do RISE with SAP, obviously there is
+always a point on how can we outsource certain parts of IT, how can we outsource the one sidemakes the move to the cloud more needed. But then second as Scott just said, I mean, I give you
+real-time example, yesterday now with Samsung and other players in the semiconductor industry,
+we are now moving them with RISE with SAP, not only to the cloud, but we're actually building a
+very resilient supply chain. We are moving them to the network where they find millions of
+suppliers and buyers also for their industry, and then we are building a resilient supply chain.
+And these are the scenarios, which especially in these times are so crucial. So it's about move to
+the cloud, but even more important, it's about resiliency, it's about automation to offset some of
+the margin pressure and supply chain challenges our customers are facing.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, just finally on the cost flex scope that you have discussed. I mean, as we have proven on
+past occasions that you have rightfully pointed out, if we really had a severe downturn situation to
+manage, we have certainly scope for easily finding a mid to high triple-digit million euro in savings
+across different expense line items in terms of reduced head count growth and third-party
+expenses and other discretionary expense items on top of what we anyway will see with the
+dissolution of the cloud delivery harmonization program. So we have of course significant scope
+to manage the bottom line in line with our commitment.
+Q - `Mohammed Moawalla, Analyst, Goldman Sachs `
+Great. Thank you.
+A - `Anthony Coletta, Investor Relations `
+Thank you. Next question please.
+Operator
+Next question from `Michael Briest, Analyst, UBS from UBS. Please go ahead.
+Q - `Michael Briest, Analyst, UBS `
+Yes, and thanks, good afternoon. Christian, could you just say what you're waiting to see in the
+marketplace or your own sort of trend in order to revisit the mid-term guidance? And then,
+obviously you're suggesting the cloud transitioned faster, so you're substituting the 87% gross
+margin on-premise business with currently for the 72% cloud business. I know, Luka, at Sapphire,
+you were adamant that the EUR11.5 billion EBIT in 2025, was well-underpinned even if the mix
+changed. I'm wondering if you're happy to re-endorse that today? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Yes, so Michael, what do we actually need to uplift of our guidance? First of all, I would value a
+few guys, you know, could value again a bit more the growth in the cloud. And I mean, when I
+compare this to a year ago, you know, it was all about the growth of course. We realized the
+market sentiment existed [ph]. And look, we always said, it's as three year transformation. And
+mathematically, it was always the case that the first two years are bit more difficult on the
+operating profit side. But just yesterday, I did the math, if you now take out Russia for a second,
+we are even ahead of plan on operating profit. So we are well on plan on hitting our mid-term
+ambitions.
+Now what do we need to have in order to give a new guidance? I would say, look, let us deliver a
+great half year too, let us show that the cloud is very resilient. And if the macroeconomicenvironment stays like it is, let's assume that, then you're going to see us beginning of next year
+updating the guidance. And I want to emphasize that, you will not only see an update in the
+guidance on the top line, there is of course also then an update to be expected on the bottom
+line.
+A - `Luka Mucic, Chief Financial Officer `
+And this will be a positive update all along, because as I said, it's not only the growth on the cloud
+side that is great from a momentum perspective, of course, it's also going to -- at the current FX
+levels materially supported by the currency. But this drives also much higher absolute cloud profit.
+And at the higher growth rates in the cloud actually that can overcompensate the margin
+differential in terms of what it contributes from an absolute profit perspective. And therefore, we
+expect our momentum to also flow through to the bottom line. As we said, let's watch how the
+performance goes, what the macro does if it stays at the same level. And also of course continue
+to prove out performance from a backlog perspective. But then we have all ingredients in place
+for an update that will please investors of all tastes, I would say.
+Q - `Michael Briest, Analyst, UBS `
+Thank you. And can I just ask, previously you had a 2023 target, and that was replaced in 2020
+with a '25 ambition. We're now in -- going to be in '23 in six months time, would you update '25 or
+would you introduce a new mid-term target beyond that?
+A - `Christian Klein, Chief Executive Officer `
+No, we would look at updating 2025. And of course, we will give guidance for 2023 that you can
+then compare to the -- to the old 2023 guidance. And I would say that probably on the cloud side
+will look quite pleasant.
+Q - `Michael Briest, Analyst, UBS `
+Right. Thank you.
+A - `Anthony Coletta, Investor Relations `
+Thank you. And now we will take one final question please. Thank you.
+Operator
+Our final question comes from `Mark Moerdler, Analyst, Bernstein Research from Bernstein Research. Please go ahead.
+Q - `Mark Moerdler, Analyst, Bernstein Research `
+Thank you very much for taking my question, squeezing it in. And I appreciate the additional detail
+you've given on the call so far. I have two (Technical Difficulty) not too complex questions. The first
+is, you've said that roughly 52% of S/4HANA SaaS was new customers, and you're winning in
+smaller customers. Can you give us any color on what percentage of the S/4HANA Cloud revenue
+is from new customers versus how much of a customer base is?
+And the second question is, you -- on return of cash, you've added EUR500 million available to
+buy back stocks, how should we think about the share count going forward, especially with the
+valuation of the stock being down where it is? Thank you.
+A - `Christian Klein, Chief Executive Officer `I can start on the net new. And then Scott, you can build on that. So first our net new customer
+share for S/4HANA Cloud is 60%, so 6-0. And what kind of customers are those? Oftentimes I
+mentioned it in my comments at the beginning, Doctolib is the Unicorn in France, very successful,
+high close, neat scalability, also wants to go expand the business now into other segments. This is
+where we are winning net new. We're also winning net new in larger customers. But of course,
+much less as ERP is very sticky then of course in the mid-sized or in the unicorn community. But
+again, you see it from the share of net new customers, I guess that also shows you what kind of
+value the product has to offer if you have such a high share of net new customers.
+A - `Scott Russell, Customer Success `
+Yeah, maybe I'll add two comments, Christian, if I can. The first, when we launched RISE, we
+obviously had a high proportion of net new, but also mid-sized customers when we first launched
+as we scaled out the service. What we've seen increasingly is not only have we improved or
+increased the total customers moving to RISE, over 2,000 customers now moving to RISE, 400 in
+Q2. But also the proportion of larger customers, which in that mix, so the revenue of the order
+entry that you will see on larger customers continues to lift, that gives us obviously optimism in
+terms of our outlook, but also the revenue mix as an increasing proportion of large customers.
+That's not at the expense of the mid-size. The mid-size customers continue to expand, our net
+new customers tend to be mid-sized or the unicorns that Christian mentioned, but the big
+companies are now moving at scale to move across as well, which means the revenue mix of
+large companies is higher.
+A - `Christian Klein, Chief Executive Officer `
+Yes, and just start to come back on the share buyback and the share count question. I think it's
+important to understand, we are buying back the shares just as we did for the first share buyback
+that we did in the first half year, primarily in order to satisfy the equity based compensation plans
+of our employees and counter any dilution for our shareholders. So essentially we are not
+canceling those shares, and therefore the -- you can expect that the aggregate share count will
+remain unaffected. But we make sure that we don't create additional dilution. Why have we
+decided to buyback an additional EUR500 million in shares? Well, very evidently we are
+committed to continuously refilling our equity pool for the share-based compensation plans. And
+it makes sense to do a bit more on that in 2022 given where the share price currently is and that
+we strongly believe that it does not underpin the true value of the company and its strategy. So
+that's why we decided to accelerate the volumes for 2022.
+Outside of that our capital allocation priorities remain unchanged. We of course will continue to
+invest as is reasonable and necessary in our organic business. So we will continue to deleverage
+where it makes sense. And obviously in the current interest rate environment, we will continue to
+be committed to that. Then we will pay a attractive dividend also in the future. If we have M&A
+opportunities then we can pursue them, when they are tuck-ins or so out of the existing cash flow.
+And on top of everything else, if we then have no other uses of course we might continue to
+accelerate some share buybacks to fuel the treasury stock for our equity programs for
+employees at attractive prices. This is not something I would rule out. But again, it will not result in
+a long-term reduction of our share count as it's really meant to offset dilution.
+Q - `Mark Moerdler, Analyst, Bernstein Research `
+Thank you. That's very helpful. I really appreciate. Congrats.
+A - `Anthony Coletta, Investor Relations `Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Thank you.
+A - `Anthony Coletta, Investor Relations `
+And this concludes our call for today. Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Thank you everyone for joining.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you.
+A - `Anthony Coletta, Investor Relations `
+Thank you.
+Operator
+Thank you. That concludes today's conference.

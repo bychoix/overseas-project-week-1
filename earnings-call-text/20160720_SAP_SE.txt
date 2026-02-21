@@ -1,0 +1,679 @@
+Q2 2016 Earnings Call
+
+Operator
+Ladies and gentlemen, thank you for standing by. I'm Mirabel, your Chorus Call operator.
+Welcome and thank you for joining the SAP Second Quarter Results 2016 Conference Call. For
+today's recorded presentation, all participants will be in a listen-only mode. The presentation will
+be followed by a question-and-answer session.
+I would now like to turn the conference over to Mr. Stefan Gruber. Please go ahead.
+Stefan Gruber `
+Thank you very much. Good morning or good afternoon. This is Stefan Gruber, Head of Investor
+Relations. Thank you for joining us to discuss our results for the second quarter 2016. I'm joined
+by CEO, Bill McDermott; and Luka Mucic, our CFO, who will both make opening remarks on the
+call today. Also joining us for Q&A are board members Rob Enslin, who runs Global Customer
+Operations; Bernd Leukert, who leads Product Innovation; and Steve Singh, Head of SAP Business
+Networks and Applications.
+Before we get started, as usual, I would like to say a few words about forward-looking
+statements. Any statements made during this call that are not historical facts are forward-looking
+statements as defined in the U.S. Private Securities Litigation Reform Act of 1995. Words such as
+anticipate, believe, estimate, expect, forecast, intend, may, plan, project, predict, should, outlook
+and will, and similar expressions as they relate to SAP are intended to identify such forward-
+looking statements.
+SAP undertakes no obligation to publicly update or revise any forward-looking statements. All
+forward-looking statements are subject to various risks and uncertainties that could cause actual
+results to differ materially from expectations. The factors that could affect SAP's future financialthe SEC, including SAP's Annual Report on Form 20-F for 2015 filed with the SEC on March 29,
+2016.
+Participants of this call are cautioned not to place undue reliance on these forward-looking
+statements, which speak only as of their dates.
+Please keep in mind that unless otherwise noted, all financial numbers referred to on this
+conference call are non-IFRS, and growth rates are non-IFRS constant currencies unless otherwise
+noted.
+I would now like to turn the call over to Bill McDermott.
+William R. McDermott `
+Thank you very much, Stefan, and hello, everyone. Today, SAP reaffirmed our position as a strong
+growth company and the market leader in the business software industry. We delivered a trifecta
+of double-digit software, cloud, and operating income growth. Let me share some Q2 highlights
+with you.
+First, we saw strength across all geographies including the BRIC. Despite widespread concerns,
+we experienced no effect from the Brexit vote. We saw a continued fast growth in cloud at 33%,
+tracking to the high end of guidance. Software license revenue grew fast at 10%, exceeding every
+expectation.
+Cloud and software were up significantly at 11% growth, again, outpacing expectations. We also
+saw a continued operating profit expansion beyond expectations at 11%. Important to note, IFRS
+operating profit was actually up 81%, and it's a pretty proud moment when you can reset the cost
+base, increase innovation, grow fast, have a happy company, and yes, be more profitable, too.
+So, with solid first half execution and a robust pipeline across all regions, industries, and business
+units, we firmly reiterate our outlook for the full year.
+Now let me comment on our strategic growth initiatives for the company. SAP S/4HANA has
+changed ERP from a system of record to a system of innovation. It provides immediate insight,
+intelligence beyond automation, integration between departments, and connections to the world.
+We see continued strong momentum with more than 3,700 S/4HANA customers, up 500 in the
+quarter, of which 40% were net new.
+Some thought, leading analysts out there, really smart ones, have noted the strength of this
+product cycle, which is running ahead of plan, and prior upgrade cycles. Our Q2 results further
+validate those assessments. Since announcing S/4HANA last year, more than 10% of our ERP
+customer base has already signed on. And this is the fastest upgrade cycle in our history, four
+times the adaption rate of R3 in the 1990s.
+As I mentioned in my SAPPHIRE keynote, we're also focused on empathy for our customers. For
+those considering S/4HANA, our value assurance program will deliver every customer, a clear
+migration road map whatever their preferred deployment model is; cloud, on-premise or hybrid.
+We're in a world where choice is a beautiful thing. We delivered for customers like Dow Chemical,
+Hershey and BAE Systems, who are all breaking free from traditional database limitations to
+unleash digital innovation with S/4HANA.
+Targin Group, a Russian oil field services company, will increase efficiency, inventory turnover and
+market share with S/4HANA. In Hong Kong, Cathay Pacific chose S/4HANA to simplify processes
+and enable real-time reporting. Flagship companies like Sabre and Nomura Research Institute arenow live with S/4HANA. Sabre is live with S/4HANA together with Ariba, SuccessFactors and
+Fieldglass. So, it is absolutely clear that S/4 is also catalyzing broad customer adaption of our
+entire innovation portfolio.
+Let's talk about our best-of-breed applications in the cloud. SAP is the only company that delivers
+total workforce management solutions across permanent and contingent labor with
+SuccessFactors and Fieldglass. Our solutions are localized for 77 countries and 41 languages. We
+have embedded machine learning services like automated resume matches to open positions,
+and to promoting diversity and inclusion in hiring. SAP is committed to leading business beyond
+bias.
+We have more than 1,200 employee central customers, customers like UKAR (07:23), Bilfinger
+and L'Occitane chose our cloud solutions for HCM. SAP is proud to announce the most
+comprehensive public cloud deal in SAP history by adding Accenture to the SAP-SuccessFactors
+family. SAP and Accenture have a longstanding and strategic partnership. This includes the recent
+agreement related to jointly accelerating the development in S/4HANA Enterprise Management
+solution and industry solutions, as well as extensions built on the HANA Cloud Platform. Accenture
+already runs its business in production on HANA.
+The new SuccessFactors agreement extends the relationship even further into the Human Capital
+Management space. SuccessFactors will support Accenture's Talent Ambition 2020 strategy,
+which is focused on attracting and inspiring highly specialized talent, and creating a world-class
+experience for its 375,000 employees. Accenture's embarking on a transformation of its talent
+agenda to benefit from real-time analytics and transformation of the employee experience. We
+are really excited to be extending our work together as good friends and partners, and we look
+forward to sharing progress as we deliver this hyper-scaled program going forward.
+Demand for Fieldglass' best-in-class flexible labor solutions is better than ever, with over 2.6
+million workers placed in 130 countries over the past 12 months alone. Volvo chose Fieldglass to
+globally manage its external workforce and to save money. Fieldglass is a triple-digit growth
+business, and it is just getting started.
+Our strategy is to combine customer engagement and commerce for an omni-channel world,
+and it is paying off. CEC, customer engagement commerce, saw strong double-digit growth
+across its on-premise and cloud offerings. Customers like ALDO and others recognize that SAP
+connects the demand and supply chains to any channel on any device across all industries. In APJ,
+we successfully completed some of the largest Cloud for Customer agreements ever, including
+strong net new and competitive wins. Rockland Distilleries compared us with all the rest, and they
+chose the best. And here, again, we are only getting started.
+Moving to Business Networks, each of SAP's solutions lead their respective markets by a large
+margin. Concur helps more than 42 million end users effortlessly process travel and expenses.
+Lenovo and Cornell University chose Concur. Ariba continues to scale as the world's largest
+procurement network with 2.2 million companies like Bloomberg and L'Oreal transacting over
+$820 billion annually.
+Finally, let's talk about our once in a generation new architecture, SAP HANA. Our new digital
+board room solution built natively on the HANA Cloud Platform integrates all businesses and their
+data into one source of truth. People can engage with live data and instantly dig deep into any
+aspects of their business. With HANA Vora, customers can instantly blend massive scale on
+structured data in Hadoop. And thousands of customers are seamlessly integrating cloud, on-premise and hybrid landscapes. Many more are developing innovative applications on the HANA
+Cloud Platform.
+At SAP, we believe that will times domain knowledge, times technical capability, equals
+competitive advantage. That is why SAP is at the heart of the Internet of Things revolution. The
+recent Fedem acquisition will allow us to create advanced digital models of physical assets and
+business processes. We see massive opportunities in high-value areas like remote asset
+monitoring, predictive maintenance and connected logistics.
+Chocolate maker Barry Callebaut is one of the many companies innovating on HCP. The SAP
+HANA Enterprise Cloud provides a rapid on-ramp to S/4HANA adoption. Our partners see the
+huge growth opportunity and are investing for scale. Customers like McLaren Technology Group
+are already redoubling their investment in HANA Enterprise Cloud. This business is now a triple-
+digit-growth business and it validates SAP's strategy to provide all companies the option to run
+their business in the cloud.
+So, SAP has the winning strategy. We stay true to the business software layer of innovation, which
+is closest to the user. Our new architecture is in the midst of a massive innovation cycle, and all of
+our cloud businesses are growing fast. We are particularly pleased to see our market share gains
+across all geographies, including the BRIC, and our continued strength across a diverse set of
+industries and markets is really the perfect diversification of risk and opportunity for growth.
+SAP is a beautifully positioned growth company. We're steadily growing our core, cloud and
+operating income. And at the same time, our momentum for the future couldn't be stronger. The
+SAP Connected Health platform is opening the door to true, personalized medicine. And when it
+comes to disruptive concepts like blockchain, SAP's HANA Cloud Platform is giving banks like ATB
+Financial, the nimble innovation platform to experiment with new transactional processes, and
+they work. On every innovation topic from machine learning to the Internet of Things, SAP is out in
+front.
+So in conclusion, we have strong customer relationships, an ever-growing partner ecosystem, and
+highly inspired SAP colleagues. SAP has never been in a better position than SAP is right now.
+And finally, as always, I'd like to recognize SAP's 80,000 employees around the world for their
+continuing commitment and dedication to our customers.
+Now, I'm happy to turn the call over to our Chief Financial Officer, Luka Mucic. Luka, over to you,
+my friend.
+Luka Mucic `
+Thank you very much, Bill. If I was asked to summarize this quarter in one sentence, then it would
+simply be, we did what we said we would do. We delivered an exceptionally strong quarter. I'm
+proud how SAP is navigating ahead with extraordinary success across all business dimensions, as
+Bill has alluded to. Our stability and diversification makes SAP rock solid, especially in a world
+where we see a lot of volatility in certain economies.
+In fact, the second quarter marked the 13th consecutive quarter with a growth rate of 30% plus in
+cloud on a reported basis. Yet another strong result this quarter leads us to 33% growth in the
+cloud for the first six months of the year.
+Our license revenue was equally strong in the second quarter, which puts us now at 2% growth in
+software licenses for the first half of 2016. In parallel, the second quarter surge in our cloud andpoint of the year. With all of this momentum in the first half of the year, all our key revenue
+metrics are at the high-end of the full-year guidance.
+But we are not just having success on the top line. The results on the bottom line this quarter
+provide an additional proof point that we are committed to our transformation with better
+effectiveness and efficiency. We saw continued operating profit expansion with 11% growth.
+Now, let me discuss our financial results in some more detail. First to the top line. As our cloud
+business continues to grow at a fast pace, it is becoming a significant piece of our growth story.
+Our results this quarter speak for themselves. The 33% cloud revenue growth this quarter is
+sticking well ahead of the CAGR for our 2020 ambitions.
+The strength of our committed future revenue is also reflected in our new cloud bookings, which
+increased sequentially and were up 31% year-over-year. Combined with our strong cloud backlog
+and our strong bookings performance in 2015, we are well on track to deliver on our midterm
+growth ambitions in the cloud.
+Software revenue showed an impressive growth of 10%. And we closed all of the main deals that
+slipped in the first quarter. At 6% growth, our support revenue is likewise completely in line with
+our expectations, demonstrating this revenue line's stickiness and defensive qualities. The very,
+very high renewal rates that we are enjoying are signaling a healthy growth rate and high
+predictability also going forward. As a result, our more predictable revenue was 66% of our total
+revenue for the first six months, that's up 2 percentage points year-over-year. This demonstrates
+that our business has become more stable, which is a clear differentiator, especially at times
+when insecurity and volatility in certain markets are becoming a habit.
+Now to the second quarter regional results. We had a very strong performance in the EMEA
+region as we successfully navigated through the post-UK referendum uncertainty. Our cloud and
+software revenue increased by 11% and our cloud subscriptions and support revenue grew 41%.
+In EMEA, SAP had strong double-digit software revenue growth in France, the Netherlands,
+Switzerland, across Southern Europe, and again, a very solid performance in Germany. Russia and
+Germany both had an exceptional quarter in cloud revenue growth.
+In the Americas region, we grew cloud and software revenue as well by 11%, and cloud
+subscriptions and support revenue by 29%. North America delivered a very solid performance
+after coming off a slow start to the year. In Latin America, the political and macro instability
+continued. However, we saw strong double-digit software revenue growth in both Brazil, as well
+as Mexico.
+In the APJ region, cloud and software revenue was up 9%, and cloud subscriptions and support
+revenue grew by 47%. We had strong results in China and India with double-digit software
+revenue; whereas in Japan, we even had almost triple-digit growth. All these three countries also
+had double-digit cloud revenue growth for the quarter.
+Now to the bottom line. In the second quarter, as I've said before, we saw continued operating
+profit expansion. The 11% surge in operating profit outpaced the total revenue growth of 9%. This
+second quarter performance reflects the success of our business transformation to improve
+efficiency and effectiveness in each and every of our businesses. We continued to grow absolute
+operating profit even as we continued to hire in fast growth areas.
+In fact, our head count increased by approximately 3,000 full-time equivalents this year. On an
+IFRS basis, our operating profit was up 81%. The primary reason for this increase obviously wasthat the restructuring costs were significantly lower compared to the prior year, as we had
+predicted earlier this year.
+Going into more detail now, I would like to talk about the gross margin development for the
+quarter on a reported basis. For the first half of the year, our cloud margin improved to 65.7%, up
+30 basis points year-over-year. For the second quarter, the cloud gross margin was 65.2%, just a
+decrease of 50 basis points year-over-year. Why? We are investing heavily in personnel for our
+cloud operations and are also incurring costs to convert our acquired cloud applications onto SAP
+HANA, which will provide massive benefits for customers and SAP going forward.
+If you look at our cloud margin in more detail, you can see that our Business Network cloud
+subscriptions margin increased to 76.3%. Additionally, the Applications, Technology & Services or
+ATS cloud subscriptions margin was stable at 51.5%. This is actually impressive given the
+accelerated growth of our private cloud business, which causes a mix shift effect within the ATS
+segment since the private cloud margin is still negative.
+However, based on the great progress that we have made in our private cloud profitability, we
+expect our private cloud business to break even in half year two. There is an additional mix shift
+effect on the overall cloud margin since the ATS segment now has a higher share of our total
+cloud business, which also impacted the cloud margin. Overall, we continue to expect the cloud
+gross margin to be stable for the full year.
+The software and support gross margin, the gross margin of our core business, was 87.4%, which
+is up 130 basis points from the prior year. This positive result was primarily due to the strong
+license performance. Our combined cloud and software gross margin was 83.7%, up 40 basis
+points year-over-year. The strong performance in our core business overcompensated the usual
+mix shift effect that you would expect to see from the cloud business on our cloud and software
+gross margin.
+Our services gross margin was down by 5.5 percentage points year-over-year to 17.9%. I want to
+point out that we had an expense reclassification that lifted the level of the services margin by
+roughly 10 percentage points. However, this had no impact on the year-over-year comparison as
+historical quarterly growth services margin growth rates were likewise changed accordingly.
+Regarding the sequential development, this quarter, we saw an increase in the services margin
+by 4 percentage points. Our resulting overall gross margin was 72.7%, up 30 basis points year-
+over-year.
+The IFRS tax rate in the second quarter was 28.9%, up from 26.4% in the prior year period. The
+non-IFRS tax rate in the second quarter was 29.6%, up from 27.8% in the prior year period.
+Compared to our previous outlook, we now expect the full-year 2016 IFRS tax rate of 27% to
+28%, and the non-IFRS effective tax rate of 28% to 29%.
+This increase in comparison to the previous outlook mainly results from two things; the changes in
+foreign currency exchange rates in Venezuela negative impacted our second quarter effective tax
+rates, as well as our outlook for the full year.
+Secondly, we are currently working on the centralization of our IP rights to simplify and
+standardize our enterprise processes. While large parts of our acquired IP could already be
+migrated to Germany, we could not achieve the originally-planned consolidation of hybris'
+intellectual property rights at this point of time.
+IFRS earnings per share grew by 73% to €0.68 per share, and non-IFRS earnings per share grew
+by 2% to €0.82 per share. Operating cash flow for the first six months was €2.9 billion, up by 5%year-over-year. At the end of the second quarter, we improved our net liquidity by €1.4 billion
+compared to the end of 2015. In the same period, we paid back debt of almost €550 million and
+paid out a dividend of €1.4 billion. As a result, at the end of the second quarter, we had a
+remaining net debt of only €4.2 billion.
+As Bill mentioned earlier, our quarterly results were not impacted by the UK referendum. I would
+also like to note that our financial liquidity was not impacted either. At SAP, we follow a centralized
+cash management approach, whereby the liquidity of many entities is centralized by our cash
+pooling structures. SAP UK is one of those entities. We also increased the hedge ratio of our
+balance sheet exposure to almost 100% for the British pound ahead of the vote.
+Now, moving on to our outlook. Bill has said it, as a result of our strong pipeline, we are obviously
+and firmly reiterating our outlook for the full year. For the rest of the year, we have updated our
+expectations for the currency impact of reporting – reported growth rates in 2016. For details on
+the reiterated outlook and the currency impacts, please refer to our quarterly statement and half
+year report published earlier today. So in closing, we today released very strong second quarter
+results across all key revenue and profit metrics.
+We again proved that our decision to transform our business was the right one. This has enabled
+us to steadily increase profit while continuing to invest in growth. Our fundamental growth drivers
+are and remain rock solid. SAP HANA has become the industry standard in memory data platform,
+and there is absolutely no doubt our more than 3,700 S/4HANA customers helped propel us to
+this success.
+The strong demand for S/4HANA demonstrates our leading position as an innovator providing
+businesses, a comprehensive technology platform to succeed in the new digital economy. We
+have never been more focused on where our customers strive to be.
+With this impressive second quarter, our half-year financial results, together with robust pipeline
+across all regions, put us in a very strong position entering the second half of 2016.
+Thank you very much, and we will now be happy to take your questions.
+Stefan Gruber `
+Thank you. Operator, you can now start the Q&A session.
+Q&A
+Operator
+Thank you. Ladies and gentlemen, at this time, we will begin the question-and-answer session.
+And your first question is from John King of Bank of America. Please go ahead.
+Q - `John P. King, Bank Of America Merrill Lynch `
+Great. Thanks very much for taking the questions and congratulations on the strong second
+quarter. Maybe just to start off, Bill. In the context of the product cycle, I think you said that was
+ahead of initial expectations, and obviously, you reiterated the guidance for 2016. How should we
+start to think about how this could impact 2017, if it's not too early to think about that, I guess, as
+we get into more of the kind of volume adoption of S/4? I think previously, you've talked about
+structural decline of the license business, a modest decline. Is it possible that we might think
+about outperforming that kind of medium-term guidance in 2017 if you start to see the broader
+adoption of S/4?And the second question was for Luca, probably on the tax rate. Obviously, quite a big change for
+the tax rate guidance for this year related to Venezuela and hybris. What's the initial thinking again
+as to whether that's a one-off or whether that should normalize? Looking out, I guess, neither of
+those businesses are huge in the context of overall SAP. So, just trying to understand how much
+of an impact that can have on a kind of medium and long-term basis. Thanks.
+A - William R. McDermott `
+Well, why don't I start off, John, by thanking you, appreciate the kind remarks and just wanted you
+to know it means a lot to me that all of you on the call today, because we really feel excited
+about our story on S/4HANA. This is a multi-year upgrade cycle opportunity. And if you think about
+us slightly less than 10% into that journey, you can see a lot of runway that's still left in the
+business model just on the upgrade cycle.
+But then when you add on the fact that 40% of these S/4HANA deals are coming in on a new
+business level, you really kind of get excited that maybe there is a major movement going on
+here, which is why we felt very comfortable, firmly, confidently, reiterating the guidance for the full
+year, but also giving you some reason to have optimism on the SAP company going forward.
+And one of the examples I gave was a customer that's using S/4HANA to pivot with all of our line
+of business cloud solutions and our Business Network, because the magic of S/4HANA is really
+connecting the demand chain with any channel and any customer on any device with the supply
+chain. And when you can do that in real time in memory with all the data at your fingertips, we can
+really make decisions as executives that fundamentally rethink and re-imagine business on the fly.
+So, that's huge.
+The second piece that I think of as under reported is the fact that you can run this all in the cloud.
+So, as you think about what percentage it will grow, whether we recognize it ratably or we
+recognize it as a perpetual license remains to be seen. But there's no question that it is the de
+facto standard for innovation in the business or for our industry. That's kind of where that's at.
+And then I'll let Luka tell you about the Venezuela piece, which we spent some time on and, of
+course, it's a onetime. Luka?
+A - Luka Mucic `
+Yeah. Absolutely. So, first of all, Venezuela for us had two accumulating negative effects; one in
+the foreign currency result. So, it is actually surprising how much negative impact such a small
+country like Venezuela can generate. But believe it or not, due to the, again, heavy, heavy
+deterioration of the bolivar, we have accumulated for this first half year, overall, an almost €100
+million negative hit from the bolivar, out of which almost €70 million were occurring in Q2.
+As a consequence of this, we accumulate tax losses in Venezuela, which, generally speaking,
+under normal circumstances, would allow you to incur a corresponding deferred tax asset for
+later realization. However, the situation in Venezuela has become so sobering that we now have
+to consider it as improbable that such a deferred tax asset could be utilized in a foreseeable
+timeframe, and hence, we're not allowed to build it. So, we've been hit twice by this, and this is
+obviously one-time effect.
+Now, on the hybris effect, that's actually a slightly different story because the IP consolidation of
+hybris in Germany would have resulted in a one-time positive effect that we had actually
+anticipated and expected as part of our ETR guidance for 2016, which now has not been able to
+be finished in time. We're obviously continuing our efforts, and hope to be back next year andrealize this effort. However, it will not heighten for this year anymore. So, this would have been a
+positive effect that simply did not occur. Okay? Thank you very much.
+Q - `John P. King, Bank Of America Merrill Lynch `
+That's very clear. Thank you.
+A - Stefan Gruber `
+Thank you. Let's move to the next question please.
+Operator
+The next question is from the line of `Kirk Materne, Evercore Group LLC of Evercore ISI. Please go ahead.
+Q - `Kirk Materne, Evercore Group LLC `
+Yes. Thanks very much for taking the question, and congrats on the quarter. Bill, my question is
+around S/4HANA adoption. Clearly, you guys have since seen a great move out of the gate on
+that. I guess just two questions on that. One, in terms of the new customers coming to you for
+the first time, is there any commonality in terms of the size of the customer? Are you getting into
+the mid-market more effectively with S/4 or any particular region that you feel like you're picking
+up share that perhaps you didn't historically?
+And then I guess the second part of the question is what needs to happen to sort of take the
+trajectory of adds from the sort of 500 per quarter level up to 750 to 1,000 as we think forward
+to calendar 2017 and calendar 2018? Thanks.
+A - William R. McDermott `
+Well, Kirk, thank you very much for the question. The first thing I wanted to mention is as you saw
+from SAPPHIRE, we recognize that the capabilities of this product and what it can do to transform
+businesses actually, in fact, sometimes outstrips the customers' imagination, and in some cases
+early on, it outstripped the knowledge level of our people calling on the customer, which is why
+we redoubled our efforts at SAPPHIRE for the road mapping exercise, and really mapping the
+solution to the customer delivery process and the value that they would extract from such an
+unbelievable invention.
+So with that as a backdrop, we spent, the board, offsite this weekend talking about just that; how
+are we going to really explode this all over the world. And without stealing the thunder of my
+dear colleagues, I think it's really important that we hear from Rob and we also hear from Bernd
+as it relates to S/4 because you got the field channel, and then, of course, you have the
+development lead, and I think they have a very unique perspective on just how successful this
+product is and how much it still has to go.
+A - Rob Enslin `
+Yeah. Thank you, Bill. This is Robert here. Great question. We see actually an acceleration of S/4 in
+terms of the amount of implementations. There's over 1,200 implementations now taking place
+around the world, 220-odd are live and plus/minus a couple of a hundred are ongoing. More
+importantly, I think when Bill talks about 40% new customers, and we've seen a significant uptick
+in the upper segment of the midmarket in places like Latin America and Asia, where customers
+see this as the future opportunity in the ERP space, actually, they see this as kind of the go-to
+platform if you want to be a digital company and you want to be competitive.So, that is clearly moving the needle for us. And then, I would say, lastly, the value assurance
+program, connecting the roadmap for the cloud product, bringing that to the fore has clearly
+shown that we have a full cloud on-premise business that customers really want to see.
+With that, I'll hand over to Mr. Leukert.
+A - Bernd Leukert `
+Yeah. Thanks, Rob. Thanks, Bill. Just to add a few points from the product perspective. I think you
+all know that we launched S/4HANA, just to remind you of that, February 2015. So, this is not a
+product which is four years out in the market, and is a significant growth driver and contributing to
+the great Q2. We have massively invested during the course of 2015, and you still remember that
+last year, we had the conversation when is the product complete.
+And we had in Q4, so the 15/11 release, a complete coverage of the HANA adoption and
+exploitation across the entire modules in S/4. And then we look now at the Q2 numbers, we
+strongly see that this massively adds to value, adds to benefit, and this broad adoption of HANA
+across the entire suite is now paying off. And from a product perspective, we are fully confident
+that it's not just a renewal of existing processes. We have now a strong driver in innovations, in
+new capabilities, which we have not been able to provide to our customers before.
+A - Stefan Gruber `
+Okay. Thank you very much. Let's move to the next question, please.
+Operator
+And the next question is from the line of `Gerardus Vos, Barclays Capital Securities Ltd. of Barclays. Please go ahead.
+Q - `Gerardus Vos, Barclays Capital Securities Ltd. `
+Hi. Thanks for taking my question and congratulations from me as well. Just a couple, if I may. First
+of all, I just want to come back on the kind of go-lives, the 220, I believe it was around €140
+million in the kind of first quarter. When should we kind of expect a ramp in this kind of figure?
+And perhaps related to this as well, the services, clearly, continue to be on the pressure during
+the quarter. I can imagine that has something to do with the kind of ramp of go-lives. So, maybe
+you link that in as well.
+And then, secondly, great results on the operating profit, which is now running quite ahead of the
+full-year guidance. And I'm cognizant of the fact that in the second half, you have the cost benefit
+dropping out. How should we kind of model this forward or is that kind of plus 8% now a more
+feasible kind of target for the full year? Thank you.
+A - Luka Mucic `
+Yeah. Maybe I can start with the services question and the question on operating profit modeling
+for the second half year, and then the colleagues can handle the go lives question. So, first of all,
+when you take a look at our services result, yes, it looks as if services continues to be under
+pressure if you take it from an outside perspective. However, in it, you can see that, A, in a lot of
+the efficiency metrics in the services business, we actually have improved in this quarter.
+So, we see a pretty much improved revenue conversion ratio, we see a higher overall productive
+utilization, and we had a very strong bookings performance as well. So, this is making me actually
+quite confident that we will see a turnaround in this business. What the results don't show at theface value is that we have suffered in Q2 from two one-off effects from the past, a project
+settlement, as well as increased loss accruals in some investment projects that we have done in
+APJ.
+If you would exclude those effects, actually, our services business would have been growing on
+the top line already in mid-single-digits. And also, the profit would have had a much better
+performance. So that's important to keep note of, and we expect that going forward, the
+business will continue to improve on a steady pace as those fundamental current metrics around
+revenue conversion, as well as productive utilization are improving.
+Then, secondly on your question around operating profit. I mean, it's very clear that in the first
+half-year, we have benefited from increased leverage through the successful transformation
+program that we have conducted in 2015. In the first half, the resulting run rate benefit was really
+unmatched by a corresponding benefit in 2015, that's why you've seen the very strong
+progression in operating profit.
+In the second half-year, as we had already a pretty sizable chunk of the transformation program
+completed at the midpoint of 2015, we have already parts of the run rate benefit in the second
+half figures for 2015. So that means that you should not necessarily expect that operating profit
+growth in double digits would continue in half-year two. Having said that, we believe that we have
+really now optimized the structure of the company in a way that we can continue to invest into the
+high growth areas and into innovation, as Bill alluded to, into machine learning, Internet of Things,
+Connected Health and so on; while at the same time, still continuing to expand operating profit.
+That's what we have committed to, and hence, the confident reiteration of our full-year guidance
+in terms of operating profit progression.
+Now, over to the colleagues (41:13).
+A - Stefan Gruber `
+Thank you. (41:14) I think, Rob, you might want to handle that.
+A - Rob Enslin `
+Yeah, I'll take it. So, I think this is what we can expect towards the end of the year, mid-to-high-
+triple-digit customer go live. We are really focused on getting our partners trained, more than
+5,000 really trained. We'll have close to 10,000 by the end of the year. Our internal consultants
+have now well-trained, and we see that go lives are actually taking between six months to nine
+months, so a lot faster than anything else in the marketplace. Also believe that when we look at
+the stability of S/4 and how customers have actually seen the rock solid quality of this product,
+you will actually continue to see a mass extrapolation of go lives into the years. So, mid to high
+triple digits.
+Q - `Gerardus Vos, Barclays Capital Securities Ltd. `
+Okay. Thanks very much.
+A - William R. McDermott `
+Thank you. Thanks, (42:01).
+A - Stefan Gruber `
+Thank you. Let's take the next question please.Operator
+The next question is from the line of Charles Brennan of Credit Suisse. Please go ahead.
+Q - `Charles A. Brennan, Credit Suisse Securities (Europe) Ltd. `
+Great. So, congratulations and thanks very much for taking my questions. Just a couple of
+questions for me actually. Firstly, can we go back to the net new customers, 40% coming from
+new customers is quite a significant number. You implied that, that was primarily the upper mid
+market. Does that mean that 40% corresponds to a much smaller percentage of revenue during
+the period?
+And then the second question, just talking about the comps for the second half of the year. Luka,
+I think you wanted to be exiting the first half in positive license territory to give you some
+breathing space against the fourth quarter comp. Do you think you've done enough here to
+derisk the outlook for the second half of the year or are you still looking at the fourth quarter with
+a bit of a gasp for breath? Thanks.
+A - Stefan Gruber `
+Maybe on the net new customers, Rob, you can comment this? And, of course, the second
+question is for Luka then.
+A - Rob Enslin `
+Yeah. I wouldn't take the combination of customer counts and revenue to be equated just mid-
+market. I think what you see is the large SAP customers on – are looking at transforming the
+digital environment rapidly fast. We saw that with Nestlé. We've seen that with companies like
+Accenture.
+But what you see is companies that are moving to a next-generation ERP system from older
+systems are actually looking at S/4 as the future, and that's what we see in the mid markets. So,
+there's new companies coming to SAP quite a lot.
+A - Luka Mucic `
+Yeah. And maybe to the second question, so I have one principle in business, and that's to play
+fearless. I don't have fear about the second half year. And in terms of the – in terms of where we
+are, actually, I want to expand this a little bit beyond licenses. You're absolutely right. I wanted us,
+at the half-year point, to show positive growth in licenses in order to make sure that we de-risk
+the full year performance. I am absolutely at the point where I wanted us to be with 2% growth in
+licenses. We are kind of at the implied high-end of the license guidance if you take it in as a
+component of cloud and software revenues.
+If you talk about cloud and software revenues, at the half-year point, we are plus 8%, and we
+guided for 6% to 8%, so we are absolutely at the high end there. And in terms cloud, we guided
+at the top end for 33% growth, and we are right at 33% growth at the half-year mark. So, I think
+that's a perfect basis for us to execute against in the second half year.
+Of course, it's not set that having first two quarters in a good shape means that the second good
+– two quarters will be in the same shape. We need to earn our right and to win at the customer
+front. That means we need to stay in traffic (45:10). We need to embrace the values that Bill and
+Rob have also alluded to, run the value assurance program plays, make sure our customersthe repeat trust, and then I'm absolutely confident that we will arrive at the guidance that we
+have set out at the beginning of the year. So, I'm definitely not shivering, actually, it's much too
+hot in Germany these days that I could even start thinking about shivering.
+A - William R. McDermott `
+And, Charles, one of the things that keeps us all very, very focused is the fact that we run the
+company on HANA. And when you need information around the pipeline in any geography, in any
+industry, in any channel, we have the facts. So today is the perfect combination of a well executed
+first half, but also a pipeline that is very healthy across the board for SAP. It's on that basis of a
+focused management team and inspired workforce and very clear pipeline that we say to you,
+we go in and strongly reiterate guidance for the second half. So, everything is in place and we're
+ready to go.
+A - Stefan Gruber `
+Okay. Thank you. Let's move to the next question please.
+Operator
+Next question is from the line of Adam Wood of Morgan Stanley. Please go ahead.
+Q - `Adam D. Wood, Morgan Stanley & Co. International Plc `
+Hi. Thanks so much for taking the question, and also congratulations from me on the excellent
+quarter. Maybe, just first of all thinking about the spending and investments. You obviously had
+good operating leverage in the first half of the year, and you've been highlighting how those
+investments can continue. Luka, there's obviously some macro uncertainty out there, how do you
+think about pacing the investments to the second half, especially given the year, as always, will be
+backend loaded?
+And then, maybe a bigger picture question. There's a lot of focus today on frontend customer
+engagement and customer digitalization. When you're dealing with companies, to what extent
+are they starting to think about also working on their back ends? Thinking about digital
+manufacturing, IoT, is that starting to be a driver of HANA adoption? And how significant do you
+think that could be as a driver for adoption of the company? Thank you.
+A - Luka Mucic `
+Yeah. So, I'll take the first question on the investment levels. As you know, Adam, also from the
+past, of course, we would have flexibility in our investment plans if we had signs that we were
+looking at a slowdown of our business. As Bill had said, we have absolutely no signs to that end.
+But, of course, we will continue to monitor the situation. We are absolutely committed to our
+guidance not only on the top line, but also on the bottom line. So, rest assured that we will
+manage our responsibly in order to hit it as well.
+There are some investments that I very strongly and adamantly believe in, and on which we will
+not compromise. Those are those investments that will make us nimbler and more efficient going
+forward, especially in our cloud business. So, we will absolutely march forward on replacing third-
+party databases as the basis of our cloud solutions. So, we have made great progress and we will
+continue to work on that path.
+We will continue to work on converging our cloud infrastructures and consolidating our data
+centers into less but more effective central locations because this will help us in cloud marginprogression going forward. On the remaining part of the investments, we have flexibility and can
+react in the short term, but don't see this as necessary at this point because we're very confident
+in our top line prospects.
+A - William R. McDermott `
+And if you think about the Internet of Things, and the front end and the back end, to fully
+leverage the Internet of Things, the front end has to coalesce with the back end. So, for example,
+during the NBA championship playoffs, we featured Kevin Plank and Under Armour in a
+commercial.
+And what we demonstrate is the athlete and the concept of connected fitness to the device,
+connecting that athlete to communities that they participate in. They care a lot about their
+nutrition, they care a lot about the number of steps they're taking a day, they care a lot about
+their biorhythms. But then, a company like Under Armour has to care a lot about the channels that
+they shop in. So, when they're coming in direct to consumer, they also have to have a social
+media understanding, as well as a retail or a wholesale understanding of the customer.
+So, if you're really going to do Internet of Things, I don't know how you do it without knowing the
+consumer in any channel, on any device, and then being able to fulfill wherever they are in the
+world. So, you start to see the application, not only the transaction and the things and the
+consumer, but you also think about issues like geospatial and the various ways to market and
+precise market the consumers no matter where they're at.
+This is the whole idea of S/4HANA and CRM now, being a lot more than contacts management
+and forecasting. You're really into an omni-channel, e-commerce, end-to-end, demand and
+supply chain world, and the IoT is right in the center of that, and that's what we do.
+Q - `Adam D. Wood, Morgan Stanley & Co. International Plc `
+That's right. Helpful. Thank you.
+A - Stefan Gruber `
+Thank you.
+A - William R. McDermott `
+Thank you.
+A - Stefan Gruber `
+The next question please.
+Operator
+The next question is from `Knut Woller, Baader Bank AG (Broker) of Baader Bank. Please go ahead.
+Q - `Knut Woller, Baader Bank AG (Broker) `
+Yeah. Hello. Thank you for taking my questions, actually two. The first one to Bill, I think you
+mentioned that more than 10% of the ERP base has now moved to S/4. Can you give us an idea
+in terms of the overall investment and revenue opportunity you see from this 10%, where we are
+currently? Is it something like 30% of the revenue opportunity from this part of the installed basethat has moved, is it higher or lower? And how long do you think it will take to harvest that
+opportunity?
+Then lastly, if I look at total revenues by region, it looks like the rest of APJ is falling a bit off
+compared to all the other regions. Was here the effect you mentioned from the legacy services
+business having a negative impact or were there any other reasons explaining that slightly lower
+performance compared to the average growth rate in APJ in Q2? Thank you.
+A - William R. McDermott `
+On the second part with regard to APJ, I'm not sure specifically what data point you're poking at,
+but we should let you illuminate that so we give you a specific answer. But as it relates to the
+S/4HANA penetration, it is early stages of what's possible with S/4HANA even in the install base.
+So, it's certainly not 30%. We still are in a very early stage progression of the massive upgrade
+cycle and net new selling cycle that's going to go on with S/4HANA. Now, we're starting to talk
+about industries and market segments and things like that to even expand it further. So, please
+know that, that is very early stage. It's got a lot of run rate and a lot of momentum.
+I'll let Rob comment on APJ specifically, but I could tell you that in APJ – if you give us the specific
+of the question, we'll answer it – but APJ is in very good shape, when you look at India, you look
+at China. The only challenge is, we've seen a little bit, is Australia, but that's consistent with what
+you've heard from every other company. But count on APJ to continue to be a force multiplier of
+growth for SAP.
+And one of the reasons I really like APJ right now is because of our global footprint and the
+strong presence that we have in the install base, and the size and bandwidth and scale of our
+ecosystem, it makes it very difficult for smaller companies to go in there and compete with us,
+because to compete with us, you'd have to throw a lot of resources at it and they usually lose. So,
+I think what you'll see them do is stay in markets where they have a chance to win. Rob?
+A - Rob Enslin `
+Yeah. I would just say that Australia and New Zealand is a tale of two right now, with the
+government kind of almost shutting down as the elections took place, public sector spending
+slowed down in the second half. It will pick up in the back half as the governments stabilize. But
+we have seen tremendous, tremendous performance in the cloud business in Australia and New
+Zealand. It is growing tremendously well. Customers absolutely adopting SuccessFactors, Ariba,
+and actually, our HANA Enterprise Cloud movement. So, the positive movements when you look
+at Australia and New Zealand.
+Other than that, as Bill alluded, we feel really good about India, Southeast Asia; Japan is like
+coming back like a storm drain. Our cloud business in China is good. So, it's a really good region,
+and it's actually doing consistently well every quarter.
+Q - `Knut Woller, Baader Bank AG (Broker) `
+Great. Thank you.
+A - Stefan Gruber `
+Okay. Thank you. We have time for two more questions please.
+OperatorNext question is from the line of Walter Pritchard of Citi. Please go ahead.
+Q - `Walter H. Pritchard, Citigroup Global Markets, Inc. (Broker) `
+Hi. Thanks. Just one quick one on the new customer accounts. I'm curious how focused you are
+simply on that metric. I know there's lots of other things from a S/4HANA perspective that matter
+with the 500 customers. How focused are you on driving that and measuring that on a quarterly
+basis?
+A - William R. McDermott `
+Yeah. That's a very good question. One of the things I wanted to mention, and I want to get this
+gentlemen involved in the conversation a little bit here, we're very focused on it, first of all, and
+we're going to get increasingly focused on it because the problem is with the Fortune 2000 or
+the Fortune 1000, is it only 1,000 or 2,000 of them? I mean, there's a lot of businesses out there.
+So, when you look at companies like Concur and Ariba and Fieldglass, one of the unique
+attributes of the business network move that we made was not just enabling companies to
+collaborate and conduct commerce and business with each other, but we also acquired a
+wonderful leader and now an executive board member in Steve Singh.
+And we moved over small, medium-sized enterprise responsibility to Steve with our cloud
+portfolio of products because we're massively concerned with, A, the cross-sell capability coming
+from the S/4HANA world and, B, all kinds of net new customers that we can work through a
+channel that SAP was not that well represented in. So, I would like, number one, to give Steve a
+chance to say a few words today on how he sees things going with SAP and how confident he is
+how we can expand in the SAP franchise with regard to our cloud products, as well as our SME
+products. There's a lot of net new names there.
+A - Steve Singh `
+Thank you. Yeah. Thanks, Bill. So, I think the way that I would ask you to think about this is that we
+think that the – we could deliver all of our cloud products to SMB customers on a global basis. As
+Bill mentioned, Concur has a very large focus in the SMB segment. In fact, about 75% of Concur's
+business in any given quarter are net new customers to SAP. And we did sign a few thousand
+customers a quarter in that space.
+One of the other things, I think, we have a tremendous opportunity to do is actually deliver a full
+suite of integrated services, of cloud services that allow our customers to run their entire
+business, everything from the ERP suite to the line of business applications, and delivering that to
+not just the Concur channel, but even as we continue to build out our channels for our midmarket
+ERP business and Ariba, Fieldglass, and SuccessFactors businesses. So, this is – we think this is a
+huge growth opportunity in the years ahead for SAP.
+Q - `Walter H. Pritchard, Citigroup Global Markets, Inc. (Broker) `
+And then, Luka, just on M&A, you talked about being proud that you paid down debt and your
+liquidity position. I'm wondering the last acquisition, I think Bill described as completely new. How
+are you thinking about M&A? That's seems like the only thing here that could disrupt margins if
+you were to do another larger transaction. Other than that, it seems like you're on your way to
+your 2020 goals for (57:32) margins?
+A - William R. McDermott `Yeah. Maybe I could start on that answer and then I'd be most happy to have Luka build on it. And
+the reason I feel most happy to do that is because you're seeing a CEO and a CFO totally
+aligned, and an executive board that's totally aligned. So basically, we made the big moves when
+we had the opportunity to get pristine assets off the market and make them part of the SAP
+company. There are not a lot of opportunities like the ones we've done in the marketplace today
+at any price, but certainly, in a price that's semi-reasonable. So our objective is to take all this
+organic innovation, which is what we're talking about today. Let's celebrate that. This is organic
+growth. Isn't that nice?
+And when we do an acquisition, you can think of it more in the tuck-in category and highly
+complementary to what we've given you in the mid and a little bit longer-term guidance to 2020.
+So, we're aligned. We love our credit rating, we love paying down the debt, and we love putting
+our shareholders in a position to watch growth happen the right way.
+A - Luka Mucic `
+Yeah. I'm actually running out of anything else that I could add to this, perfectly right. And all the
+acquisitions that we did since we closed Concur were paid out of our normal cash flow, so that's
+kind of the type of tuck-ins that we can easily digest. And on anything that would be slightly
+bigger, it wouldn't really need to address a wide space in our solution portfolio. And as our wide
+spaces have become smaller over time as we have worked both organically, as well as through
+integrating the acquisitions that we did already so will naturally be a size of any acquisitions that
+we might consider.
+A - Bernd Leukert `
+Thank you. We are almost at the end already, at the end of the hour, but we have time for one
+final question, please.
+Operator
+And the question is from the line of Patrick Walravens from JMP. Please go ahead.
+Q - `Pat D. Walravens, JMP Securities LLC `
+Great. Thank you. Bill, I'd love to hear your thoughts on why Salesforce was willing to spend $25
+billion to buy LinkedIn, and if the opportunity to apply artificial intelligence to application softwares
+is really that big.
+A - William R. McDermott `
+Well, I'm not sure what they were actually willing to pay, Pat, you know better than me, but I'm
+pretty sure that Microsoft was the one that ended up with them, meaning LinkedIn. And when I
+look at it from – on Microsoft perspective, it's a natural extension of Office 365 in a sense. You
+can also think of it a little bit as a CRM application because now, I've got a very large channel of
+consumers that I know a lot about that maybe I can upsell and cross-sell very special things to. But
+also, as you look at their importance in the ecosystem. I think Satya has done a very good job of
+making them an open company in the ecosystem with Azure, and it's very nice, I think, to be able
+to say to their key partners, hey, as an extension of some of the things that you're doing in
+human capital management, wouldn't it be nice if in recruiting and other techniques that you have
+on the HR side, LinkedIn could potentially be a part of that. So, I think there's an ecosystem play, I
+think there's a core business play. And, certainly, I think there's a business network effect that you
+can monetize with an asset like LinkedIn. And, certainly, a company with Microsoft's reach andcapabilities and success, they're in a position to do something like that, and I wish them the
+absolute best with that asset.
+Q - `Pat D. Walravens, JMP Securities LLC `
+Great. Thank you.
+A - William R. McDermott `
+Thank you, Pat.
+A - Stefan Gruber `
+Thank you very much. And this concludes our SAP second quarter earnings call. Thanks, all, for
+joining and talk to you soon. Thank you and good-bye.
+Operator
+This concludes the SAP second quarter earnings call for today. Thank you for joining and good-
+bye.

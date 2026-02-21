@@ -1,0 +1,853 @@
+Q3 2018 Earnings Call - Q&A
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Tesla Q3 2018 Financial Results and Q&A
+webcast. At this time, all participants are in a listen-only mode. Later, we will conduct the
+question-and-answer session and instructions will follow at that time. As a reminder, this
+conference is being recorded.
+I would now like to introduce your host for today's conference, Mr. `Martin Viecha, Senior Director-Investor Relations, Senior Director
+of Investor Relations. Mr. Viecha, you may begin.
+`Martin Viecha, Senior Director-Investor Relations `
+Thank you, Sherry, and good afternoon, everyone. Welcome to Tesla's third quarter 2018 Q&A
+webcast. I'm joined today by Elon Musk, JB Straubel, `Deepak Ahuja, Chief Financial Officer and a number of other
+executives. Our Q3 results were announced at about 1:00 PM Pacific Time in the update letter we
+published at the same link as this webcast.
+During this call, we will discuss our business outlook and make forward-looking statements. These
+comments are based on our predictions and expectations as of today. Actual events or results
+could differ materially due to a number of risks and uncertainties, including those mentioned in
+our most recent filings with the SEC.
+During the question-and-answer portions of today's call, please limit yourself to one question and
+one follow-up. But before we jump into Q&A, Elon has some opening remarks. Elon?`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Thanks, Martin. So I'll make some opening remarks, and then we're going to talk about vehicle
+safety, autopilot and factory safety. And we have a number of people from Tesla here to
+elaborate on that. I think there's just a lot going on that you would find interesting.
+But I want to start by thanking all of our customers, employees and shareholders. This was an
+incredibly historic quarter for Tesla. Model 3 production stabilized. We delivered a total of 84,000
+vehicles globally, which is more than 80% of the vehicles that we delivered in all of 2017.
+In fact, we delivered more cars in this quarter than we did in all of 2016 in a single quarter. Model
+3 became the best-selling car in the U.S. in terms of revenue and the fifth best-selling car in terms
+of volume. We saw higher revenues and significantly better profitability in our energy business. In
+fact, I think for solar it may have been the best quarter ever for solar.
+We achieved GAAP net income of over $300 million, increased cash and equivalents by $731
+million, and achieved a greater than 20% gross margin for Model 3. And, moreover, we expect to
+again have positive net income and cash flow in Q4. And I believe our aspirations I think will be for
+all quarters going forward.
+I think we can actually be positive cash flow for all quarters going forward, leaving aside quarters
+where we may need to do a significant repayment; for example, in Q1 next year. But I think, even
+in Q1, I think we can be approximately flat in cash flow by end of quarter.
+This quarter was made possible by the incredible execution of our employees across the board,
+from sales, production, delivery, service, energy, engineering, finance and all of our G&A teams.
+Really every part of the business executed incredibly well. I want to thank everyone again for your
+incredibly hard work. I especially want to thank customers who helped.
+It's like – I've never even heard of this. Maybe this has happened before, but I've never heard of a
+case where a company's customers actually cared about the future of the company so much that
+they volunteered their time to help the company succeed. I think that's amazing. You don't see
+that anywhere. So, yeah, it really chokes me up actually.
+This quarter, we started rolling out Version 9 of our software, which is our biggest software
+upgrade in two years. And Model 3 received a five-star safety rating in every category and
+subcategory. And it got the lowest probability of injury of any car that the U.S. government has
+ever tested.
+Looking ahead, we expect to produce and sell even more Model 3s in Q4, and expect that trend
+to continue into Q1. And we're excited to bring Model 3 to Europe and China early next year,
+given that the market for midsize premium sedans in those regions is even larger than in North
+America.
+I've said before that we must prove that Tesla can be sustainably profitable. This quarter was an
+important step towards that and I'm incredibly excited about what lies ahead. So this is, yeah –
+just so proud of the Tesla team, our customers. Really appreciate the support of our long-term
+shareholders. And I just want to say on behalf of the Tesla team, we're super appreciative of your
+support to what has actually been a really difficult time.
+All right. Now, let's start off with the vehicle safety. Madan, who's our lead vehicle safety engineer;
+been with the company for a long time. Madan, how many years has it been that we've been
+working together?`Madan Gopal, Principal Safety Engineer `
+It's my 10th year. 10 years.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+10 years. Wow. So, yeah, I've been working with Madan for 10 years. We've had so many
+conversations on vehicle safety. Wow. And you know what, we're really going to try to go the
+extra mile with vehicle safety, not just – like there's a series of government mandated tests, but
+what some companies do is they game the system. So they know where the side pole impact is
+going to be. They strengthen it right in that position. At Tesla, we're like, okay, what is the
+weakest point in the car? Let us test it at that position. So the actual safety is not fully captured in
+the test because we anti-game the system.
+Madan, if you could?
+`Madan Gopal, Principal Safety Engineer `
+Thank you, Elon. Just want to give you a very quick background about myself. Like I said, joined
+Tesla 10 years. I'm extremely really happy to mention working with extraordinary set of very
+passionate and very hard-working individuals, and that essentially shows in our product. So that's
+very important for us.
+And also important is our principal mission statement on safety, because what we want to do is,
+safety has been – is probably the important factor for our vehicle. It's not just for electric vehicle;
+any vehicle period. And that fundamentally differentiates us, which essentially helps us to keep
+adding new features and new safety technology. And that's very important and that shows in
+Model 3; latest things that we have.
+Also, the fact that we have electric vehicle, the design and architecture gives us a fundamental
+benefit over traditional vehicles. And that takes care of, for example, whether you have a block of
+engine in the front, where we can work with using pretty much open architecture in the front and
+the whole fact that you have all the electrical and high-voltage and motors and all of that almost
+below the center of gravity of the vehicle gives lowest probability to produce a lower risk. It
+significantly benefits.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, I think architecturally we have Newton on our side. And having Isaac Newton on your side is
+definitely the way to go.
+`Madan Gopal, Principal Safety Engineer `
+Exactly. So in the latest series of tests, I would like to specifically talk about Model 3. Alexa did a
+series of tests, actually four tests, for one front door, two side and one rollover test. And if you
+look at it, we've been calculating how can we distinguish within the five-star. There are so many
+vehicles that already gets five-star. And if you look at within the five-star.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+They're just all the same. They're all the same.
+`Madan Gopal, Principal Safety Engineer `Exactly. So if you look there, there is a metrics we came up with which is a part of US-NCAP rating
+itself, has the lowest probability of injury, and Model 3 has the lowest. And just to give you a
+context, there are total of 900-plus vehicles since 2011 which have been rated. So the fact that
+Model 3 is the best among all the 943, to be exact. So that speaks to volume. And I'm very happy
+to say that Model 3 has achieved.
+We are not stopping right now. What we would like to do next is how we can make use of the
+active safety and autopilot features and make it even more improvement so the next area that
+we are focusing on how to integrate active and passive safety. That's our next area of challenge,
+which we will improve for sure.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yes. Regarding that the safety extends to not just people in the car, but also pedestrians.
+`Madan Gopal, Principal Safety Engineer `
+Correct.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah. So not having a big engine block in the front of the car is really helpful simply because if the
+car were to hit a pedestrian – we'll get to active safety next, because the best thing is obviously
+not to hit a car or a pedestrian. The fact that the hood can dent so far in is really helpful, because
+it ends up being sort of like a trampoline, or like a – you don't have a rock underneath it. It's very
+helpful. So it's helpful for pedestrian safety and for the safety of the people in the car.
+And then, even if you have like a head-on collision with another car, the extended sort of crumple
+zone of a Tesla Model S, Model X or Model 3 is helpful to the people in the Tesla and the people
+in the other car. So it's not just the people in the car.
+`Madan Gopal, Principal Safety Engineer `
+I'd like to add one item, which is essentially how we look at real-world safety, which has always
+been an important for Elon. So if you look at our block post, we showed how we handle the
+center pole impact in the frontal. By the way, that's not part of NCAP rating. It is just to show how
+we go over and above the NCAP rating to make sure it's real-world safety. Yes. That's very
+important for us.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Exactly. That's what I meant by we, like, anti-game the system. Like, what is the worst way that the
+car could be hit? Not just sort of strength where we know this test will happen and that kind of
+thing. So, obviously, we're all in these cars, our friends are in these cars, our families are in the car,
+so we care about safety. And a lot of people think safety is boring, but not Tesla.
+So thanks, Madan.
+`Madan Gopal, Principal Safety Engineer `
+Thank you.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `Thank you for your decade of hard work and the rest of the safety team. And with that, let's
+move on to autopilot. And you guys could just give an update on sort of autopilot software, AI
+and hardware. Yeah.
+`Stuart Bowers, Vice President of Engineering `
+That's great. This is `Stuart Bowers, Vice President of Engineering. We will soon begin to roll out the team's most advanced
+autopilot feature ever, Navigate on Autopilot. In our last release, we launched a new set of neural
+networks that, combined together, provide a view of everything happening around the car. With
+Navigate on Autopilot, we'll use information to understand exactly where the car is on the
+highway system and to automatically change lanes, handle forks and take high-curvature exits to
+follow a map route.
+Initially, it will require drivers to confirm lane changes using the turn signal before the car moves
+into an adjacent lane. Future versions will allow customers to waive the confirmation requirement
+if they choose to.
+One area that I'm personally really excited to build on this improvement is active safety. With the
+advancement in neural networks covering 360 degrees of view around our car, we can provide a
+level of constant vigilance that humans just can't. Ultimately, this shall allow us to warn or even
+intervene for an enormous percentage of modern accidents and to ship these improvements as
+software upgrades to our existing customers.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+We see this all the time in the data, where the car will do an automatic braking event and save a
+pedestrian or another car from impact. This happens all the time.
+`Stuart Bowers, Vice President of Engineering `
+All the time.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, all the time. Usually, every day but very briefly.
+`Stuart Bowers, Vice President of Engineering `
+Yeah. The team has done an incredible work here. And by bringing up more of the cameras
+around the car, we can detect things as they come toward us, not just directly in front of us.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah.
+`Stuart Bowers, Vice President of Engineering `
+Pete?
+`Peter Bannon, Director
+Hi. This is Pete Bannon. The hardware 3 design is continuing to move along. Over the last quarter,
+we've completed a qualification of the silicon and qualification of the board. We started the
+manufacturing line and qualification of the manufacturing line. We've been validating the
+provisioning flows in the factory.We've built test versions of Model S, Model X and Model 3 in the factory to validate all the fit and
+finish of the parts and all the provisioning flows. So we still have a lot of work to do, and the
+team's doing a great job. And we're still on track to have it ready to go by the end of Q1.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Great. And that'll be on roughly a 1,000% increase I trust and capability compared to the current
+hardware. And so, it's obviously a giant improvement despite being about – it costs about the
+same. Cost volume and car consumption are approximately the same as the current hardware,
+but it's a tenfold improvement in frames per second. And improved redundancy as well.
+But very important to emphasize is that the only thing that needs to change between a car that's
+produced today and a car that's, say, produced in the second quarter of next year is swapping
+out the autopilot computer. And this is a simple change that takes less than half an hour in service
+to upgrade the computer. And so, anyone will be able to upgrade their car to full self-driving
+capability with a simple service visit. So we expect all cars with the hardware to sensor suite.
+Basically, anything made in the last, roughly, two years will be upgradable to full self-driving.
+`Peter Bannon, Director
+Yes. In fact, a lot of the cars we're using for testing today have, in fact, been upgraded from
+hardware too.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Right. So it's very important to emphasize, like people shouldn't wonder who would want to wait
+until that comes out. But there's no need to wait until that comes out because it's just a very
+simple plug-and-play change to get to full self-driving. And anyone who's paid for the full self-
+driving option will just get it done for free. And anyone who still wants to order full self-driving at
+this point, it's just an off-menu item. You can still order it, but we took it off the order menu just
+because it was creating a lot of friction in the sales process and people didn't understand the
+difference between enhanced autopilot and full self-driving.
+So just to simplify the order process, we took that off, but anyone who asked for it can certainly
+get it. And it really ends up being a discount on future capability. But to be clear, there's definitely
+no need to wait until Q2 to order a car. We want to make it just a completely seamless process,
+so there's no advantage ordering now versus Q2.
+Andrej, do you want to...
+`Andrej Karpathy, Director of Artificial Intelligence `
+Yeah, absolutely. Hi, everyone. My name is `Andrej Karpathy, Director of Artificial Intelligence. I'm the Director of AI here at Tesla,
+and my team trains all of the neural networks that analyze the images streaming in from all the
+cameras for the autopilot. For example, these neural networks identify cars, lane lines, traffic
+signs and so on.
+The team is incredibly excited about the upcoming upgrade for the autopilot computer, which
+Pete briefly talked about. This upgrade allows us to not just run the current neural networks faster,
+but more importantly it will allow us to deploy much larger computationally more expensive
+networks to the fleet.
+The reason this is important is that it is a common finding in the industry – and we see this as well
+– is that as you make the networks bigger by adding more neurons, the accuracy of all of theirpredictions increases with the added capacity. So in other words, we are currently at a place
+where we've trained large neural networks that work very well, but we are not able to deploy
+them to the fleet due to computational constraints.
+So all of this will change with an acceleration of the hardware and it's a massive step
+improvement in the compute capability. And the team is incredibly excited to get these networks
+out there.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Great. Thank you. And I've said this before, but I think I was talking a bit about the kind of longer
+term future. We absolutely see the future as sort of a shared electric autonomy, so that you'll be
+able to do ride-hailing or share your car in any way, sort of long-term model that's probably some
+combination of like Uber, Lyft and Airbnb. In other words, there'll be Tesla-dedicated cars for ride-
+hailing and any customer will be able to share their car at will, just like you share your house on
+Airbnb.
+So it's the combination of those two models, I think, is pretty obviously where things are headed
+long-term. The advantage that Tesla will have is that we'll have millions of cars in the field with full
+autonomy capability, and no one else will have that. So I think that will end up putting us in the
+strongest competitive position long-term.
+And then, Laurie, can you finish it off with the talk about factory safety? And thank you for the hard
+work of you and your team, and I think we've made great strides. And, yeah, please go ahead.
+`Laurie Shelby, Vice President, EHS
+Yes. Thanks. Yeah, we have the safest cars made by the safest people. So it's exciting time here
+at Tesla. All car and manufacturing factories have injuries. At Tesla, we have a commitment to
+zero injuries and our target is actually on good reporting. So we have good reporting of injuries,
+good reporting of near misses, good observation and lots of improvements. So to be the safest
+company in the world, we have to be committed to that; and everybody here is. So we're actually
+steadily getting there and we're not going to stop till we're there.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Absolutely. So you were mentioning like, for example, we have some sort of, for example, we do
+get these like quite unfair accusations. For example, one of them was like that we were under-
+reporting injuries, and it's worth noting that OSHA completed their investigation and concluded
+we have not been doing anything of the sort.
+`Laurie Shelby, Vice President, EHS
+Correct. Correct. The factory here had a four-month long Cal/OSHA investigation and it basically
+proves that we are recording properly and doing as we should be. So it's much different than
+what you would read about in the press.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, this is true.
+`Laurie Shelby, Vice President, EHSYeah, yeah. I'm very proud of the team for that. One point I think people don't know is, I've been
+here about a year now. Time flies when you're having so much fun.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Feels like 12 years.
+`Laurie Shelby, Vice President, EHS
+I know. But when I joined, we were already really a fraction – our injury rate was a fraction of what
+it had been when Toyota and GM ran the factory in the newbie days. So what we're all about is
+really continuing to make improvements from there. And what's also important is not to have
+serious injuries, and that's extremely rare here at Tesla. We have really strong focus on
+prevention and also mitigating controls so that these types of injuries don't occur. I mean, most of
+the injuries that we have are muscular sprains and things like that.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yes. So essentially it's muscle strain and getting scratched. That's most of it.
+`Laurie Shelby, Vice President, EHS
+Exactly. Hand and finger cuts and sprains. So I kind of just want to break down a few things that
+my team is been working on along with all the leaders here. First, it's people engagement. So
+one of the first things is meeting with you, Elon. We meet with you on a regular basis. We meet
+with all the production leaders. So it's full on engagement on improving safety. We have built a
+really strong EHS team, the best and the brightest.
+And our EHS team is actually embedded into the line on the factory because we learn the
+process and we learn the people. You don't know how to improve unless you're out there on the
+line, on the process, engaging with the associates, listening and learning from our associates.
+So we have really strong engagement, health and safety committees. We do find it, fix it walks.
+Our leaders are out there walking and also looking for improvements. And actually just this
+quarter, we had over 15,000 improvements. I mean, that's like amazing. So very exciting about
+that.
+We also look at risk reduction and human performance. People are going to make mistakes, so
+we're going to design in so we fail safely. We have an Early Symptom Intervention program. This
+is where we have industrial athletes go out on the line and work with our associates before
+anything happens. Like if you have a pain, let's work it out, let's strengthen and really get our
+employees fit. So we're doing that.
+We've also just opened a new and improved health clinic, so when injuries do occur, we get the
+absolute best care for our associates. And it's actually overseen by one of California's leading
+orthopedic surgeons, and we did that because most of our injuries, like we said, like 80%, 85%
+are either sprains and strains. So now, they get that best care here on-site. And we have 24/7
+care. It's actually staffed by three full-time doctors and nurses, and I'm really super happy with the
+care they're giving and I think the employees are as well. And the third...
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yes, we're going to expand on that, so Tesla's sort of health clinic both at Fremont and at Giga.
+We have a really immediate first-class healthcare available right on the spot when people need it.And this is not just for workplace; this is for workplace and non-workplace.
+`Laurie Shelby, Vice President, EHS
+I know, that's super exciting. We're (23:03) the world.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, if you become injured or ill for any reason, then there's healthcare immediately outside.
+`Laurie Shelby, Vice President, EHS
+That's where we plan to go. Exactly. And then, finally, just being proactive because that's what
+we're about, innovation and proactive. I mean, we join national safety organizations, we partner
+with many leading universities including California Berkeley, Center for Occupational and
+Environmental Health. We do presentations there. We work with the automotive industry and do
+benchmarking all the time. We're always looking and bringing people in to look for things that we
+can do better and for new technology and innovations and safety.
+And with all of that, we have made improvements in our injury rates, we are more than 10%
+better year-over-year in our lost workdays and our days away, but the most important thing is
+we're also getting all those good engagement observations, they're moving up. So injuries down,
+observations engagement up.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+All right.
+`Laurie Shelby, Vice President, EHS
+Thank you.
+`Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Thanks, Laurie. And we will provide regular updates on workplace safety. And our goal
+unequivocally is to have the safest factories in the world, where people look forward to coming to
+work in the morning. So it's like, yeah, that's our goal.
+All right. With that, can we move to questions?
+`Martin Viecha, Senior Director-Investor Relations `
+Cool. Well, thank you very much. And, Sherry, let's go to the first question, please.
+Q&A
+Operator
+Thank you. Our first question comes from Dan Galves with Wolfe Research.
+Q - `Daniel V. Galves, Director - Automotive Equity Research, Wolfe Research, LLC `
+Hey. Thanks for taking my questions. Congratulations on the quarter. It's really amazing to see this
+landmark quarter after covering the company for so long. And thanks for bringing some of your
+team onto the call. It's very interesting. My question is about cell supply. There has been some
+noise about tight cell supply and sparks and tight labor supply. In the short-term, could you justtalk about whether demand is outpacing supply of battery cells and kind of what's your plan for
+long-term expansion, including cell supply in China?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+JB, do you want to take that?
+A - `Jeffrey B. Straubel, Chief Technical Officer `
+Sure. I can speak to that. This is JB. We have had a period where the supply was fairly tight for
+Model 3, but it did not really constrain the Model 3 production in any significant way.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, like for a week.
+A - `Jeffrey B. Straubel, Chief Technical Officer `
+Yeah, maybe for a few days.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah.
+A - `Jeffrey B. Straubel, Chief Technical Officer `
+The impact was larger felt on the energy products. And that still is somewhat tight, but we do, as
+we pointed out in previous discussions, we do have third-party supplies of energy cells. So that
+production can continue even independently of the Panasonic supply in sparks. So that's been
+very helpful. And that is expanding in future quarters. And also, the Panasonic supply is expanding.
+The productivity of existing lines is continuing to improve with a lot of hard work from the
+engineering teams and just operational stability. And we continue to bring online new production
+lines.
+So even just in the last several weeks, we've started off yet another cell production line with
+Panasonic. And through the end of the year, there's another line coming on, and then one shortly
+after that. So there's a steady increase in the total supply that should keep us ahead of even
+Model 3 growth and also should let us have a larger percentage of energy supply be sourced
+from Giga, locally.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah. We are making a pretty nutty amount of the world's lithium-ion batteries. And, Martin, I think
+we're about a 60% or something...
+A - `Martin Viecha, Senior Director-Investor Relations `
+Yes. So at the moment, if you'd look at, for example, for Q3, all electric vehicles made around the
+world, their total battery capacity was about 20-gigawatt or 19-gigawatt hours; and what we
+produced in Q3 was about the same or a little bit higher. So about half of world's batteries
+basically.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, that's because we also saw cells from Japan and elsewhere. Is that (27:13)...A - `Martin Viecha, Senior Director-Investor Relations `
+Yeah. So just the Giga itself is about 20 and on top of that S and X is, I don't know, another four or
+five ?
+Q - `Daniel V. Galves, Director - Automotive Equity Research, Wolfe Research, LLC `
+Got it. No, it's a huge advantage. Is there plans that you can talk about for cell supply in China?
+Will that be produced in China? I'm assuming so.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Long-term, it would be produced in China. Short-term, we are not certain of the short-term
+situation, but long-term certainly.
+Q - `Daniel V. Galves, Director - Automotive Equity Research, Wolfe Research, LLC `
+Got it. Okay. Thanks very much.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Thank you. Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from Pierre Ferragu with New Street Research.
+Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+Hey. Thank you for taking my questions. I was very surprised with the numbers you reported
+today by – that your gross margin performance on the Model 3. So if I remember correctly, you
+were expecting more like a 15% target margin for this quarter and you actually did better than
+20%. So can you take us through what improved like faster and better than you had initially
+anticipated in the manufacturing line and where these improvements came from?
+A - `Deepak Ahuja, Chief Financial Officer `
+Deepak here, and Jerome and others, please feel free to join. Our improvements on the cost
+side were in every aspect of costs. So, clearly, our manufacturing labor hours improved
+significantly. Our overall manufacturing costs dropped almost 30% sequentially Q2 to Q3. We
+produced more volume, so we had better fixed cost absorption. We had far less scrap. Our yield
+on each of the lines across both factories improved significantly. And as we look forward, we see
+even more opportunities. We are going through this phase where we are now stabilizing
+production, and the team can now intensely focus on cost optimization. And that trend will just
+continue in Q4.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah. I think we're also being relatively on the conservative side when we predicted – when we
+said like 15%, we were being...
+A - `Deepak Ahuja, Chief Financial Officer `
+Right. Our expectation was we would do better, but we want to be conservative. You're right in
+terms of our guidance that we gave for Q3.Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+Okay. Thanks. That's great. And then, as a quick follow-up, you've announced over the weekend
+like a mid-range car with a smaller battery bag. And I was wondering as you are looking at
+expanding collection of the Model 3. I think about it as you have two options. One was to grow
+and to keep producing higher and higher ASP cars; and the other one was to go forward – lower-
+cost car and stick to the U.S. So how did you decide the sequencing of these two things? Why is
+lower car now and going abroad only early next year?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, we try to provide the most affordable electric car options that we can. And since we can't –
+we just don't have the ability to get to the $35,000 car right away, we thought this might be a
+way to offer it as an intermediate step. And that's really it. We expect to start producing at
+significant volume for Europe in January. And obviously take some time to ship, so deliveries –
+pretty significant deliveries in Europe kind of in the late February, March timeframe because cars
+have to ship away from California to a customer in Europe. And for us, a car only count as
+delivered if it reaches the end-customer and all the paperwork is completed correctly. So it's the
+highest possible standard for considering a sale a sale.
+Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+And also to the APAC you'd start delivering cars.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, but, we may or may not deliver cars in APAC in Q1. But certainly in Q2. It will be kind of
+borderline as whether a car is delivered in APAC by the end of Q1. So I can't say it for certain.
+Definitely in Europe. But, and then, definitely in APAC in Q2.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Okay. Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from Romit Shah with Nomura Instinet.
+Q - `Romit Jitendra Shah, Analyst, Nomura Instinet `
+Yes. Thank you. I guess just along those lines, you indicated that you're going to bring Model 3 to
+Europe early next year. Where would you like to see production in order to support that ramp
+overseas?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, initially production will occur. I mean, in the next several months all production is, vehicle
+production will take place at our car plant in California.
+Q - `Romit Jitendra Shah, Analyst, Nomura Instinet `
+Sorry, I meant to ask where would you like to see that production rate on a weekly basis go to in
+order to support that ramp?A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, it's hard to predict with accuracy. And there's also – like all the tariff wars and everything. So
+long term we are not talking about next quarter. So like what it is likely global demand for Model
+3? It's probably on the order of anywhere from 500,000 to 1,000,000 cars a year, I'd say, good
+global demand for Model 3. If you look something like say the 3 Series, Martin, that's around 0.5
+million.
+A - `Martin Viecha, Senior Director-Investor Relations `
+0.5 million.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+The BMW 3 Series is about 0.5 million a year globally. And generally, we find that we outcompete
+the BMW 3 Series quite well. So it seems like logical, therefore, that we would want to have a
+higher production – or higher demand. Maybe it's somewhere between the – kind of the BMW 3
+Series and the Volkswagen Golf, which is about 1 million units a year. So yeah, that's right. It's
+anywhere from 500,000 to 1 million units a year long term.
+Q - `Romit Jitendra Shah, Analyst, Nomura Instinet `
+And do you have to add new lines to support that, or are – just going to continue to remove
+bottlenecks in the existing lines?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+No. We're definitely going to do local production in China. We are moving rapidly on that. So
+we're striving to have Model 3 production for the China market, for the Greater China market
+active certainly next year; it will be happening next year. But it will be done with – in a very capital-
+efficient manner. Much more akin to the way we did general assembly line four versus general
+assembly line three. And then we will also have a factory in Europe long term because it's pretty
+silly to make cars in California and ship them all the way to Europe that's far.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Especially in high volumes.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, exactly. Especially if it's a – I'm not talking about S and X; I'm just talking about the Model 3.
+So S and X will continue to be made in California. I think probably exclusively here. But for cars
+we're trying to maximize affordability, it makes a lot of sense to produce those cars at least in the
+continent where they are consumed (35:18)
+A - `Martin Viecha, Senior Director-Investor Relations `
+Okay. Let's go to the next question, please?
+Operator
+Thank you. Our next question comes from `George Galliers, Managing Director, EVERCORE ISI with Evercore.
+Q - `George Galliers, Managing Director, EVERCORE ISI `Thank you. Maybe just following up on the previous question. Is the target still to produce 10,000
+Model 3s a week in Fremont? And I think you mentioned in the past that once you got to a run
+rate of around 5,000, you'd be better placed to assess what CapEx is required to get that. So as
+of today, do you have a better idea of what CapEx is required to get to that kind of level at
+Fremont?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+I think we're not prepared to speak to that right now, except that it will be considerably less than
+money that we spent to get to 5,000 in the first place, like quite – I think quite dramatically less.
+So I like probably see a path to like 7,000 units a week for Model 3 with really minimal CapEx.
+A - `Deepak Ahuja, Chief Financial Officer `
+Very minimal.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, very minimal to get to 7,000 a week. And then that's really just basically slowly improving
+the uptime of the existing lines and we can do 7,000 a week.
+A - `Deepak Ahuja, Chief Financial Officer `
+Exactly.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+So – and then it gets a little harder as we start to go above 7,000. We need to at least bring lines
+down in Fremont for significant upgrades to get to 10K, but also just not – we're not talking about
+massive amounts of CapEx. But I would say like long-term, it's – again, long-term, it's – predicting
+things on a quarter by quarter basis is very difficult because when you have an exponential
+growth rate like we do – I mean if you look at Tesla cumulative deliveries over time, that's like the
+cleanest exponential curve that I've ever seen.
+So – but small movements in calendar time can look like a very large hit or miss, one way or the
+other, because it's such a steep curve. That's why it's always tricky to predict things on a quarterly
+basis. But a lot easier if you go out a year or so. Yeah. I mean probably long term, it's at least sort
+of 7,000 to 10,000 cars from Fremont of Model 3 and then – I don't know – 5,000 to 8,000 in
+rest of world. Something like that. This is a guess.
+Q - `George Galliers, Managing Director, EVERCORE ISI `
+Okay. Thank you. And then just as a follow-up, in the letter you do point out that the size of the
+European market for premium midsize sedans is roughly twice that of the U.S. Could you also
+maybe just comment to what your expectations are for mix in Europe based off Model S and
+Model X? Do you expect richer mix in Europe versus the U.S. or is it fairly similar?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+We've given that zero thought. I mean, it's just like it's not – I have no idea. I don't know. Martin, do
+you have any idea?
+A - `Martin Viecha, Senior Director-Investor Relations `No. All I'm aware of is that because of cold weather, probably all-wheel-drive and long battery
+range will be highly demanded in Europe, but apart from that – we ultimately have to start selling
+the car to see what the demand is, so.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yes, it seems like it's likely to be comparable to – pretty much midsize sedans market is like twice
+as big in Europe, then – well, it's likely to be at least as much demand in Europe as there are in
+North America. Like, that's a pretty safe bet. But our goal really is to make electric cars that
+everyone can afford, not to sort of mine high option value cars. It's like if we could produce the
+$35,000 car today, we would do it. We need more work. There's more work to do before we can
+make a $35,000 car and have it be part of the gross margin. We're probably less than six months
+from that, but that's our mission.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Great. Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from `Maynard Um, Senior Equity Research Analyst, Macquarie Group with Macquarie.
+Q - `Maynard Um, Senior Equity Research Analyst, Macquarie Group `
+Hi. Thank you. Congratulations on a great turning point for Tesla. As you continue to scale the
+business, can you talk about how we should think about how you balance profits versus
+reinvestments? You're targeting sustainable GAAP profitability and cash flow, but I'm curious if
+there's a level of GAAP profitability or GAAP operating margin or cash flow you want to hold and
+then take the excess to fund new growth or accelerate opportunities?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Sure. Maybe to characterize that question would be like are we starving new vehicle development
+in order to achieve GAAP profitability and cash flow positive? Would that be an accurate – is that
+essentially – the answer is no. So we've made significant progress on the Model Y, so in fact, I
+approved the prototype to go into production recently. So it will be 2020 before that's in volume
+production, but we made great progress there. Also continue to make progress on the semi and
+the newer Tesla Roadster. And then actually product I'm personally most excited about is the
+Tesla pickup truck.
+I think that's going to reach some next level stuff there. And I should not forget to mention the
+solar tile roof. We'll also start getting into volume production of the solar tile roof next year. That's
+quite a long development cycle because anything that's roof has got to last 30 years. So even if
+you do accelerate lab testing as fast as possible, there's still a minimum amount of time required
+to do that and there's a lot of engineering that goes into how do you put on the solar tile roof
+and not be really labor-intensive in doing so.
+So there's a lot of engineering, not just in the tile but in the way it's done. And then we've got
+continued improvements in Powerwall, Powerpack, other energy products. I think we've got the
+most exciting product roadmap of any company on earth by far. I'm not even sure like probably
+twice – I don't even know who would have – which company would have a better product
+roadmap or even close. Maybe they do but I don't know about them.Great. And when you talk about Tesla having its own ride sharing fleet or giving people the ability
+to loan out their car like an Airbnb model, I'm curious if your long-term plan is to build a platform
+that's going to enable companies to write applications to turn the car directly into an application.
+And then can you also maybe just talk about that business model? Should we be thinking more
+about like a revenue sharing model sort of like how Apple takes a piece of revenue generated
+for applications from iPhones? Thanks.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+I don't know about turning the car into an application exactly, but I mean, maybe. But I try to do
+the thing that maximizes usefulness, and so if there's a way where third parties could do
+something, then that could make sense. But I do know for sure that Tesla will operate its own ride
+hailing service. We'll compete directly with Uber and Lyft, obviously, and but then also have the
+ability for customers to offer their car and add or subtract their car to the fleet at will. There will
+be a company-owned fleet and the company-owned fleet will just be where there aren't enough
+customer cars to be lent out.
+So if we find a particular metro there aren't enough customers who are willing to add their car to
+the shared fleet, then that's where we'll supplement it with a Tesla-owned fleet. So that's why it's
+sort of a combination of the Uber/Lyft thing and Airbnb and then we would charge something
+probably comparable to how the App Store works or I don't know, we'd charge 30% or
+something in order for somebody to add their car to the fleet. I think that's like a pretty sensible
+way to go. Yeah.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Great. Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from Adam Jonas with Morgan Stanley.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Thanks, everyone. First question is on governance. As the company conducts its search for a new
+Chairman, what are the attributes and experiences of that person that you think would be a best
+fit or best value for Tesla?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Actually, on this call we're going to restrict questions to operational topics. Do you have another
+question?
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+No problem. Yes, I do. Can you tell us about the folks who are taking deliveries of Model 3? What
+are the top cars, car models or brands that they're trading in or switching out of? How many are
+new to the brand? Anything you're prepared to share, and then I have a follow-up.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Sure. Absolutely.
+A - `Martin Viecha, Senior Director-Investor Relations `Hey. This is Martin. So I've done the analyses of all the trade-ins that we've received and really the
+only pattern that I've seen is that it sort of all across the board and the vast majority is non-
+premium brands. I think that is the number one message is just that more than half of the trade-
+ins we received were priced at below $35,000 when new. But other than that, there is no real
+pattern. I haven't noticed anything worth highlighting other than it's just a lot of people upgrading
+their cars quite dramatically.
+A - Operator
+Which is a huge upgrade.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah. For most people – well, maybe for most, but for many people it is the most expensive car
+they've ever bought. So they're clearly demonstrating with their money that they're willing to
+spend extra money to get a Tesla. So Tesla seems like mass-market premium.
+A - `Martin Viecha, Senior Director-Investor Relations `
+The price lock is way beyond the Federal tax credit. So clearly there is value on top of what
+they're receiving whether it's cost of ownership or the sustainability, whether it's the brand or the
+source. (46:37)
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Safety.
+A - `Martin Viecha, Senior Director-Investor Relations `
+And safety. All of the above is making a large number of customers jump up significantly in the
+purchase price.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Again really I could say, honestly, the top reason to refer a friend to buy Tesla is it's going to keep
+your friend safe.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+That's a good reason. If I can just squeeze in, since I couldn't ask the first one that you could
+answer, do you think that the third quarter is a milestone, Elon, where you think Tesla becomes
+sustainably self-funding and perhaps not in need of outside capital? Thanks.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, that is our goal. We do not intend to raise equity or debt, at least that is not our intention
+right now. That may change in the future, but the current operating plan is to pay off our debts
+and not to refinance them, but to pay them off and reduce the debt load and overall leverage of
+the company. And I actually almost forgot one quite important thing. This is quite helpful, why it's
+helpful to have these sort of crisis situations with logistics, for example, as I look into the
+inventory, like basically finish part inventory from factory to the customer, I was quite surprised to
+see how long that took and that it was quite expensive in a lot of cases to get the cars to
+customers.This was something I didn't fully appreciate before and we really have a major initiative at Tesla to
+get the average time from a car exiting the factory to receiving a check from the customer or
+being in the customers' hands, just to be clear we only get the check when we give the car to the
+customer. So getting a car from factory to customer to get that to be as short as possible.
+In August, the average time in North America to get a car from the factory to the customer was
+30 days, which is embarrassingly long. By the end of the quarter, we had reduced it to around 22
+days and our goal in Q4 – this is a goal, not a promise – but our goal is to get the average time of
+a car from the factory to the customer under 10 days. This was a giant improvement in the capital
+efficiency of the company. Because we're making on the order of $75 million worth of products
+per day, of cars per day, so every day it requires $75 million worth of capital. So every 10 days it's
+$750 million. And, obviously, we have a loan from the bank that we can make use of, but the
+banks will only loan us 85% of the cost of the vehicle, which translates to about 70% of the price
+of the vehicle.
+And then, we've got this loan outstanding, which effectively increases the COGS of the car. And it
+dilutes the company to the tune of 30% of whatever the inventory – of the finished goods in
+transit is. So this is really like tightening that and getting that below 10 days in North America and
+then also improving dramatically the transit time to Europe and Asia. This is where having local
+factories is actually very important for the capital efficiency of the overall system, because I think
+over time we want to get the time from a car going from factory to customer under 7 days
+worldwide. And then, the terms that we have from our suppliers are on average just over 60
+days.
+Now, our parts inventory management also there's a lot of room for improvement there, but I
+think we'll probably cut that down to a few hundred million dollars or so, Deepak, something like
+that. Maybe $200 million or $300 million of parts at the factory. So effectively, what we're going
+to do is reverse the working capital requirement for the company quite dramatically to the point
+where the faster we grow, the more capital we have. This is incredibly important for capital
+efficiency of the company. It's night and day.
+Deepak, is there anything you'd like to...
+A - `Deepak Ahuja, Chief Financial Officer `
+No. I think we are totally – we are reducing our raw material inventory on one hand by keeping the
+production stable, finding efficiencies in warehouse management and supply chain, and at the
+same time reducing the time to deliver the car and convert that car into cash, and that
+significantly improves working capital leads.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, it's really quite dramatic. So yeah, I think it sort of profoundly changes the financial
+effectiveness of Tesla.
+A - `Deepak Ahuja, Chief Financial Officer `
+We reduced our inventories in Q3, which helped. And although we had higher receivables
+because the quarter ended on a weekend, we won't have that in Q4. So all of this should
+continue to help us in Q4 and beyond, the working capital game.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `Yeah, I mean, it occurs to me that even if the only thing – even if this was the only thing that Tesla
+did different was to shorten the time from factory to the end customer, and any given company
+that did that would out-compete all other companies over time. It would not be a contest.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Great. Thank you very much. Let's go to the next question, please.
+Operator
+Thank you. Our next question comes from Toni Sacconaghi with Bernstein.
+Q - `Antonio M. Sacconaghi, Analyst, Sanford C. Bernstein & Co. LLC `
+Yes. Thank you. I have one for Deepak and then a follow up, please. Deepak, the OpEx expense
+management was very strong in the quarter. I think it was down 13% sequentially and OpEx was
+only up 5% year over year, despite revenue growing 71%. So on that front, I mean, in hindsight,
+did you get too bloated and needed to get more rightsized? And looking forward, how do we
+think about OpEx growth versus revenue growth on kind of a more normalized basis?
+A - `Deepak Ahuja, Chief Financial Officer `
+Yeah, Toni, so excluding onetime items, our OpEx decreased sequentially by 5%, to just clarify
+that, first of all. And a lot of that was driven by the actions we took in Q2 to be more efficient with
+our employee head count, how we benefited from that in Q3. And we were really careful in terms
+of all of our spending.
+The other piece that helped us is a lot of our Model 3 spending on expensed sort of R&D is
+reducing because Model 3 is going into production, so Q2 to Q3 we saw a reduction there. And it
+just gives you the sense of the leverage our operating expenses can have, while our revenue is
+growing dramatically. So our OpEx will increase in the future, but at the far slower rate, and we will
+continue to be really, really careful about the spending. And I think there're actually more
+efficiencies that we can find.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+We already find them. Absolutely.
+A - `Deepak Ahuja, Chief Financial Officer `
+Right. So we'll continue down that path.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Definitely.
+Q - `Antonio M. Sacconaghi, Analyst, Sanford C. Bernstein & Co. LLC `
+Okay. Thank you for that. And then to follow up, I was just wondering if you could help us a little
+bit on the – back to the gross margin on Model 3 and the $35,000 car. So this quarter, I impute
+that Model 3 ASPs were maybe $59,000, and that might suggest that gross margins on a
+$35,000 Model 3 might be about zero. And Elon, I think you alluded to the fact that the goal is
+really to get positive gross margins on a $35,000 car before shipping. Are those all fair
+assessments? And I guess the question is where would a $35,000 Model 3 be in terms of grossA - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+The challenge with answering questions of that nature in detail is that it is a rapidly changing
+situation. So literally, if you had asked us in a month, it would be different. Another month, it would
+be different. There's no question we need to get to a point where we can sell a $35,000 car and
+where the full accounted for COGS of the car is, let's say, on the order of $30,000 or slightly less
+than $30,000. So I think we'd want to ideally get the COGS of the car, of that configuration of the
+car, under $30,000. That's our goal. That's what we're pushing very hard to achieve.
+A - `Deepak Ahuja, Chief Financial Officer `
+Exactly. And it's a matter of time. It's (56:32-56:43) there's a significant material cost reduction
+that comes. You have a smaller battery packs, or a fewer amount of cells. It's not the same cells
+that we have in the existing cars.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, it's the same cells, but it's not the same.
+A - `Deepak Ahuja, Chief Financial Officer `
+The same amount of cells. Cell cost.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+It has fewer cells in it, and then the non-cell portion of the pack is also cost-reduced.
+A - `Deepak Ahuja, Chief Financial Officer `
+Exactly.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+With the current mid-range pack, it still has basically about the same non-cell portion of the pack
+cost.
+A - `Deepak Ahuja, Chief Financial Officer `
+Exactly. And we are achieving massive reduction in all of our manufacturing cost per car, which will
+continue. And as volume grows, that also helps us lift fixed cost absorption. So it's the same
+factors that have helped us so far will continue to help us going forward, to get us there. Anything
+you want to add, JB? No?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yes.
+A - `Daniel V. Galves, Director - Automotive Equity Research, Wolfe Research, LLC `
+Great. Let's go to the next question, please?
+Operator
+Thank you. The next question comes from James Albertine with Consumer Edge.Q - `James J. Albertine, Analyst, Consumer Edge Research LLC `
+Great. Good afternoon, and thanks for taking the question. Congratulations.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Thanks.
+Q - `James J. Albertine, Analyst, Consumer Edge Research LLC `
+Wanted just a point of clarification, Elon, you mentioned in August the time to get the car from
+the factory to a customer was 30 days down to 20 at the end of the quarter and your goal is
+under 10 by the end of 4Q. Where do we see that flow through from a COGS perspective? Is that
+in automotive gross margin? Or was that in services and other at this point?
+A - `Deepak Ahuja, Chief Financial Officer `
+It's all in automotive gross margin, our logistics costs are found.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Outbound logistics.
+A - `Deepak Ahuja, Chief Financial Officer `
+In COGS are found in automotive.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+I think we'd see a reduction in inbound logistics as well as outbound logistics. Maybe the question
+is, for the debt that is carried for that period of time, is that getting into COGS? Or is that not...
+A - `Deepak Ahuja, Chief Financial Officer `
+The interest expense...
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah.
+A - `Deepak Ahuja, Chief Financial Officer `
+Of the debt that's in the interest expense line. That is not in COGS.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Okay. Yeah, that's like, anything like the difference in COGS should probably be important to
+include anything that's directly driven by volume essentially. That affects the marginal cost of the
+vehicle. So although that is not officially in COGS, in my opinion, it probably should be. It's to take
+the ABL interest expense and apply that effectively to the cost of the car.
+A - `Deepak Ahuja, Chief Financial Officer `
+And from a broader sense, you're looking at it as the cost of doing business which can be
+avoided.A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, essentially cash flow ability increases quite dramatically, dilution or leverage outside of the
+ABL line improves dramatically and then the de facto cost, the effective cost of the car also
+reduces because you do not have the interest expense. If you have the interest expense over 22
+days versus 10 days it's a big difference.
+Q - `James J. Albertine, Analyst, Consumer Edge Research LLC `
+Understood. And I appreciate that clarification. Sort of what I was trying to get at, you've been
+running a negative gross margin in services and other for the past several quarters now, and
+wanted to get a sense for when that could maybe drop and start to turn a corner and to
+generate some profit for you? I understand there's a lot of building out going on for sales,
+service, and charging infrastructure. But if you can give us some kind of clarification there, that
+would be I think helpful. And if you're willing maybe to provide an update on where you stand
+today in terms of battery costs? I know your goal of parity with ICE vehicles, but maybe an update
+if you're willing to provide and where you stand in that trajectory. Thanks.
+A - `Deepak Ahuja, Chief Financial Officer `
+I think over time every quarter progressively we will see an improvement in the service and other
+business as our revenue continues to grow and as the size of our fleet grows, it's as simple as
+that.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, long-term I would expect the service to be a significant revenue item and to be a positive
+margin contributor. And it's going to be a function of our fleet size.
+(01:00:41)
+Exactly. We're under warranty. There's a lot of stuff that's under warranty, but as the warranty
+expires so there's non-warranty items then we would expect service to positive gross margin.
+A - `Deepak Ahuja, Chief Financial Officer `
+Yeah, and that also includes our used car sales.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah, a good point.
+A - `Deepak Ahuja, Chief Financial Officer `
+And our used car sales is continuing to grow and they have a healthy margin. And so that overall
+business for mature companies is in some cases more profitable than new products. I'm not just
+talking about OEMs, car part OEMs. And we are at the early stage of our growth here and as our
+fleet size grows, there are just so many opportunities in that business, but it's a matter of time,
+simply said.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Yeah.A - `Martin Viecha, Senior Director-Investor Relations `
+And on the battery cost, there was a question?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+Well, that is a key sort of competitive metrics, so I think it's safe to say we are much better than
+anyone else by a lot. But we prefer not to give a precise number.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Okay. And now let's go to the last question, please.
+Operator
+Thank you. Our final question comes from `Phil LeBeau, Auto & Airline Industry Reporter, CNBC LLC with CNBC TV.
+Q - `Phil LeBeau, Auto & Airline Industry Reporter, CNBC LLC
+Thank you, guys. Elon, quick question. In terms of as the federal tax credits starts to be phased
+out as your sales crossover the threshold, what kind of an impact have you guys modeled into
+how much that might slow down potential sales?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+We don't expect this to result in – I mean, yes, the sales tax or the tax incentive in the U.S. drops
+in half at the end of this quarter, but then we also start shipping to Europe, and then start
+shipping to Asia and we certainly do not expect anything that would cause our productions to
+drop below let's say a minimum of 5,000 cars a week.
+Q - `Phil LeBeau, Auto & Airline Industry Reporter, CNBC LLC
+But in terms of in the United States, do you expect that it will slow down demand and sales within
+the U.S.?
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+I think as we are able to offer lower cost versions of the car, we would expect demand to sustain
+in the U.S. But I want to be clear, it's not like we're holding back this lower-cost version of the car
+intentionally. Just like with is there anything we can do to provide a lower-cost car now and that's
+where we came up with the depopulated long-range pack, it's just like basically taking, having
+long-range pack with fewer cells.
+We really care about providing the end customer with the most affordable car that we can
+possibly produce, the best viability, and if we could do the smaller pack now we absolutely would,
+it's just is going to take us, I don't know, at least three months to get the production going and
+(01:03:39) our production. And then that production's going to go to – we've got to make packs,
+the packs got to go to the vehicle factory, the cars have to get delivered to customers, so that's
+why customers probably see the smaller battery pack on the order of March or something or
+February maybe, but it's something on that order.
+Q - `Phil LeBeau, Auto & Airline Industry Reporter, CNBC LLC
+Okay. Thank you.A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+And one thing, these do trigger kind of maybe points that are worth bearing in mind. As our
+quarterly letter indicates, the Model 3 is the most efficient energy per mile electric vehicle out
+there. It's got the best efficiency, so we've got the best in terms of miles or kilometers per
+kilowatt hour and we also have the lowest cost per kilowatt hour. This makes it very difficult for
+other companies to compete with Tesla, because we are the most efficient car and the lowest
+cost of batteries.
+So I do encourage our competitors to really make a huge investment, and we've been saying that
+for a long time, and then they're only in this competitive disadvantage because they didn't – we
+tried to help them as much as we could and they didn't want to take our help, so they can use all
+our patents for free. They can use our supercharger network if they can just have an adapter for
+our connector or something.
+We want to be as helpful as possible to the rest of the industry, but the fact of the matter is we
+made the investment in the Gigafactory and other companies didn't, and we put a lot of effort
+into having extremely efficient cars, having the most efficient powertrains and the other
+companies didn't, but I'm sure they will over time, but that's what has put us in quite a strong
+competitive position right now.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Fantastic. I think that's all we have time for today. Sorry, go ahead.
+A - `Deepak Ahuja, Chief Financial Officer `
+I'm just going to add a comment in closing, and Elon started with it and I wanted to say that from
+myself personally here, I want to personally thank all the Tesla employees that have worked
+incredibly hard this quarter and in prior quarters in each and every part of our business. Our
+results really are a reflection of the execution done by the company and the passion that our
+employees have to deliver such results despite all odds. And I also want to thank all our
+customers and all our investors who have believed in us, in our product and our vision of us
+leading the world's transition to sustainable energy. So thank you from my side.
+A - `Jeffrey B. Straubel, Chief Technical Officer `
+No, I'm good.
+A - `Elon Reeve Musk, Chairman, Product Architect and Chief Executive Officer `
+All right. Anybody have any additional comments or anything? All right. Thanks, everyone. And,
+yeah, look forward to the next call. Thanks.
+A - `Martin Viecha, Senior Director-Investor Relations `
+Thank you, goodbye.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the
+program. You may all disconnect, and have a wonderful day.

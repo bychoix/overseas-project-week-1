@@ -1,0 +1,971 @@
+Q3 2020 Earnings Call
+
+Presentation
+Operator
+Good day, and welcome to the SAP Third Quarter 2020 Earnings Conference Call. As a reminder,
+today's conference is being recorded.
+At this time, I would like to turn the conference over to Mr. `Stefan Gruber, Head of Investor Relations, Head of Investor
+Relations. Please go ahead.
+`Stefan Gruber, Head of Investor Relations `
+Thank you. Good morning or good afternoon. This is `Stefan Gruber, Head of Investor Relations. Thank you for joining us for
+our extended earnings call today to discuss our strategy update as well as our third-quarter
+results and the updated guidance. I'm joined by our CEO, `Christian Klein, Chief Executive Officer; and our CFO, Luka
+Mucic, who will make opening remarks on the call today. And also joining us for Q&A is Executive
+Board member, `Adaire Fox-Martin, Executive Board Member, Customer Success Organization, who leads our Customer Success Organization. And as usual,
+before we get started, I'd like to say a couple of words about forward-looking statements and
+our use of non-IFRS financial measures. Any statements made during this call that are not
+historical facts are forward-looking statements as defined in the US Private Securities Litigation
+Reform Act of 1995. Words such as anticipate, belief, estimate, expect, forecast, intend, may
+plan, project, predict, should, outlook, and will, and similar expressions as they relate to SAP are
+intended to identify such forward-looking statements.
+SAP undertakes no obligation to publicly update or revise any forward-looking statements. All
+forward-looking statements are subject to various risks and uncertainties that could cause actual
+results to differ materially from expectations. The factors that could affect SAP's future financial
+results are discussed more fully in our filings with the US Securities and Exchange Commission,the SEC, including SAP's annual report on Form 20-F for 2019 filed with the SEC on February 27
+this year.
+Participants of this call are cautioned not to place undue reliance on these forward-looking
+statements, which speak only as of their dates. In addition, on the Investor Relations website, you
+can find a slide deck intended to supplement today's call available for download. The address is
+www.sap.com/investor. For those of you following the webcast, the slides will be shown as we
+proceed through the prepared remarks.
+Unless otherwise noted, all financial numbers referred to on this conference call are non-IFRS and
+growth rates and percentage points are non-IFRS at constant currencies year-over-year. And non-
+IFRS financial measures we provide should not be considered as a substitute for or superior to
+the measures of financial performance prepared in accordance with IFRS. And this extended
+earnings call today is being held in lieu of the Capital Markets Day we discussed last quarter.
+With that, I'd like to turn things over to our CEO, `Christian Klein, Chief Executive Officer.
+`Christian Klein, Chief Executive Officer `
+Thank you, Stefan. Welcome and thanks for joining. I hope everyone is well and staying safe, as
+COVID infection rates unfortunately increasing again in most countries. Today's announcement
+mark an important milestone for our SAP. We have not only published our Q3 results and updated
+our 2020 outlook but more importantly, we are providing additional insight into how we are
+evolving our strategy.
+Our updated strategies are a response to the fundamental changes in the market called on by
+the COVID-19 pandemic. COVID-19 is an inflection point for our customer. Many enterprises have
+real issues to what you would sell and deliver the products in times of country lockdowns and
+people working from home.
+For most of our 400,000 customers' resiliency is achieved not just by accelerating the move to
+the cloud. But more importantly, by driving a fundamental change in how that business operates
+end-to-end. It means transforming every process for the digital world on the customer facing go-
+to-market function, all the way to supply chain management. SAP is uniquely positioned to partner
+with our customers to make this transformation happen combined with the move to the cloud.
+Which is why we are determined to reinvent our business as one by co-innovating with our
+customers and partners across the broadest cloud solution portfolio in the market. Responding
+decisively to the requirements of our customers in a fast-changing world, results in our new
+financial mid-term ambition.
+But before going there, let's take first a quick look at Q3 and the updated 2020 outlook. In Q3,
+our resilient business model allowed us to continue to grow strongly in the cloud. And, again,
+growing operating profit and margin apart from the intelligence spend business our SaaS and
+PaaS cloud revenues were up by 26%. We continue to see a very rapid growth in categories such
+as Commerce, S/4, Supply Chain, Qualtrics, and our foundation, the business technology
+platform.
+Current cloud backlog is up significantly by 16% to EUR6.6 billion. At the same time, the lack of
+recovery from COVID-19 is visible in the lower-than-expected transactional cloud revenue
+because of our travel and expense solution Concur, which is hard to sell in times of COVID. Our
+software license performance is on a similar level compared to our Q2 result.On the bottom line, the benefits of our Best One transformation project have continued to show
+tremendous focus. As stated, we yet again expanded significantly our operating margin and free
+cash flow. In addition, 28,000 customer go-lives over the last nine months demonstrate our ability
+to deliver remotely in a challenging environment.
+Q3 also saw many notable customer wins including some competitive replacement. Deals
+included Lenovo for S/4HANA, Rabobank for S/4HANA Cloud, Swisscom Barilla for customer
+experience, HP and Uniper for the business, technology platform, LG for Ariba, Walgreens Boots
+Alliance for supply chain management, Lululemon for Qualtrics, (inaudible) for Industry Cloud and
+Bahrain Airport for SuccessFactors.
+For SuccessFactors actually more than 4,000 customers and around 45% of the Fortune 500 are
+already running on our call solution employee essential. This quarter we added more than 500
+S/4HANA customers, around 45% were net new, take us to a total of more than 15,100
+customers, 20% up over last year. In Q3, we also added a new deployment option for our Private
+Cloud service HANA Enterprise Cloud. So far we have offer deployment in SAP or hyperscaler
+data center. But there is also demand by customers who wanted services in their own data
+center, managed by SAP. This is why we have now launched the HANA Enterprise Cloud customer
+edition and we are very excited that in this quarter, Lenovo, has decided to become a global
+partner for the customer edition with their true scale offering.
+This supplements the global GreenLake partnership with VMware and HP. Finally Interbrand have
+issued the 2020 Best Global Brands report, and I'm where we proud that SAP came in at number
+18 globally, up two spots versus last year, improving its brand value by 12% to more than $28
+billion.
+Luca will now provide additional insights into Q3 and our updated 2020 outlook. Luca, over to
+you.
+`Luka Mucic, Chief Financial Officer `
+Yeah, thanks very much, Christian, and welcome also from my side. We again navigated through a
+challenging environment in Q3. Amidst COVID headwinds, we improved our operating profit and
+operating margin against a very strong prior-year comparison. Our cash flows saw an exceptional
+improvement and our earnings per share was very strong. Our resilient business model with the
+consistent year-over-year increase and more predictable revenue helped us to weather the
+storm in these unprecedented times.
+Now, let's go into more detail on the quarter, starting with the top-line. Where our current cloud
+backlog grew by 16% reaching EUR6.6 billion amid continued COVID-19 effects on our cloud
+business.
+Our cloud revenue was up 14% with continued lower transactional revenues. This negatively
+impacted our cloud growth rate by 6 percentage points, especially in Concur, while our on-
+premise software license business continued to see scrutiny over large projects as uncertainty
+persisted. Our performance this quarter was similar to the one in Q2, especially considering the
+very good Q3 last year.
+From a regional perspective, Europe had a resilient performance this quarter, with strong results
+in Russia and Switzerland. Latin America had a remarkable performance driven primarily by Brazil
+and Mexico. And in APJ, Japan had a solid quarter and Australia and India were highlights.In Q3, our Cloud and Software revenue grew by 2%. For the first nine months, our Cloud and
+Software revenue was up a solid 4%, even though the challenging demand environment did not
+further recover as we had hoped. Our Services revenue was down 11%. While we continue to
+deliver most of our projects very efficiently and effectively remotely, we do see an impact, in
+particular on our Training business, as the reopenings of our global training centers have been
+delayed. As a result, our total revenue was flat year-over-year.
+Now moving on to the bottom line. Where in Q3, again, all of our businesses Cloud, On-premise
+and Services increased their gross margins. Our overall Cloud gross margin continued its positive
+trend and grew by 70 basis points year-over-year to 70%. All Cloud business models contributed
+to this margin expansion. Our SaaS-PaaS margin grew by 110 basis points to 71%, our intelligent
+Spend margin grew by 20 basis points to 78% and our Infrastructure as a Service margin grew by
+800 basis points to 33%.
+In Q3, our Software Licenses and Support gross margin was up 60 basis points to 88%, despite
+the decrease in software licenses revenue. Our Services gross margin increased significantly by
+500 basis points and reached 31%. This was mainly driven by a larger share of our high margin
+premium engagement business which has proven to be effective in this virtual environment.
+As you will recall, our operating profit, as well as our operating margin was up significantly in Q3
+of last year. This quarter our operating profit grew strongly by 4% and our operating margin
+expanded by 1.3 percentage points to 31.9%. As uncertainty persisted, we remained cautious on
+hiring and discretionary spend. On an IFRS basis, our operating profit and operating margin
+decreased. This was primarily due to higher share-based compensation expenses.
+Now turning to EPS and taxes. IFRS EPS increased by 26%, non-IFRS EPS increased by 31%. This
+was mainly driven by yet another exceptional contribution from SAPPHIRE Ventures, which had a
+significant positive impact on our finance income as well as in our IFRS and non-IFRS effective tax
+rates. Therefore, we now expect an improvement in our effective tax rate for 2020. Our IFRS tax
+rate is expected to be in a range of 27% to 28% and our non-IFRS tax rate is expected to be in a
+range of 26.5% to 27.5%.
+Now turning to cash flow, in particular, the bright spot. In the first nine months, our operating cash
+flow was strong and improved by 54% to EUR5.1 billion. As expected we experienced lower
+restructuring-related payments and lower income tax payments. Our free cash flow was up even
+further and grew by 79% to EUR4.2 billion. Free cash flow additionally benefited from lower CapEx
+compared with the previous year. Therefore, we are again raising our cash flow expectation for
+2020. We now expect an operating cash flow of approximately EUR6 billion and the free cash
+flow above EUR4.5 billion.
+Let me now turn to the remaining part of our previous 2020 outlook that was issued on April 8
+and reflected our best estimates concerning the timing and pace of recovery from the COVID-19
+crisis. Back then, we had assumed that the demand environment would gradually improve in the
+third and fourth quarters. And while we still see robust customer interest in our solutions to drive
+digital transformation, regrettably lockdowns have recently been reintroduced in some regions.
+Infection rates have re-accelerated and as a result demand recovery has been more muted. And
+for the same reasons, we no longer anticipate a meaningful recovery in SAP Concur business
+travel-related revenues for the remainder of the year.
+Therefore, we now expect Cloud revenue in a range between EUR8 billion to EUR8.2 billion,
+Cloud and Software revenue in a range between EUR23.1 billion to EUR23.6 billion. Total revenuein a range between EUR27.2 billion to EUR27.8 billion and operating profit in the range between
+EUR8.1 billion to EUR8.5 billion.
+So to summarize on Q3, this quarter we showed tremendous results, as we continue to improve
+operating profit and margin, even against the strongest comparison. Based on a resilient top-line
+performance, pay-out [ph] was disciplined on the cost side. We had high double-digit free cash
+flow growth and exceptional earnings per share numbers. All of this and our resilient business
+model, position us well to emerge stronger out of the crisis and meet our new mid-term
+ambition, which we would like to discuss next.
+And for this, let me hand back to, Christian.
+`Christian Klein, Chief Executive Officer `
+Yeah. Thank you, Luka. Now before looking at our strategy and mid-term ambition, let me start
+with a brief recap of what we have achieved over the last six to nine months. SAP was definitely
+not short of events. We have streamlined our operations. All of our customer-facing operations
+were combined into one Customer Success organization and all our application development
+within one Product Engineering unit to simplify SAP.
+Thanks to our dedicated focus on Customer Success across SAP, we have seen and where we
+encourage in year-to-date customer satisfaction score. For the first time in several years, there is
+a clear positive trend. We have increased focus in our existing portfolio. We have decided to
+divest non-core assets, such as SAP Digital Interconnect, and we entered partnerships to co-
+innovate with industry leading companies like Siemens, Honeywell and Bosch. Instead of doing
+everything ourselves, we are co-innovating. Finally, we have started to establish SAP as a leading
+cloud platform company. We have always been the leading on-premise application platform.
+Thousands of partners and customers have build applications and extensions on SAP for almost
+50 years. Our intention is to repeat that for the cloud. To position SAP as the leading cloud
+platform to transform and change the way enterprises work in the digital age. To get there, we
+have put a lot of work into our cloud platform over the past 12 months and we will continue to
+invest in innovation and we are very pleased to see that the hard work is being recognized.
+Gartner has ranked us leader for both Enterprise Integration Platforms and Development
+Platforms.
+The times when SAP developed and engaged with customers in silos are over. Now, before we
+go deeper into our strategy let me pause here for a moment and talk about why we are doing
+this now. The COVID-19 pandemic, which we all hoped would be easing by now is giving up for an
+additional wave. This crisis has created an inflection point for customers', a true catalyst to
+accelerate their transformation effort has put a spotlight on resiliency which is more than just
+about the underlying infrastructure and its move to cloud. It is about changing the way how our
+company wants to adapt to new digital business models and drive automation. Resiliency and
+sustainable long-term growth and profitability comes only by transforming the company to the
+needs of the consumer and employees in a digital world.
+Take retail for example, when brick-and-mortar stores shut down because of the pandemic and
+supply chains were disrupted, retailers that had made the move to digital, did much better than
+those who haven't. They were able to continue to sell via e-commerce and the digital supply
+chain ensured that despite the lockdown they can continue to sell, produce and deliver their
+product. To adapt new business model and to do so with agility our customers need innovative
+business software, a platform and showing harmonized semantical data models, one new digital
+business models end-to-end. This is where SAP comes in. With our strategy, accelerated technicalagnostic when it comes to their choice between SAP Data Center or Hyperscaler. We can make it
+work, with the near best TCO in the market, no matter which choice our customers make.
+Second and more importantly, we will bring the full force of our business applications and
+platform to drive holistic business transformation by enabling our customers to seamlessly
+design, evolve or invent new business models with agility and speed. To do so, all our main
+solutions will adopt SAP, the cloud platform and share one semantical data model. One AI and
+analytics layer, one common security and automization model and the same application business
+services, such as workflow management. With our cloud platform powered by SAPHANA, how
+businesses can be changed enabling agile workflow. Innovations and extensions can be
+developed quickly by customers' and partners' accessing our open platform using exactly the
+same data model and business services as our own SAP apps.
+We are convinced that the real value driver of Intelligent Enterprises in the cloud will be the ability
+to adapt and one new business model holistically end-to-end with one consistent data model.
+This is where we take a different approach than others, data and process silos are biggest
+inhibitor for enterprises to offer a seamless customer and employee experience. You need
+integration extensibility and innovations to truly drive business outcomes, resiliency, profitability,
+and sustainability. That is the only way forward.
+What gives me confidence at this unique time in our history is our position of strength, our focus
+today and our heritage. Our applications are more than EUR10 billion worth of workload and we
+want them semantically consistent across the entire value chain. At SAP we are towing [ph] on
+almost 50 years of business expertise of defining, redefining and reinventing the most important
+processes of our customers. And only SAP can mobilize the partner ecosystem, consisting of the
+best plans to fully realize the potential of any customer, no matter the size, to truly become an
+Intelligent Enterprise. This is in our DNA. It's our goal to enable every customer to become an
+Intelligent Enterprise and we are determined to leave no customer behind. Especially now in
+times of COVID, we reaffirm our deep commitment to our customers to help them through the
+crisis.
+This new strategy and as well as macroeconomic factors have implications for our financials. They
+had the reason for the change of our mid-term guidance, which I'm going to speak about next.
+So coming from our previous financial mid-term ambition, what other changes? Let me start with
+the two macroeconomic factors currency and COVID. But over the last three months, we have
+experienced currency headwind versus our previous assumption. This translates into a negative 3
+to 4 percentage effect on revenue and operating profit.
+Second, we now anticipate a more conservative COVID-19 recovery. We assume that COVID will
+impact the economies through at least the first half of next year. And then we have two strategic
+decisions. We are adjusting the financial guidance to the new reality, and first and foremost to the
+needs of our customers. One, as just discussed, we will win how businesses won, enabling our
+customers' business transformation in the cloud to gain higher resiliency. In consequence, we will
+accelerate the transition of our customer base to the cloud. This accelerated move to the cloud
+will clearly add value over the longer run by increasing cloud revenue. And in the short term, there
+will be revenue mix effect as we see less on-premise and more cloud revenue, resulting in the
+negative operating margin impact of 4 percentage points to 5 percentage points in 2023. Two,
+we will continue to relentlessly execute on productivity improvements under the Best One
+program that's laid out last year's Capital Markets Day. We are not moving away from these
+commitments. By accelerating the move into the cloud, we will even further increase the
+productivity improvements in our cloud delivery operations.We have decided to speed up the modernization of our cloud-delivery to enable a more resilient
+and scalable cloud infrastructure. This will require additional investments in the next two years
+that allow us to largely complete the modernization in this time frame and achieve the cloud
+gross margin of approximately 80% in 2025. We will provide more background on those two
+strategic decisions in a moment.
+But first, I'll go a bit deeper on the macroeconomic impact. Nobody can predict the COVID-19
+economic impact beyond 2020. But given recent developments, it is prudent to assume more
+gradual recovery, which we have now done. In our on-premise business, we have seen significant
+investment delays in 2020 in several hard-hit industries. And across all industries and
+geographies, we see an increasing demand to accelerate to move to the cloud. We just expect
+Software License revenues to decline further from today's level also in the future, considering our
+accelerated cloud transition. For our Cloud business, we assume that the negative COVID-19
+impact will start to ease in mid-2021.
+Let's now move to the strategic decision, starting with the accelerated cloud transition for our
+customer base. The increasing customer preference for cloud is ultimately positive for SAP, as we
+are already the second-largest enterprise cloud application vendor. And we continue to grow
+rapidly, even amidst the COVID-19 crisis. With the journey to the cloud, as previously outlined, we
+are further addressing this market need, accelerate the cloud transition and tripling our cloud
+revenue to more than EUR22 billion by 2025. The ambition is based on moving our large on-
+premise ERP workloads to the cloud and gaining market share for our leading cloud application.
+Firmly establishing our platform as the basis for business transformation in the cloud, winning in
+new market, increasing our R&D invests to deliver new innovations in the Industry Cloud, business
+network or sustainability, strong focus on our customer success to ensure adoption, higher than
+use and ultimately lifetime value.
+The incremental growth resulting from of this accelerated cloud transition will be even more
+profitable until 2025. To deliver on this target and to retain the profit focus, we have also decided
+to accelerate the modernization of our cloud delivery.
+Luka, will now take us through the financial implications of both of those decisions, and then, how
+it all comes together in our new mid-term ambition. Luka?
+`Luka Mucic, Chief Financial Officer `
+Yes. Thanks, Christian. So let me first talk about the financial implications of moving our on-
+premise customer base to the cloud. Christian has already explained the strategic motivation. So
+let me now look at the financial rationale.
+To begin with, as you know, the cloud transition is not a new topic for SAP. We have seen the
+financial impact from this basically since the beginning of our cloud journey, almost 10 years ago.
+And over the years, as we rapidly grew in the cloud during this first phase of the transition, we
+had very material negative revenue mix effect on margins simply because the profitability of
+those cloud businesses was lower than that of our on-premise business. But since most of that
+cloud growth came from Greenfield opportunities, that phase of the transition was always
+accretive to total revenue and did not put significant pressure on absolute profit.
+And finally, by end of 2018, our cloud business has had reached the scale and efficiency that
+allowed us to deliver increasing operating margins, in 2019 and also in 2020. This quarter was
+actually another strong proof point for that.Now the first important point to understand is that what we'll be doing now this difference.
+Because this time, we'll be moving large parts of our ERP customer base from on-premise to the
+cloud to move them out of the upfront software licensing model and into the ratable subscription
+licensing model. A little bit like other players, for instance, Adobe have done it before. Though it
+will not be as ripped record in our case, as we are talking about an option for the customers. Why
+does this make financial sense? That's the second important point. Because we are increasing
+customer lifetime revenue as we are expanding our role from a software vendor to a cloud
+provider for a significant part of our portfolio.
+This means we not only deliver software and support services, but also be applied to IT
+infrastructure and operational services. But we are effectively expanding our share of wallet. The
+potential uplift here is substantial, but even more important is the associated up-selling potential
+of the business technology platform, additional SAP solutions and partner applications developed
+on top of it.
+An important thing to keep in mind here is that we do not have to deliver all of that ourselves, but
+just like today can also procure required capacities from our strategic partners, bundled and at
+scale. However, as we all know, there are timing effects thus the license model is upfront and a
+subscription model is rated.
+Now what you see here on this slide is actually a very simple model of what revenue looks like for
+a software license sale under the on-premise model versus another wise identical cloud
+subscription contract. And it doesn't matter if it's a new customer or an up-sell to an existing
+customer.
+In a nutshell, what becomes clear is that; one, the cloud transition causes a push of revenue and
+thus profit to future periods; two, the annual cloud revenue is a bit more than twice as high as the
+support revenue would have been; three, customer lifetime revenue and value are thus
+substantially higher; and, four, for the transition, initial revenue and profit headwinds turned into
+tailwinds overtime. And all that is for just like-for-like comparison that still excludes the up-sell
+potential I have mentioned.
+By 2025, the implications should get us to a total revenue, greater than EUR36 billion with cloud
+revenue comfortably eclipsing all other revenue streams combined at more than EUR22 billion.
+This is why it is now even more important to expand our cloud gross margin. And to do that, we
+are now taking the final step in modernizing and harmonizing our cloud delivery, which I'll talk
+about next.
+Before going into the details, let me first put this into perspective a bit. Early last year, you
+reminded us that after years of rapid acquisition driven cloud expansion, SAP's structures and
+processes had reached a level of complexity, and in some cases franking redundancy that called
+for reforms. You are right. We answered by setting up the Best Run transformation programs
+aimed at improving organizational efficiency and agility at the same time. One of the key aspects
+of Best Run is increasing the efficiency of our cloud delivery. And we have already made great
+progress in that regard as shown by the cloud gross margin expansion over the last two years.
+But in order to obtain the full benefits of our cloud delivery modernization, we need to take a final
+step.
+As you can see on the left of this slide, we have already completed most of the required steps of
+our cloud delivery remodernization.
+The final remaining step now is to lift a part of our cloud customer base that is still running on ourother words our modernized and harmonized 4 +1 cloud delivery. And we are now planning to
+accelerate this move and complete most of that lift already by end of 2022.
+We expect this to drive a temporary acceleration of cloud investments through 2022, but the
+benefits of doing this will be significant. It will increase capacity utilization, it will allow us to
+procure infrastructure or infrastructure services at scale and to automate managed services.
+That's what will allow us to achieve a cloud gross margin of approximately 80% by 2025.
+On top, it further increases the stability and resiliency of our cloud solutions and speeds up
+innovation, even in the applications driving customer success and thus cloud revenue via more
+cross-selling and higher revenues. Again, that is what our customers rightly expect from us, and
+we have every intend to deliver.
+So this all then comes together in the new 2025 ambition. The combined impact of what we just
+discussed means that over the next two years, we expect to see muted growth of revenue
+accompanied by a flat to slightly lower operating profit. After 2022, momentum will pick up
+considerably lower. The initial headwinds of the accelerated cloud transition will start to turn into
+tailwinds for revenue and profit. In addition, we will have completed our increased investment into
+the accelerated cloud delivery modernization. And that translates into accelerated revenue
+growth and double-digit operating profit growth from 2023 onwards.
+And so by 2025, we expect this trajectory to take us to cloud revenue greater than EUR22 billion,
+total revenue, greater than EUR36 billion and an operating profit of greater than EUR11.5 billion.
+This 2025 ambition also means that; one, we will significantly increase our share of cloud revenue
+making it by far the primary revenue stream; two, we will significantly increase our more
+predictable revenue share to about 85%; and three, we will continue to focus on bottom line
+efficiency. Rest assured that we will continue to drive the best run project.
+Streamlining SAP and setting it up for efficiency, simplicity and sustainable long-term success
+aiming to come out of the transition with sustainable double-digit operating profit growth from
+2023 to 2025 and beyond.
+I'll now hand back to Christian for closing remarks.
+`Christian Klein, Chief Executive Officer `
+Yeah. Thank you, Luka. And before we come to Q&A, let me close it out.
+We recognized this is a significant change when compared to the previous strategy in former
+2023 ambition. We are at an inflection point. Our customers are asking up to help accelerate
+debt business transformation to gain resiliency and position them to much stronger out of the
+crisis. We see that as a unique opportunity to partner with our customers on that journey in a way
+that only SAP can. In large part due to our deep knowledge of business policies, our innovative
+solutions and technology and the trust we have established over our overweighting history. That's
+why we have adapted our strategy and financial ambition.
+As the CEO of SAP, I firmly believe a prioritizing sustainable value creation has to be our top
+priority. Therefore we will not to wait the success of our customers and the significant growth
+potential of SAP, again, short term margin maximization.
+Now let's open it up for questions.
+`Luka Mucic, Chief Financial Officer `Yeah. Thank you very much. I hand it back to the moderator. You can now start the Q&A session,
+please.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) We'll now take our first question. This question comes from
+`Adam Wood, Analyst, Morgan Stanley from Morgan Stanley. Please go ahead. Your line is now open.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Hi. Good afternoon. And thanks very much for taking the question. I've got two please. Maybe just
+first of all, you've made very clear that there is a big move to cloud underway, and I think
+everybody will understand that. But in the past you've given customers choice in terms of how
+they pay wherever they run between bringing licenses to hosting deals or paying subscription. We
+understand that to you there's a higher lifetime value of customer in subscription, and obviously
+for customers, that means, then the paying you more over the lifetime. So could you maybe just
+help us understand why these large SAP customers now want to run on subscription? Are you
+foreseeing that transition? Or you continue to give choice? So any help you can give us on why
+that changes happening would be useful and then maybe secondly, on cloud revenue. You
+highlight now there's a much bigger part of that going to come from cannibalization as on-prem
+moves to cloud. Is there any way you could help us understand what the underlying growth of
+new business in the cloud is going to run-out versus how much of that kind of revenue is going to
+come incrementally from cannibalizing the on-premise? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. Thanks a lot, Adam. Let me start and then look at how you can build on top of that. I mean,
+first, what we have seen in the last six months is definitely when I'm talking to the CEO, look, I
+mean for many enterprises, the supply chain is disrupted. They've sometimes don't even know,
+can they produce and deliver the next day? And that is the inflection point of our customers
+where they are saying, hey, I really want to move now to the cloud. I want to have a resilient
+operations. Why should I still operate my own IT data center? So that's the first point. And then
+the second point is doing a business transformation, Adam, is not easy. So you have to change
+how a company works, you have to redesign business process. And also our customers, including
+the large ones believe and let move to the cloud and also let SAP help us to transform our
+business, show us the best practices you ask for the digital age. Let us standardize our solution.
+And now that the platform is ready, let's also build the exemptions in the cloud and really
+consume regular innovations on the fly. So besides the commercial aspect, it's really about the
+resiliency and the transformation of their business. And where is this cloud revenue going to
+come from? Yes, of course, there is a change. There is accelerated move of our installed base to
+the cloud. But second, this quarter, you have heard me saying 45% of our S/4 HANA Cloud
+customers are net new, which speaks for the competitiveness of the solution finally, and second,
+that we will also win in the years to come further market share, not only in S/4, but we are really
+also will double down on HR, procurement on CX and focused areas on CX and we will also
+invest into new innovation the industry cloud. I mean all of our customers are saying, all in, please
+help us to really digitize also our industry-related business processes. Because, you know what,
+again, it all goes back into our ERP, it all goes back into our supply chain. Let's try massive
+business transformation on your platform with the Industry cloud in conjunction with our LOB
+applications. And third, you had Adaire talking about land, adopt on few many expand by putting
+all of our customers facing functions together. First, you heard me saying, our customersatisfaction score increased quite significantly and we are convinced that we will also see high
+tenure wait in the future? And with that Luka, Adaire, any comments?
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, so I -- just to quickly add, I mean, there is undoubtedly going to be some cannibalization
+effect from customers moving from established life and support agreements over -- to
+subscription. However, that is actually not the majority of the growth that we are expecting. We
+actually assume that we can run a Pega that is approaching 20% with the new solution we are
+adding an Industry Cloud business network and other edge-based areas that we have discussed
+before the business technology platform growth that we expect, as well as also the uptick that
+we expect coming out of the COVID crisis again from some of the solutions that have particularly
+suffered now, that are actually clear market leaders, and therefore can be expected to actually
+expand their lead and reach after the crisis is over, such as Corona. So the cannibalization impact
+at stands -- so to say the cream on top of the growth rates, but it's not major, let alone the
+exclusive driver of growth.
+And we will be transparent with you. We will -- starting next year if you clear metrics of the
+number of customers that have transformed from installed base legacy license arrangements on
+two new subscription options, as well as net new customers that we're adding to this as well. You
+know this reporting from the S/4HANA side, but we will break it out with a particular view to the
+cloud starting from next year.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Okay. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thanks. Next question please.
+Operator
+Our next question comes from `James Goodman, Analyst, Barclays from Barclays. Please go ahead. Your line is now
+open.
+Q - `James Goodman, Analyst, Barclays `
+Thank you. Yes, good afternoon. Maybe I could ask a couple as well. The first is around the
+customer relationship. I mean a sense within this guidance that you are increasing the emphasis
+of SAP owning the customer relationship or providing infrastructure or at least passing through
+more within your own contractual terms as the hyperscale infrastructure. So, can I ask you what
+that means for your own highest expectations as we look out through this transition? And
+particularly, as we look out to the 80% gross margin target for the cloud, I'm trying to think about
+the mix of clients within that? And the second question is really just a simple one around the cost
+investments. There are a lot of moving parts within the numbers. I just wondered, if you look at
+the 4 percentage points to 5 percentage points change that you've put out there for 2023, can
+you just help us with the split there in your own modeling between the gross profit impact from
+the lower revenue in the transition, look that you spoke reverses the magnitude of the
+incremental investment that will be annualizing in the business at that point? Thank you.
+A - `Christian Klein, Chief Executive Officer `And maybe I can start and then, Luca, you can again build on top of that. When you said it, where
+we were, actually, it's about owning the customer relationship, when it comes to their business
+transformation. This was wide. So key now for SAP that the SAP cloud platform is really the
+foundation of all of our cloud applications. And that we are actually also delivering the integration
+for hyperscalers that we have no platform and now that we are making tremendous progress on
+the integration form. We have maturing our business services on top of that platform. So think
+about it, when there is one semantical data model, now we can tell our partners why to modify
+the ERP, let's come to the platform and build the extension there because there is now one
+semantical data model, there's a workflow, there's the auto-recession. That's everything what
+you need to seamlessly expand the SAP solution portfolio. And this is why on top of our
+infrastructure to service business, definitely we want to push now the platform and we definitely
+also want to push all the applications from the software to services business, but that now comes
+together. At the end, we are selling not the products, we are selling now the digital intelligent
+enterprise, we are selling business processes with the time and for the digital age. This is what
+we are doing, and this is what we will also position in the years to come.
+A - `Luka Mucic, Chief Financial Officer `
+Yes. And to build on that, it's very important to understand that we are not positioning an
+infrastructure as a service solution. Yeah. The positioning and a holistic solution moving our
+customers to the cloud and I'm transforming and modernizing the landscape based on our new
+ERP application architecture. This offering is therefore a software as a service offering and not an
+infrastructure as a service offering where the customer basically would just bring a license and
+then we would do the application management on top. That's just very important. And, therefore,
+this still not have a bearing on infrastructure as a service. And secondly, on the margin side, we
+are, of course, anticipating the margin inflow from those additional customers that we're getting
+in core ERP together with the development of the rest of the portfolio to ultimately then reach
+the 80% gross margin by 2025. And just to also clarify on 2020 suites, the investments that we
+are looking to put in and that we are planning to make to kind of reach the homestretch of our
+converged cloud modernization, are actually already going to turn into an operating profit
+tailwinds in 2023. So this is not negatively affecting 2023 any longer. The impact on 2023 margins
+is basically due to the change revenue mix that we assume and the shift of the business model to
+ratable recognition, which will then turn basically increasingly into a tailwind that will allow us to
+catch up and actually increase the margin again starting from 2023. So from that perspective,
+those incremental investments are actually immediately accretive to operating profit starting
+already in the year after their summit.
+Q - `James Goodman, Analyst, Barclays `
+Okay. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. And let's take the next question please.
+Operator
+Thank you. Our next question comes from `Philip Winslow, Analyst, Wells Fargo from Wells Fargo. Please go ahead. Your
+line is now open.
+Q - `Philip Winslow, Analyst, Wells Fargo `Great. Thank you for taking my question. A question for Christian and Adaire. If I think back to the
+financial crisis, obviously, there are a lot of projects that were delayed into -- in later '08/'09. But
+these are a catch-up in 2010-2011 in terms of just the license sales, and in other words projects
+just getting pushed. How do you think about our current situation? Obviously, you mentioned
+project is going to be delayed and pushed. What are customers telling you about, hey, are those
+projects -- have really been pushed, have they been changed, how they've been shifted to the
+cloud and so the shape of the recovery is just simply different. I mean how should we think about
+just sort of this crisis versus the financial crisis in terms of how you think about sort of the shape or
+the recovery and what customers are telling you?
+A - `Adaire Fox-Martin, Executive Board Member, Customer Success Organization `
+Yes. Thanks, Philip, for the question. I'll go first, then perhaps Christian or Luka can add any
+comments if they have them. I think when we described projects being pushed, I would describe
+it as the scale and the scope of the projects being pushed. I think it's very clear and analysis that
+we have with our customers, that everybody understand the need for the digitization of key
+business processes. So that agility becomes part of their business landscape. So it isn't that the
+project is stopped. It isn't that -- it isn't a journey that the customer is on. I would describe it as a
+much more staged approach, then the approaches that we've seen in the past, where the work
+will continue over a period of time and we can see that even in our own services utilization, where
+we still have a very significant number in terms of utilized stays in our services business. So I see it
+really as a more recurring element of project stages that the customer commits to rather than a
+large scale program of work initially and that's being what's underpinning some of the
+conversations that we've had with our customers.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. And I can just comment on the cloud revenue side. I mean, obviously, we are talking a lot
+about concur. And yes, if you exclude our concur business for travel and expense management,
+our cloud revenue would be up by 20%. Our Software-as-a-Service solutions are increasing 26%
+(inaudible) days now will deceleration. And also in all fairness to Concur, I mean after the quietest,
+this is the market-leading solution in the market full stop, and there will be, of course, a bounce
+back. It, of course, depends on when can we travel again? When is business travel coming up? So
+all today, I'm extremely confident that this business will, of course, come back. It's just a question
+of timing.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay. Thank you. We move to the next question, please.
+Operator
+Thank you. Our next question comes from `Michael Briest, Analyst, UBS from UBS. Please go ahead. Your line is
+open.
+Q - `Michael Briest, Analyst, UBS `
+Thank you. Good afternoon. Two from me as well. Just in terms of the cloud gross margin
+trajectory, Luka, obviously, some investments for the next couple of years. Previously you were
+looking for a 75% gross margin in 2023. Could you give us a feel of whether that's still intact? And
+also, how much lower the cloud gross margin might go in the next couple of years? And then,
+secondly, also for you. I think on the free cash flow side, previously, you had a target of EUR8billion in 2023. I suspect, that's no longer there. But can you talk about cash flow out of '25? And
+on the CapEx side of things, give some reassurance about what where that might go to? Thanks.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. So let me start with the cloud gross margin. I mean you've seen that we have continued to
+make progress even in 2020 despite the deceleration that we have seen in our intelligence
+spend group, which as by far the highest gross margin. And even Concur has still managed to
+increase its cloud gross margin despite their unique challenges that they are having. So I think it's
+very clear that we have an utmost focus as a company on this. And the investments, as I said, that
+we are planning for next year and the year after to accelerate the harmonization of our cloud
+delivery infrastructure to our converged cloud as I said before, on the question of James, I think it
+was -- it will be immediately accretive starting from 2023. So from that perspective, we believe
+that there is no reason to anticipate any departure from what we had in mind for 2023. And
+obviously, then see further acceleration up to the 80% that we are planning for 2025. For 2021
+and 2022, we definitely -- you should assume that there is actually a slowing in progress, because
+we need to make the investments first, not all of them will flow into cost of cloud to be also quite
+precise. We will also see some investments in cost of R&D to make sure that some of the
+solutions that we have not yet fully shifted can run optimally on the new infrastructure. But of
+course, a lot of it will hit cost of cloud and therefore the progress in the next two years will be
+more muted as well.
+From a free cash flow perspective, look, first of all, we have made tremendous progress,
+obviously, this year, not only are we back to the levels of operating and free cash flow that we
+had committed at last year's Capital Markets Day where we, of course, had a completely
+different profit expectation for our business in 2020. But we are actually seeing even an
+improvement against this original ambition when it comes to free cash flow. So something has
+happened here, which I believe is also going to be sustainable. And that is an improved and more
+disciplined working capital management and cash collection management. I have to give Adaire
+and her team, a lot of credit here as well. And they have certainly intensified their collaboration
+with our collection teams. And I believe that collaboration is sustainable and should continue to
+yield results also after the prices. Nevertheless, you're obviously right that the free cash flow that
+we had anticipated for 2023 is also pack to a significant to the profit levels that we are expecting.
+And since, we are now expecting to reach these profit levels with -- around about two years
+delay, be a free cash flow levels should also be expected to then also only be achieved in 2025,
+having said that, that is a generalized statement based on all else being equal. And there are a
+couple of factors that still play a role in this on the positive side, as we have discussed when
+Qualtrics completes their IPO. Their previous cash-settled programs under the SAP set up in plan
+design would to a largest extend convert to equity settled programs and that will have some
+relief as a consequence when it comes to the cash flow. On the flip side, in 2021 and 2022, we
+expect even though our CapEx spend will remain muted still a moderate step up from today's
+very low levels due to COVID in order to procure some of the additional infrastructure elements
+that we need for our own converged cloud. And so, those two factors will, at a certain extent,
+balance out each other, perhaps, providing a small tailwind, but other than that, of course, cash
+flow follows the profits.
+Q - `Michael Briest, Analyst, UBS `
+Thank you. And Christian, could you maybe give us impact into the customer base on S/4 today?
+We got 8,100 live. How many of them would actually be on either the private cloud or the multi-
+tenant addition of S/4?A - `Christian Klein, Chief Executive Officer `
+Yeah, so -- thanks for the question. I mean, first, we have seen a massive acceleration of the
+move also to the cloud version of S/4HANA. As I mentioned before, COVID was indeed an
+inflection point. And we will see this acceleration in the years to come, also for some large
+enterprise customers. And we will put them on the wide deployment model. This is really then, of
+course, relating to how standardized that the customer, how designed out the processes to really
+fit into the standard, how consolidated is the IT landscape? So we will make that work depending
+on the departure of the customer. And then second, for us, it's very important that we, of course,
+leveling the differentiating capabilities. And next year, the public cloud version will have 80% of
+the functionality, but today our on-premise version has a significant, and we have to deliver a new
+configuration where you can change processes on the fly we infuse AI. And just to give you an
+example, because so much talk about the value of S/4. Just last week I had an automotive
+customer of SAP. And he said, Christian, because of the move to S/4 and running on HANA, we
+actually could optimize our inventory. And they have saving costs over EUR200 million, because
+now suddenly we can change our inventory and check it real time and can adjust it based on the
+demand what we are seeing. And especially in times like these, where you have such dynamic
+markets that is a huge, huge value for. And this is something what we will go in to push further.
+And with the new strategy, we're going to invest further in innovation. We invest further in R&D
+because this is the way to go. This is what our customers want.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. And just to be precise, so currently we have close to 3,000 S/4 cloud customers.
+Q - `Michael Briest, Analyst, UBS `
+Okay. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take the next question please.
+Operator
+Thank you. Our next question comes from `Alex Zukin, Analyst, RBC Capital Markets from RBC Capital Markets. Please go
+ahead. Your line is now open.
+Q - `Alex Zukin, Analyst, RBC Capital Markets `
+Thank you, guys for taking my question. So just a quick one from me. Can you talk to how much of
+the delay in the spend that you're seeing or in the larger sales cycle is due to macro versus
+evaluating some of your new cloud solutions? And if you think about the 2025 vision,
+approximately what percentage of customers, do you expect to shift over the next kind of two
+years to three years? Or is there a late cycle accelerated proportion of customers that are going
+to shipped over?
+A - `Adaire Fox-Martin, Executive Board Member, Customer Success Organization `
+Thanks for the question, Alex. I'll take the first part. And in terms of the delay that we described, I
+would say it is less about the evaluation process and more about the uncertainty of the
+conditions. And at the start of the COVID process, we were in the fortunate position to be able
+to pivot our sales force to a virtual engagement of our customer base. And we have had and -- inorganization and we were able to expand the use of those tools and techniques right across the
+entirety of our sales team. So we still managed to maintain a high level of engagement with our
+customers albeit that we probably haven't met many customers typically in the last seven months.
+Therefore, the delays tend to be delays around uncertainty in the business model, uncertainty in
+the business world and uncertainty, I think, relative to the industry that the customer operates in
+much more than to the evaluation process, which is proceeding as per norm, albeit virtually.
+A - `Christian Klein, Chief Executive Officer `
+And to your second part of the question, I mean, we will, of course, give customers choice also in
+the future. But COVID will be in a solid way then. It really depends on the departure point of the
+customer. Look, when you -- we have customers, mid-sized services have been -- would be --
+they celebrate go lives with S/4HANA cloud in 20 days. That's possible. That's absolutely
+possible. We have large enterprise customers. They are now shifting the workloads to the cloud.
+But of course, then it takes more time to redesign the processes, to come to and stand up to
+move the modifications out of the ERP. So this will now happen at an accelerated pace, but every
+customer will move with its own speed.
+Q - `Alex Zukin, Analyst, RBC Capital Markets `
+Okay. Thank you. Understood. And --
+A - `Stefan Gruber, Head of Investor Relations `
+Go ahead, Alex.
+Q - `Alex Zukin, Analyst, RBC Capital Markets `
+Yes, I just -- I wanted to ask, is there a good -- like, what's the right KPI for us to think about the
+midpoint as to give us -- to give investors comfort in kind of that transition versus customers
+moving to a competitor back into a competitor? What's the right KPI to look at for us during this
+transition point around that cloud revenue on that?
+A - `Christian Klein, Chief Executive Officer `
+Yeah. In my point of view, it's really the number of migrated customers. As you know, we have
+slightly more than 30,000 classic ERP customers, not systems. We have way more systems. But in
+terms of just customer count that's what we have. And we have 15,000 customers for S/4HANA
+out there. As I said, close to 3,000 of them in the cloud. So that means another 12,000 basically
+ended up license on-premise. And in the next couple of years, we want to move many thousands
+of those customers. And then, of course also, net new customers to our core ERP cloud solutions.
+And therefore, we intend to give you in the future absolutely regular recurring updates as part of
+the earnings process on those numbers and certainly the progress that we have achieved there,
+where we will now break out between the different deployment forms that should give you you
+the confidence that we are arriving fully in the cloud come 2025.
+Q - `Alex Zukin, Analyst, RBC Capital Markets `
+Perfect. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay, thank you. Let's take the next question, please.Operator
+Thank you. The next question comes from `Charlie Brennan, Analyst, Credit Suisse from Credit Suisse. Please go ahead.
+Your line is now open.
+Q - `Charlie Brennan, Analyst, Credit Suisse `
+Great. Thanks very much for taking my questions. I'm going to go with two as well if that's
+possible. Firstly, just a clarification on your cash flow comments. I'm surprised you didn't commit to
+EUR8 billion of free cash flow, given the variables of Qualtrics and CapEx should be in that
+tailwinds. Are there any other variables we should be considering? For instance, is there any
+chance of another restructuring program as you come to terms of scale of the change over the
+next couple of years? And then secondly on a separate product related issue, how important is
+owning the platform layer of the stack in the strategy and to what extent do you think you've
+given up Mindshare to Microsoft and Google and how hard is it going to be to claw back that
+Mindshare with customers? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. So, first of all, on the cash flow side, you are absolutely right, of course, we will have
+benefits from the Qualtrics IPO and, of course, we also continue to have benefits as you have
+seen in the significantly reduced levels of CapEx that we had in the last two years from our
+collaboration with the hyperscalers. But that being said, still the source of free cash flow on the
+operating cash flow side is not entirely decoupled from the level of profit that we can drive as a
+company. And as we are achieving that level of profits basically with a two-year shift in 2025 for
+our ambition that we have put out there, that's when also I absolutely would expect that we are
+able to try for those EUR8 billion in free cash flow. In the meantime, I very much believe that we
+actually can do better, all else equal, on -- in terms of the cash flow generation because we have
+increased our cash inflow efficiency, our cash collection effectiveness and our working capital
+management. However, that will not be able to fully equalize the lower profit levels that we are
+now anticipating in the next few years before that accelerates back again.
+And perhaps on the platform side, Christian?
+A - `Christian Klein, Chief Executive Officer `
+Happy to take it, Luka. I mean, this is a very valid question and the platform, a business platform
+definitely needs to be owned by SAP. And now moving our cloud applications over to this
+platform by following the integration issue, by making sure that every of our application is
+showing the same data model, is showing the same authorization and workload service, that
+actually will also make sure that the platform will just become a natural part of everything we are
+doing going forward. That's not anymore a standalone platform, that's our business
+transformation platform, let's call it like that where we then also want to shift the ecosystem to. I
+mean, today, a lot of our SI partners are building bill extensions in the on-premise world. We really
+now ask them and also incentivize them to chain up, to move up with us to the cloud and build
+the extensions on the platform because now they can do it also in a much more seamless way.
+Yes, the platform is of the -- has the highest importance. And again if the platform then comes all
+-- comes out for SAP HANA and HANA means we get customers choice. There they can either
+choose the hyperscaler infrastructure, they can choose the SAP infrastructure, that was already
+there in the past and that has to be proven the wide strategy.
+A - `Stefan Gruber, Head of Investor Relations `Okay, thank you. Let's take the next question, please.
+Operator
+Thank you. Our next question comes from `Kirk Materne, Analyst, Evercore from Evercore. Please go ahead. Your line
+is open.
+Q - `Kirk Materne, Analyst, Evercore `
+Thank you. If I could sneak in two, I'll try to as well. I guess just to be very clear Luka on the cloud
+revenue adjustment, outside of currency, is really that from a business perspective just simply
+Concur for the next year? Meaning it sounds like Qualtrics had a good quarter, the other parts of
+the cloud business seem to be going well. Is there any other down shifts, I mean, Concur it makes
+sense, while you're expecting a more slow rebound, but I just wanted to double check on that.
+And then I guess maybe for Adaire and/or Christian, the question is going to come up a lot is,
+why are you all seeing delays when a lot of other software companies are frankly starting to see
+things pick back up, is it the mix of your business around more impacted industries, is it -- as you
+look I think Adaire mentioned bigger ERP projects just simply getting chopped up into smaller
+deals or having to rethink that? I think the big question I've got from investors today is, why are
+you all sort of seeing this whereas at least over the last month or two we haven't seen it, perhaps
+everything just came -- kind of came to ahead in September, but if you could discuss that a little
+bit I think it'd be helpful? Thanks.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, let me first start. So, first of all, it's not only Concur, what we are seeing in terms of impact
+for the full year. We're not talking about next year yet, by the way, so just to make sure that we're
+talking about 2020. But Concur is about half the impact that we are seeing, another quarter is the
+rest of intelligence spend. You probably have seen that in our segment reporting, we are
+showing that Concur is down in the quarter by 11%, and that is a business that otherwise would be
+expected to grow somewhere in the teens. And that is across all Q2 due to COVID, but it's also
+the case that transactional revenues in Ariba, for example, are not as high as we would have
+expected for the same reasons. I mean, due to COVID, a lot of companies are cutting back on
+spend, and if you have lower spend, then of course also spend network like Ariba showing less
+variable expenses. It's still growing, that's the difference to Concur, but you have seen that
+intelligence spend overall in the quarter was down by 3 percentage points and that, of course,
+means that also Ariba is down to a lower level than what otherwise would have been the case.
+And then the rest of the last quarter, it's really a slight reduction in our renewal rates or new cloud
+bookings across the entire rest of the spectrum versus the levels that we would have targeted
+and planned for in a normal pre-COVID business as usual scenario. Having said that, however,
+that's something that we had planned for, the big shift is that on the transactional revenues, we
+had originally anticipated a recovery in the second half year, which we are now not planning for
+anymore.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. And I mentioned already the growth rate we are seeing in our Software-as-a-service and
+platform as a Service business and with 26%, I would say we are definitely also lying in the upper
+hand also compared to competition, so this business developed under this circumstance is
+extremely well and there's of course also high confidence that for the next year that we will see
+similar growth and then of course also we are talking about an evaluation later in the second half-year of 2021. As -- when we talk supply chain, when we talk experience management, when we
+talk finance, changing license models for our customers, selling subscription, selling paying
+subscriptions. These are all solutions, which are highly relevant for our customers. So, yes, there is
+a high confidence that we will definitely also see a re-acceleration then next year.
+A - `Luka Mucic, Chief Financial Officer `
+And perhaps to close this out, it works both ways. While in a classic subscription model, the
+slowdown in revenues due to such a crisis situation of course is happening at a slower pace. But
+on the other hand side to accelerate a subscription business also takes its time because, first,
+you need to go through the selling and the installation and then you start to recognize revenues
+installation and then you start to recognize revenues in a business network model that is
+transaction volume-based, like with Concur and Ariba, both happens faster. So, the downturn
+happens faster, but also once the business picks up again and the spend increases and travel is
+happening again, then of course the variable on revenues also start to kick in immediately. And
+hence that's why we assume that if the COVID restrictions are lifted, then as of the second half-
+year, we will see actually a quite fast reacceleration back to normal levels.
+A - `Adaire Fox-Martin, Executive Board Member, Customer Success Organization `
+And finally maybe, Kirk, let me address the question around the delay. So, first of all, I think it's
+important to place this in the context of the overarching portfolio of SAP. So, we have a very
+broad portfolio of products, which is something that of course continues to make us extremely
+relevant to our customers. In some of our pure-play SaaS solutions, we just find a program that
+we call amplify, which was a program focused on low upfront investment on deployment in days
+and weeks and very quick value realization for our customer base. And in those scenarios, we
+definitely saw some uptake of those solutions because the gap between speed and value was
+very, very small. And we saw over a 110 new customers over 1,100 deals under the auspices of
+that particular program.
+Then when you look at the actual underpinning business transformation, that is predicated on S4
+as a core, I guess, the first point of discussion with customers is around cost and managing and
+mitigating cost in the current environment. And there are series of activities that can be done to
+help manage that. Then the second range of conversations is about the migration itself or about
+the journey to value. And in the context of that, there are different departure points each of our
+customers, of course, has a very unique environment today, but then also different destination
+points. And it is a matter of looking at that in a modular way, so that over the lifetime of that
+transformation journey, you're delivering value all along the way in relation to the priorities that
+the customers have set.
+And I do think there was an element of timing in terms of the last month of Q3 and as some of
+the changes that we saw in the resurgence of COVID at the point where we had transactions in
+closed process. So, I think a combination of those things, we have different portfolios with
+different profiles of solution sets, long-term transformation becoming modular and then a little to
+do with the timing of our Q end.
+Q - `Kirk Materne, Analyst, Evercore `
+That's helpful. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Thank you. Let's take the next question, please.Operator
+Thank you. We will now take our next question from `Mark Moerdler, Analyst, Bernstein Research from Bernstein Research.
+Please go ahead. Your line is now open.
+Q - `Mark Moerdler, Analyst, Bernstein Research `
+Thank you very much and I appreciate. I have two parts to my question. The first is, if the
+transactional headwind from COVID is expected to be over within the next year to two, then how
+should we think about 2023 in the transactional business? Is there going to be a permanent delay
+on the transactional side that you're modeling in? Or should it bounce back equivalently? And
+then as a second question, for new sales, which used to create license, how big a step down are
+you now expecting in license sales specifically through 2023? Is -- basically, should we be figuring
+license sales are basically going away by 2023? Thanks.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. Perhaps I'll start with the last one and Adaire please augment this. I mean, licenses would
+not certainly go away by 2023. However, they will certainly continue to decline, and I would
+estimate at a similar rate of what we are seeing now in 2020. And on the transactional business
+side, I see no reason why in two years' time assuming that COVID is really past and behind us
+sometime next year, that the transactional revenues should not by 2023 be back at the level that
+they were before in 2019 and grow from there as they have done in the past. Sorry?
+A - `Adaire Fox-Martin, Executive Board Member, Customer Success Organization `
+All good.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. Okay, good. So, that makes this joint statement from Adaire and myself, then it must be
+true.
+Q - `Mark Moerdler, Analyst, Bernstein Research `
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay, thank you. Let's take the next question, please.
+Operator
+Thank you. Our next question comes from `Chandra Sriraman, Analyst. Please go ahead. Your line is now
+open.
+Q - `Chandra Sriraman, Analyst
+Yeah. Hi, good afternoon. Thanks for taking the question. A couple, if I may. So, when I look at
+your 2025 guidance, if my calculations are correct, there is a mid single-digit drop in maintenance
+revenues through 2025. Now, I just wanted to check if the cloud business will be profitable
+enough to compensate for this drop as we go beyond 2023? And how should we see the move
+or the substitution of maintenance subscription beyond 2023?The second question is more of a clarification. Luka, you mentioned that these ERP customers will
+move to the SaaS, PaaS model. So, I was just wondering, would you continue selling the
+infrastructure as a service or will these customers Infrastructure-as-a-Service or will these
+customers be migrated to the SaaS-PaaS model? Thanks.
+A - `Luka Mucic, Chief Financial Officer `
+Yes. So perhaps first with the question on maintenance versus cloud. I mean that is one of the
+reasons why we are now accelerating and planning to kind of complete the migration to a
+converged cloud infrastructure more quickly because that is giving us a step-up in the cloud
+efficiency that on a gross margin level already is in striking distance with Software and Support
+business. And that is very positive, because if you then assume from a long-term perspective,
+that the cloud business has an ever-increasing share of renewal components that are
+commanding a lower commission rates than a net new sale actually on the operating margin
+level, and the cloud will then quickly catch up with the efficiency levels of our on-premise business.
+You've actually seen a part of that already at work today. But of course, that impact will be
+significantly higher even once we have built such a high base of Cloud revenues.
+And on the Infrastructure-as-a-Service piece, I think you will see over time that certainly a growing
+proportion of our existing HANA Enterprise Cloud customers will move over to a more holistic
+SaaS offering that gives them the entire scope including also subscription. We actually offer this to
+our customers within the HANA Enterprise Cloud already today as an option. But given our
+increased capabilities in the cloud that we are looking at, I think it will increase significantly now in
+attractiveness and will lead to more of pure HANA Enterprise Cloud customers making the move
+over.
+Q - `Chandra Sriraman, Analyst
+Okay. Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take the next question, please.
+Operator
+Our next question comes from `Julian Serafini, Analyst, Jefferies from Jefferies. Please go ahead, your line is now
+open.
+Q - `Julian Serafini, Analyst, Jefferies `
+All right, thank you for taking my question. I have two questions. I think number one is on, Luka, I
+believe you mentioned the cloud uplift multiplier that was around 2 times maintenance. Can you
+confirm that? So that would imply roughly a five-year crossover on the revenue side, assuming all
+things equal, that when a call contract would be revenue accretive for SAP?
+And the second question is on sales compensation probably for, Adaire. Will there be changes to
+sales compensation going forward? And I guess to emphasize more products away from the
+license and maintenance model?A - `Luka Mucic, Chief Financial Officer `
+I can quickly go first. So it's actually a bit more than twice to support revenue. If you apply a
+multiplier or actually if you apply a 0.45 multiplier to EUR1 million license contract, plus 20%
+support that would translate into a EUR450,000 subscription at equal value. So slightly more than
+twice.
+A - `Adaire Fox-Martin, Executive Board Member, Customer Success Organization `
+Hi, Julian. Thank you for the question. Sales compensation is certainly one lever that facilitates
+change and transformation. This year, as Christian mentioned in his opening remarks, we brought
+together all of the customer-facing resources of SAP into a single organizational unit, and that
+includes not just sales, but also all of the services resources of the company, together with all of
+the customer-facing post-sales support resources.
+We underpinned this organizational change with an operating model that focuses not just on the
+landing or the bringing of a new customer into the SAP family but also focuses very much on the
+adoption and the consumption of SAP solutions in order to drive business outcome and business
+value for our customer. Therefore, in addition to this organizational change, in addition to this new
+operating model. In addition to the appropriate management and governance over the top of
+that, we will, of course, look at our compensation plans in order to ensure that they're aligned
+with that strategy.
+And as I mentioned, that strategy focuses as much on the adoption and the consumption of our
+software as it does on the initial and transaction with our customer base. I also get a sense that
+the question was around how we would be addressing or directing our sales force's efforts
+around different elements of the portfolio? I think it's important again to emphasize that we have
+always been predicated on choice for our customers and we will continue to be predicated on
+choice. There are absolutely some customers that for a variety of reasons would want to remain
+in an 0n-premise world. However, there is no doubt that the vast majority of our customers are
+orientated towards this cloud migration and our compensation will take that into consideration.
+Q - `Julian Serafini, Analyst, Jefferies `
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Let's take the next question, please.
+Operator
+Thank you. Our next question comes from `Neil Steer, Analyst, Redburn Partners from Redburn Partners. Please go ahead,
+your line is open.
+Q - `Neil Steer, Analyst, Redburn Partners `
+Hi. Thanks very much for taking my questions. I've got a couple if I may. Firstly, Luka, could you
+confirm in your response to previous question that we should think modeling the maintenance
+revenues declining mid-single-digit level by the time we get beyond 2023, was that you seems to
+be confirming or not?
+A - `Luka Mucic, Chief Financial Officer `Yes, mid-single-digit negative decline CAGR given the accelerated transformation to the cloud is
+directionally correct.
+Q - `Neil Steer, Analyst, Redburn Partners `
+Okay, and then just looking at the slides, I think I understand the revenue trajectory for cloud
+obviously, but you think the reference in the slide deck that you're going to invest in Industry
+Cloud functionality. Other than the Industry Cloud functionality where are specifically the other
+investments coming through that hit the profitability so much in '21 and '22?
+A - `Christian Klein, Chief Executive Officer `
+Well, on the '21 and '22 thing, that is really related to planned infrastructure harmonization
+investments. So we are migrating customers that are still sitting on the legacy infrastructures of
+some of our -- in particular the acquired cloud solutions, but also some of our own developed
+solutions to our converged cloud. And that has infrastructure investments, that has some, as I
+said, development efforts attached to it to optimize the performance of those solutions on the
+new infrastructure. And of course, it also includes the pure migration costs for our customers. So
+that has nothing to do with investments, that we are doing as part of our portfolio process on the
+R&D side to build out new organic solutions, which we are nevertheless are doing as well. And
+that's industry clouds and that it's also other areas of the portfolio, we're investing significantly
+also in our business technology platform. And of course, we continue to invest in those solutions,
+where we clearly have a leading position in the market and want to retain it as well.
+Q - `Neil Steer, Analyst, Redburn Partners `
+Okay. So (inaudible) to ask it as a final question. But in the past when you talked about the
+converged cloud infrastructure, you've obviously talked about migrating over that SuccessFactors,
+which I think has slightly begun by the first half of last year. If you look at the proportion of
+subscribers or users on the legacy like a deadline of business cloud solutions, what in total also
+have been migrated over to the converged cloud infrastructure? And how much of those legacy
+line of business users need to move over to the news to the cloud infrastructure now?
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. So thanks for raising this question, because I think it allows me to clarify something. The
+migrations, that we have been talking about SuccessFactors and also Ariba, they were database
+migrations. We were migrating the underlying third party database to HANA, and that was giving
+us already significant benefits and you see them in the cloud gross margins to-date. What we
+have also done is we have made sure that all of our core solutions run on one or more
+hyperscalers and on our converged cloud infrastructure. What we have not done yet is migrating
+all of the existing customers that are sitting on the previous legacy infrastructures over to the new
+one. And that is what we are now giving a strong push and what we are looking to accelerate
+forward.
+And once we have accomplished this, we can retire legacy platforms and we have various other
+benefits in terms of automation that we can leverage for greater efficiencies. But the database
+migration that was what we were talking about in the past and indeed this has been
+accomplished already with the current positive benefits for cloud margins that we are seeing
+already in our actual current numbers.
+Q - `Neil Steer, Analyst, Redburn Partners `And so we can assume that as roughly a 100% are still -- in terms of users are a still on their
+existing legacy platform today, is that correct?
+A - `Luka Mucic, Chief Financial Officer `
+No, that's not right, because we have already since some time started to on-board new
+customers on those converge cloud landscapes but it's correct that still a majority of the existing
+customers are on those legacy platforms and that's what we are going to move over quickly now.
+Q - `Neil Steer, Analyst, Redburn Partners `
+Yes. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay, thank you. Looking at the time. I think we have time for one final question.
+Operator
+Thank you. We'll will now take our last question from `Patrick Walravens, Analyst, JMP from JMP. Please go
+ahead, your line is now open.
+Q - `Patrick Walravens, Analyst, JMP `
+Oh, great, thank you. And maybe this is a good way to wrap it up. So, Christian, thank you for all
+the commentary in detail today. Given the stock drops, which I think is the biggest in quite a while,
+if there is one key message you'd like to convey to your investors here, what would that be?
+A - `Christian Klein, Chief Executive Officer `
+So thanks a lot for that, for that question. And indeed, of course, coming from the stock price you
+see that we actually made today decisions, which is actually -- it's a response to the needs of our
+customers. And look, as the CEO of SAP, I cannot hold on to our financial mid-term ambition,
+which is actually against, the needs of our customers. When they want to move, and they want to
+transform, when they want to see more organic innovations from SAP, this is for me, on the long-
+term the right thing to do for SAP. And this is actually my top priorities as the CEO of this
+company and this is why we are doing this change. And one thing for sure because also related
+to the last question, we are not getting sluggish on our commitment also to drive profitable
+growth in the future. I mean, all the impacts we are now seeing is weather-related
+macroeconomic or you see the revenue mix effect coming through. And -- but all the other
+productivity parameters, no matter if it's go-to-market related, G&A related, we are not getting
+sluggish. We will of course also have a high focus on productivity.
+And on the investment side, on the cloud operations. I mean, when you are now doing this
+massive shift and already tripling your cloud revenues towards 2025, you don't want to feed your
+money into some legacy cloud infrastructure. This is why we want to do our homework now and
+come back with double-digit growth on operating profit from 2023 onwards on because again I
+don't want to feed money into legacy infrastructure. This is why we are doing this in combination.
+And as I said, finally to wrap it up, we are doing it for our customers.
+Q - `Patrick Walravens, Analyst, JMP `
+Thank you very much.A - `Stefan Gruber, Head of Investor Relations `
+Great. Thank you Pat for your last question. This concludes our earnings call for today. Thank you
+all for joining and you can now disconnect. Bye-bye.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you. Bye-bye.
+A - `Christian Klein, Chief Executive Officer `
+Thank you. Take care.

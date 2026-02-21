@@ -1,0 +1,762 @@
+Q1 2020 Earnings Call
+
+Presentation
+Operator
+Good day and welcome to the SAP Q1 2020 Earnings Conference Call. Today's conference is
+being recorded. At this time, I would like to turn the conference over to Mr. `Stefan Gruber, Head of Investor Relations, Head
+of Investor Relations. Please go ahead, sir.
+`Stefan Gruber, Head of Investor Relations `
+Good morning or good afternoon. This is `Stefan Gruber, Head of Investor Relations, Head of Investor Relations at SAP. Thank
+you for joining us to discuss our results for the first quarter 2020. I'm joined by our CEO, Christian
+Klein, and CFO, `Luka Mucic, Chief Financial Officer, who will make both opening remarks on the call today. Also joining us
+for Q&A is Executive Board Member, `Adaire Fox-Martin, President, Customer Success, President of our Customer Success
+organization.
+Before we get started, as usual, I would like to say you a few words about forward-looking
+statements and our use of non-IFRS financial measures. Any statements made during this call that
+are not historical facts are forward-looking statements as defined in the US Private Securities
+Litigation Reform Act of 1995. Words such as anticipate, believe, estimate, expect, forecast,
+intend, may, plan, project, predict, should, outlook, and will, and similar expressions as they relate
+to SAP are intended to identify such forward-looking statements. SAP undertakes no obligation to
+publicly update or revise any forward-looking statements, and all forward-looking statements are
+subject to various risks and uncertainties that could cause actual results to differ materially from
+expectations.
+The factors that could affect SAP's future financial results are discussed more fully in SAP's filings
+with the US Securities and Exchange Commission, the SEC, including SAP's annual report on Form
+20-F for 2019 filed with the SEC on February 27th, 2020. Participants of this call are cautioned not
+to place undue reliance on these forward-looking statements, which speak only as of their date.On our Investor Relations website, you can find our quarterly statement and a financial summary
+slide deck, which are intended to supplement our prepared remarks today and include a
+reconciliation from our non-IFRS numbers to IFRS numbers. Unless otherwise noted, all financial
+numbers referred to on this conference call are non-IFRS and growth rates and percentage point
+changes are non-IFRS as reported year-over-year. The non-IFRS financial measures we provide
+should not be considered as a substitute for or superior to the measures of financial
+performance prepared in accordance with IFRS.
+With that, I'd like to turn things over to our CEO, `Christian Klein, Chief Executive Officer.
+`Christian Klein, Chief Executive Officer `
+Thank you, Stefan. As we all know, the world is facing an unprecedented crisis. Some weeks ago,
+many of us couldn't even begin to imagine the scale of the coronavirus outbreak. On behalf of all
+of SAP, I want to extend our deepest thanks to all of those who are on the front lines of battling
+the pandemic. Like all those affected, they are in our thoughts and we owe them a heartfelt debt
+of gratitude.
+This crisis shows how quickly things can change and how important agility and speed are. While it
+is hard to project how long it will continue, it shows that SAP's business is more relevant than ever.
+Since we were founded nearly 50 years ago, SAP has been trusted to run the world's most
+mission-critical business, and this also holds true today. I want to thank the SAP colleagues who
+are always fully focused on our customers and go above and beyond to ensure we support them
+in this challenging time.
+You have probably all seen the news. So let me briefly touch upon this leadership change. More
+than ever, the current environment requires quick and determined action for companies and this
+needs a very clear leadership structure. Jen realized that our leadership model was not the best
+fit for these times and mutually agreed with the Supervisory Board that she will depart the
+company effective April 30 and that we will switch to a sole CEO model.
+Jen has always been a strong believer in the long-term potential for SAP, no matter which role
+she was in, and we would not be where we are today without her. As she leaves SAP, she does so
+with the respect and heartfelt appreciation of all her board colleagues, our customers, partners,
+and the entire SAP family. I know SAP will always have a true champion in Jen whatever she
+decides to do next.
+Let me now turn to what I see as the three relevant points for SAP right now; our resilience in the
+current crisis; the balance we now need to strike, and why we will emerge stronger than before. If
+anything the current crisis shows that our intelligent enterprise strategy is more relevant than ever
+both for our customers and SAP. First, it leads to more resilience and enables business continuity.
+Our more than 400,000 customers worldwide make the world one. We enable them to continue
+to do so. Thanks to our transformation into an intelligent enterprise, we can continue our
+operations without any disruption. We have automated, many of our processes and made them
+more intelligent and remote operations across all functions have been a reality at SAP.
+With 95% of our employees currently working from home, all of SAP is as close to a virtual
+organization as it can get, and we continue to run at nearly 100%. The feedback for many -- from
+my conversations with CEOs and customers worldwide shows that they are extremely happy with
+the way SAP is delivering in this crisis. Second, becoming an intelligent enterprise enables new
+business models and accelerates the move to the cloud. This leads to a high top line stability.
+Luka will provide more details on our Q1 financial performance shortly.Let me give you a few key highlights. More than 70% of SAP's revenues are what we refer to as
+more predictable and underline SAP resilience also in times of crisis. Support is SAP's largest and
+most stable revenue stream as evidenced in the 2008 and 2009 downturn. For most companies,
+shutting down SAP support would essentially mean shutting down the entire business. We expect
+cloud revenue to continue its rapid growth in 2020 backed by the 25% expansion of the current
+cloud backlog.
+Talking about other revenue streams, services revenue was up in Q1 and we expect it to be
+rather stable in 2020, given its backlog and the tailwind provided by the S/4HANA migration. As
+the spread of COVID-19 intensified, we saw a meaningful amount of new business postponed
+and purchase decisions put on hold for the time being, especially in our upfront licenses business.
+Software licenses, which unsurprisingly were most affected, only accounted for around 15% of
+revenue in 2019. And while at minus 31%, the impact was significant, we have no reason to
+believe we have lost a lot of business, but assume most of it as well are just being pushed out. I
+have no doubt that revenue will ultimately come to SAP.
+Talking about our flagship solution at SAP S/4HANA with Q1 additions like Danone, Dehner, AO
+Tander Indorama Ventures, we are continuing to build the customer base amidst this crisis.
+Indorama Ventures, one of the world's leading chemical companies, went all in with the intelligent
+enterprise with S/4 in the core and surrounding applications to enable new business models,
+artificial intelligence, and real-time analytics. We saw around 500 customers go live on S/4HANA
+in Q1 underscoring our partners and our own remote service delivery capabilities.
+S/4HANA Cloud continued to grow in the upper double-digits. Over the last month, we have
+significantly simplified migration and massively accelerated time to value. This has helped us to
+add live customers like Sun Life Financial, Hitachi High Tech, and MTU Rolls Royce.
+Third, our transformation enables us to continue to perform strong with regards to the bottom
+line. Thanks to automated and intelligent processes, we were able to significantly increase our
+profitability. As an example, we are already running 30% of our transactional volume via the SAP
+digital store with no touch downstream processes.
+We will not make unfavorable trade-off between 2020 profitability and future growth. Our
+customers have placed long-term trust in us and they have every right to expect unchanged high
+levels of innovation from us. We won't cut innovation and R&D. And while we will slow down hiring,
+we will continue to hire carefully selected people into carefully selected roles that rapidly
+contribute to our competitive edge. With our just completed restructuring program, we approach
+the current environment from a position of strength and we want our people to focus on our
+customer and the tasks at hand, not to worry about their jobs.
+We updated our 2020 outlook to reflect the estimated impact of the COVID-19 crisis. The revised
+outlook assumes the current COVID-19 induced challenging demand environment deteriorates
+through the second quarter before gradually improving in the third and fourth quarter as
+economies reopen and population lockdowns.
+That takes me to my third topic, how SAP will emerge even stronger. We will do so by remaining
+focused on our customers and their success and delivering the intelligent enterprise. Companies
+need intelligence to deal with disrupted supply chains, restricted travel, and the new ways of
+working. In short, only an intelligent enterprise can deal with uncertainty and rapid change.
+Digital transformation is no longer an option. It is essential. We are perfectly positioned to guide
+our customers through this journey, and here's why. Only SAP can enable new business modelscope with such a crisis. SAP HANA helps customers predict the demand and pipeline every
+minute every day to dynamically adjust the supply chain. With Qualtrics, we help customers
+navigate the fluid reality in real-time insight into which behaviors are trending in a fast-changing
+environment where every day brings more uncertainty. Our strong technology foundation with
+SAP Cloud platform and SAP HANA allows us to integrate SAP and non-SAP applications, extend
+existing ones, and build new business applications. These are trends we can build upon.
+I already mentioned that we will double down on innovation. Let me give you some examples. In
+every industry, processes are affected by the digital transformation. SAP traditionally was strong
+through vertically differentiating in industries. To run their value chain end to end, our customers
+want SAP to drive more vertical industry-specific processes in the cloud with seamless integration
+to SAP core solutions based on the SAP Cloud platform. We will respond decisively to that
+demand.
+We at SAP have the unique opportunity to build one business network. We will connect our
+networks beyond our intelligent spend networks and utilize data to help our customers transform
+their traditional value chain model to enable end-to-end visibility, collaboration, agility, and
+optimization.
+Finally, before closing, there is one more important item on my list. Earlier this month, SAP
+Supervisory Board extended Luka's contract to 2026. I don't need to say much. You all know him
+well. He has been with SAP for nearly 25 years. He knows SAP top to bottom. He is one of the
+world's top ranking CFOs and we are very fortunate to have him. I would like to use this
+opportunity to thank him for all that he has already done for SAP and we will look forward to
+writing the next chapter together with him.
+And so with that, over to you, Luka.
+`Luka Mucic, Chief Financial Officer `
+Yeah. Thank you very much, Christian, and let me add my congratulations to your appointment as
+sole CEO. Let me start by saying that I am likewise proud of how we've been able to quickly
+respond to COVID-19 and support our employees, customers, and communities. Nevertheless,
+COVID-19 had an impact on our Q1 performance, in particular in the last month of the quarter.
+Before I give you more detail on this, I wanted to talk briefly about our new disclosure, the current
+cloud backlog. As we shared last quarter already, the current cloud backlog now replaces the
+previous disclosure of new cloud bookings. This new metric provides a more holistic view of our
+cloud progress since renewals of our existing business are also now reflected. You can find more
+detailed information about this new metric on our IR website. And if you have not already done
+so, I urge you to take a look on this.
+In Q1, our current cloud backlog was strong and grew by 25%, exceeding EUR6.6 billion. Cloud
+revenue was up 27%, surpassing EUR2 billion for the first time in a single quarter. This growth
+reflects the success of our strong backlog. This strong cloud revenue growth together with our
+ever resilient software support revenue stream helped us to overcome the shortfall in software
+licenses revenue. Our more predictable revenue reached 76% in the first quarter, up 4
+percentage points year-over-year. As a result, total revenues still came in with a solid 7% growth.
+Before moving to the bottom line, let me briefly give you some color on our original software
+results. After a healthy start to the year, we saw a significant postponement of deals in the last
+two weeks of March, especially in China, most of Europe, and the US whereas Latin America grew
+slightly.Now moving on to the bottom line. With the impressive growth of our overall cloud gross margin,
+we reached 69% in Q1, up 3 percentage points year-over-year. This margin improvement is a
+meaningful step in achieving our long-term margin ambitions. Again, the strongest contribution to
+this came from the gross margin of our public cloud or other SaaS/PaaS offerings. Here we had a
+significant expansion of 6 percentage points year-over-year and reached 70%.
+The key factor that drove this result were the benefits from the successful completion of the
+SuccessFactors migration to HANA at the end of Q1 last year. As we move forward, we will also
+continue to see benefits from all our cloud assets as they start to scale and increase their
+efficiency on a common cloud platform.
+The cloud gross margin for our SaaS/PaaS intelligent spend offerings continued its steady upward
+course with a 79% gross margin, up 1 percentage point year-over-year, and that was despite the
+impact on our transactional business from COVID-19. Our infrastructure-as-a-service cloud gross
+margin remained broadly stable at the low 30% range, but the mix share of this business
+continues to decrease due to our strategic partnerships with hyperscalers.
+In Q1, our software and support gross margin was flat year-over-year at 86%, and likewise, our
+cloud and software gross margin was also flat year-over-year, remaining at 80%. This clearly
+shows our operating expense discipline, given the sharp decline in software revenue that we
+experienced. Our services gross margin increased by a stunning 3 percentage points year-over-
+year and reached 23%.
+Despite the lower top line performance, our operating profit hence grew by 1% to EUR1.5 billion.
+Our operating margin was down 1.3 percentage points to 22.7%. Due to costs associated with the
+early cancellation of our in-person events such as Sapphire Now, our operating profit in the
+quarter was impacted by EUR36 million that otherwise would have occurred in later quarters,
+mainly in Q2. This is about 55 basis points of the operating margin decline in Q1 or approximately
+half of the decline. To ensure our financial flexibility, we have initiated prudent measures such as a
+slowing of hiring and the reduction in discretionary spending. We also expect to benefit from
+natural savings like lower travel and virtual rather than physical events.
+But having said that, and as Christian already mentioned, I can assure you that we will continue to
+balance this disciplined expense management with the continued bold investment in innovation
+where required to maintain and enhance our competitive advantages. In addition, I wanted to
+underscore our balance sheet stability and revenue predictability, which allows us to focus on
+future opportunities for our business and meet our goal of delivering long-term value for our
+shareholders.
+Now let me turn to IFRS operating profit and EPS. Q1 IFRS operating profit benefited from both
+lower restructuring expenses as well as lower share-based compensation expenses. This
+resulted in a significant increase to EUR1.2 billion. For the same reason, our IFRS earnings per
+share increased significantly, whereas under non-IFRS, our EPS decreased by 5% year-over-year.
+In the first quarter, our operating cash flow improved by 6% year-over-year to EUR3 billion. Our
+free cash flow was up even further and grew by 9% to EUR2.6 billion. In light of the COVID-19
+impact and our revised operating profit outlook, we have reassessed our cash flow expectations
+for 2020 and now expect an operating cash flow of approximately EUR5 billion and a free cash
+flow of approximately EUR3.5 billion, still a steep increase from last year's levels.
+Let me briefly update you on our capital allocation plans for the first half of 2020. First, we
+completed our share buyback program of approximately EUR1.5 billion already by mid-March. WeEUR1.58 per share is unchanged and will be put forward to voting at our virtual shareholders'
+meeting on the 20th of May.
+Now, finally to our financial guidance. Our current outlook is available in the quarterly statement
+published earlier today. It basically means the same that we had already put out with our pre-
+announcement, and as Christian already mentioned, the underlying assumption is that the
+demand environment will deteriorate through the second quarter and we then anticipate gradual
+improvement in the third and fourth quarters.
+So to summarize, over the last decade, we have worked really hard to build a strong base of
+more predictable revenue that has made us more resilient than ever. Before COVID-19 arrived,
+we already had prudent expense management measures in place based on the decisions we
+made early last year and we continue to make great progress on the efficiencies of our cloud
+business in particular. I am proud of our part we have worked and without the dedication,
+innovative spirit and discipline of our people, we wouldn't be where we are today. We remain
+committed to our long-term strategy and we absolutely expect to emerge stronger than before
+as we have done in past downturns.
+Thank you and we will now be happy to take your questions.
+`Stefan Gruber, Head of Investor Relations `
+Thank you. Operator, we can now start the Q&A session.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) We will now take our first question from `Michael Briest, Analyst, UBS from
+UBS. Please go ahead.
+Q - `Michael Briest, Analyst, UBS `
+Great. Good afternoon. Thanks for getting me on so early. Two from me if I can. Just firstly in
+terms of the free cash flow guidance, I think that was updated today, not at the pre-
+announcement date. And Luka, can you just talk us through the moving parts there because I think
+EBIT is coming down by about EUR600 million to EUR800 million, but the free cash flow is EUR1
+billion. Are there any one-offs in there or is this just maybe more caution around working capital
+given a lot of your clients will be looking to sort of keep hold of cash as well? And then another
+follow-up.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. Thanks for your question, Michael. So first of all, I think we have to look at operating cash
+flow and then as a derivative at the free cash flow. The operating cash flow has been reduced
+from EUR6 billion to EUR5 billion in our estimates basically for two reasons. One is, yeah, as you
+have rightfully noted, the reduction in our operating profit outlook. At the midpoint, this is a
+EUR700 million decline and that, of course, had to be reflected in the operating cash flow
+outlook. And the other one is a measure of prudence because we have to assume that especially
+in the next two quarters, some payments by customers may push out and we might see delays in
+payments due to working capital management measures of some customers, and we wanted to
+apply a conservative safety buffer to this. That's the first thing.Nevertheless, if these assumptions hold true on the operating cash flow line, then I certainly see
+an opportunity to perhaps do slightly better than what we have currently in the free cash flow
+outlook. You will appreciate that there are substantial uncertainties at this present time. However,
+it is fair to assume that EUR1.5 billion for the combination of CapEx as well as lease expenses is
+providing some room to potentially do slightly better. So I would say the free cash flow will very
+much depend on whether our assumptions for operating cash flow are correct. And if they are,
+there is certainly scope to do slightly better.
+Q - `Michael Briest, Analyst, UBS `
+Okay, thank you. And then, Christian, as you said, there is a lot of outside factors affecting the
+business today. I think Jennifer was --seemingly had more responsibility for the cloud business
+unit, her background more on sales than you. Can you talk about how you're going to spread
+yourself more broadly across the organization and whether perhaps there'll be new appointees
+to the Executive Board in the coming weeks to help you in dealing with the challenges ahead?
+A - `Christian Klein, Chief Executive Officer `
+Yes. Thank you, Michael, for the question. I mean, first of all, as the news got out yesterday, I
+guess, now it's really the time of course to think about how we're going to set up SAP going
+forward. I just want to also outline and make it very clear. When you look at our product strategy, I
+mean, SAP really has to do both. First of all, we want to win the LoBs, especially those LoBs who
+are close to the core, HR against Workday, procurement against Coupa. Also with Bob Stutz now
+on board with C/4HANA, we definitely are also making our bets in the front office and there, of
+course, we also want to have high competitive solutions.
+On the other hand, and you know that this was my home turf in the past, we are of course also a
+strong ERP company. And when you are SAP and you're running the world's most mission-critical
+business processes, clearly we put -- also have to put also a lot of emphasis on integration and
+infusing intelligence in those business processes. And especially in times like these, when I talk
+now to this -- to many CEOs, but also to the public sector, I mean, they now realize that the ERP is
+more relevant than ever, when these lockdowns happen, when the supply chains are getting
+disrupted. Suddenly you have a different kind of talk. We are not talking anymore about the back-
+end ERP and only automating transactional processes. Now it's about how do -- you can react to
+fast-changing demands in the front office and pushing this through a supply chain, which is highly
+resilient. So I also actually expect that going forward, our position will even be stronger as many
+of the CEOs now realize how important actually a well working ERP is especially in times like
+these.
+Q - `Michael Briest, Analyst, UBS `
+And in relation to management appointments or...
+A - `Christian Klein, Chief Executive Officer `
+Michael, please bear with us. I mean, this needs to be -- we need some more time of course, and
+at the end, this is also a decision of the Supervisory Board. As you know also, Stefan Ries will
+leave the company really soon, and of course, we are looking for a new Chief People Officer. And
+there will be of course news coming, but please, have a little bit patience with us, and at the end,
+it's also the decision of the Supervisory Board.
+Q - `Michael Briest, Analyst, UBS `Okay. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Let's take next question please.
+Operator
+We will now take our next question from `Mohammed Moawalla, Analyst, Goldman Sachs from Goldman Sachs. Please go
+ahead.
+Q - `Mohammed Moawalla, Analyst, Goldman Sachs `
+Great. Thank you very much. I had one for Christian, one for Luka. Christian, in your assessment as
+companies kind of manage the impact of COVID, how do you see the kind of adoption of
+S/4HANA? Does that pause in the near term and then sort of accelerate thereafter, given the
+kind of cost benefits? How do you see the association [ph] of that adoption evolving?
+And then second one was for Luka. In terms of sort of the gross margin improvement in the
+cloud, can you just give us an update on where you are on sort of migrating a lot of the kind of
+competitor databases on some of your acquired products and how should we think about the
+kind of phasing of the gross margin improvement over this year? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+To your first question, I mean, when you look at our cloud LoB solutions, there we have go-live
+durations of two to three months, and we can put these customers really live remotely. As we
+also have seen now in Q1, we have seen many go-lives across our cloud LoB solutions. In
+S/4HANA, obviously for S/4HANA on-premise, for the larger projects, of course, we have seen
+some postponement of these projects, but also to be very clear, we talk about postponement, I -
+- we are really sure that nothing of this business is lost. It's postponed, but also there, the good
+part of our strategy is that we give customers choice. So we have S/4HANA Cloud where we still
+have seen double-digit growth in Q1 even in this crisis, and there we also have celebrated now
+more than 500 go-lives also by the end of Q1, which also shows our ability to put these
+customers live in a remote manner.
+Adaire, you want to add something to that?
+A - `Adaire Fox-Martin, President, Customer Success `
+Yeah. Maybe just a couple of comments. I think that we've assessed our customer base and our
+opportunity along with the different industries and along the different segments that we serve. So
+we can certainly see some industries that are using the downturn as the opportunity to accelerate
+the transformation and other industries who are necessarily more impacted by the economic
+conditions we see at this point in time.
+The S/4HANA Move program is also one of the programs that we have been able to actually
+make virtual, moving a lot of our processes into a Move in Motion scenario, and at the start of this
+year, we moved the program to my office and introduced some KPIs specifically for our
+leadership team in order to give the Move motion the focus that it deserved from our sales
+leadership organization.
+A - `Luka Mucic, Chief Financial Officer `Yeah. Then let me come to the gross margin question, which is a very nice one for me. Thank you.
+On the celebration of my appointment, this is a very bright one, I'm happy to answer. So the --
+obviously you have seen that we continue to make great progress, so with the 69% that we've
+reached now already, or 69.3% in Q1. And when you take a look at the sub-components in the
+SaaS/PaaS segment outside of intelligent spend, the steep increase of 6%, that's obviously still
+due to the big advantage of running SuccessFactors now entirely since one year on HANA and
+that work in the SaaS/PaaS environment is basically completed. We have, in a few niche solutions,
+very, very few migrations left, but they don't really have any meaningful impact from a gross
+margin perspective.
+Then we come to intelligent spend. We have also seen a 1 percentage point gross margin
+improvement. Here we want to still add at least another percentage point, a bit more in order to
+meet our 2020 ambitions whereas in SaaS/PaaS, we are already there, and that will be basically
+achieved through the completion of the migration for Ariba. I'm very happy to report that we are
+almost done. Actually, as we speak, we prepare very large schema migrations for the network.
+The sourcing and procurement applications have already long been migrated to HANA and that
+will allow us, if everything goes well, next weekend, which I have every reason to believe that we
+will then see the full benefits of this migration. You will have seen that Concur, from our segment
+reporting, is operating at a very, very high gross margin and fundamentally Ariba will quickly catch
+up once we have completed this migration. So that looks very, very good as well. So from that
+perspective, there is not a lot left for us to do. If we are successful, then, in basically two weeks
+from now, the job will be completed and the mission accomplished.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Let's take next question please.
+Operator
+We will now take our next question from `Adam Wood, Analyst, Morgan Stanley from Morgan Stanley. Please go ahead.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Hi, thanks very much for taking the question and my congratulations to Christian on the CEO
+appointments and Luka on the extended contract. Maybe also two. Just first of all, I guess on
+maintenance and on subscription, you're going to have customers coming to you and asking you
+about potentially holidays or definitely cash deferrals. On the maintenance side, there has always
+been, I understand quite a strict kind of take it or don't take it policy. Would there be any room for
+that to change here? And on subscriptions, would there be any room for you to negotiate
+holidays or would it be very much focused on helping companies with cash, but not on the actual
+amounts they are used? That's the first question kind of on revenues in those two areas.
+And then maybe secondly on the cost measures and the cost base of the company. First of all,
+thanks for the guidance. I think everyone will appreciate that you're trying to help us there, but I
+assume some people will take different views on the top line. As we look at costs, could you
+maybe just help us a little bit with what is fixed and what is variable? Should we just look at the
+gross margin as the variable cost? And then should we look at the cost base that you're implying
+with your guidance as what is possible to do or would you be willing to go further if things
+became more difficult from here? So kind of what's on and off the table in terms of cost
+containment measures from here? Thank you.
+A - `Luka Mucic, Chief Financial Officer `Yeah. Perhaps I can start on the first question, and then for Adaire, perhaps to complement this
+because her people are basically in the front line of dealing with our customers. Look, I think we
+will continue to look for striking a healthy balance. We want to be empathetic with our customers.
+We will look for proper solutions that help them to continue to consume the SAP software
+solutions and drive for business continuity and benefit from their value. However, we clearly
+expect that both our maintenance as well as our subscription revenue streams will be very, very
+resilient in this respect.
+So to give you a modeling help, obviously we have taken down the subscription revenue
+guidance for the company by EUR350 million. At the midpoint, that is basically subject to our
+assumption that transactional revenues will come in slightly lower and that we might have some
+incremental losses of renewals as compared to a business as usual approach, but generally
+speaking, also underpinned by the very healthy backlog development that we have seen, we
+believe that this is basically quite sufficient.
+On the maintenance side, we actually have seen in the past that the resilience is extremely high.
+So we have taken down our assumptions by roughly EUR100 million that might be necessary from
+a concession perspective, but this will not be massive and significant. Nevertheless, we are
+looking at smart combinations of measures to help our customers. We have financing offers
+available. We can be flexible with them to a certain extent if they extend the longer-term
+commitment with us and some other tools in the toolbox, but we will, I think, strike a healthy
+balance and we are working in very close lockstep with Adaire's steam to make sure we make
+the right choices there.
+Adaire?
+A - `Adaire Fox-Martin, President, Customer Success `
+Yeah. Thanks, Luka. Maybe I'll just pass comments on how that's working in practice. The
+approach that we've taken is a very customer-centric approach. We recognize that all of our
+customers often have very unique commercial arrangements with SAP. Therefore, we are dealing
+with this case by case. We have given our regions some guidance on concessions and related to
+maintenance and they are empowered to make those decisions in situ relevant to each customer
+contact. And as far as subscription et cetera is concerned, again, at the closing of Q1, we gave
+the regions the power to look at things like the date, payment terms, so they -- start dates, and
+as Luka has already mentioned, financing in order to ensure that we can support our customers in
+their continuity measures.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. And perhaps just briefly on the cost question, I think we have been clear also in our
+prepared remarks that we will not starve the company unduly for our profitability optimization in
+2020 and thereby sacrifice our future growth opportunities. Having said that, we believe that our
+top line assumptions are quite reasonable and we feel comfortable with them. And of course, we
+have planned both our variable expense characteristics as well as discretionary expenses and
+savings programs against them in order to reach our financial markets commitments. On the
+bottom line, we certainly expect across reduced travel, virtual events, other discretionary
+expense reductions and reduced hiring volumes, significant savings opportunity roughly in the
+mid-triple-digit million euro range, and that should suffice in order to carry us through the year
+and meet our financial commitments.
+Q - `Adam Wood, Analyst, Morgan Stanley `That's very helpful. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. Let's move to the next question please.
+Operator
+We will now take our next question from `Mark Moerdler, Analyst, Sanford C. Bernstein from Bernstein Research. Please go
+ahead.
+Q - `Mark Moerdler, Analyst, Sanford C. Bernstein `
+Thank you very much. Two questions if you don't mind. The first one is, can you give us a sense of
+where SAP is in the move of cloud workloads to the hyperscale providers? Do you see the
+lockdown impacting it? Do you see COVID driving you to move more workloads out of your own
+data centers to the cloud? Any color there and then a follow-up for Christian.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. On the hyperscaler side, I can take this question as well. So in Q1, we have not seen any
+deviations to the move to the hyperscaler compared to the quarters before. As you know, we
+have a very agnostic approach. We are having partnerships with Microsoft Azure, with AWS, with
+GCP and Ali in China, and there was no change in the movement to those hyperscalers.
+Obviously we have very strong partnerships in place of all of those, clearly focused on the
+infrastructure-as-a-service level. With regard to our own data centers, we still see also a high
+share of workloads going to our own data centers in Europe for data security reasons, for data
+protection reasons. This is still where we of course also see high workloads coming towards our
+own data centers.
+Q - `Mark Moerdler, Analyst, Sanford C. Bernstein `
+Excellent. I appreciate. And that follow-up then for you. Can you give some color on how you see
+your sales operations could change in a post-lockdown world? Does the world change for sales?
+Does it work the same? How do you think you reorganize, if at all? Any color would be
+appreciated.
+A - `Adaire Fox-Martin, President, Customer Success `
+Hey, Mark. This is Adaire. Perhaps I'll answer that and...
+Q - `Mark Moerdler, Analyst, Sanford C. Bernstein `
+Okay. Thank you.
+A - `Adaire Fox-Martin, President, Customer Success `
+...maybe then Christian can add anything that he wants to. I mean, so first of all, prior to the
+onslaught of COVID-19, we had already made a significant change in our sales structure here at
+SAP. We created a new board area. We call this board area customer success. One thing, the
+name of the board area and the mission of the board area to be one and the same thing, and
+that board area contains the customer-facing resources of SAP that focus on sales, on customer-
+facing support, and our consultants in the services organization. So essentially, all of the
+customer-facing resources in SAP align around the Customer Success board area. And this givesus the opportunity to orchestrate ourselves around the customer motion with SAP, and we see
+that falling into four clear areas; land, adopt, consume, and expand. So we have set our sales
+organization up and our customer-facing organization up in order to introduce simplicity and
+operational simplicity as far as customers and partners engaging with us. So I think
+organizationally, we have aligned the company around our customer and their objectives.
+Now, in terms of COVID-19, I'm very proud of the agility that the team displayed as country after
+country went into lockdown in Q1. We already have, as you are aware, a very strong commercial
+sales organization, which is a digital-based sales organization. And we were able to take the tools
+of that organization and repurpose them for the entirety of the sales force. We also are looking
+at our demand generation processes and essentially migrating those to a digital-first method as
+opposed to a physical event strategy. And this will help us to rapidly increase the pipeline for our
+products even though we are connecting with our customers and with our partners in a virtual
+way.
+So I believe that we will see some of the measures that we've put in during the COVID-19
+scenario maintain in our business in the long term. Specifically, the use of some of the tools that
+won't always necessitate a physical presence at the customer, allowing us to scale, and secondly,
+the opportunity to really generate demand using digital approach and digital technique, giving us
+much greater reach and hopefully a larger pipeline for the sales team to execute on.
+A - `Christian Klein, Chief Executive Officer `
+And from an operations perspective, as I also mentioned in the prepared remarks, together with
+Adaire's team, we are building out our digital store capabilities. I find it really quite amazing that
+already 30% of our SME transactions are run by the digital store, and then downstream, this no-
+touch, meaning from the point of sale to the provisioning of the customer tenant, we need no
+human intervention anymore. Plus, we also manage more and more of our renewals business via
+the store and now we are just expanding also our pay-as-you-go capabilities where customers
+can buy more consumption via the store again without any direct sales intervention. And this is
+the type of automation, this is the type of intelligent enterprise what we have to continue by our
+own as this also gives us this more resilience in this crisis, but also actually our customers who are
+paying for.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay. Thank you.
+Q - `Mark Moerdler, Analyst, Sanford C. Bernstein `
+Thank you very much.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take next question please.
+Operator
+We will now take our next question from `James Goodman, Analyst, Barclays Capital from Barclays. Please go ahead.
+Q - `James Goodman, Analyst, Barclays Capital `
+Good afternoon. Thank you. The current cloud backlog growth was clearly robust in the quarter. I
+guess, mechanically, that was only slightly affected towards the end of the quarter from lowerorder intake in the cloud. So I guess while appreciating that you've moved away from the new
+cloud bookings measure, could I ask you to provide some commentary on cloud order intake in
+the last weeks maybe in contrast to the license trends? And as a follow-up on cloud, the ISG
+business looked pretty resilient so far in Q1. You mentioned, Luka, earlier the transactional
+revenue component of that business. Could you comment a little bit more in detail around what
+the transactional revenues did in Q1 and whether sequentially in Q2 we should anticipate the
+significant further dropping out of Ariba and Concur transactional revenues? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+So let me cover this. First of all, I mean, since we have discontinued our new cloud bookings
+disclosure, I mean, I won't reintroduce it here on the call. What I can give you as qualitative
+commentary is that while the pipeline and the actual results for cloud order entry have also
+deteriorated in the last two weeks of the months, the ultimate outcome in terms of growth was
+still substantially above what you have seen on the software license figures. So there is a
+difference between cloud on-prem, but nevertheless the dynamics that we saw in the last two
+weeks were actually not dissimilar from each other.
+And in terms of the transactional revenue side, actually it is different, if you look at the different
+solutions and it's quite evident why it is different. First, you have Concur. Concur has a relatively
+minor proportion of transaction-based, overage-based revenues. Still, of course, in this
+environment due to the travel lockdowns, they have seen a reduced performance in those
+overages, but the majority of their business is subscription-based and that's why you have seen
+that they still had a healthy 13% growth on the top line and also the bookings performance was in
+line with expectations considering, of course, these lower performance on the variable part.
+Then you have Fieldglass, which is a different story. Fieldglass is a temporary workforce
+management platform and temporary workforce, as you might imagine, is very much in demand
+these days as companies try to flexiblize their capacity and bring in additional resources, in
+particular in very challenged areas such as, for example, the healthcare sector and others. And so
+Fieldglass actually did quite well from an order intake perspective and also from a revenue
+perspective.
+In Ariba, you have the largest share of transactional revenues and there you have had a mixed
+bag. You had industries where the spend clearly was down significantly, as you might imagine,
+and then you have others like pharma, for example; also all of the consumer product areas where
+it was still relatively healthy, but nevertheless, we have seen some level of a downturn there and
+that's also, together with the overages at Concur, the primary areas where we expect impact
+from COVID-19, but again, that is as far as we can anticipate reflected in our guidance.
+Q - `James Goodman, Analyst, Barclays Capital `
+Okay. Thank you, Luka.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay. Thank you. The next question, please.
+Operator
+We will now take our next question from `Kirk Materne, Analyst, Evercore ISI from Evercore ISI. Please go ahead.
+Q - `Kirk Materne, Analyst, Evercore ISI `Yes. Thanks very much. I've got two quick ones. One sort of following up on your last comments,
+Luka. I was just wondering if you could add a little bit more color around Qualtrics in particular, just
+how the business fared during the last couple of weeks of March and kind of your assumptions
+around the business as we go into this period of uncertainty. And then the second question is
+really around China. You're one of the few software companies that actually has any visibility into
+that. Hopefully China is starting to normalize, maybe that's like a good predictor for what might
+happen in other regions. So I was wondering if you could just maybe comment on what you saw
+beginning of the year in China and kind of how it's going today. Thanks.
+A - `Christian Klein, Chief Executive Officer `
+Why don't I initially pass it over to Adaire? She is obviously greatly and acutely aware of the
+situation in China and I can then cover on top comments and also talk a bit about Qualtrics.
+A - `Adaire Fox-Martin, President, Customer Success `
+Okay. Thank you so much. And Kirk, thank you for the question. So China continues to be an
+important market for SAP. Obviously during the entirety of Q1, we saw the impact of COVID-19 on
+our business in China as essentially for almost the entirety of that quarter, the country was under
+lockdown. And towards the end of Q1, so I am not really talking about the last weeks, but literally
+in the last few days of Q1, we saw China really emerge in terms of actual meetings beginning to
+happen again, customer engagement beginning to happen again. And although we didn't have a
+(inaudible) performance in China, we saw what was the original forecast increase as the last days
+of the quarter came to a close.
+So as we look forward now and we are looking at China, looking at South Korea, which has also
+emerged from lockdown and looking at those geographies in terms of the going back to work,
+not just for our teams, but also the level of engagement and so on with our customers. So China
+continues to be an important part of our strategy. We continue to evolve our role in the economy
+and look forward to continuing our growth strategy in that region.
+And Luka, did you want me to maybe just make a couple of comments on Qualtrics and then you
+can pick up from those comments?
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. By all means.
+A - `Adaire Fox-Martin, President, Customer Success `
+I think we saw the power of Qualtrics very much during the course of Q1 and particularly as we
+supported our customers in their fight against COVID-19. We released a offer, a no-strings-
+attached offer to our customer base around the opportunity to use the Qualtrics platform to be
+able to put their employees, particularly as the vast majority of their employees were working
+remotely. We saw tremendous uptake of that offer and I think this is an opportunity for people
+who perhaps were not familiar with Qualtrics to become familiar with the breadth and depth of
+that solution.
+We also saw in Q1 continuing uptake of our HXM solution, which is the combination of Qualtrics
+with our SuccessFactors portfolio, enabling us at the critical point in an employee's life cycle to be
+able to gather sentiment from employees to integrate that into the SuccessFactors solution and
+then effectively close the loop between feedback sentiment and action in the system.Maybe from a revenue perspective, Luka, you might want to comment on that, but certainly
+Qualtrics, very important part of our portfolio.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. No, happy to do so. And I mean, you see of course the current quarter revenue results in
+the segment reporting with 88% cloud revenue growth, they are actually continuing to beat the
+business case that we had set up. So we are ahead of our expectations, but of course, that is
+also, to a large extent, the success of our really, really great pickup in the first year of integration
+that we have seen on the bookings side.
+When I take a look now at Q1, from an order intake perspective, Qualtrics continues to grow
+faster than the average of SAP. So it's clearly, as Adaire has said, a solution that is very responsive
+to the immediate needs of companies to judge sentiment of their constant [ph] trends, whether
+it's their employees or whether it's customers and respond quickly to the same. Nevertheless, I
+think it's also fair to say that the full potential that Qualtrics has as a business from a growth
+perspective in the short term is also going to be impacted to a certain extent by COVID as the
+entire portfolio, of course, is, to a certain extent, dampened in its growth, but nevertheless, as
+we are significantly ahead of our initial planning on the revenue side, I think Qualtrics will continue
+to be a very key pillar of our growth story, and of course will also have an above-average growth
+rate from a revenue perspective all the way through 2020 and for the future. We are extremely
+confident that we have only scratched the surface of the possibilities since the vast majority,
+more than 90% of our existing installed base customers have not yet made a selection of an
+experience management platform and that's a huge opportunity for us to harvest in the coming
+years.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you.
+Q - `Kirk Materne, Analyst, Evercore ISI `
+Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Let's take next question please.
+Operator
+We will now take our next question from `Stacy Pollard, Analyst, JPMorgan from JPMorgan. Please go ahead.
+Q - `Stacy Pollard, Analyst, JPMorgan `
+Thank you. A quick follow-up on Qualtrics and then a second question on operating margins.
+Firstly, on Qualtrics you've mentioned that as it attaches to the HCM solution, a couple of things.
+Does that help you win against Workday? Are there other areas that you're partnering in across
+your portfolio? And then is Qualtrics driving S/4HANA adoptions as well?
+And then second question on margins. Really, how do you think about that 34% target in the
+midterm in terms of timing to get there? Does 2021 sort of bounce back to the curve it would
+have been on or do you see a more progressive 100 basis points from 2020 up through the next
+three or four years?A - `Adaire Fox-Martin, President, Customer Success `
+Okay. Stacy, maybe I'll take the first question and then pass the second one to Luka. We certainly
+see the integration of Qualtrics as a competitive differentiator and as a force multiplier for SAP.
+Certainly in terms of competing in the HCM market, we believe that with the addition of Qualtrics
+with SuccessFactors, we've redefined that market to be around human experience management.
+And the same integration opportunities exist in other products in our portfolio, and not least of
+which is our CX portfolio suite and how we can integrate the Qualtrics opportunity to take
+consumer sentiment and consumer feedback into that loop. And likewise, also when you consider
+our supply chain presence and the dominance of SAP in managing the complex supply chain
+requirements of our customers, understanding supplier sentiment is also an important
+compartment of supply chain success. So we certainly see Qualtrics as a differentiation. The
+integration continues apace. We have already worked through that with our HXM portfolio. We
+are in the tail end of that with our consumer portfolio and looking forward to adding supplier
+sentiment to the sentiments that we are capturing and enabling the feedback of that sentiment
+back into the operational systems and support systems.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. And maybe I can comment on how Qualtrics helped on S/4HANA adoption. I mean, since
+the end of the last year, Qualtrics is already embedded with S/4HANA Cloud. So this gives us a
+complete new way of co-innovating with our customers because our end users now can give
+instant auto feedback about their experience of S/4HANA cloud and our product managers can
+also then take real-time action on that. So this is a completely new way of co-innovation and
+definitely also then helps the innovation and adoption cycle of S/4HANA as we can really translate
+that in our quarterly release cycles of S/4HANA Cloud.
+A - `Luka Mucic, Chief Financial Officer `
+And just very quickly on the margin, look, I mean, we have made our home network now on the
+expense base, on the efficiency, on the database platform for our cloud solutions. I've said that
+this quarter, we are looking at finally completing it, and then basically the only thing which will be
+variable is the scale of our business and how fast we can scale back on the top line and that will
+determine the, let's say, steepness of the margin improvement curve and how much of that we
+will catch up in 2021 or at a later stage.
+In terms of the underlying, we had a widely successful Best Run program where we have laid the
+foundation for all of the underlying expense drivers and efficiency drivers. In all of the work
+streams, we're making very good progress, so we will complete this program by the end of this
+year. That's at least a clear plan even in the virtual times of COVID and that then means that
+basically the top line will be defining the equation.
+Look at Q1, for example, right, 55 basis points, the special effect from the expense pull forward.
+Another 60 basis points is the year-over-year challenge of our divestment that we had in Q1 2019
+with the environmental regulatory content business that we saw there with a EUR40 million
+positive impact on operating income. If you back out those two factors and you apply just a
+normal software license performance and you can see how much we would have approved in the
+underlying business from a margin perspective and we have no doubt that this will fully shine
+through as we return to growth in our order entry in 2021.
+A - `Stefan Gruber, Head of Investor Relations `Operator
+We will now take our next question from `John King, Analyst, Bank of America Merrill Lynch. Please go ahead.
+Q - `John King, Analyst, Bank of America Merrill Lynch `
+Yeah. Thank you and good afternoon and congratulations to Christian on taking up the CEO role.
+One question for you, Christian. Obviously, it feels like the world has changed quite a lot in a very
+short space of time, looks pretty different too even when you set your 2023 ambitions. I guess
+today is not the right day, but I wonder if you may come to revisit any of those assumptions
+perhaps around the M&A that I think you more or less said you would part that. Would that
+potentially change in this environment? Even some of your organic investments, could you revisit
+those in the current climate to take advantages of any opportunities that present? I know
+obviously you retain your focus around the digital front office, perhaps an area for investment. So
+maybe you could speak to that. Thank you.
+A - `Christian Klein, Chief Executive Officer `
+So thanks a lot for your question and also thanks for your kind wishes. I mean, first of all, you have
+seen our updated guidance for 2020, and this is also now our first and foremost duty to really
+safeguard Q2. As Luka already mentioned, we see a further deterioration of the business in Q2,
+but of course also we see a slight recovery in Q3, Q4, but it's also somehow like looking into a
+crystal ball. So we really didn't now want to change any outlook for 2023 as we have now the full
+focus on this year and making this year successful.
+On the M&A front, clearly what we also said at the beginning of the year, I see a lot of potential
+to grow our business organically as we didn't even harvest all of our potential of the past
+acquisitions to cross-sell opportunities, not only Qualtrics. When you see still how many HCM on-
+premise customers we have in the installed base, same for SOM, we have a lot of potential, and
+I'm sure that with the current development we have in place to really drive the integration, to
+really drive the modular suit, plus now also drive the verticalization of our solutions, so to really go
+deeper into the industries as all of the industries are now changing these days, I'm sure we will
+see huge organic growth. So M&A is clearly not our priority, but of course, we will watch the
+market and look for potentials, but currently our full focus is on organic growth.
+Q - `John King, Analyst, Bank of America Merrill Lynch `
+It's clear. Thank you.
+A - `Stefan Gruber, Head of Investor Relations `
+Thank you. We have time for two more brief questions, please.
+Operator
+We will now take our next question from `Phil Winslow, Analyst, Wells Fargo Securities from Wells Fargo. Please go ahead.
+Q - `Phil Winslow, Analyst, Wells Fargo Securities `
+Yeah. Thanks guys for taking my questions and glad to hear that you're all well and best wishes to
+you and your families and your whole team. A question for Christian and Adaire. Luka did a great
+job unpacking the transactional business and the cloud, so they're areas that will strengthen
+where you've also seen some deferral. When you think about SAP's product portfolio, obviouslyet cetera. When you look at Q1, particularly license and call it just the new cloud business, are
+there any segments that were a stand out for you having seen relative strength than others
+where you're seeing deferrals? And how do you -- how does that roll into your customer
+conversations in terms of just the forward roadmap for the rest of year? Thanks.
+A - `Adaire Fox-Martin, President, Customer Success `
+I'll start, and then Christian, if you have anything to add, please feel free to do so. I think we're
+probably blessed by the actual breadth of our portfolio. There were certainly industries where we
+saw a much more significant impact on business choice than we saw others -- than in others, but
+for those industries, for example, in the travel and transportation industry, that only represents
+about 4% of our total revenue from an industry perspective. So our exposure is not very high.
+However, if you look at other industries like in the energy and resources sector, if you look at the
+CPG with the exception of grocery, those sectors, we have a higher exposure to and customers
+did slow down some decisions in those. So absolutely the industry portfolio, the industry point of
+view was a point of view that we took as we look forward into the second quarter, taking on
+board some of the observations and the actualities of the past.
+Also from a segment perspective, we have a significant general business segment where many
+SMEs choose to buy SAP in order to run their business and this segment is obviously a segment
+that, from a cash flow perspective, felt the crisis more than others and that is one that we are
+actively engaged with, particularly with our channel partners in terms of looking at the support
+that we can provide there.
+And then to the breadth of our solutions, I think that we saw some good uptake, already
+mentioned Qualtrics and the HCM scenario. We launched a program called Ariba Discovery, so
+certainly helping organizations to procure product during this period of time, so I think
+procurements and our solutions in procurement, we expect to see some strong uptake, and also
+very importantly, in supply chain and supporting organizations logistically with supply chain agility
+as part of their go-forward scenario. So those, I guess, are essentially some of the metrics that
+we looked at the business by and there are some of the metrics that we fed into our processes
+for our Q2 assessment. Christian, I don't know if there's anything you'd like to add.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. No -- maybe just one comment with regard to S/4HANA. I mean, there we clearly have seen
+now that in Q1, as I said, we saw a lot of customers now going for S/4HANA Cloud as there we
+can offer fast time to value, we have go-lives, which can happen. If the business processes are
+standardized, if the fit-to-standard works, we can have a go-live of -- in two to three weeks. Plus,
+we also have seen large corporations who went into an S/4HANA on-premise installation, but
+now, because onsite work is quite difficult these days, they also changed their roadmaps to go
+maybe for S/4HANA Cloud for certain subsidiaries, for certain acquisitions. Again there, because
+there we can also do a lot of work remotely and still, of course, also help them to automate their
+business, to automate the supply chain, and this is what we have seen in Q1 and there clearly it
+also plays out in our favor that we give customers choice between cloud and on-premise in our
+core.
+A - `Stefan Gruber, Head of Investor Relations `
+Okay. Thank you. We have one final question, please.
+OperatorWe will now take our final question from `Alex Tout, Analyst, Deutsche Bank from Deutsche Bank. Please go ahead.
+Q - `Alex Tout, Analyst, Deutsche Bank `
+Yeah. Hi, everyone. Congrats, Christian, on the appointment and also Luka, for the extension.
+Couple from me. So firstly to Christian, I mean, it kind of follows up from the last question a little
+bit. How do you see the demand for e-commerce in the wider customer experience domain
+currently? I guess, intrinsically it feels like you might see a near-term pullback there, but perhaps
+maybe coming back quite strongly in the post-crisis period. Just any color you could give around
+e-commerce in the wider CEC area.
+And then for LuKa, with the cloud, I know you're not disclosing cloud bookings anymore, but just
+given the way mechanically the cloud bookings should flow through to revenue, would you expect
+the lower bookings that you're likely to see there this year to have a larger impact on cloud
+revenues in FY '21 than in FY '20? So all things being equal, should it be a bigger impact in FY '21
+relative to the pre-crisis situation than in FY '20? Thanks.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. I will just very quickly answer the second one and then hand over to Christian for the
+commerce question. Look, I think you are stating the obvious. The new cloud bookings that you
+post in a given business year will only to a minor extent influence the revenue in that respective
+year. So there would be a larger impact on '21 than on '20, but that of course then also is
+completely speculative because if you had a major rebound, for example, at the beginning of '21,
+then you would also have a perhaps larger than expected impact from early '21 bookings on the
+full year '21. But you're absolutely correct, the new cloud bookings performance in the current
+year is not so decisive for growth rates in the cloud. The more decisive piece there is our success
+in renewals.
+A - `Christian Klein, Chief Executive Officer `
+And coming to your first question, what we have seen in Q1 is actually that the customer buying
+behavior change towards these capabilities who help really to also get more with resilience
+against such a crisis. So in the front office, clearly our customers have seen that those enterprise
+now have a competitive advantage, who are already doing more online sales, who really worked
+on their omnichannel sales experience. But also downstream, in the quote to cash, this was of
+course an area where a lot of customers now have chosen S/4HANA Cloud to not only run a
+product license business, but also to change their business model into a pay-as-you-go
+subscription-based business model as a lot of enterprises these days have to overcome some
+liquidity challenges. And also then, of course further when you go into the supply chain, this is of
+course an area where we see now huge interest as customers realize that they have to build
+more intelligent supply chains, that industry (inaudible) with the automation of the digital factories
+is key and again to be more resilient in such a crisis. And these are the areas along the value
+chain where we definitely see also a lot of market potential going forward.
+A - `Stefan Gruber, Head of Investor Relations `
+Good. Well, thanks a lot. This concludes our Q1 earnings call. Thank you all for joining and thanks
+for your questions and goodbye.
+A - `Christian Klein, Chief Executive Officer `
+Thank you.A - `Luka Mucic, Chief Financial Officer `
+Thank you. Bye-bye.
+Operator
+Ladies and gentlemen, this concludes today's call. Thank you for your participation. You may now
+disconnect.

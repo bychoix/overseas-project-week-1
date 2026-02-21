@@ -1,0 +1,757 @@
+Q3 2021 Earnings Call
+
+Presentation
+Operator
+Good day, and welcome to the SAP Q3 2021 Earnings Conference Call. Today's conference is
+being recorded. At this time, I would like to turn the conference over to Mr.`Anthony Coletta, Chief, Investor Relations Officer, Chief
+Investor Relations Officer. Please go ahead.
+`Anthony Coletta, Chief, Investor Relations Officer `
+Good afternoon or good morning, everyone. Welcome and thank you for joining our earnings call
+to discuss SAP's Q3 results. On a personal note, I'm delighted towards my first earnings for SAP. It
+is a distinct honor to serve in this capacity. With me on the call today are CEO, `Christian Klein, Chief Executive Officer; and
+CFO, `Luka Mucic, Chief Financial Officer, who will make opening remarks. Joining us today for Q&A from New York City is
+`Scott Russell, Head Customer Success, who leads our customer success organization. Also with us in the room is Stefan
+Gruber, my predecessor, as we now successfully conclude our handover. Welcome, Stefan.
+Would you like to say a few words before we start?
+`Stefan Gruber, Chief Investor Relations Officer `
+Thanks, Anthony, and congratulations on your appointment. And thanks also for the great
+cooperation and the partnership during the last weeks. I really enjoyed our collaboration. What I
+just want to say briefly here that it has been a privilege to engage with the financial community
+over the last 18 years. And now I'm looking forward to my next chapter. And I can do this at ease
+because I know the financial community is in very good hands with you, Anthony. So back to you.
+`Anthony Coletta, Chief, Investor Relations Officer `
+All right. Thank you, Stefan. And now to the safe harbor. During this call, we will make forward-
+looking statements, which are predictions, projections, or other statements about future events.
+These statements are based on current expectations, forecasts and assumptions that are subjectto risks and uncertainties that could cause actual results and outcomes to materially differ.
+Additional information regarding these risks and uncertainties may be found in our filings with the
+Securities and Exchange Commission, including but not limited to the risk factors section of SAP's
+annual report on Form 20-F for 2020.
+On the SAP Investor Relations website, you can find the deck intended to supplement today's call
+available for download. Unless otherwise stated, all financial numbers on this call are non-IFRS,
+and growth rates and percentage point changes are non-IFRS year-over-year at constant
+currencies. The non-IFRS financial measures we provide should not be considered as a substitute
+or superior to the measures of financial performance prepared in accordance with IFRS.
+And with that, I will now turn the call over to Christian.
+`Christian Klein, Chief Executive Officer `
+Yes. Thank you, Anthony and Stefan, and thanks to all of you for joining us today. I hope everyone
+is staying safe and healthy. Q3 has been an outstanding quarter, record new cloud business led
+to 22% growth in current cloud backlog, which for the first time surpassed EUR8 billion. Renewal
+rates are also strong and keep improving, reflecting very high customer satisfaction. It's clear that
+our approach with customers is resonating. They are facing unprecedented pressure from a
+combination of factors; the pandemic, supply chain disruptions, the changing workplace and of
+course, climate change.
+A year ago, we introduced our new strategy, which directly supports our customers in addressing
+these challenges. SAP's strategy is based on our unmatched strength in developing deep
+customer partnerships to drive holistic business transformation. At the heart of our approach is
+RISE with SAP. Our offering for business transformation in the cloud, which offers three key
+benefits. First, it helps customers develop, adopt and automate new business models, thereby
+becoming intelligent enterprises.
+Second, with our business network, the largest B2B network in the world, we help our customers
+create more resilient supply chains by connecting them with a vast community of suppliers and
+manufacturers. Third, we are uniquely positioned to help our customers improve their green line
+as no one is better placed than SAP to help companies put in place the most energy-efficient
+business processes.
+We at SAP are motivated by the role we play to fulfill our mission, to help the world run better
+and ultimately, improve people's lives. A key part of improving people's lives is a strong
+partnership between the technology sector and government. This critical partnership became
+crystal clear during the pandemic from contact tracing apps, like our Warn app, downloaded
+nearly 35 million times in Germany to vaccine distribution. Whether it's in Germany or the U.S. or
+elsewhere, we are encouraged by discussions about new investments in infrastructure, education
+and healthcare, with digital transformation at their core.
+Let's now turn to some of the detail behind our quarter. We are seeing excellent progress in the
+cloud and strong growth across our line of business applications. Our cloud revenue growth
+accelerated sequentially by 3 percentage points to 20%, higher than most of our large
+competitors. This is the second consecutive quarter of increasing growth and we expect this to
+continue in Q4. We have seen record new cloud business in Q3 with the highest Q3 growth in 6
+years. In both ERP and Human Experience Management, our new cloud business is growing faster
+than our largest competitors.Overall, our revenue grew 5% year-over-year, our third consecutive quarter of increasing overall
+revenue growth. I talked about RISE with SAP at the start of my comments. We introduced this
+new offering just in January this year, and Q3 has already been another great quarter. There's an
+important strategic dynamic behind this. Specifically, strong RISE momentum accelerates the
+move to S/4HANA cloud, and even more important, the SAP business technology platform, which
+in turn leads to strong adoption of our modular cloud ERP, including SAP's line of business and
+industry applications.
+RISE with SAP is the enabler. Customers can analyze, benchmark and redesign their business
+models and processes based on best practices collected from over 400,000 customers. This
+dynamic enables SAP to more effectively cross-sell to our installed base and led to this quarter
+strong momentum. In Q3, S/4HANA cloud backlog grew by an impressive 58%, up from 48%
+growth in Q2 and building a strong foundation for future cloud revenue.
+In Q3, our S/4HANA cloud revenue grew by 46%, up from 39% in Q2. At the same time, we are
+winning market share, with more than 50% of S/4HANA cloud revenue coming from new
+customers. Asda Stores from the U.K. and Philips domestic appliance are among hundreds of new
+customers choosing RISE with SAP. Thanks to RISE with SAP, we are seeing equally strong
+momentum with our line of business applications.
+In Q3, all of our main solutions grew new cloud business by double digits. We saw double-digit
+cloud backlog growth across our whole portfolio. We are seeing positive cloud wins with S/4HANA
+against Oracle, including wins with Adidas and Clover International. VMware further invested in
+SAP S/4HANA, showcasing their belief that SAP S/4HANA will continue to transform their business
+by simplifying their integration of acquisitions and new products, harmonizing their data and
+lowering overall IT costs.
+We saw several wins against Workday with our Human Experience Management solutions,
+including this quarter Moy Park, a large U.K.-based food company. In our CX business, both cloud
+revenue and current cloud backlog grew again by strong double digits. Bayer has selected SAP
+Customer Experience Solutions as part of a core SAP portfolio to streamline their end-to-end
+business processes. Siemens Energy was a key win for SAP Ariba. We are also very excited about
+our new multiyear agreement with the U.S. department of defense for SAP Concur. We signed a
+strategic long-term agreement with Reckitt for SAP Analytics Cloud.
+Our business technology platform, which underpins the strengths across our line of business
+applications also grew well in both cloud revenue and cloud backlog. Customers this quarter
+include Robert Bosch, SoftBank Corporation, Yamaha Corporation, and nonetheless. For the first
+time, our overall Cloud ERP business, spanning our line of business applications, exceeded EUR6
+billion of annual revenue runway. As we extend our RISE offering to include modular ERP and new
+industry solutions, we expect our overall cloud ERP business to continue to grow well.
+In summary, this has been another excellent quarter. Our results demonstrate that our strategy
+has taken hold and is delivering at an accelerated pace across an expanding set of markets. We
+are optimistic about the momentum we are seeing and we are raising our outlook once again. In
+closing, I want to spotlight a critical imperative that is at the heart of our transformation,
+sustainability. We are delivering major new advances to help our customers reach their net-zero
+goals. Recently, introduced SAP Product Footprint Management is designed to help customers
+reduce the footprint of their supply chains. Later this year, we will launch SAP Responsible Design
+and Production, helping companies build sustainable outcomes into product design. Shortly after,
+we will launch SAP Sustainability Control Tower, providing customers with transparency and insight
+around their progress to net zero.However, our ambitions go far beyond individual products. The UN's Climate Change
+Conference, COP26, is happening next month, putting a spotlight on the enormity of our climate
+change challenges. With no single government, multilateral organization or business can solve this
+problem alone, businesses do play a significant role. The ability to see inside and outside your
+organization across manufacturing, supply chains and critical business processes is crucial. This is
+the unique advantage SAP can offer. We enable our customers to manage their green line, with
+as much as important as the bottom and the top line. You will see us continue to lead significant
+innovation on this front, in addition to building strong business coalition.
+Let me close on a personal note. Thank you, Stefan, for leading Investor Relations for the last 18
+years. I can actually still remember when we, the two of us met for the first time together. It was
+in New York and I was an intern and you took me out to a concert at Central Park. And after that,
+you worked with 6 CEOs. Our market cap increased 6-fold and you took part, believe it or not, in
+75 earning calls. I've enjoyed really working for you, and I'm also very thankful for your personal
+friendship, and of course, on behalf of SAP, we are really grateful for your dedication, integrity
+and great work. We all wish you well for the future.
+At the same time, a warm welcome to you, `Anthony Coletta, Chief, Investor Relations Officer, our new Chief Investor Relations
+Officer. Anthony has held a number of key leadership positions with SAP. Most recently, as CFO
+for North America. We are delighted to have Anthony in this new role, and I'm sure you will all
+enjoy getting to know him. Thank you again for joining us today. And let me now hand over to
+Luka to talk through our results in more detail.
+`Luka Mucic, Chief Financial Officer `
+Yes. Thank you very much, Christian. But before I get started, I would also like to say a big thank
+you to you, Stefan, for many years of partnership and friendship. I counted it as well and we were
+together for 31 quarters, and of course, countless roadshows and investor one-on-one meetings
+in between. I actually have to say, unlike on the CEO side of the house, you only had to work with
+2 CFOs. I'm not sure whether you considered that a blessing or a curse, but -- and I also hope
+that I didn't create too many headaches for you as we were going through all of these meetings.
+But I always genuinely enjoyed working with you. Also, the sense of humor that even in the wake
+of more difficult times, I think we were always able to uphold. I should disclose here that Stefan is
+also an excellent piano player and recently gave a play to me when I was getting 50 a month ago.
+And so the least that I can expect now as you are having a little bit more time to practice is to get
+a full recorded concert at least for every quarter that we're ending. So all the best to you, Stefan.
+And really, once again, a big thank you for all of your dedication to SAP and also to all of the great
+work with me personally.
+At the same time, Anthony, I'm also really looking forward to working together with you in this
+new capacity. We've been working together a long time, when I was the CFO of Customer
+Operations, you were the Head of FP&A and then became a CFO in both mature and emerging
+markets in Mexico, Latin America, and North America. I think you bring a great understanding of
+our business on the ground, as well as the transformation that we have been going through to
+the table, and I'm sure investors will come to appreciate this in the personal dialogue with you. So
+once again, congratulations and looking forward to many more quarters together with you, at
+least 31, let's see.
+So with that out of the way, let me come to my review of the quarter, which indeed was an
+excellent one across all key financial metrics. Christian just talked about some of the business
+highlights and customer wins, but at a macro level, what we can clearly see is that our customersin the strong RISE with SAP adoption that continued in Q3, which gives us high confidence to
+comfortably exceed the 1,000 customers mark by the end of the year.
+I would now like to give you some more details on how our accelerated momentum translates
+into our financial results and what we expect to see going forward. In the third quarter, growth of
+current cloud backlog continued to accelerate, reaching 22%. That's an increase of 2 percentage
+points over Q2. That acceleration was driven by even stronger than expected bookings and
+renewals in the third quarter. This pickup was specifically driven by a strong contribution in
+S/4HANA cloud, Business Technology Platform, Business Process Intelligence, Customer
+Experience as well as Qualtrics.
+For the fourth quarter, we expect a further positive development of current cloud backlog
+growth, similar to what we saw this quarter. While travel volumes are slowly picking up again,
+Concur's backlog so far remained flat, representing a 3 percentage point drag on overall backlog
+growth, and it was the only solution in our entire portfolio that was not growing in double digits in
+the backlog. As travel resumes in the near term, we expect Concur will eventually fuel the
+momentum further.
+For the quarter, S/4HANA current cloud backlog grew by 58% to EUR1.3 billion, building a strong
+foundation for future cloud revenue. S/4HANA cloud revenue growth accelerated as anticipated,
+and was up 46% to EUR276 million. Our cloud revenue growth increased sequentially by 3
+percentage points to 20%. We are also encouraged to see that our intelligence spend category
+bounced back to double-digit growth, up 3 percentage points sequentially. Concur, continued to
+show signs of recovery, but still at a moderate rate.
+Overall, our strong cloud revenue representing now 35% of total revenue is driving up the share
+of more predictable revenue by 3 percentage points year-over-year to 77%. As anticipated,
+software licenses revenue continued to decrease as more customers adopted our holistic
+subscription offering RISE with SAP. Driven by the strength of our cloud business, our cloud and
+software revenue grew by 6%. Services revenue, in turn, was down 6%, mainly attributable to the
+divestiture of our SAP Digital Interconnect business in November last year. And our total revenue
+increased by 5% for the quarter, which is the fastest growth rate since the outbreak of the
+pandemic.
+Let me now briefly provide you with some color on our regional performance. We had a strong
+cloud performance across all regions. In the EMEA region, cloud and software revenue increased
+by 7%. Cloud revenue increased by 28%, with Germany, the U.K. and France being highlights. In
+the Americas region, cloud and software revenue was up 6%. Cloud revenue was up 14%, with a
+robust performance in the U.S., Canada, Brazil and Mexico.
+We were again pleased to see that in our largest market, the U.S., we had another strong
+sequential acceleration in cloud revenue growth. In the APJ region, cloud and software revenue
+increased by 6%. Cloud revenue increased by 25%, with Japan, Singapore and South Korea being
+particularly strong. Let's now look at profitability and gross margins in the third quarter.
+Overall, our total gross margin remained stable at 74% even with the higher share of cloud
+revenue. Our cloud gross margin decreased by 40 basis points to 69.4%. However, we were
+pleased to see that both our intelligence spend and Infrastructure as a Service margin increased
+strongly by approximately 2 percentage points year-over-year. As we further executed on our
+next-generation cloud delivery initiative, the margin of our SaaS/PaaS business outside
+intelligence spend, where most of the related investments occur was 69.8%.Our cloud and software gross margin declined by 70 basis points to 80.4% as a result of the
+revenue mix shift effects from our transition to the cloud. The gross margin of our services
+business remained steady at 31%. In the third quarter, our operating profit expanded by 2% and
+was up 8% for the first nine months. Our operating margin declined 70 basis points to 30.7%,
+primarily due to the planned additional investments in R&D, which increased our R&D ratio by
+approximately 2 percentage points.
+For the first nine months, the operating margin was very strong and grew by 1.3 percentage
+points to 29%. On an IFRS basis, our operating profit was down by 15% to EUR1.2 billion, and our
+IFRS operating margin was down over 4 percentage points to 18.2%. This decrease was mainly
+driven by higher share-based compensation expenses primarily related to Qualtrics.
+Let me now turn to taxes, EPS and cash flow. In the third quarter, the IFRS effective tax rate was
+down 1.3 percentage points to 18.9%, and the non-IFRS effective tax rate was down 3.1
+percentage points to 18.2%. Therefore, we are again lowering our non-IFRS effective tax rate
+guidance for the full year to 20% to 21%, and to 21% to 22% in IFRS terms. The decrease in
+comparison to the previous outlook mainly results from changes in tax-exempt income.
+IFRS EPS decreased by 10% to EUR1.19, while non-IFRS EPS was up 2% to EUR1.74. This includes
+another strong contribution from Sapphire Ventures. In addition, our IFRS EPS was impacted by a
+year-over-year increase in share-based compensation. As expected, our cash flow slightly
+declined for the first nine months. Operating cash flow was down 3% to EUR5 billion. Positive
+effects from lower share-based compensation and restructuring payments were compensated
+by higher income taxes paid.
+Free cash flow was down only 1% to EUR4.1 billion, supported by a reduction in CapEx. For the full
+year, our operating cash flow and free cash flow guidance remains unchanged. But based on the
+strong performance we had in the first nine months, we are highly confident to have a very solid
+outcome at the end of the year. Reflecting the strong business performance in the first nine
+months, we are again raising our revenue and profit outlook for the full year. For the detailed
+outlook, please refer to our quarterly statements.
+Before closing, let me briefly provide you with an update on sustainability, a topic close to our
+hearts. Christian already mentioned what a significant role businesses play to help solve the
+climate change challenges. With the latest product developments, SAP adds other companies
+become more sustainable. At the same time, however, it is important to remain acting as an
+exemplar of sustainable business.
+In Q3, we were able to keep carbon emissions at the same level as the prior year despite the
+strong growth in our business and a gradual lifting of some COVID restrictions in many
+geographies. In addition, our leadership in the environmental and social space was highlighted by
+receiving the EcoVadis Sustainability Assessment Gold Medal. So in summary, we had a
+tremendous third quarter. Our order entry was exceptionally strong. Renewal rates were
+extremely healthy with a continued focus on efficiency. Therefore, we are confidently raising our
+full-year guidance once again. This puts us in a great position on the path towards our midterm
+ambition.
+Thank you and we will now be happy to take your questions.
+Questions And Answers
+Operator(Question And Answer)
+(Operator Instructions) Our first question today comes from `Kirk Materne, Evercore ISI of Evercore ISI.
+Q - `Kirk Materne, Evercore ISI `
+Yes. Thanks very much. And I'll echo the congrats to Stefan on a great run at SAP, and thanks for
+all your hard work and working with us on the investor side. I guess my question for you, Christian,
+just to start with the S/4HANA cloud, seeing nice momentum, especially over the last couple of
+quarters. I was wondering if you could talk about sort of how that breaks out maybe
+geographically, if you're seeing similar performance across all the geos or some geos in front of
+others just in terms of the adoption rates. And then Luka, I was wondering if you could sort of
+peel that back and maybe talk about that relative to sort of the U.S. or the Americas growth,
+which is lagging a little bit versus Europe and Asia Pac. And I expect a lot of that to Concur, but I
+was wondering if you could just talk about how you see that the Americas growth sort of
+accelerating, I assume, over the next couple of quarters? Thanks, guys.
+A - `Christian Klein, Chief Executive Officer `
+Yes. So thanks a lot, Kirk. And Scott, also please feel free to comment especially on the regional
+performance. So Look, I mean, what we have seen in the quarter, and I can also remember we
+had some questions around the deal sizes around S/4HANA cloud. First, I guess you also have
+seen it in the earnings document, we also have seen some significant large S/4HANA cloud deals,
+respectively, RISE with SAP deals. And that also signals that we are not only talking small and
+midsized customers, actually, we see a move across our customer base.
+This is clearly also the case when you look at the geographical perspective, but also the industry
+perspective. And we, even in the meantime, go one step further. I mean when we launched RISE
+with SAP, which is really a business transformation as a service offering with S/4HANA cloud and
+the platform in the core, we, of course, also asked the question, what is the role of the partners?
+In the meantime, also the ecosystem joins the movement across the bench. Now the partners are
+coming to us and asking how can we better help to make this move happen. Just to give you an
+example, one of our biggest hyperscaler partners just offered now their existing customers to
+switch existing contracts over to RISE as they see and feel that there is such a high market
+demand to do more than just a technical migration. And Scott, maybe you can highlight maybe
+some of the regional wins we have.
+A - `Scott Russell, Head Customer Success `
+I can do, Christian. So first of all, I think you summarized really well. The move to RISE is both at a
+net new customer and at a scale of customers. And I think it's really important to highlight that
+across all of the regions, we've had growth in both. Net new customers coming on board with
+S/4HANA Cloud, the modular cloud, driving and accelerating their transformation in the cloud.
+Moving workloads doesn't drive the business change. They need to transform their businesses,
+and that's why they moved to RISE. But we've also seen, particularly in regions like North America
+and parts of Europe where big companies, big customers who have got large complex
+environments moving to RISE to help simplify and to transform their businesses going forward.
+And we now expect that this is the third quarter in a row that, that has occurred, and we continue
+to see that trend going forward.
+A - `Luka Mucic, Chief Financial Officer `Yes. And just to complement this. As you know, we are also disclosing the relative weight of
+contracts of different sizes against our total order entry growth in the quarter. And there, you can
+see this as well that in the cloud contracts more than EUR5 million of annualized contract value,
+actually represented 40% the total order entry, that's up 9 percentage points from last year. So
+this clearly makes this very transparent that we are now talking really about all sizes of customers,
+in particular, larger ones. Now on the Americas growth, first of all, I think even before the
+pandemic, obviously, the other two regions, EMEA and APJ, had grown in terms of the view of the
+growth rates at a faster pace than the Americas just because of the higher maturity of the market
+in America, in particular, in the U.S., which is by far the largest market that we have in that region.
+And as we were entering the pandemic, it's correct that the growth in Americas was over-
+proportionately hampered by the fact that Concur, which obviously was particularly negatively
+affected, has an over-proportionately high share of their revenues in the U.S. Having said that, we
+have actually seen a very evenly paced recovery and reacceleration of revenues across all
+regions. They all actually accelerated by 3 percentage points each from Q2 into Q3. The same
+was also the case from Q1 to Q2. So the Americas is showing at a different scale, of course, the
+same pace and shape of recovery and a further acceleration. And I would continue to expect that
+also for the next coming quarters. So we're very happy about the business performance in the
+region overall, but in particular, also in the U.S.
+Q - `Kirk Materne, Evercore ISI `
+Thank you, all.
+A - `Anthony Coletta, Chief, Investor Relations Officer `
+Thank you. Let's now take the next question, please.
+Operator
+Our next question today comes from `James Goodman, Barclays Capital of Barclays. Mr.Goodman, please go
+ahead.
+A - `Anthony Coletta, Chief, Investor Relations Officer `
+Operator, let's take the next question then. We have -- the line is silent. So maybe you can take
+the next question.
+Operator
+Our next question comes from Mohammed Moawalla of Goldman Sachs. Please go ahead.
+Q - `Mohammed E. Moawalla, Goldman Sachs International `
+Can you hear me?
+A - `Christian Klein, Chief Executive Officer `
+Yes, we can hear you now.
+Operator
+Yes. We can hear you. Thank you.
+Q - `Mohammed E. Moawalla, Goldman Sachs International `Okay. Great. Thank you. Good morning, Luka, Christian also Stefan, wishing you all the best for
+the future. I had two questions. Firstly, as you start to see the cloud growth starting to pick up.
+Luka, my understanding was that the backlog, given our expectation of the backlog, both
+acceleration has historically been more pronounced in Q4. I think you made the comment that it's
+going to be kind of most similar levels. So can you just help us sort of explain that comment? And
+then more broadly, as we think of the kind of building blocks around the cloud growth
+acceleration moving into 2022, I mean, obviously, you had a pretty strong discretionary spending
+environment. What is your kind of expectation? Is this kind of more sustainable trend? And as
+obviously, Concur comes back, could we see sort of the cloud growth accelerate significantly
+beyond kind of the current levels?
+And then secondly, just on the OpEx. I noticed that obviously, the OpEx, particularly sales and
+marketing is starting to come back. So as you look into next year with some of the spending
+coming back, what are the kind of key factors? And are you -- would you look to kind of invest
+more to kind of sustain or accelerate your growth?
+A - `Luka Mucic, Chief Financial Officer `
+Yes. Let me cover those questions. So first of all, on the backlog, obviously, we are coming off the
+heels of a spectacular quarter that was actually exceeding our expectations as we were walking
+into the quarter. So we would not have, as in the past quarters, fully expected that scale of
+growth that we saw and would have expected actually that we would have some of that growth
+only seeing in Q4. Now are we expecting further growth acceleration in Q4? Absolutely. We see a
+great strength of our business portfolio. We see that renewal rates continue to trend up and are
+at a very healthy state already. So no doubt that we will see a further acceleration.
+However, given the very, very significant achievements that we saw in Q3, I think it is fair and
+prudent to assume that we should see a similar step up, but not necessarily a dramatic
+acceleration on top of this. This is also underpinned by the fact that in absolute terms, actually the
+backlog expansion that we saw in Q3 was exactly at the level that we saw two years ago, entirely
+unaffected by the pandemic. And if you recall, Q3 2019 was probably until now the best quarter in
+the cloud in many years that we had before. So from that perspective, I think if we weren't able to
+achieve the same that will be a terrific result. And it would also set us up actually exactly on where
+we need to be to also drive 2022 to a great success.
+We see a number of important supporting drivers that make us confident that in 2022, we will
+actually see a further continued acceleration of our cloud business compared to this year. One is,
+as you have highlighted that Concur is already showing a recovery. Still a moderate one, but still,
+they are up in mid-single digits. On a revenue perspective, they had now a very strong order
+entry performance in Q3, and this will start to show in the backlog, but also in the revenues. So
+they will become next year certainly a very positive contributor to our growth.
+And secondly, with S/4HANA cloud, we have such a great wealth and breadth of opportunities.
+We're only starting now to harvest. We are very confident that the revenue growth and the
+backlog growth in S/4HANA will continue well into next year. And this will, of course, from an ever-
+increasing base then more and more add to the growth of the overarching business. So from that
+perspective, yes, we are confident that our cloud business will continue to accelerate not only in
+Q4, but also going into 2022.
+In terms of the expectations from an OpEx and profit perspective, I think we were very clear
+when we communicated our new strategy and our associated midterm ambitions that in 2021 and
+in 2022, we expect flat to slight declines in profits. This is what we are guiding for now in 2021,and I would say, we have so far executed extremely well against this commitment. Our current
+guidance is for flat to minus 2% in growth.
+My expectation for 2022 remains also unchanged that we will also, in 2022, see flat to slight
+declines in profits, and we will invest properly to continue to fuel our innovation. We will look at an
+R&D ratio roughly in the same ballpark as we are seeing it now with 17% of revenues, but we will
+scale from the top line very effectively with accelerating cloud growth, which will also start to
+show its positive impact on the cloud and software and total revenue line. So things are going
+exactly in the right direction, and we will look at further investing to make this growth that we are
+seeing sustainable, quite frankly, for many years beyond 2022. And so from that perspective, that
+remains our planning ambition.
+Q - `Mohammed E. Moawalla, Goldman Sachs International `
+Okay. Great. Thank you.
+Operator
+Our next question comes from `James Goodman, Barclays Capital of Barclays.
+Q - `James Goodman, Barclays Capital `
+Yes. Great. Thank you for coming back to me. Can you hear me now?
+A - `Christian Klein, Chief Executive Officer `
+Yes.
+A - `Luka Mucic, Chief Financial Officer `
+Yes.
+Operator
+Yes. Please go ahead.
+Q - `James Goodman, Barclays Capital `
+Excellent. And Stefan, all the best from my side as well. And in terms of the performance at RISE,
+it's clearly running ahead of your initial expectations. But at the same time, we're simply not
+seeing the anticipated decline in the core business. I mean license has been outperforming four
+quarters in a row. So the question is, on a two-year view, even the guidance is implying a very
+significant weakening in license in Q4. And I'm trying to gauge the extent to which this is really
+conservatism as we come into the largest quarter versus a far bigger substitution effect that
+you're anticipating with on-prem customers switching over. So if you could talk a bit more about
+that, that would be great.
+And secondly, just -- could I ask for an update on the migration project to the Converged Cloud.
+Luka, you mentioned briefly the project when you were talking about the cloud gross margins, but
+how is that progressing? Where are we on the ramp-up costs around that project now? And are
+you still confident that those costs will disappear by the end of next year?
+A - `Luka Mucic, Chief Financial Officer `Yes. So let me get started, but please, in particular, on the software number, perhaps, Scott, you
+can give your view as well. So let's be clear. I mean our business forever has been basically back-
+end loaded where most of the very large software contracts were typically closed in Q4. And
+therefore, obviously, in a world in which we are now seeing a greater and greater amount also of
+very large RISE opportunities, it's natural that we can expect that from quarter-to-quarter, there
+will be a bigger impact on large software transactions in particular. And that's why I think it makes
+sense to plan for a significant further search on the cloud side, but also to assume that in Q4, the
+impact of the surge on the software license revenue side should be more pronounced than what
+we have seen year-to-date.
+In terms of just briefly on the Converged Cloud and then perhaps, Scott can come back to the
+software comment where we are obviously pleased with the year-to-date performance, in
+particular, since the cloud was nevertheless scaling very, very fast. But on the Converged Cloud
+program, we are actually making good progress. We believe that we will be done with most, if
+not all, migration activities by the beginning of 2023 as expected. And in terms of the
+investments, they are actually happening as planned with a slightly lower share in 2021 and then a
+slightly higher share in 2022. In terms of the impact of the program on the cloud margins, let's be
+clear about this as well.
+Yes, we had a slightly negative impact in Q3 where margins in the cloud were declining. However,
+from a year-to-date perspective, the margins are exactly where we have planned them to be. We
+have actually planned that the cloud harmonization program would have an increasing impact on
+it in the second half as we are ramping up the investments. So we are up year-to-date by 10 basis
+points at constant currencies or 20 basis points in nominal currencies, which is exactly in line with
+the slight improvement that we have planned for 2021.
+You should also expect the same for 2022, investments will be slightly higher. But then on the flip
+side, the very strong growth that we have seen on the order entry side will obviously help the
+revenue line, and that should level out per our planning. So we remain confident in those planning
+assumptions. The big step-up will then be as of 2023 when we have completed the program
+because we have a much higher not only resiliency, but also efficiency in our cloud operations
+than with higher levels of automation. So nothing has changed in this respect, and we remain
+absolutely on track also for the slight improvements that we are expecting in this year and next
+year.
+Scott, perhaps some comments around software from your side.
+A - `Scott Russell, Head Customer Success `
+Yes, sure. Sure. Thanks, Luka. I guess there's three things that I would just provide additional
+commentary to what Luka described on the software and the transition to the cloud. The first is,
+and it's a really important baseline to remember, is that our customers are moving with S/4 and
+our digital platform at scale. So there is no doubt that they are resonating to transform their
+business, having a clean digital core to be able to drive and run mission-critical workloads, and
+primarily, as you saw in the cloud backlog and in the bookings performance in the cloud.
+The second is a reminder that we're only nine months into the launch of RISE. And what we've
+seen is a progression over that nine months of momentum of continued expansion of our
+customers to move to the cloud, to understand the offering, to understand how it transforms
+their business, and it's accelerating. And you'll see that then in the outlook that Luka described on
+the cloud versus the software. And then the third comment that I would obviously highlight is, as
+we go forward, and in the transformation of our businesses of both net new customers, existingoutlook reflects the customers are choosing to transform in the cloud, and that will continue to
+accelerate. So the natural effect will be as we've given the outlook on the software. So that gives
+a bit more context.
+Q - `James Goodman, Barclays Capital `
+Yes, that's very helpful. Thank you, both.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you, Scott. Let's now --
+Operator
+Your next question comes from Frederic -- that comes from `Frederic Boulan, Bank of America of Bank of America.
+Q - `Frederic Boulan, Bank of America `
+Hi. Thanks for taking the question. A couple of follow-ups. First of all, on the margin question into
+next year. So if you can maybe spend a moment on the different cloud options that you offer,
+what kind of take-up you're seeing? And how is that impacting margins? And second, going into
+2022, if you can -- I mean you mentioned R&D, but any other cost item you can discuss driving
+your guidance of stable to slightly -- a slight reduction in operating profit, in particular in terms of,
+A, impact of the migration to single cloud platform, which will be a bit bigger, but anything else in
+terms of license and cloud mix that you think is relevant.
+And secondly, I'm interested more broadly considering the current disruption in supply chain that
+we're seeing across many industries, if you've seen increased engagement from the customers
+on those topics. And more broadly, any update you can provide on the launch of Industry Cloud
+Solutions, was the initial launches that you flagged back in June?
+A - `Luka Mucic, Chief Financial Officer `
+Yes. So let me get started and then on the more business-related questions, perhaps I can hand
+over to Christian then. Look, on the margins on the cloud side going into next year, I would expect
+that both in our SaaS/PaaS businesses as well as in our Intelligent Spend businesses, we will look
+at a pretty stable situation, quite unchanged with perhaps very slight improvements. On our
+Infrastructure as a Service business, we are already operating at a quite decent level of efficiency
+for this type of business, but the share of the mix of cloud business will rather trend continuously
+down of this business because with the advent of RISE with SAP, we are driving for more
+SaaS/PaaS business, which is positive for the margins.
+So in the individual lines, there shouldn't be a lot of changes because of the impact of the
+converged cloud program, but slight mix shifts should be helpful to margins overall. When it
+comes to the composition of the 2022 P&L, just very shortly, what do we expect on the top line,
+of course, a continued shift towards more cloud business. So cloud revenue further accelerating
+its growth. Software licenses revenue trending down definitely in a more pronounced fashion
+than what we have seen in the first nine months.
+To Scott's point that RISE, obviously, will more and more proliferate across our customer base,
+and that will obviously then result in declines in software license revenues and will also shift an
+increasing amount of maintenance revenues as part of our cloud extension program to cloud
+revenues, which is actually great because we are so far driving very healthy multipliers on this.Actually, continuously significantly above the 2x factor that we mentioned at the beginning of our
+transformation, so this is positive.
+And then on the investment -- on the expense side, as I said, we will continue to prioritize
+investments in R&D as well as in sales and marketing because we see the great growth
+opportunities. We will also add additional feet on the street and go-to-market resources. The
+current level that we are -- have achieved with around about 23% of revenues, I think, is a
+reasonable and appropriate one on the sales and marketing line. And in R&D, we have seen a
+significant step-up in investments over the course of the next -- last two years. And we are
+looking to sustain that and also plan for round about 17% of revenues on the R&D side. For the
+business question, Christian?
+A - `Christian Klein, Chief Executive Officer `
+Yes. Happy to take that question. I mean there are two big challenges when we talk to customers
+these days. The first challenge is clearly about the disrupted supply chains, and I come into a
+second to that. And actually, when we are talking about the intelligent enterprise, in the
+meantime, it's not only about growth via new business model, productivity via automation, but
+also about the green line, with everything what we do around carbon and our commitment to net
+zero.
+And coming back to the supply chains, indeed, many customers are just reaching out to also join
+the business network. Just to give you a few examples, semiconductor. There are a lot of
+enterprises right now who are joining our business network to get more transparency. Where are
+the shortages in the supply chain? Is it the next year supplier? Is it at the suppliers below? From
+which kind of region, from which kind of supplier can I get still some supply in the next months, in
+the next quarter? And really track and trace that real time. That's the business network.
+Think about Catena-X, we are now delivering the first use case with Catena-X, and it's not only
+anymore the European car industry and automotive industry. General Motors just joined, what we
+are doing there is actually it's same thing. We are putting together the OEMs with the
+manufacturers, with the suppliers to give them the real-time transparency again around -- across
+the supply chain so that in the future, when the car demand is changing, it took sometimes up to
+six months until the raw material provider realized, hey, the demand has changed and now you
+have that real time.
+With this kind of business scenarios, you are not talking about millions of actually synergies. You're
+talking billions as we are really transforming the whole industry end-to-end. And this is what we
+are now doing step by step, automotive. We talked about semiconductor, which is impacting
+many industries, but there are shortages also with regard to other raw materials. So we are doing
+this now step by step, and the business network is definitely one of the key pillars, which will also
+drive our future revenue course.
+A - `Anthony Coletta, Chief, Investor Relations Officer `
+Thank you. Can we take the question, please?
+Operator
+The next question comes from `Michael Briest, UBS of UBS.
+Q - `Michael Briest, UBS `Thank you and good afternoon, and also my best -- Stefan, I think I've been on most of the 75
+calls with him as well. Two if I can, just on the guidance, the guidance for the on-premise business,
+I mean, it's sort of mid-single digit to 10% decline in maintenance by the looks of things and
+double-digit on license. I'm trying to square that with your comments, Luka, about the cloud
+backlog. If you're converting at 2x or more of support to cloud revenues, surely the backlog
+would see a big step up in Q4, if you do achieve the expected decline in support.
+And then just on the RISE customers to date, Scott or Christian, can you talk about their profile? I
+mean are these mainly customers who are coming from ET6 for the first time? Are there any who
+are perhaps S4 already and maybe in a hyperscale that you've decided to come to RISE? And
+then a question, Luka, on Concur and the business network. Can you just remind us how much
+below sort of pre-COVID levels we are today? I think you said it was about EUR200 million to
+EUR300 million run rate pre-COVID. So maybe we can think about how it expands next year.
+Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yes. So first of all, on the guidance, let's just be clear, we don't expect a materially different
+pattern on support revenues in Q4 than in previous quarters. The main difference in patterns that
+is baked into the guidance is a different level of declines of software revenues. Let's see to what
+extent that assumption is correct or not, but I think it made sense for us to be prudent here given
+that Q4 is obviously by far the largest software quarter. And at Concur, based on the current
+levels, I would say, we are looking at a reduction in the annual run rate of a bit more than 300 --
+probably, EUR350 million to EUR400 million from pre-COVID times. And that is starting to
+recover now, as I said, with a first positive increase in revenues that Concur has posted in a long
+time in Q3. In terms of RISE, perhaps I can hand over to Scott or Christian.
+A - `Scott Russell, Head Customer Success `
+Yes, I can start, and then Christian, please add comments. So I guess the question around the
+makeup of the customers. RISE actually is resonating with all forms of customers. Let me give you
+a few examples. Of our new -- the customers that have come on RISE, nearly 50% of them are
+new customers to SAP. So attracting new companies who are running on different legacy
+technologies coming to RISE, transforming and having that digital platform to run forward. But
+what we saw in Q3 and a continued trend with an increasing share of overall large customers that
+make up nearly 40% of our cloud order entry. So it's a record high. And what that means is
+companies like IMD, Etihad airways, Asda stores, Philips domestic appliances, Siemens Energy
+among others. So large companies that are moving with RISE in the cloud.
+And then the third, your question around existing workloads of maybe S/4 in our hyperscaler.
+What's been interesting is, customers are moving to RISE with SAP with different starting points.
+Their transformation journey. Some are going from a new customer, some are existing ECC. But
+yes, some are already in the hyperscaler, but they need the transformation in the cloud, not just
+the workload in the cloud. And so what we're seeing is demand on all three angles that gives us
+confidence going forward that no matter what your starting point, you've got the ability to
+transform in the cloud with RISE and hence, the outlook remains strong. Christian, I don't know
+whether you want to add anything more to that.
+A - `Christian Klein, Chief Executive Officer `
+Just maybe one more comment, Michael. Also just to give you some sense around why S/4 HANA
+is so important in the middle of RISE. I mean customers are -- they, in the meantime, completelyindustries, CEO is coming to me, to the teams here and say, hey, we need to sell everything as a
+service. We need more personalized experiences. We need pay-as-you-go. We need a revenue -
+- real-time revenue realization. And the only software vendor who can do that end-to-end at scale
+real time is SAP. There's no one else out there.
+And then when you talk about, you want to scale your business across 150 countries, here we go.
+This is only what SAP can do. Now the crucial question was always, okay, the technology is there,
+but how can I get there? That's the hardest part. The hardest part in the business transformation
+is changing the culture and then having someone who knows how these processes run at scale.
+And this is why even existing customers from hyperscalers are now coming and said, we want to
+have that. We want to learn from the best customers you have. Show us your best practices,
+benchmark, analyze these processes and tell us how can I get there.
+And this is why this offering is extremely well resonating. And then Scott said it well. Installed
+base, yes, large ones, many modification takes a bit longer. We moved them back to the
+standard, and over time, they also not only wanting new businesses. They're also having a much
+more agile IT landscape and then net new. It can be if you have a fit to standard. It can also
+happen that the go-live comes through in 20, 30 days. That's also the case.
+Q - `Michael Briest, UBS `
+Thanks very much.
+Operator
+Your next question comes from `Amit Harchandani, Citi Investment Research Europe of Citi Bank.
+Q - `Amit Harchandani, Citi Investment Research Europe `
+Thank you. Hello everyone. `Amit Harchandani, Citi Investment Research Europe from Citi, and before I proceed with the questions,
+thank you, Stefan, for your support and all the best for the future. With regards to my questions, I
+guess two if I may. Firstly, with regards to Human Experience Management, which I guess is your
+largest solution within the SaaS/PaaS category. Could you give us a sense for the growth profile
+there, particularly with regards to competition and how it's trending in different parts of the
+world?
+And secondly, could you also remind us, please, of your ambitions in customer experience?
+Again, you've talked about playing to your strength in the past as customers migrate to cloud.
+What are you seeing on the customer experience side, particularly also with RISE kicking off?
+Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Okay. Let me start, Scott, and please feel free then to weigh in. On Human Experience
+Management, actually, it's pretty interesting. Probably, also have heard about some stock projects
+from one of our competitors when it comes to massive scale and localizations around the globe.
+And actually, what we see is actually that the sentiment is changing. More and more customers
+are now coming to us and want to digitize hire to retire with SAP.
+And then second with RISE, I mean it's not only, as I said, the move to a new platform and a move
+to S/4HANA Cloud. I mean when you talk about payroll, when you talk about employee essentials,
+obviously, an ECC customer has HCM on-prem included. And now it's only the question, how can
+we digitize hire to retire end-to-end. You have strong interfaces, important interfaces to financeput it together in a modular way, so the cross-sell also into the installed base is now much better
+also with RISE as we have the underlying platform now to connect the dots. You are not wanting
+isolated solutions with SAP anymore. Plus, as I said, also in the net new market, we are seeing
+very positive momentum.
+And the CX, it's all about focus. So it's not about that we want to compete in every space.
+There's a huge focus on commerce. There we are clearly leading with our B2B solution in the
+cloud, and now we just launched our B2C solution. Also there, we have positive momentum.
+Obviously, CPQ with quote-to-cash is, of course, a very dominant space. Scott, anything you want
+to add?
+A - `Scott Russell, Head Customer Success `
+Yes. I think you said it really well, Christian. And I guess two things that I would just add. The first is
+with the momentum with RISE and the integration of our technologies under that platform at full
+swing, we are seeing an acceleration of the cross-sell of our line of business solutions. So not only
+are we winning in those categories head-to-head with the competition because they stand up
+and are able to deliver at scale with great capability around the world, as Christian described, but
+also the cross-sell with RISE to allow that seamless orchestration and experience with the
+customers.
+So the estimate of the three cross-sell dollars for every core ERP cloud continues to be reflected
+and that gives us confidence, not only in the standalone, but then in the orchestrated story,
+because from a customer, when they're running their processes, they don't look at single line of
+business type applications. They look at how to deliver a wonderful experience to their
+employees or to their customers in those two categories. And to do so, you need the
+orchestration of best-in-class capabilities, which requires RISE plus our HXM or our CX solutions.
+A - `Anthony Coletta, Chief, Investor Relations Officer `
+We will take two additional questions.
+Q - `Amit Harchandani, Citi Investment Research Europe `
+Thank you.
+Operator
+Thank you. Our next question comes from Mark Moerdler of Bernstein Research.
+Q - `Mark L. Moerdler, Sanford C. Bernstein & Co., L.L.C. `
+Thank you very much. And let me first say to Stefan, as we've discussed recently, really
+appreciate all your support and assistance and how you've helped us with understanding the
+transition. And good luck, and I'm going to miss our interactions. Let me go into a multi-part
+question, I apologize, on S/4HANA cloud. Christian, Luka, we've discussed the last year the lift in
+revenue that occurs with workloads shifting to the cloud. One, what are the expectations you
+have now for what that revenue lift is going to be as workloads move to S/4HANA SaaS? Two, can
+you give us any sense of what the attach of the other cloud offerings are today? And what you
+think they could be in terms of dollars or quantity or anything? Any sense would be helpful. And
+third, are there certain industries adopting quicker RISE with SAP quicker than others? Thank you.
+A - `Christian Klein, Chief Executive Officer `I mean, first, let me start and Luka, you can build on that. I mean, first, with regard to S/4HANA
+cloud, as you also probably have heard in our earlier statements, I mean, we remain extremely
+confident because with RISE, this is now the way we go and not only to do a technical migration.
+We do a business transformation. And then, of course, our installed base is huge, and there is
+high demand. Large companies are also now joining the movement. And when you also look at
+our total order and when you look at software plus cloud, I guess, Luka, it's fair to say that this
+was one of the highest growth rates ever as we see in the cloud, especially with large
+enterprises, these are long contracts. The contract lifetime value is extremely good, extremely
+high. So from my perspective, also looking now in the quarters ahead, I mean there is no reason
+not to be optimistic.
+And then second, also look at the net new customer share. It's not only the installed base, very
+important. If someone decides to join from Areglado, we take them and also put them into the
+public cloud into the standard and help them, again, to transform their business. So I guess there
+is no reason to be not confident.
+A - `Luka Mucic, Chief Financial Officer `
+Perhaps just a few more comments and then, Scott, please feel free to add some color
+commentary here as well. So first of all, Christian is absolutely right. Our TCV growth rate, so in
+terms of the Total Contract Values, including ramped contracts, is materially up way higher growth
+rates than on an annualized contract value level. And only, obviously, a first year of that
+progression is reflected in the current cloud backlog. So this is making us very confident around
+the growth momentum in the cloud, obviously. And also the average contract duration continues
+to move upwards because of the increasing number of RISE contracts who are typically very long-
+term-oriented contracts. So we are getting much closer to the four-year average contract
+duration, which is very positive as well.
+In terms of the attach rate, I think we -- from my perspective, our assumptions still hold. Scott has
+often talked and including on this call, about the three-for-one opportunity. And that's clearly what
+we can see as well, including in some of our large RISE opportunities that had an attached to
+different line of business applications. Some very positive ones come to mind that were also
+mentioned on this call, like Philips Domestic Appliances and others, which are good examples. So
+I think that assumption still holds from my perspective.
+And in terms of industries, perhaps, I can hand over to Scott. But for me, it's really a broad-based
+adoption across all industries. It might just make a difference of which industries tend to more
+move to S/4 public cloud right away because they have actually less modification legacy, service
+industries would be probably one of them, whereas some others like discrete manufacturing or
+automotive would rather tend to move to a private cloud setup.
+A - `Scott Russell, Head Customer Success `
+Yes, I would add. I think you described the industry situation and the scenario. It is a broad based,
+but the scenario that you described, Luka, is correct. I think the only two comments that I would
+make on the multi-tenant and S/4. There's a few things to remember. The first is, many
+customers, Christian said it well, are going straight to our SaaS multi-tenant S/4 cloud. It's
+especially true for net new customers or customers coming from Oracle or other landscapes, but
+they're still coming. But a lot of our existing clients are also looking at hybrid scenarios. We see a
+lot of large companies that have got a mix of private cloud and public cloud and the beauty of S/4
+cloud is we can support that.We've got the ability to provide not only the hybrid scenario, but a modular S/4 cloud that gives
+the benefits of not only lower subscription fees to get greater efficiency, but the adoption of
+innovation for these customers and to do so at scale across their landscape, whilst minimizing
+customization, best practices, making sure they've got that clean core, which we do across four
+parts of S/4 cloud through RISE. That makes it very compelling for clients. And I mentioned
+before, the starting journey of customers, it varies. But the end point of having that agile
+transform platform that gives them the business agility, that is clear and whether they are on a full
+SaaS or in a hybrid scenario, they're able to do that with RISE with SAP.
+Q - `Mark L. Moerdler, Sanford C. Bernstein & Co., L.L.C. `
+Thank you.
+Operator
+And today's final question comes from `Adam Wood, Morgan Stanley of Morgan Stanley.
+Q - `Adam Wood, Morgan Stanley `
+Hi. Good afternoon, Christian and Luka. Thanks for taking the question. And also best wishes from
+my side to Stefan. Thanks for the support over the years, definitely appreciated. I've got two,
+please. Maybe just following up on the comments that you just made, Scott, around the type of
+cloud adoption that customers are going through. A discussion we get into with investors quite a
+lot is the full public cloud version of S/4 and whether it can satisfy the demands of customers. To
+what extent the customers care about what the cloud they're running in versus just being able to
+solve the business problems and get an upgradable version of the product that's easy for them
+to consume. If you could talk a little bit about customer reaction to that and what customers
+actually care about versus perceptions. That would be helpful.
+And maybe secondly, you mentioned Reckitt taking business analytics. I wonder if you could talk a
+little bit about the views of how that industry evolves to the extent you've been selling separate
+data warehousing solutions over time. How does the competitive landscape stack up there
+against the hyperscalers, against people like Snowflake? And then Analytics are more in the
+application layer for SAP rather than in that area, is that something you can charge for separately?
+Or is that something that really just helps differentiate the application? Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Very good question, Adam, and let me start with your last point as we just talk about these
+partnerships also internally. Look, on the analytics space, clearly, analytics is for us an application
+where we see even higher attach rates now with our line of business application. Spanning an
+analytics layer across the company, helps you. When you are not having integrated planning, you
+have -- if you are not, you can steer your company end-to-end, you have a problem. And this is
+Analytics cloud. And this is why we also offer that also in many cases and many deals hasn't
+attached to our existing line of business solutions.
+Then also on the data warehouse, yes, of course, we still have many, many happy actually BW
+customers and we are very proud of this legacy. And now we are in full speed, developing data
+warehouse cloud. And we see very strong deals already, very strong with customer references to
+also make that move happen. On the big data side, nevertheless, we are open for partnerships.
+We are just also in negotiations on how can we really even partner the data, the access to data
+for our customers. So this is where we partner, data warehouse clouds, we own. And then, ofcourse, on the analytics, yes, clearly, we see this more on the application layer, very successfully.
+This is where SAP plays, of course, for a very long time.
+A - `Scott Russell, Head Customer Success `
+And maybe if I can, Christian, I'll just comment on the first question about, do the customers care
+about the SaaS cloud. It's interesting, the customers around the world and in all industries are
+very clear about needing three things; one, they need a clean digital core that is transformed to
+help their business to navigate. They don't want to just move that workload and move, they really
+need that ability to be able to then respond to competition, impact on their industry, all of the
+other factors that we've seen around the supply chain disruption that you've heard and seen
+before and that requires that agility.
+And the second is then the platform to be able to innovate and scale from. So not only do you
+have it for today, but you're able to then extend and adapt and drive your uses going forward
+and having that flexibility. And then the third is speed, they're looking for the ability to transform
+at speed. The beauty is, they're not really saying multi-tenant product, they want modularity in
+those three combined. And so, as I said before, some will go straight to we can run the entire
+value chain on our SaaS multi-tenant cloud today, but some will go through a journey where they
+will have that fiber landscape. It's a modular ERP. And what we focus on is to give them that agility,
+to give them that scale and to give them that speed, I think then the outcome whether they
+ultimately land on a full SaaS or a more modular where they've got a hybrid or a combination,
+actually, they're not too concerned about it.
+A - `Luka Mucic, Chief Financial Officer `
+Yes. And last but not least, just to build on that. RISE with SAP doesn't end with the point of sale,
+it's very important because a lot of customers, yes, they have a lot of complexity built around
+their core ERP. And we sent architects in. Partners are now coming in. And we always then have a
+discussion with the customers how can we remove this modification. Is this a standard, okay,
+when does it come on the road map? How can we also build extensions? How can partners build
+our extensions on the platform? So we are also just in the process of building a huge ecosystem
+on our platform, on our business technology platform, which then also is IP, we can monetize or
+our partners can monetize across the SAP installed base. And this is also very important to not
+forget the ecosystem, which plays a very important role in RISE with SAP.
+A - `Anthony Coletta, Chief, Investor Relations Officer `
+Well, thank you, Christian, and that concludes our call for today. Thank you.

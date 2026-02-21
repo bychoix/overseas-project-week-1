@@ -1,0 +1,685 @@
+Q2 2022 Earnings Call
+
+Presentation
+`Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Good afternoon, ladies and gentlemen. I would like to welcome you all to our Telephone
+Conference for the Second Quarter Results. With us today are `Oliver Zipse, Chairman, Chairman of the
+Board of Management; and `Nicolas Peter, Chief Financial Officer, our CFO. First, `Nicolas Peter, Chief Financial Officer will take you through our
+financial results. `Oliver Zipse, Chairman will then give you a general business update for the BMW Group.
+Afterwards, we will have time for our Q&A session.
+So we start with our CFO. Nicolas, please go ahead.
+`Nicolas Peter, Chief Financial Officer `
+Well, thanks Max. Good afternoon, ladies and gentlemen. The BMW Group successfully managed
+the second quarter of 2022 and delivered good results, despite difficult business conditions.
+Overall, the first half of the year was characterized by continuing semiconductor bottlenecks and
+supply chain disruptions. This meant the BMW Group was not fully able to meet demand. As a
+result, vehicle sales went down 13.4% from the previous year's all-time high. Despite this, we sold
+a total of 1.16 million vehicles and we are still able to expand our leading position in the global
+premium segment in the first half of the year. Here, electromobility remains an important growth
+factor. As of June 30, the BMW Group had delivered almost 76,000 fully electric vehicles to
+customers in 2022, more than double the figure for the same period of last year.
+For the second half of this year, we expect solid growth in deliveries compared to the second half
+year of 2021. Deliveries declined in the first half of the year due to supply bottlenecks, the war in
+Ukraine and disruption in supply chain. We therefore expect a slight decrease in deliveries for the
+full year. However, we intend to at least double that -- deliveries for the full year 2022 compared
+to last year.
+Ladies and gentlemen, let's take a look at the BMW Group's key financial figures. Compared toyear, reaching around EUR65.9 billion at the end of the first 6 months. This significant growth
+primarily came from the full consolidation of our Chinese joint venture, BBA, in the Group financial
+statements.
+Group earnings before tax for the second quarter totaled just over EUR3.9 billion. The deviation
+compared to the previous year is due to technical effects. On the one hand, the prior-year
+quarter included income of EUR1 billion from the partial release of the provision in connection with
+the EU anti-trust proceedings. On the other hand, the second quarter of 2022 was also negatively
+impacted by the effect from the full consolidation of BBA of approximately EUR1.1 billion.
+In the first half year, Group earnings before tax climbed 65.9% to almost EUR16.2 billion. The one-
+time effect of around EUR7.7 billion from the revaluation of previously-held equity interest in BBA
+at fair market value was a major driver. Accordingly, the Group EBT margin was at 11.3% for the
+second quarter and 24.5% for the first half of 2022.
+Our research and development expenses in accordance with IFRS rose by 14.3% year-on-year in
+of first 6 months to just over EUR3.1 billion. Our R&D activities remain focused on electrification
+and digitalization of our vehicle fleet. The R&D ratio, according to the German Commercial Code,
+of 4.5% at the end of June was on par with the previous year. We expect the figure for the full
+year to be within our target range of 5% to 5.5%.
+We are constantly working on the future of sustainable individual mobility. To this end, we're
+continually investing in new products in our production network and in a comprehensive
+digitalization of our sales network. With the recent plant extension in Shenyang, we have further
+expanded our production capacity. Our cutting edge plant, Lydia, is already setting new standards
+for diesel construction with its consistent focus on e-mobility and groundbreaking digital
+applications.
+Capital expenditure in the first half of 2022 totaled more than EUR2.9 billion, an increase of
+EUR1.2 billion over the same period of 2021. The year-on-year increase is primarily due to upfront
+expenditure for the ramp up of e-mobility and investment at BBA. The CapEx ratio for the year to
+the end of June 30th was 4.4%.
+Ladies and gentlemen, let's move on to the individual segments. I will begin with the Automotive
+segment. Segment revenues for the first 6 months climbed 18.8% year-on-year to just over
+EUR56.7 billion. In the second quarter, they were up 20.1%. This increase in revenues largely stems
+from the full consolidation of BBA.
+We were able to offset volume effect from the decrease in sales to good price realization for our
+premium products. Sustained momentum from the strong model mix contributed to this, as well
+as continuing positive conditions in the pre-owned car market. Revenues were also lifted by
+currency translation effects.
+The cost of sales in the Automotive segment amounted to EUR48.1 billion in the first half-year, an
+increase of 23.1%. Effects from the consolidation of BBA amounting to around EUR2.3 billion
+contributed to the increase in the cost of sales. As planned, this included depreciation from the
+purchase price allocation amounting to about EUR1 billion at the first half year as well as an
+elimination of around EUR1.3 billion in inter-company profits from intra-group deliveries.
+Segment EBIT stood at just under EUR2.5 billion for the second quarter and just over EUR4.8
+billion for the first 6 months. This is a decrease of around EUR1.3 billion compared with the same
+period of last year. However, as already mentioned, this is due to some technical effects. On the
+one hand, the previous year benefited from the partial release of the provision for the EU anti-trust proceedings. On the other hand, the EBIT for the current year has also been impacted by
+the BBA consolidation effect mentioned above.
+EBIT margin of 8.2% for the second quarter was within our target range. At the end of June, it
+stood at 8.5%. Excluding the consolidation effects mentioned above, the EBIT margin would be
+12% for the second quarter and 12.6% for half-year. This reflects the strength of our car segment
+in the second quarter, particularly given the difficult business conditions.
+The financial result for this segment totaled around EUR8.1 billion at the end of June compared to
+a figure of approximately EUR1.3 billion for the previous year. On the one hand, this reflects a
+one-time effect of around EUR7.7 billion from the revaluation of the previously held BBA shares.
+On the other hand, with BBA's contribution no longer included, the equity result decreased
+significantly by EUR800 million.
+Thanks to a strong operating performance, this segment's free cash flow for the second quarter
+totaled almost EUR3 billion. At the end of June, it had reached around EUR7.8 billion. This figure
+includes an inflow of EUR5 billion from the acquisition of BBA's liquid funds, less the purchase
+price paid in the first quarter.
+Temporary closures of Chinese dealerships due to the Coronavirus pandemic dampened the
+cash inflow from operating activities in the first half of the year. As a result, our abilities [ph] for
+advance payments from retailers and bonus payments to dealers decreased significantly.
+Due to strong demand for all electric vehicles, the BMW Group will increase its investment in
+electromobility. In addition, we expect a slight decline in deliveries for the full year. This will only
+partially be offset in our results by positive price and mix effects, and the development of the
+pre-owned car market. For this reason, we are now aiming for our free cash flow of at least
+EUR10 billion in the Automotive segment for the full year.
+In the first half of 2022, the Financial Services segment concluded just over 815,000 new
+contracts with retail customers, down 20.8% from the previous year. The decrease in vehicle
+sales is also reflected in the number of financing and leasing contracts concluded. In addition, the
+Financial Services sector continues to be highly competitive.
+With a strong product mix, we were able to partially offset the reduction in volume of new
+contracts. The volume of new business from all financing and leasing contracts with retail
+customers was therefore only 12.3% lower than for the same period of last year.
+Our Financial Services portfolio generates consistently robust and stable income. Combined with
+continued high income from the resale of end-of-lease vehicles, this lifted segment earnings
+before tax to almost EUR2 billion for the first half year. This represents an increase of 2.3%
+compared to the strong prior-year.
+Despite difficult external conditions, sales in the Motorcycles segment were on par with the
+previous year. In the first half of the year, we sold just under 108,000 motorcycles from our
+attractive model lineup. The segment's operating earnings for the first 6 months of the year
+totaled EUR235 million, with an EBIT margin of 14.1%.
+Ladies and gentlemen, let's move on now to the guidance for our key performance indicators.
+Despite the challenges in its business environment, BMW Group is on track to bring the financial-
+year 2022 to a successful conclusion. Thanks to the full consolidation of BBA, we expect Group
+pretax earnings to be significantly higher.In the Automotive segment, we expect solid sales growth in the second half of the year
+compared to the same period of the previous year. In the first half of the year, the ongoing
+supply bottlenecks, the war in Ukraine and interruptions in supply chain have led to a decline in
+deliveries. As a result, we no longer expect vehicle sales to reach the same level as in 2021 for
+the full year. We are therefore currently forecasting a slight decrease in vehicle sales. Regardless
+of this, we still expect the EBIT margin in the Automotive segment to be within the range of 7% to
+9%.
+The percentage of electrified vehicles should also increase significantly, and the number of all-
+electric vehicles should more end up [ph]. We are targeting a slight reduction in CO2 emissions in
+the new vehicle fleet and CO2 emissions per vehicle produced.
+For the Financial Services segment, the consistently good development on pre-owned car market
+led to a rising segment result. For this reason, we are raising our target range for return on equity
+by 3 percentage points. It should now be within the range of 17% to 20%. In the Motorcycles
+segment, we anticipate a slight increase in deliveries with an EBIT margin within our target range
+of 8% to 10%.
+Ongoing inflation and interest rate hikes will continue to shape the macroeconomic environment
+in the coming months and impact demand. Accordingly, the above average order bank,
+particularly in Europe, is expected to normalize towards the end of the year.
+Our guidance assumes that political and economic conditions will not deteriorate significantly. It
+does not include any significant tightening of sanctions against Russia or counter measures by
+Russia, including an interruption in gas delivery. An expansion of the conflict situation spreading
+outside of Ukraine as well as far as further significant and prolonged lockdowns in response to
+the pandemic are also not factored into our guidance assumptions.
+Ladies and gentlemen, the BMW Group is capable of delivering consistently good results, even
+under challenging conditions. Our robust operating performance gives us a high degree of
+financial strength and earning power. Our priority is the long-term growth of the BMW Group. To
+achieve this, we are investing in the transformation of our Company in a targeted and sustainable
+manner.
+The BMW Group is ideally positioned for the future. Despite the increasing challenges, we are
+looking ahead with confidence. Thank you.
+`Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, `Nicolas Peter, Chief Financial Officer. And now our Chairman, Oliver, please go ahead.
+`Oliver Zipse, Chairman `
+Good afternoon, ladies and gentlemen. For the current year, we see both positive trends and
+risks for our business development. Without supply bottlenecks, we would have sold more
+vehicles in all three main markets in the first half of the year. In the second half of 2022, despite
+uncertainties in the supply situation, we now expect a solid increase in our deliveries to customers
+than in the same period of last year.
+Our order books are well filled several months out. The BMW Group remains number one in the
+global premium segment. We offer customers an attractive range of products, with a large
+number of new models and a great variety of drivetrains.As previously announced, we intend to more than double our sales of all electric vehicles for the
+full-year 2022 compared to last year and after the first 6 months, we are on track to do this. Our
+product and drivetrain strategy is now realizing its full dynamic potential, but we wouldn't be BMW
+if we weren't already gearing up our Company for the next big leap forward.
+Our Neue Klasse will be coming in 2025 at exactly the right time when the e-mobility ramp-up will
+be reaching new levels. The Neue Klasse will speed up market penetration of electric vehicles
+ever further. For the launch of the Neue Klasse, we are planning a compact sedan in the 3-Series
+segment and a sporty SUV. By the end of the decade, the Neue Klasse should already account
+for more than half of our global sales.
+We had also mentioned a hydrogen drivetrain for this new vehicle generation, but the Neue
+Klasse is so much more than a comprehensive new product portfolio with the core characteristics,
+electric, digital and circular. It defines what the BMW Group will stand for in the future and will
+make us an entirely new company because BMW was founded in 1916. In the 1960s, the Company
+reinvented itself with the old Neue Klasse and now in 2025 we will totally reinvent ourselves for
+the second time with the Neue Klasse. We see the Neue Klasse as a complete reset for the car
+and our understanding of mobility.
+Over the next 3 years, our preparations will be intense encompassing all areas of the Company.
+At the same time, we are systematically transforming our production network for e-mobility as
+these three examples show. First, at our oldest plant in Munich every second vehicle coming off
+the production line will be fully electric by the end of next year already. And there -- we will also
+be producing in the Neue Klasse there from 2026.
+Secondly, in China we have expanded the Dadong site in Shenyang where we are localizing the
+long wheel-based version of the X5 for our Chinese customers. We've also brought a
+comprehensive plant expansion on-stream at the Tiexi location. This is where we are producing a
+long realized version of the new 3-Series BEV for the Chinese market. By the way, we planned
+and simulated this plant in an entirely virtual environment. It is fully geared towers e-mobility.
+And thirdly, the same applies to our new plant in Hungary for which we laid the foundation stone
+in June. Debrecen will be the site for the initial launch of the Neue Klasse from 2025. For the first
+time in BMW history, we will be launching a new plant with a new vehicle architecture and
+utilization of electric car and a new generation of electric drivetrain.
+Something else that is unique, Debrecen will be our first vehicle plant to operate completely
+carbon free and without natural gas. We'll be using heat converters that can run on electricity or
+even geothermal energy. This message has been extremely well received around the world.
+Each and every one of our production locations worldwide will become an iFACTORY, that means
+lean, green and digital. Our plants already perform very well in the latest customer studied by US
+market research company, JD Power. All BMW plants in Europe took top spots or made it into the
+top 10. The BMW Group won eight awards in total, the best performance ever.
+Ladies and gentlemen, we remain optimistic. In a complex environment dominated by
+macroeconomic developments, we are deliberately playing to our strength. Rising raw material
+and energy prices, energy insecurity in Europe, high inflation, interest rate hikes and worsening
+financing conditions, all of these things affect our business as well as our consumer behavior.
+Semiconductor supply difficulties remained dominant and decisive issue for our sales
+performance. Against this background, we've updated our sales guidance for 2022. We now
+expect deliveries for the whole year to be slightly lower than the previous year's level. Our EBITmargin in the Automotive segment should stay within the range of 7% to 9%, as Nicolas already
+mentioned. The crucial factor will be how the supply situation develops, not just for
+semiconductors but also energy supplies in Europe.
+Our natural gas competence team is actively preparing for a potential gas shortage together with
+our suppliers. Extensive reviews are currently underway at our locations in Germany and Austria.
+We are looking at all areas and all fuels to see where we can reduce our gas usage. We could
+potentially envisage making up electricity from gas-powered cogeneration vents by purchasing
+external power. We are evaluating whether this is feasible and what the possible implications
+might be. We've shared tips with our employees on how to save gas and electricity at work and
+at home.
+Resource efficiency has been a key issue for production at the BMW Group for many years. We
+are the leader in many areas, including lowering CO2 emissions and water consumption per
+vehicle produced. Over 99% of the waste from our production is recycled or recovered. At the
+present time, no one can reliably predict how this situation will develop in the coming months and
+years. But we at BMW belief in seizing opportunities wherever they arise.
+The flexibility of our vehicle architectures and our global production network are proving
+extremely valuable as are our strong partnerships with our suppliers. We are able to serve
+diverse markets efficiently. And at the same time, our electric models are winning important
+comparative tests. There can be no question for us about whether to stand by our sustainability
+goals. This is more important than ever in the current volatile environment. We take the long view,
+and we know where we are headed.
+The vision vehicle we unveiled at the IAA 2021, the BMW iVision Circular, showed exactly how
+entrepreneurial thinking can work in a circular economy. And now, in January 2000-23, we will take
+things to the next level when we present digital vision vehicle at the CES as well as our NEXTGen
+in Las Vegas. It will showcase our digital expertise, both in our vehicles and as a company and
+partner for tech players around the world. And for the IAA 2023, I can already promise you a
+glimpse of the Neue Klasse, with a spectacular digital experience for our customers.
+As you can see, we are right on the track and we have ambitious plans for the future. Thank you
+very much.
+`Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Oliver. Ladies and gentlemen, the line will shortly be open for your
+questions. Please wait for technical advice.
+Questions And Answers
+Operator
+(Operator Instruction) And the first question is from `George Galliers, Analyst, Goldman Sachs, Goldman Sachs. Your line is
+now open.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Good afternoon, and thank you for taking my questions. The first question I had was just on the
+electric vehicle development. You're clearly seeing very good traction for your battery electric
+vehicles. When I look at last year, your plug-in hybrids out-sold the battery electric vehicles by
+more than 2 to 1, but with your objective to double sales this year there seems to be a high
+probability that in the second half your battery electric vehicle sales will be at the same level asyour plug-in hybrid electric vehicles. Is this correct? Do you expect the volumes to be equal to or
+maybe even exceed the plug-in hybrid volumes in the second half and on a forward basis? And if
+this is correct, would you describe us as being at peak plug-in hybrid today?
+The second question I had was on hydrogen. I don't know if you could give any insight into what
+percent of industry passenger car sales could hydrogen account for in 2030. And Q3 last year,
+BMW did reference the fact that the EV infrastructure had not kept up with EV sales. With this in
+mind, who does BMW think will pay for the hydrogen infrastructure? Will it be public investment or
+private investments, or is this even an area that BMW itself might support? Thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, George. Your questions will be answered by Oliver. Oliver, please.
+A - `Oliver Zipse, Chairman `
+Yeah, George, hello, this is Oliver speaking. Well, both question a very much lined up right in the
+heart of our strategy. The first one, we always said there will be a long period where combustion
+engines PHEVs and BEVs will run alongside. And we always said, beginning in 2022 and then
+progressive all the way up to 2030, the amount of BEVs will have the strongest growth push.
+This year overall, we will have about 10% of our -- all of our retail volume will be there, and we are
+right on track in achieving this. The PHEVs, they will end up at about a little more than 200,000
+units, and that has been the same last year and we expect that to remain at that level for the
+next 3 years or 4 years, and then we will see. And that is pretty independent of new car sales
+support from different countries because the PHEVs is a very unique product offering for the time
+being, especially when chartering infrastructure, as you said, is lagging substantially behind
+market increase on the BEV side. So you will see a parallel whirl [ph] the same time and we are
+very happy that we can fulfill with really superior product both market demands. But of course,
+BEVs will be -- will have the stronger sales push than PHEVs.
+Then I go to hydrogen, you know, the reasoning behind hydrogen is if you wanted to become
+more -- first, if you want to become more independent on raw materials which you need in
+abundance for BEVs and you will see what we foresee that on a scale there will not be enough
+charging infrastructure. The Nordic states, Germany, France, UK, Belgium, they might have
+enough charging infrastructure. But the other half of the globe, also inside of Europe, is extremely
+unlikely that we will have enough charging infrastructure to 2030 or 2025. And if we run into an
+emission free world, we have to have an offering of hydrogen, otherwise you will lose market
+share. We are heavily convinced that we have a few on the future on a global scale, which
+requires an offering of hydrogen.
+And your last point was also the H2 infrastructure, no, you're not depending so much on solidly
+installed infrastructure like which-- with electric charging infrastructure, it's very mobile and
+hydrogen can store energy. So there will be a parallel world. Of course, the hydrogen segment
+will come at a much later time than the best development.
+Q - `George Galliers, Analyst, Goldman Sachs `
+(multiple speakers) Thank you very much.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, George. Next question please.Operator
+The next question is from `Charles Coldicott, Analyst, Redburn, Redburn. Your line is now open.
+Q - `Charles Coldicott, Analyst, Redburn `
+Good afternoon. Thanks for taking my question. My first one, on the Auto margin guidance, if I...
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Charles, can you speak a bit little bit louder? Charles?
+Q - `Charles Coldicott, Analyst, Redburn `
+Sorry, is that any better?
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Yes, it's -- now it's much better. Wonderful. Thank you.
+Q - `Charles Coldicott, Analyst, Redburn `
+Great, thanks. Sorry about that. So, on the Auto margin guidance, if I look at the consolidation
+effects from BBA, it had a negative EUR2.3 billion impact in H1 but your guidance is for only
+EUR700 million of one-off costs related to BBA in the second half of the year. Nevertheless, your
+overall Auto margin guidance implies total earnings in H2 will be similar to H1. So my question is
+what are the additional costs that are fully offsetting those lower BBA consolidation effects in H2
+versus H1?
+And then my second question, you referenced in your prepared remarks the BMW iX tests that
+showed the real life range is significantly longer than the official range and also uses less energy
+per mile than all of its competitors, including the Tesla Model X. Obviously, you model -- you
+design and manufacture your own powertrain components for that model. So I wondered if you
+could talk a little bit about the technology that has helped the iX deliver market-leading efficiency.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay, thank you very much Charles. We start with Nicolas and then Oliver.
+A - `Nicolas Peter, Chief Financial Officer `
+Charles, first of all, I really like to restate that the first half year our EBIT performance in the
+Automotive segment I believe wasn't very strong one in such a volatile environment. And if you
+adjust by the BBVA consolidation effect, we are at 12.4% [ph] after 6 months.
+Now, you're absolutely right. We will see and some positive effects coming from some less BBA
+consolidation effect in the second half of the year. However, as always, in the second half of the
+year we have higher costs in particular in the fourth quarter. We have some higher burden from
+logistics and supplier price inflation as well as slightly more negative coming from raw material
+costs in the second half. Overall, we are confident that we are well within our guidance of 7% to
+9%, which again is taking into account this very volatile market environment, I believe, and strong
+performance.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `Okay, thank you very much. The second part of the question was the iX technology efficiency.
+Oliver?
+A - `Oliver Zipse, Chairman `
+Yes, Charles, that is a very good question. You know, efficient dynamics is part of our DNA, has
+always been. Even in the old world of combustion engines, we were able to prove that we always
+had the product offering which is more efficient in its fuel consumption. And the same DNA we
+kind of translate now into the new world of electric vehicles.
+In the case of the iX, we use every possibility to reduce driver assistance [ph] by lightweight
+bodies, for example, the iX also includes carbon fiber elements like we had in the iX3. We look at
+battery efficiency where the main ingredient is temperature control. We have the actual drivetrain
+deliver the so-called heat, it's the actual electric engine is fully -- 100% developed and
+manufactured in-house and we think we have a substantial competitive advantage with the
+technology we developed here and it's fifth generation now.
+Aerodynamics of the car, a big player, introducing the efficiency and also the whole mechanical
+performance of the car in terms of (technical difficulty) in place into driving that efficient dynamics
+approach. And therefore, we think the best complete system leads to the results which you have
+mentioned. And we are also rather conservative in measuring it in a formal way. If now an
+independent institute measures that and sees the real efficiency, of course that helps us to
+improve even further.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay, thank you very much.
+Q - `Charles Coldicott, Analyst, Redburn `
+Thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Next question, please.
+Operator
+The next question is from `Daniel Schwarz, Analyst, Credit Suisse. Your line is now open.
+Q - `Daniel Schwarz, Analyst, Credit Suisse `
+Yes, thank you for taking my question. First one would be on the cash flow guidance. Is it possible
+to split the EUR2 billion shortfall into an earnings effect, CapEx or working capital effect? And then
+on the market outlook, the cut from 1% to minus 6%, this 7 percentage points, could you
+approximately say that is split into weaker demand and what is the supply bottlenecks?
+And just a follow-up question on the earlier question on the guidance. So, could you confirm that
+all of the weaker earnings in the second half, that's higher cost and none of that is really a price
+effect that -- or deteriorating pricing from first half into the second half?
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay, Daniel. Thank you very much. This will be answered by Nicolas.A - `Nicolas Peter, Chief Financial Officer `
+Well, Daniel, maybe let's start with pricing. Pricing continues to be strong in all three regions. If you
+look at, for example, at the very recent auto data report which was published early earlier this
+week and if you look on models comparison to our brands, we are in an extremely strong
+position despite the fact that we have out-sold most of our competitors in the first half of the
+year. Very similar situation in Asian markets, and we've seen an improvement in terms of price
+realization in many, many European markets if we talk about -- because it's of course linked to
+residual values. We continue to see strong pricing with regard to off-lease vehicles in the US, in
+UK and in Germany. So that's positive.
+Second element is -- your question regarding what -- we have not adjusted our guidance by 7%.
+We have adjusted our guidance in terms of sales volume from flat to slightly below, which is in our
+wording between minus 1% and minus 5%. So that's -- let's see where we exactly end up.
+And your third topic was cash flow guidance. And it's a mixture, and we've said -- to be very
+precise, we've said minimum EUR10 billion. So, let's see whether it will be exactly EUR2 billion or
+less, but the shortfall is on one hand side will -- related to the high demand in our electric
+portfolio, in particular i4, iX, and we anticipate strong demand for i7 and iX1. And this motivated us
+to a further increase in the investment in particular of battery module production. To give you one
+example, we're, just as we speak, opening a second line of battery production -- a battery
+module production at our Leipzig plant.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay, good. Thank you very much, Dan. Next question, please.
+Operator
+Your next question is from `Jose Asumendi, Analyst, JP Morgan, JP Morgan. Your line is now open.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thank you. Jose, JPMorgan, I have 3 questions please, probably for Oliver. The first one, when do
+you expect to see a balance between supply and demand on the semiconductors? Do you think
+this is something that could be achieved for BMW in 2023 or should we think it is a post-2023
+discussion?
+Second Oliver and Nicolas, I'm sure you have -- you're seeing an opportunity to keep lower
+inventories or lower level of inventories across regions and protect pricing power. Do you have in
+mind the level of inventories you want to keep in different regions to protect this pricing power?
+And then three, if possible, could you please quantify how many gigawatt hour battery capacity,
+not building modems but producing cells, you would like to target maybe by 2025 or 2030?
+Thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay. Yes, thank you very much, Jose. I think this can be answered by Oliver altogether, yes.
+Semiconductors and -- yes, we start with semiconductors.
+A - `Oliver Zipse, Chairman `Yeah, Jose, to your first question, the semiconductors supplies, it's a two-sided piece [ph]. The
+first, that we don't have any supply difficulties with the so-called advanced nodes, which are used
+also in the consumer industry. We don't have any supply problems. There is enough capacity.
+What we see in the consumer market, the orders are coming down, so there is some relief in
+there anyway. So, that is not the problem. It's more on the mature side. So it's the power control
+semiconductors, it's CMOS technology and so on.
+And in the past -- the whole industry I think is overwhelmed by the continuing supply by the
+automotive industry, but the machine suppliers, by everything that has to do with sustainable
+energy, wind turbines. They -- all of these need these mature nodes. And mature does not mean
+old, that means they will continue for 20 years, 30 years, 40 years of having that demand and
+there we have don't have enough technology -- capacity. Not the way they look forward, I think
+we have peaked, as we speak, in June, July maybe August we have peaked to where we have a
+supply bottleneck. It will become better but I think the capacity increase by some of the suppliers
+takes time. They started to invest some 18 months ago. You need between two and three years
+until that becomes effective.
+So we see, yeah, a gap between supply and demand for -- at least for the next 6 months to 12
+months. But again, there is bettering of the situation in sight. I don't think it will become worse
+than it is today. I'm pretty sure. And we have very, very close connections, I myself, with the
+semiconductors. So, I think that's a description of the today's situation.
+The second question was about our inventories. The inventories on the car side, of course we
+perfectionize our inventories to demand and that is independent of the region in the world. We
+try to lower our inventories to a level where we can supply the demand, but that we definitely do
+not have over-capacities. Of course, that means that you have a more stringent control of your
+inventories.
+The good thing is all of our cars at BMW are connected. With that connectivity, we know exactly
+where the cars are and so we can have a very distinct steering of our inventories. On the parts
+side, we increased our in our inventories for critical parts, so we become more and more
+independent of the extra supply situation. And that's specifically on the semiconductor side but
+also on the critical electric mobility part side.
+And the third question was how many gigawatt hours of capacity in 2025 and 2030 plant. As you
+can see, we will five-fold our capacities here. This year we will have about 10% of BEVs in our
+product portfolio. By latest -- maybe even the earliest, by latest 2030 we'll be 50%, that means
+we five-fold our capacities here.
+And we remain in our opinion that the direct production of battery cells is not the route we take
+because we currently have more than five suppliers of it. That means if you start doing that, you
+would have to reason it, you would have to supply all cells out of your own re-arm [ph]. And I think
+to play the market, which is very big by the way, and is very competitive would be at least from
+the year -- from the perspective of the year 2022 would be a mistake.
+Where we invest heavily by ourselves is the complete battery pack, especially for the current
+situation but even more so for the next generation of Neue Klasse in 2025, that will be done
+almost exclusively in-house, very close -- in proximity to our plants. So, that has been our strategy
+and I think for us it's exactly the right strategy.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Oliver. Next question, please.Operator
+The next question is from `Daniel Roska, Analyst, Bernstein Research, Bernstein Research. Your line is now open.
+Q - `Daniel Roska, Analyst, Bernstein Research
+Good afternoon, gentlemen, thanks for taking my questions. Maybe on your 2022 outlook, it
+sounds a little bit more cautious than some of your peers possibly. And I wonder if you are a little
+bit more pessimistic on the rest of the year, what -- where does that leave us for 2023. So may I
+ask which development in the upcoming months would make you more optimistic on next year
+and which developments neglecting, let's say, big black swan events, but which developments
+would make you less optimistic?
+And then during the press con also earlier you highlighted the importance of battery efficiency
+and the improvement process you're on. Could you put some numbers around that? So where
+do you -- where is the efficiency in your view on the iX now and how much in numbers do you
+think you can improve that into your next platform?
+And maybe just short follow-up to clarify if I misunderstood, but did I hear you correctly that Neue
+Klasse potentially would accommodate a hydrogen drivetrain later in the decade? It's again the
+question around BEV only or BEV first. Thanks.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Daniel. We start with Nicolas, and then Neue Klasse and iX, Oliver. Nicolas,
+please.
+A - `Nicolas Peter, Chief Financial Officer `
+Dan, my perspective is slightly different. If you reflect on the sales results in the first half, minus
+13.4%, we are guiding for the full year a slight decrease compared to 2021, which means on one
+hand side we have to accelerate and we will accelerate versus the first half year of 2022 and we
+will be above the second half of 2021.
+We will be -- compared to the second half year of 21, you will see a solid growth of our global
+sales between 5% and 10%. So, I believe that it's not a very realistic plan we have in place taking
+into account the situation in the different geo regions, taking into account what Oliver just outline,
+the development in the semiconductor -- on the semiconductor supply side, and on one hand
+side our strong order bank, and in particular, the development of incoming orders, in particular in
+Europe. So, I believe it's an optimistic, well balanced scenario -- growth scenario. And what will
+happen in 2023, we will discuss in a couple of months from now.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay, thank you very much Nicolas. The second part of the question was about the battery
+efficiency, iX, and Neue Klasse, BEVs only or BEVs first? Very easy question.
+A - `Nicolas Peter, Chief Financial Officer `
+Yeah, with the iX, I think the iX is only one example where we can -- or external proof that our
+efficiency is part of this team, A; and also being better than the competition. I would say, with the
+iX but also with the i7 we see, even with the i4 the realistically reached efficiency is about 10% to
+15% better than publicly measured in the normal -- doing the normal methods.So, we think we are about 10% to 15% better than -- not anticipated but then communicated, that
+we're also on the -- obviously on the conservative side here. But in the test we see, we're also
+about 10% to 15% better than the majority of the competition. And that has been one of our core
+strengths, and we've built on that strength and want to build that even further in the Neue Klasse
+later.
+The Neue Klasse is electric-only because the hydrogen car is an electric car. So, that's a simple
+question. And whether we do a hydrogen drivetrain, we will decide on a later point but because
+it's a net electric car it's what we need to do.
+Q - `Daniel Roska, Analyst, Bernstein Research
+Good, thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Next question, please.
+Operator
+The next question is from `Tim Rokossa, Analyst, Deutsche Bank, Deutsche Bank. Your line is now open.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you very much for taking my questions, gentlemen. I have two, please. The first one is on
+your strong BEV demand, especially i4 we test-drove it. I liked it, lots of people seem to like it. But
+anecdotally, the waiting times can be up to 18 months, in Europe at least. Now, lots of demand is
+a good problem, but it's still a problem because lots of your customers may end up still buying
+Tesla if this 2 years is simply too long for them to wait. And in 2 years' time, obviously also this
+may not be a very competitive (inaudible). So any chance that you can realistically shorten these
+waiting times substantially in the near term or is that just what customers have to live with?
+And then secondly -- and I think that is actually a decisive question for your stock price
+performance today outside of your margin guidance, it's been a while since we saw an OEM
+taking up the CapEx guidance with quarter results. Now, for most of us, if I recall that correctly,
+that was basically in 2019 also when you were close to 5.5% of your topline as CapEx. And back
+then, a lot of your peers announced dedicated EV architecture. Now, you said there is no need to
+do that.
+Now, you have one that we just also discussed. What do you say if someone looks at the results
+today and such that we are now looking for a situation where you guys will under-earn because
+you don't have this dedicated architecture and your flexible approach is quite expensive as it
+seems, and at the same time you have to out-spend your peers for the next 2 years and odd
+[ph]. Thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Tim. This will be answered by Nicolas.
+A - `Nicolas Peter, Chief Financial Officer `
+Well, first message, it's good news that our all-electric cars are in high demand. iX, i4 mentioned -
+- you've mentioned but MINI electric as well. And as we anticipate that i7 and iX1 will be in high
+demand as well. This is the first feedbacks we are -- positive feedback we are getting. This isexactly the reason why we are investing heavily, in order to ramp up production capacities, in
+order to shorten lead times and to have, yeah, customers waiting a little bit shorter. I think you
+can wait for a premium product a couple of couple of weeks, maybe even 2 months to 3 months.
+But definitely now, it's a little bit too long. And this is why we are investing.
+Second element, underperform -- if you look at our key KPIs, we have delivered 12.4% EBIT
+margin. We've delivered in the first 6 months, if I'm not wrong, the highest free cash flow in the
+industry. So I don't -- to be honest, I don't see any underperformance. And the fact that we are
+investing in CapEx, it exactly has nothing to do with Neue Klasse, it has to do with the fact that our
+today's cars, which are the cars I've referred to are in high demand. And from my perspective, all
+those three elements are positive messages, positive news.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Okay. Thank you very much, Tim. Then we come to the next question please.
+Operator
+The next question is from `Gabriel Adler, Analyst, Citigroup, Citigroup. Your line is now open.
+Q - `Gabriel Adler, Analyst, Citigroup `
+Hi, thanks for taking my questions. My first is on the impact from supplier price recovery that you
+mentioned in answer to another question about the second-half cost pressures. Are you
+expecting those price recoveries to continue into 2023? I mean, could you give us any more
+details on how the contracts are structured to these one-off repayments or are they price
+increases that are going to be renegotiated (inaudible)? And anything that could quantify the
+impact in the second half of this year would be really interesting.
+And then, my second question is sort of a follow-up on the previous one on CapEx again. I just
+really want to understand here whether this increase should be seen as an opportunistic
+response to the strong EV demand you're seeing or whether it really represents a change in
+strategic thinking and it means that EV investments being going forward CapEx should be higher
+in 2023 and 2024 perhaps than initially anticipated? Thank you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much. Yes, I think this will be answered by Nicolas.
+A - `Nicolas Peter, Chief Financial Officer `
+Well, Gabriel, maybe let's start with your second question, EV investments, and I'm repeating in a
+certain way what (technical difficulty) just said. It's a positive news that our EVs, our all-electric cars,
+are in the higher demand than we've anticipated, and this is exactly the reason why we are
+investing, we are planning to more than double our sales.
+And if -- maybe to start with the first half, if you look at our performance in the all-electric area we
+are ahead of -- take aside those manufacturers which are only focusing on all-electric, we are
+ahead of all others in the premium segment. Demand continues to be strong. We are anticipating
+high demand for i7 and iX1 as well. And you are aware that we are launching additional models in
+2023. And of course we have an investment plan, which is in line with our ambition to grow from
+today to approximately 50% of our global sales being all-electric in -- by 2030.Your first question was on cost pressures in the supply chain. Of course, this has to do a lot with
+energy price and raw material price development. We've seen in raw materials some volatility in
+the last couple of weeks in both directions. And talking about raw material impact in 2022, if --
+we've guided from the positive for the full-year 2022 raw material and FX low to mid 3-digit
+negative deviation. Now, we are on the opposite side.
+We have -- thanks to the development on the FX side, we have -- we are forecasting now and
+low to mid 3-digit positive impact. And we are -- as you can imagine, our procurement
+department is discussing with every individual supplier different type of solutions. So, I'm
+confident that -- and this is reflected in our guidance, that despite those challenges we stick to
+our guidance of 7% to 9% in 2022
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+So thank you very much, Tom. So it's 3 o'clock but we have time for some additional questions.
+Next question, please.
+Operator
+The next question is from `Tom Narayan, Analyst, RBC, RBC. Your line is now open.
+Q - `Tom Narayan, Analyst, RBC `
+Hi, yes, `Tom Narayan, Analyst, RBC, RBC. Thanks for taking the questions. The first one is, I suspect this is a
+regulatory issue, but is there a reason why BMW includes purchase price accounting in the
+adjusted EBIT?
+And then I just wanted to confirm some of the answers you've given in the Q&A session thus far.
+So, you called out a logistics supplier price inflation, raw materials as to why H2 EBIT margins ex-
+PPA will be lower versus H1. And your comments suggest that price mix should be -- remains
+strong in H2 and then I guess semis still could be better in H2 versus H1, just wanted to make sure
+that's a fair assessment.
+And then lastly, could you just update us on your specific exposure to nat gas energy use? And on
+that topic, some of your peers have voiced some optimism that governments, specifically
+German Government, will do what they can to protect industry and this is in reference to the
+supply chain. Just curious if you share this optimism. Thanks.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+So we start with Nicolas for the first and the second part of the question. And then the third about
+the net gas energy comes from Oliver. Okay, Nicolas, please...
+A - `Nicolas Peter, Chief Financial Officer `
+Well, number one, we stick to our guidance, so 7% to 9% is unchanged. You're absolutely right.
+We will see lower PPA impact in the second half of the year. Mix and price is okay. We will see
+volume developing in the right direction. On the other hand side, we have, as always - in the
+second half of the year, we have higher costs, in particular in the fourth quarter, and altogether
+it's leading to a confirmation of our profit guidance of 7% to 9%.
+And as far inclusion of PPA in the EBIT, we follow IFRS standards and regarding IFRS standards is
+the right way to account for the PPA in the auto segment.A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Oliver?
+A - `Oliver Zipse, Chairman `
+Yeah, Tom, I think this is a very crucial question. We currently are seeing 3,500 gigawatt energy
+use by BMW in Germany and Austria. About 1500 gigawatt hours are gas. I think some of it we
+can convert, especially the gas-to-power conversion units we run here. The electricity power can
+be bought otherwise. We are quite confident there.
+Can we completely save or replace the rest of the gas? No, we could not. I think any industrial
+operation could not do that. So, we are very happy that the policy in Germany, in Europe, is
+targeted to tell us -- keeping the is running. And even if we could counteract on the gas shortage,
+I think our supplier base will have even bigger problems because some manufacturers, especially
+the chemistry industry, uses processed gas, which we cannot replace by electricity and so on. So, I
+think it's absolutely mandatory, at least for the majority of gas, that the pipelines keep running.
+And that's our demand to the policy makers in Brussels and Berlin.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Oliver and Tom. So, I think we have time for two more additional questions.
+Operator
+The next question is from `Harald Hendrikse, Analyst, Morgan Stanley, Morgan Stanley. Your line is now open.
+Q - `Harald Hendrikse, Analyst, Morgan Stanley `
+Yeah, guys, can you hear me?
+A - `Oliver Zipse, Chairman `
+Yeah, we can hear you.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+We can hear you.
+Q - `Harald Hendrikse, Analyst, Morgan Stanley `
+Perfect. Thank you so much for taking my question. I was very late pressing the buttons.
+Obviously, (technical difficulty) thank you for highlighting that just now from Tom. My question,
+more -- slightly more usual one, but we can see it again today, right. Unit sales in the quarter
+down obviously quite sharply, revenues at all-time highs. So the discrepancy and the huge move
+in ASPs, obviously incredibly helpful and you've already highlighted that on the pricing.
+My question is obviously what I think most investors are asking themselves. At a stage when the
+consumer is obviously under pressure, inflation is hurting the consumer everywhere, when
+interest rates are going up and so putting probably some pressure on leases, I mean how
+sustainable do you think this pricing situation is? Do you think this is 2022, or if I was going to
+model 2023 would I still expect positive pricing on top of these very high ASPs? I know it's a bit
+conceptual but maybe some of your thoughts would be more valuable to us. Thank you.A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Yes, thank you very much. This will be answered by Nicolas.
+A - `Nicolas Peter, Chief Financial Officer `
+Harald, course this is one of the most important questions you are asking. And if you reflect on
+our guidance adjustment we made today, this is exactly supporting your assumption. Our
+ambition is very clear. We want to -- based on our strong product portfolio, based on the good
+momentum in particular with all-electric cars, to maintain and to keep pricing at today's level.
+And as I've already said, if we look -- and the most transparent market in this regard is the US
+market. And if you look at what are the key elements next to a strong product portfolio, which we
+have, is to manage the supply side in the right way, which we do. If you look at inventory levels,
+you've already asked -- someone asked the question a little bit earlier, look at inventory levels in
+the industry as of end of June, for example in the US, but we follow exactly the same strategy in
+all regions. We have one of the lowest dealer inventory levels in the industry. And if you look at
+the share between SAVs and cars is exactly the right one, in line with customer demand.
+Second element, which is key in this regard is to have flexible plants, to be in a position to follow
+demand, be it on the product side or on the allocation to different markets because it's very --
+we are a global manufacturer. It is very difficult to forecast exactly in detail how every single
+market will develop in 12 months from now. So, flexibility is extremely important, also to maintain
+the high pricing. That's definitely one of the strengths we have in our organization.
+And the third element is, as Oliver already outlined, to know exactly where your stock is and what
+level of stock you have in every single dealership around the world. And thanks to our tracking
+possibility, this is something which we are able to deliver today and have the basis far -- and really
+strong and extremely helpful supply and demand allocation of our production. So, I am confident
+on top of this that due to the year -- not only our new car pricing, but also our strong residual
+value position that we will see also beyond 2022 a strong pricing position, and we will definitely
+not fall back into those behaviors we've seen in the industry in -- before the Corona crisis.
+Q - `Harald Hendrikse, Analyst, Morgan Stanley `
+Thank you very much.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you very much, Harald. And now last question, please.
+Operator
+The last question is then from `Stephen Reitman, Analyst, Societe Generale, SocGen. Your line is now open.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, thank you very much for taking my questions. I have two questions on China and then maybe
+a third one, a conceptual one. First of all, on China, now it's become obviously even more
+important given the full consolidation of the business, but could you comment about the
+efficiency of your operations over there? We see in Shanghai, Tesla making record (inaudible)
+production there from Shanghai Gigafactory. I was wondering how the efficiency of your plants
+compare -- your three plants in the Shenyang area compare in terms of ability to work, how many
+days and shifts and things like that?Secondly, if you could comment on what's been (inaudible) of the locally produced X5 long-wheel
+based version and where you think that's going? And my third question is you're talking about
+10% being at attempts of EV share by the end of the year. If your BEV capacity was unfettered,
+you could actually produce as many BEVs as you think the market demanded. Where do you think
+your market share -- the share of BEV or mix would actually be even if you could actually make as
+many BEVs as the customers are demanding? You talked about the very strong -- long waiting
+times you have for these vehicles. Thank you very much.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+Thank you for your question, Stephen. The answer will come from Oliver.
+A - `Oliver Zipse, Chairman `
+Yeah, Stephen, in China we have three plants out there in Shenyang, the newest one called Lydia
+which has just been opened about 8 weeks ago. They are absolutely on global competitive level.
+There is no difference between a German plant, a United States plant, a Mexican plant or the
+Chinese plant. The efficiency almost exclusively depends on capacity utilization. The higher the
+capacity utilization is the better it is, and up to now all plants were running on full throttle more or
+less.
+Also, that leads me to the second question, the ramping up of the X5 long-wheel base. The
+demand is extraordinarily high. Really that was I think one of the best (technical difficulty) we ever
+made to localize the X5, also to have a capacity expansion but also to have been part of the local
+production network in China. So, demand is very high and that leads automatically to very high
+efficiency rate.
+And your last question, 10%, yes, if we could, we would do more, that's true. But I think we are
+not completely out of line with the natural capacity demand [ph] -- of global demand. The best
+market on a global scale is still very small, no compared to other sizes. And we will grow with the
+demand. We will double it again the year after next. This is -- and we go very much in line where
+the markets go. But we currently do everything possible to get enough batteries, to get enough
+semiconductors specifically, especially on the mature nodes, as I said before, to meet market
+demand.
+A - `Maximilian Schoeberl, EVP, Corporate and Governmental Affairs `
+So, thank you very much, Oliver. Thank you very much, ladies and gentlemen. Thank you for
+joining us today. All the best for the summer time. Stay healthy. And good-bye from Munich. Bye-
+bye.
+Operator
+Ladies and gentlemen, thank you for your attendance. This conference has been concluded. You
+may disconnect.

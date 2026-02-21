@@ -1,0 +1,501 @@
+S1 2022 Earnings Call
+
+Presentation
+Operator
+Thank you everyone for joining us despite your busy schedules. We'll now like to begin Toyota
+Motor Corporation's FY 2022 Second Quarter Financial Results Press Briefing. Starting by
+introducing our presenters today. Chief Financial Officer, `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp &; Chief Communications
+Officer, `Jun Nagata, Chief Communication Officer.
+So now I'll like to begin by having our CFO, Mr.Kon explain about the financial results.
+`Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Thank you for joining us today. I'm `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp &. We would like to express our heartfelt appreciation
+to all of our stakeholders including customers around the world who chose us as well as our
+shareholders, dealers, and suppliers who support us.
+We sincerely apologize for the inconvenience caused to our customers due to the recent
+production volume reduction. We are working as soon as possible. Thank you for your
+understanding.
+I would like to provide a summary of the second quarter of this fiscal year. The semiconductor
+shortage and spread of COVID-19 in some developing countries caused us to reduce our
+production volume globally, but our suppliers, plants, and dealers made great efforts to supply as
+many cars to our customers as possible. Our results for the first half of the fiscal year reflect our
+enhanced cost reduction activities and efforts to make more efficient use of fixed costs while
+enhancing the product appeal by making ever-better cars and investing for growth. We have also
+benefited from the tightening supply and high demand in the new car market, as this has led to
+higher used car prices and allowed us to decrease the quantum of incentives. We believe these
+factors have made our results in certain respects to be robust beyond our underlying strength.
+Even though we have revised our operating income forecast upwards, excluding the impact of
+the depreciation of the yen, it would be in substance a downward revision due to increases in raw
+material costs. We will keep improving our operation to standardize what we have learned from
+COVID-19. In terms of our return to shareholders, the interim ordinary dividend is 120 yen pershare, an increase of JPY15 compared to the previous fiscal year. We have also decided to
+conduct a repurchase of up to JPY100 billion of our common stock.
+Let me discuss our financial results for the first half ended September 2021. Consolidated vehicle
+sales for the period was at 4.94 million units, which was 132.7% of consolidated vehicle sales for
+the first half of the previous fiscal year. Toyota and Lexus brand vehicle sales was at 4.852 million
+units, which was 121.0% of such sales for the first half of the previous fiscal year. The ratio of
+electrified vehicles was 27.7%.
+Consolidated financial results for the first half of this fiscal year were sales revenues of
+JPY15,481.2 billion, operating income of JPY1,747.4 billion, income before income taxes of
+JPY2,144.0 billion, and net income of JPY1,524.4 billion.
+I would like to explain the factors which impacted operating income year on year. First, the effects
+of foreign exchange rates increased operating income by JPY255 billion. Second, cost reduction
+efforts decreased operating income by JPY30 billion due to the impact of soaring material prices.
+Third, marketing efforts increased operating income by JPY1.55 trillion, largely due to the increase
+in sales volume and improved earnings in the financial services business. Finally, a reduction in
+expenses increased operating income by JPY10 billion. As a result, excluding the overall impact of
+foreign exchange rates, swap valuation gains, and losses, and other factors, operating income
+increased by JPY1.35 trillion year on year.
+Next, I will explain operating income for each region. As shown, operating income increased year
+on year in all regions, largely due to the increase in sales volume. As for our China business, the
+operating income of consolidated subsidiaries and our share of profit of investments accounted
+for using the equity method increased due to the impact of foreign exchange rates. Regarding
+Financial Services, operating income excluding swap valuation gains and losses for the fiscal year
+increased year on year, mainly due to the increase in the lending balance and margins.
+Next, I would like to explain our return to shareholders. Based on the business results for the first
+half of this fiscal year, we decided to pay an interim dividend of 120 yen per share, an increase of
+JPY15 compared to the previous fiscal year. We intend to continue to maintain and improve the
+consolidated dividend payout ratio over the mid to long term, as well as pay dividends stably and
+sustainably to reward our shareholders who hold our shares over the mid to long term. In
+addition, we will repurchase up to JPY150 billion of our own shares for the current interim period,
+taking into consideration factors such as investment in growth and dividend levels.
+Next, I will explain the forecasts for the fiscal year ending March 31, 2022. Consolidated vehicle
+sales is expected to be 8.55 million units, which is 98.3% of the previous forecasts. Regional sales
+breakdown is as stated in the presentation. As for Toyota and Lexus brand vehicle sales, we
+anticipate that vehicle sales will be 9.4 million units, which is 97.9% of the previous forecasts.
+Next, let me explain the forecasts for the full-year consolidated financial performance. We have
+adopted ForEx-rate assumptions for October onwards of 110 yen per dollar and 125 yen per euro,
+which makes the full year assumptions 110 yen per dollar and 128 yen per euro. Based on this, our
+forecasts for full-year consolidated financial performance are sales revenues of JPY30 trillion,
+operating income of JPY2,800 billion, income before income taxes of JPY3,440 billion, and net
+income of JPY2,490 billion.
+Next, I would like to explain the factors that impact operating income year on year, compared to
+the previous forecast. The operating income forecast has been revised upward by JPY300 billion
+from the previous forecast, taking into account the increase in operating income due to therevision of FX assumptions reflecting the weaker yen and the decrease in operating income due
+to the increase in raw material costs.
+The factors that will impact operating income compared to the same period of previous fiscal
+year are as shown in the presentation. Although we continue to face unpredictable conditions
+with regard to the stabilization of supply, as well as issues such as the sharp rise in raw material
+costs, we will continue to work towards the future and establish the lessons learned from the
+COVID-19 crisis.
+Thank you for your attention.
+Operator
+We will now like to begin the Q&A session.
+Questions And Answers
+Operator
+(Question And Answer)
+We'll now like to begin the Q&A session. (Operator Instructions) Please allow us to limit you to
+two questions per person. Thank you for your cooperation. Mr.Katori from Yomiuri Newspapers,
+please. (Operator Instructions) And Mr.Katori, can you begin with your question?
+Q - `Naotake Katori, Yomiuri Newspapers
+This is Katori speaking from Yomiuri Newspapers. I have two questions. First of all, this ended first
+half performance, I'd like to hear your assessment and summary, especially the operating income.
+Maybe there has been some changes, but I do think that it's the record high from the past history.
+So for the factors that contributed to that and also for the large vehicle size performing very well,
+the sale -- very well new car sales. I'd like to hear about the factors that contributed. And
+especially, I'd like to ask about the production recovery plan. I think you've made up report about
+what your plans up to November. But up to December, are you -- I think we hear that you'll be
+operating on the weekends as well, including Saturdays, but still there is some impact from
+COVID. So what kind of recovery plan do you have? That's my second question.
+A - `Jun Nagata, Chief Communication Officer `
+Thank you Mr.Katori for your question. So your first question was about to the assessment of the
+ended first half of this term, about what were the contributing factors. And your second question
+was about the production recovery plan after December. That is how I understood two questions.
+Am I correct?
+Q - `Naotake Katori, Yomiuri Newspapers
+Yes.
+A - `Jun Nagata, Chief Communication Officer `
+So both of those questions will be responded from our CFO, Mr.Kon.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `Thank you very much for your question. Regarding the first half, second quarter results, the
+assessments, if we can look at the third page of the presentation material. Thank you. This is the
+summary. And I'd like to make some additional comments on this -- in addition to this page.
+So as you can see on the very top, globally, production volume has declined globally. That is how
+we see the first half of this fiscal year. But in this situation, our dealers, our suppliers, our plants,
+the plants worldwide, also the gemba or the operation sites, they have made great efforts to
+supply as much cars as possible to the customers, without stopping the vehicle plants. If a vehicle
+plant stops, there will be a huge impact to our suppliers and stakeholders. Therefore, the people
+working out to the operation site has -- wanted to avoid that situation and made strong efforts.
+And that has contributed largely to our results. But on the other hand, we are in fact a having
+customers wait for the car delivery. So there are many challenges still that we have to work on.
+And also for the sales results, even though there was limitations in production, the sales side did
+not drop so significantly. Compared year-on-year, actually there was an increase. And this is
+because, the dealers, they have worked -- made efforts to drop the level of inventory, also made
+efficient sales activities, also have been able to work flexibly with the existing inventories. So they
+have been working hard to capture the sales opportunities, have good communication with the
+customers to deliver the cars as much as possible. This was also a huge contributor to the results.
+And on the other hand, there were some areas of that went beyond our underlying strength. And
+it might be just partially, but the new car sales is such tight in supply. And therefore, used car
+prices are now at a high level. And as a result, the financial businesses, the residual value balance
+has turned positively. And this is mainly a contributed by the high used car price market.
+And regarding incentives, with under the current situation for all of the OEMs, it's the same
+situation, but we have been able to keep the incentives low. So these kinds of environmental
+aspects have contributed this will be beyond our underlying strength. However, for the market
+fluctuation, the higher commodity price market -- high commodity prices is also a large impacting
+factor. We are not in a situation where we can hand on these price increases to our customers.
+Therefore, cost reduction, fixed cost reduction also making efforts to enhance the vehicle value.
+These were the efforts made to recover the negative impact from the market fluctuation.
+For the cost reduction and fixed cost reduction, there has been huge efforts made company-
+wide, and this effort is continuing. Going through COVID, we don't have a feel at the point of this
+time that we are returning back to the before-COVID times. So that will be a positive feeling that I
+have. I'm sorry to be a lengthy -- giving you a lengthy answer, but one of the reasons why we did
+not drop -- see a big drop in the sales activities is because the product appeal being enhanced.
+As a foundation of our business, I think that is a large contributor, having a stronger product
+appeal. TNGA was led -- started from the initiation from the President of Toyota's statements.
+And those initiatives was taken product appeal strength and also to set the products in a group
+or series and families, and to achieve ever better cars. And this kind of activity had contributed in
+this result, I believe.
+And for your second question about the production recovery, after December, we do still see
+much risks there. However, for the production volume the 9 million that we have announced
+today for December and January, February, March, if we operate in a full of operation, we still see
+some risk in order to be able to operate fully. Therefore, it is slightly conservative this 9 million in
+volume. But based on our running reproduction situation, including the Saturday operations, since
+we have customers waiting as a fact, we will do whatever we can to continue the production. So
+this will be my answers. I hope I have answered your question.Q - `Naotake Katori, Yomiuri Newspapers
+Yes. Thank you very much.
+Operator
+Thank you, Mr.Katori, for your question. We would like to move to the next question, Mr.Kondo
+from Asahi Newspaper, please. We are going to switch over the screen. So please start your
+question when you see yourself on a screen. Mr.Kondo, please.
+Q - `Kohei Kondo, Asahi Newspapers
+My name is Kondo from Asahi Newspaper. Can you hear my voice? Can you hear my voice?
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Yes, we can.
+Q - `Kohei Kondo, Asahi Newspapers
+So based upon your financial results, I have a question starting with sales and operating income
+and net income. I think it is a victory, historical high. And you made a revision, upward revision for
+the four year. Yes, yen depreciation was a one factor, but I see wonderful numbers. And still, the
+society as a whole is suffering from COVID-19. And also the auto industry, especially the small
+suppliers have to deal with carbon neutrality and also face the challenge of CASE and other new
+technologies. In other words, they are still struggling to turn around their profit. And I understand
+your number is based upon those suppliers' numbers. How do you accept this? And what do you
+think about returning those profit and also durations?
+And also, your relationship with suppliers, especially with Nippon Steel, the champion negotiation
+so-called is the negotiation on the steel price every half year. And at Nippon Steel, R&D
+investment and development cost are being the reasons for the negotiation. So what is your
+measure, and how are you going to deal with this, and what's your thoughts on this? And
+especially, this litigation on this patent and you are expected to make a scientific proof on this
+and how are you going -- what is your position on this litigation?
+A - `Jun Nagata, Chief Communication Officer `
+Mr.Kondo, thank you so much for your question. The first question was about our good
+performance on this interim financial results. Well, number wise -- and your question was that our
+numbers were based upon suppliers' numbers and what is our take on this. Well, Mr.Kon is going
+to answer on this. And with regards to positions with Nippon Steel and the first question was on
+the price negotiation, Nippon Steel is asking for a further price hike and what is our opinion on
+this. And second is about this electromagnetic steel, what we think about this. And Nagata, myself
+will answer this question later.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Yes. Regarding the first question, I would like to answer. First of all, with regards to relations with
+suppliers, well, we would like to co-exist with our suppliers, so that we can reduce cost and
+enhance the competitiveness together. We would like to enhance competitiveness of suppliers,
+and we would like to reap the achievements fairly together. And this would also include our
+customers.We have not changed this philosophy all along. For example -- yes, we do receive comments, like
+the one we just received from time to time. And as I've been involved in a conversation and
+dialogue with suppliers, for example, we made announcements of reducing our production
+volume a couple times. And orders from Toyota has a very high certainty. And on top of that,
+when there is a production volume decrease, we try to let them know as soon as possible also in
+detail. And especially when there is a decline in the production volume, the parts delivered from
+suppliers would also decrease. So there is some impact. But we also get opinions from suppliers
+that they don't have much loss from this, because we try to reduce the costs by optimizing the
+quality and also we try to deal with concerns of suppliers, and there are several thousands of
+proposals from suppliers.
+When I went to visit one of the supplier the other day, what I heard from them, including many
+stories they share with us. For example, recently, they told us that when Toyota makes some
+casual comments, for example, these components need to be visible, if we make such a whisper
+of we mumble that, then the supplier would to use ink that would never disappear to clarify the
+location of that part, and that could be expensive. So when our engineer goes to their site to see
+that ink, the engineer would say no, no, you don't have to use this expensive ink, but you can use
+a marker instead. In such ways, we are trying to enhance the competitiveness together. And as a
+result, suppliers would have less concerns. Of course, we are still in the middle, so it's never
+complete. But we think we are trying hard to carry out these kind of activities together, but the
+fact that we are still receiving such comments from outside like this one, maybe we need to try
+harder. So if you could deliver such a feedback, then we will stop and rethink and try to improve
+ourselves further, please continue to give us guidance. This was my answer to the first question.
+A - `Jun Nagata, Chief Communication Officer `
+Mr.Kondo, regarding the second questions with regards to the positions with Nippon Steel.
+Starting with the price negotiations, as you know, in this year, price hike was in the conversation.
+This is not limited to Nippon Steel. But in the steel industry as a whole, there will be significant
+investments in carbon-neutral aspects, and we are also struggling with the hike of material costs.
+And we honestly understand their circumstance at Nippon Steel.
+And on the other hand, as you may also be aware, we are in the B2C business. In other words,
+we deliver the complete product, which is (inaudible) to customers. In other words, even when
+there are price hikes, it is difficult for us to transfer those hikes directly into the consumers. That's
+the nature of our industry. So, as was explained, we have to sincerely, steadily reduce cost one by
+one.
+In other words, with regards to price negotiation, both sides need to explain each other's
+circumstance and understand each other, and then continue to sincerely negotiate how we can
+set the price. And regarding the electromagnetic steel, it is, yes, a litigation right now. But there
+are our 5.5 million people in this industry and then we pursue to achieve carbon neutrality in the
+auto industry. Therefore, we have to try making this effort steadily and sincerely. And regarding
+the litigation, I have to say that, because this is a pending case, I have to refrain from making any
+further comments. That is all from myself.
+Operator
+Thank you very much, Mr.Kondo. We would like to move on to the next question. From NHK,
+Tharuno-San, [ph] please. I will be switching the screen. When you see your face on the screen,
+please ask the question. Thank you for waiting. Mr.Tharuno, please. Please unmute your mic.Q - Analyst
+Excuse me, can you hear me now?
+A - Unidentified Speaker
+Yes, I can hear you.
+Q - Analyst
+So first of all, regarding the sales volume, you have reviewed the forecast. And can you explain
+about the factor why we have done the review? And hearing the results, it seems that it is
+improving, but your explanation was that in substance it is a downward revision. So you are
+looking at this at a very -- that it is a tough for result forecast. So can you explain also why you're
+looking it from -- as a tough forecast?
+A - `Jun Nagata, Chief Communication Officer `
+I think you have one question. So this -- the reason and also how the way of concept of this
+reviewing of this production volume. And also for the, in substance, downward revision, why are
+we having this kind of a tough understanding of the forecast, the reasons is what you asked? Yes.
+So Mr.Kon will respond.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Thank you for your question. Regarding the review of our sales volume. So on this slide on the
+screen, you can sort of see the initial -- first initial forecast at term, it was 8.7 million for the
+consolidated sales, which have been dropped 150,000 this time with the most latest forecast.
+And we had some opportunities to explain this up to this day, but there are some situation where
+we had to drop our production plan volume from our initial plan due to certain reasons. And I
+might be repeating myself, but first of all, there's the -- in Southeast Asia mainly, COVID-19 has
+had impacts. And therefore, the local production plants had to be shut down, and the part supply
+had limitations. And also there were some impacts from semiconductor issues, Malaysia, Vietnam.
+There were parts supply shortages. There were some months that had a drop in production
+because of these impacts. So the reason of this review will be impacts from those factors.
+And also about the downward revision that we are interpreting the forecast in a very tough
+perspective. To explain that, for the first half results, for example, compared with last year and
+two years ago, we do understand that it is a large increase in operating income. And again
+repeating myself, this is really because of the strong efforts by the dealers, the suppliers and also
+the people working in Toyota. There were strong efforts made so that they can deliver their
+customers the vehicles as much as possible, as early as possible. And all of these efforts had
+been combined to come up with these results. However, in these results, there are some areas,
+there are some reasons or factors that was a contribution from the something outside of our own
+strengths. So we are looking at that neutrally.
+And for the full year forecast, it is actually in numbers a upward revision. But we focus on the
+areas outside of the ForEx effect. And we focus on those non-ForEx impacts to make
+improvements in the profit as much as possible. So that is how we explain to outside as well. And
+when we focus on these non-ForEx impacts, we do see multiple challenges that we have to face.
+So as much as possible, we're going to make efforts to recover and overcome these challenges
+to improve as much as possible. So that effort will continue. That will be my explanation for your
+question. Did I answer question?Operator
+Mr.Tharuno, thank you very much.
+Q - Analyst
+Yes, I understood. Thank you.
+Operator
+So from Wall Street Journal, Mr.Sean. I'm going to switch over the screen. So please start your
+question when you see yourself on a screen.
+Q - `Sean McLain, Wall Street Journal `
+Hi. Can you hear me?
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Yes, we can hear you.
+Q - `Sean McLain, Wall Street Journal `
+Great. So I was hoping to get a little more insight into your outlook for the remainder of the year
+and on next year in terms of when you think sales volumes will fully rebound. Basically, when the
+industry will get back to normal? What's your outlook on that? And what are the biggest
+challenges to achieving that?
+And then secondly, I wonder if you could talk about shortages beyond semiconductor. So we've
+seen some news recently about shortages with magnesium and other parts. So basically, what
+are you seeing on the horizon? What are the things that you're looking out for that could possibly
+affect your recovery?
+A - `Jun Nagata, Chief Communication Officer `
+Thank you very much for your question, Sean. First of all, your question about the timing of our
+recovery in the remaining year and also the overall industry's recovery, and what are the
+challenges to achieve that. This the first question.
+And the second question is that now semiconductors are in shortage and it is being focused. But
+other than semiconductors, is there any concern and any shortage? Then we would like to -- you
+would like us to make a comment on this. Mr.Kon is going to answer both questions.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Thank you so much for your question. Starting with the first one. In the remaining period of our
+fiscal year, the timing for us to completely recover. It difficult make anything certain. Of course,
+risk is becoming significantly smaller. However, we're not in a stage as to say that the risk is zero. I
+don't think the situation allows us to say that yet. And for semiconductors, well, there are many
+factors, many things, games, and the other components. Demand has sort of stopped, so the
+supply and demand balance has stabilized. But on the other hand, I think the semiconductor -- so
+different from the type to type, so we have to be very cautious in looking at it.
+So in December, in January, I cannot say that it will recovered to the past. I cannot say that there isare some risk of production decrease, it is going to recover quite a bit, and that is a situation.
+And as for the overall industry, I cannot say anything certain about the industry. But for the
+challenge, the supply of the components, if it is solved, then the OEM challenges will be solved all
+of a sudden. And in that sense, the energy and the material cost, we hope that those price would
+not be hiked so rapidly. And we have to also secure those materials. And that is the challenge
+that we are facing at the industry. Other than the semiconductor, there is nothing that is critical at
+the moment. Due to the energy shortage, some magnesium -- yes, we are hearing that there are
+some shortage. However, we do not think that is a critical issue at the moment, and that's not
+what we hear at the moment.
+Operator
+Thank you, Sean, for your question. We'd like to move on to the next question. Shiraki-San from
+Reuters, [ph] please. We will switch the screen when your face is seen on the screen. Can we ask
+you to start your question? Ms.Shiraki, please.
+Q - Analyst
+Thank you. I'm Shiraki from Reuters. And I have two questions as well. So in your consolidated
+sales forecasts, the electrified vehicles volume is my question. Here also, compared with initial
+forecast, there has been a slight decrease. And I might be taking it in a selfish way. But here, is it
+purely about the sales trend impact? Or is it because of the semiconductor crunch and the
+material price hike? Because of such a high level of material prices now, does it mean that price
+pressure is more on electrified vehicles related to the inventory management issue that you said
+before? Maybe are you focusing on selling more of a conventional gasoline vehicles? Will that be
+a background to this revision. Gasoline price hikes is another trend that we're seeing in the
+market. And so of course, from an environmental perspective, I thought that electrified vehicles
+will have a higher ratio. But why is it that you dropped the ratio there too?
+And next question is about not really to the performance, but under Kishida's administration,
+there is a topic discussed about to review the disclosure from companies to reduce the
+frequency from every quarter. And from the press, there are some concerns, but from PR side,
+are functions inside the company also for the investments toward making future investments
+toward human resource development and other business power plants. Some people say that
+while quarterly disclosure will be too much frequent. So Toyota being a global company, what are
+your thoughts regarding this quarterly disclosure? And in Europe, there are some reviews that are
+being discussed, but if you have any ideas about what will be an appropriate way to be viewed
+the quarterly announcements? Can you share with us?
+A - `Jun Nagata, Chief Communication Officer `
+Thank you, Shiraki, for your question. So first is for the electrified vehicles volume. It has been
+downward revised from the previous forecast. So the reason is what you want to hear. And the
+second question is about the disclosure announcement of the quarterly results. So there is a
+discussion about reviewing this frequency and what does Toyota think about this topic? So that
+both of it will be responded by Mr.Kon.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Thank you for your questions. Starting with the electrified vehicle ratio. As you have pointed out,
+slightly the ratio has dropped. But there is no significant factor to this, such as a global common
+factor, that is not the case. For electrified vehicles and for example, China, China is not included inthe consolidated sales volume, but hybrid accounts for about 20% last year in China. And this
+year, it has increased up to around 30% electrified vehicles in China. And therefore, globally, it
+doesn't mean that we see a reduction in the ratio of electrified vehicles in the global market. So
+our understanding of this change is that this is not a significant change -- difference.
+Q - Analyst
+It's not about the ratio, but I wanted to hear about the volume -- actual volume. So, is that the
+same reason as well?
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Yes. For the forecast, we first see that a drop of 150,000 from revised downward from our initial
+forecast. And it's not that we intentionally drop only electrified vehicles, honestly speaking. So it's
+just looking at when we revised the most latest sales volume forecast, we have revised also in
+the same ratio -- in the same way, the electrified vehicles. So this is not something that is just
+focused on electrified vehicles changes. And is it okay that I answer correctly? Was there any --
+did I make any misleading comments?
+Q - Analyst
+No, I'm fine. I understand now. Thank you.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+So for your second question about the quarterly performance announcements. Right now, I'm not
+fully aware of what kind of discussions in detail is happening. But when I talk to investors and
+stakeholders, it needs to be something that will be beneficial for the stakeholders and investors.
+That is the way I look at the quarterly results announcements. A company has a going concern
+always rather than every three months. So we're thinking about 10 years in the future, 20 years in
+the future as we operate our business. I think that's a common way that a company operates.
+And in the meantime, of course, we will have to -- it's very important to make the most
+appropriate and timely announcements and reports. And for key matters, for important matters,
+we don't -- we should not wait three months and we should make those kinds of reports and
+announcements of key matters in timely way and appropriate time.
+But, if the quarterly results should be announced, we have to think about -- it may cause that the
+ups and downs, as seen in every quarter, may be in sync with the ups and downs of the company
+value. So if it is understood in that way, probably it will not be so positive to make a quarterly
+report. Therefore, together with those financial disclosures, we think that it's important to have
+medias like Toyota Times and own media like Toyota Times to be able to disclose the way of
+thinking of Toyota, the philosophy of Toyota, what's happening in Toyota. We think we are trying
+to use the most of these owned media to explain about what is happening within Toyota, and I
+think this is quite important for us. So that will be my answer to your question.
+Operator
+Thank you, Ms.Shiraki. We'd like to take the next question from (inaudible) Mr.Masatoshi, please.
+We are going to switch the screen, so please start your question when you see yourself on the
+screen. Ms.Masatoshi, please.
+Q - AnalystThis is Masatoshi from (inaudible). Can you hear me? Regarding the first half results, so minus
+JPY30 billion for the cost reduction effort. And I think this was impacted by the material cost
+increase. So together with cost reduction benefit, can you give me the breakdown? And also,
+compared with the period from January to September, the raw material price, did you change
+your opinion and position on this? And that's the first question.
+And the second question is that this situation -- under this situation, what kind of extra room do
+you have to gain back those benefits? And what are the measures that you're going to take?
+A - `Jun Nagata, Chief Communication Officer `
+Thank you very much for your question, Ms.Masatoshi. The first question was about the impact of
+the cost reduction and the breakdown of that. And also, your question was about the hike of the
+material price. And the second question was about whether or not there is any more opportunity
+to recover the profit? Mr.Kon is going to answer this.
+A - `Kenta Kon, Chief Financial Officer, Operating Officer, Chief Officer of Accounting Grp & `
+Thank you so much for your question. In the first half, the minus JPY30 billion breakdown. So the
+so-called pure cost reduction excluding the market is above JPY300 billion per year being the
+target for us. And because this is half year, which will be JPY150 billion. And we were little short of
+this target as a result of the pure cost reduction. Conversely speaking, other than that was the
+market fluctuation, little less than JPY100 billion. We were short of this target, unfortunately. This
+is the cost reduction benefit, and remainder is the market.
+In the second half -- one moment, please. In the second half compared with the first half, the
+impact is going to be larger. On year-on-year basis, the cost reduction will be minus JPY345
+billion, on Page 18 that is. The annual cost reduction is JPY300 billion. And we are also a little short
+of this target. In other words and conversely speaking, remainder is the market fluctuation, little
+more than JPY200 billion is the cost reduction and the remainder is the market impact. In other
+words, net-net, the second half is going to be tougher, a little tougher than the first half.
+And our measures to strengthen our profitability. Well, on this point, as much as possible, the FX
+fluctuation should be eliminated as much as possible. In other words, we would like to turn this
+number more positively by excluding those FX impact. That is the numerical aspect, but there is
+no measure which can turn around the number by JPY100 billion all of the sudden. It's in the unit
+of several thousands or several tens of thousands, the accumulation of small benefits. And we will
+continue with those series of small methods and also value chain, including the supplies and used
+cars and connected car business software. We would like to further improve the profitability of
+those areas. And by doing so, we would like to improve our profitability higher, more than 200
+rather than 800. [ph]
+Operator
+Thank you so much, Masatoshi. It is now the scheduled time. However, we'd like to take a last
+question from Toyokeizai, Kigawa-San please. We will switch the screen. When you see yourself,
+please start your question. Kigawa-San, please. Mr.Kigawa?
+Q - `Yukinobu Kigawa, Toyokeizai
+Can you hear me?
+OperatorI think your microphone --
+Q - `Yukinobu Kigawa, Toyokeizai
+Can you hear me?
+Operator
+Yes. We can hear you now.
+Q - `Yukinobu Kigawa, Toyokeizai
+I have first question about your future plan about how you promote electrification 2030, 200
+gigawatt plant operation capacity is what you explained to secure. And bZ4X was what you have
+announced. And in 2025, you're going to have a North American plant established and make
+investment by Toyota alone. And in the meantime, what happens in the world? Is electrification
+momentum is strong -- becoming stronger? And also you need a lot of investment. You need to
+have efficiency in your investments. But once again, how are you going to be taking initiatives
+toward the electrification promotion.
+A - `Jun Nagata, Chief Communication Officer `
+Thank you, Mr.Kigawa, for your question. This question myself, Nagata, would respond to.
+Regarding electrification, we receive a lot of questions, and we have repeatedly responded that
+basically, it is about how we are going to reduce CO2 as quickly as possible, starting now. And
+what Toyota has been saying is that regarding electrification, we are going to become a
+department store of electrified vehicles, which in other words, means that we're going to have a
+full lineup of electrified vehicles so that we can deliver it to various regions and markets,
+customers all around the world, and have our customers choose what they want to use. That's
+what we have been saying is our approach.
+And for each region, especially the energy situation that would be supplied there and also the
+fuel situation is completely completely different. Therefore in Europe, there's a lot of renewables.
+So battery EVs will be good. But in other regions, there should be other options that will be most
+appropriate for them, and to have the consumers, users select it. So this has always been our
+approach.
+And for what you have mentioned, Mr.Kigawa, regarding battery EV's, we also think that for both
+quantity and cost, if the renewable energy has reduced further in terms of cost and have more
+supply, then the battery EVs will be a very good potential CO2 reduction vehicle, a very good
+solution. And as you have mentioned, the batteries, Toyota is going to make JPY1.5 trillion
+investments to build that foundation for supply. And also in America, we're going to make until
+2030 the battery plants, making investments of JPY380 billion. And for until 2025, the battery EV
+investments and lineup, we have a committed to 15 models to be prepared in that timing.
+And then we have to bZ4X, the batteries EV -- EV specified lineup we have announced. So
+batteries and battery EVs, both of it. Compared with other OEMs, I don't think we are inferior. I
+think we are preparing ourselves to be competitive in the competition with other OEMs regarding
+batteries and battery EVs. So we will be steadily promoting this approach and plan.
+However, up to now, we have been saying many things, but at the end, battery EVs, you need to
+have the clean energy as the base. If you have clean energy as the premise, then -- as a
+precondition, then it will be very effective. But unfortunately, in Japan, with our energy situation,it will reduce the CO2 emissions in Japan and also it will be also easy to buy as a product. And
+then that will also contribute to reducing the CO2 emissions in this region.
+So this is also what we have been saying. And also, in order to promote electrification, having the
+options, a wide variety of options of electrification is what we want to do. And that means the full
+lineup of electrified vehicles in Toyota terms. So in order to prepare this full lineup, we will be
+working on various technical innovations, so that the Japan's 5.5 million employment related to
+this industry can be protected. This is another message that we have been saying. But it's very
+unfortunately, so we're going to do a lot of electrified vehicle projects. But what is happening now
+would be a question that we have been asked. And unfortunately, some people are saying that
+Toyota is a promoter of hybrids and is against the promoting battery EVs. Unfortunately, that is
+how we are talked about.
+But -- so I'm feeling a struggle of -- it's very difficult to communicate what we're trying to do. So
+that is also a fact, feeling that our message is not really conveyed. And so how we have to -- how
+we communicate this, how we can receive the understanding that Toyota is very serious in
+promoting the battery EVs, this is something that we still have to consider and plan, and that is a
+struggle that I have right now regarding how to communicate. So I very much appreciate the
+advising comments from the media too, so that we can think about how we will be able to better
+communicate. And sorry, I received -- I'm giving you back a question -- receiving a question, but I
+hope that we can work together in that communication side.
+Q - `Yukinobu Kigawa, Toyokeizai
+Well, then about the battery EVs, how you explain that, especially the communication to
+consumers. You said a little earlier that you are well positioned to compete with the other
+OEMs.And probably the way that you express this should be changed. I think I need your advice
+on that.
+A - `Jun Nagata, Chief Communication Officer `
+Well, we always talk about we're going to show -- maybe it's better to have a more concrete
+lineup of battery EVs more clearly and show it to the press and to the consumer. But we'll now be
+putting our heads together to think about what is the best way of expression in commuting our
+intention for the electrification vehicle promotion.
+Operator
+Thank you very much, Mr.Kigawa. And with that, we'd like to end our financial results briefing.
+Thank you very much for joining us despite your busy schedule. We would like to end our press
+briefing here. Thank you.
